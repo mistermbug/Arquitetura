@@ -1,0 +1,13 @@
+FAIL 1-1-1 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-1-42 Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-1-91 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-2-1 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-2-42 Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-2-91 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-1 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-42 Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-91 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-1-42 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-2-42 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-3-42 Conjunto funcional nao cabe: Quarto 2. Ajuste dimensoes ou tente outra alternativa.
+COMPLETE passed=14118 failed=12 drawings=1

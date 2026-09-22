@@ -1,0 +1,12 @@
+(defun ft:run (path / fh fails m p layout integ occ items)
+ (setq fh (open path "w") fails 0)
+ (foreach occ '(5 6)
+  (foreach layout '(1 2 3)
+   (foreach integ '(1 2 3)
+    (setq p (t3:params layout integ 42))
+    (setq p (cf:replace "occupants" (float occ) p) p (cf:replace "lot_depth" 32000.0 p) p (cf:replace "lot_width" 13000.0 p) p (cf:replace "house_width" 10000.0 p))
+    (setq m (cg:generate p))
+    (write-line (strcat (if (cg:get "error" m) (if (= integ 1) "FAIL " "REJECTED ") "PASS ") (itoa occ) " occupants layout=" (itoa layout) " integration=" (itoa integ) " " (cg:opt "error" m "")) fh)
+    (if (and (= integ 1) (cg:get "error" m)) (setq fails (1+ fails))))))
+ (write-line (strcat "COMPLETE failures=" (itoa fails)) fh) (close fh) (princ))
+

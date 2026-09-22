@@ -1,0 +1,341 @@
+{
+  "schema_version": "0.1.0",
+  "created_at": "2026-09-07",
+  "municipality": "Belo Horizonte",
+  "state": "MG",
+  "purpose": "Matriz de especificação, não motor de conformidade.",
+  "sources_manifest": [
+    "manifesto-fontes.json",
+    "manifesto-web.json"
+  ],
+  "statuses": [
+    "atende",
+    "nao_atende",
+    "nao_verificado",
+    "nao_aplicavel"
+  ],
+  "rules": [
+    {
+      "id": "BH01",
+      "title": "Enquadramento do lote",
+      "required_inputs": [
+        "cadastro",
+        "parcelamento",
+        "zoneamento",
+        "sobreposicoes"
+      ],
+      "proposed_check": "Confirmar uso/tipologia e selecionar perfil municipal aplicável.",
+      "source_id": "lei-11181",
+      "source_locator": "art. 158 e enquadramento territorial a revisar",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH02",
+      "title": "Recuo de alinhamento",
+      "required_inputs": [
+        "testadas",
+        "projeto_viario",
+        "alinhamento_oficial"
+      ],
+      "proposed_check": "Determinar referência das bordas antes de calcular afastamentos.",
+      "source_id": "representacao-r5",
+      "source_locator": "página PDF 28 e seguintes; conferir seção de situação",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH03",
+      "title": "Afastamento frontal",
+      "required_inputs": [
+        "classificacao_viaria",
+        "testadas",
+        "perfil_frontal"
+      ],
+      "proposed_check": "Comparar implantação com faixa exigida por testada; sem valor revisado não avaliar.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Anexo XII referido pelo material",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH04",
+      "title": "Afastamentos laterais e fundos",
+      "required_inputs": [
+        "geometria",
+        "alturas",
+        "perfil_lateral_fundos"
+      ],
+      "proposed_check": "Aplicar regra conforme características da edificação e terreno; não fixar offset universal.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Anexo XII referido pelo material",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH05",
+      "title": "Coeficiente de aproveitamento",
+      "required_inputs": [
+        "area_terreno_legal",
+        "areas_computaveis",
+        "ca_aplicavel"
+      ],
+      "proposed_check": "Comparar área computável com limite aplicável e regime confirmado.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Seção de coeficiente de aproveitamento",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH06",
+      "title": "Taxa de ocupação",
+      "required_inputs": [
+        "projecao_elegivel",
+        "area_terreno_legal",
+        "to_aplicavel"
+      ],
+      "proposed_check": "Comparar projeção classificada ao limite aplicável.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Seção TO/TP",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH07",
+      "title": "Permeabilidade",
+      "required_inputs": [
+        "superficies_elegiveis",
+        "area_terreno_legal",
+        "tp_aplicavel"
+      ],
+      "proposed_check": "Calcular superfície elegível conforme definições revisadas e comparar com exigência.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Seção TO/TP",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH08",
+      "title": "Altimetria",
+      "required_inputs": [
+        "referencia_prodabel",
+        "niveis",
+        "cobertura",
+        "limite_altimetria"
+      ],
+      "proposed_check": "Calcular altura de referência conforme perfil e verificar limite.",
+      "source_id": "niveis-terreno",
+      "source_locator": "Conferir perfil legal e seção aplicável",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH09",
+      "title": "Altura na divisa",
+      "required_inputs": [
+        "referencia_prodabel",
+        "divisas",
+        "volumes",
+        "limite_divisa"
+      ],
+      "proposed_check": "Avaliar alturas em cada divisa conforme método revisado.",
+      "source_id": "niveis-terreno",
+      "source_locator": "Conferir perfil legal e seção aplicável",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH10",
+      "title": "Áreas e pé-direito",
+      "required_inputs": [
+        "tipos_ambiente",
+        "areas",
+        "pe_direito",
+        "regras_habitabilidade"
+      ],
+      "proposed_check": "Verificar dimensões conforme Código e regulamento consolidados.",
+      "source_id": "codigo-edificacoes-consulta",
+      "source_locator": "Texto consolidado ainda não obtido",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH11",
+      "title": "Iluminação e ventilação",
+      "required_inputs": [
+        "vãos",
+        "destino_aberturas",
+        "areas",
+        "metodos_ventilacao",
+        "regras_habitabilidade"
+      ],
+      "proposed_check": "Avaliar modalidade de abertura e exigências por ambiente; não inferir por número de janelas.",
+      "source_id": "regulamento-codigo-consulta",
+      "source_locator": "Texto consolidado ainda não obtido",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH12",
+      "title": "Vagas e acesso veicular",
+      "required_inputs": [
+        "uso",
+        "vagas",
+        "manobras",
+        "testada",
+        "perfil_viario"
+      ],
+      "proposed_check": "Verificar quantidade, geometria e acesso conforme perfil aplicável.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Seção espaços para veículos",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH13",
+      "title": "Passeio",
+      "required_inputs": [
+        "geometria_via",
+        "acessos",
+        "niveis",
+        "arborizacao",
+        "perfil_passeio"
+      ],
+      "proposed_check": "Validar passeio e interferências segundo atos específicos confirmados.",
+      "source_id": "representacao-r5",
+      "source_locator": "Seção passeio; portarias complementares a revisar",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH14",
+      "title": "Drenagem",
+      "required_inputs": [
+        "superficies",
+        "perfil_drenagem",
+        "elementos_captacao"
+      ],
+      "proposed_check": "Verificar exigências aplicáveis sem fixar volume universal de captação.",
+      "source_id": "parametros-urbanisticos",
+      "source_locator": "Seção caixa de captação; Portaria 007/2020 a revisar",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH15",
+      "title": "Condicionantes especiais",
+      "required_inputs": [
+        "ambiental",
+        "cultural",
+        "viaria",
+        "aeroportuaria",
+        "outras_interfaces"
+      ],
+      "proposed_check": "Registrar exigências e encaminhar casos fora do escopo automático.",
+      "source_id": "indice-legislacao",
+      "source_locator": "Atos dependem do lote",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH16",
+      "title": "Peças de representação",
+      "required_inputs": [
+        "modalidade",
+        "natureza_empreendimento",
+        "pecas",
+        "quadros"
+      ],
+      "proposed_check": "Conferir checklist aplicável ao projeto privado e situação de protocolo.",
+      "source_id": "representacao-r5",
+      "source_locator": "Páginas PDF 2-4 e seções correspondentes",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH17",
+      "title": "Consistência do quadro de áreas",
+      "required_inputs": [
+        "ambientes",
+        "paredes",
+        "pavimentos",
+        "classificacao_areas"
+      ],
+      "proposed_check": "Conferir somas por categorias legais; não igualar área útil a computável.",
+      "source_id": "representacao-r5",
+      "source_locator": "Título Memória de Áreas",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    },
+    {
+      "id": "BH18",
+      "title": "Atualidade do perfil",
+      "required_inputs": [
+        "fontes",
+        "datas",
+        "artigos",
+        "revisor",
+        "aplicabilidade"
+      ],
+      "proposed_check": "Impedir avaliação municipal conclusiva sem rastreabilidade e cobertura revisada.",
+      "source_id": "indice-legislacao",
+      "source_locator": "Decisão do produto baseada na necessidade de versionamento",
+      "legal_parameters": null,
+      "implementation_status": "not_implemented",
+      "review_status": "pending_consolidation_and_site",
+      "default_result": "nao_verificado",
+      "enabled": false
+    }
+  ]
+}

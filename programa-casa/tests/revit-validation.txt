@@ -1,0 +1,12 @@
+VALIDACAO DO IMPORTADOR REVIT - 2026-09-07
+
+PASS: python -m py_compile programa-casa/revit/importar_casa_dynamo.py
+PASS: validate() contra tests/artifacts/cad-20260907-111541-490/casa-exemplo.json, produzido pelo AutoCAD real.
+Contrato aceito: 15 paredes, 15 aberturas, 8 ambientes (inclui circulacao), 13 moveis.
+PASS: 2 gates sem API (entradas ausentes e executar=False).
+PASS: 6 rejeicoes de dados invalidos (unidade, NaN, id duplicado, vao fora do eixo, largura de vao excessiva, bounds invertidos).
+
+Revisao estatica corrigiu iteracao de FilteredElementCollector sem filtro: agora usa ExtensibleStorageFilter somente quando esquema existe.
+Selecao de FloorType exclui lajes de fundacao; leitura de nome de ambiente usa ROOM_NAME para evitar ambiguidades de propriedades herdadas no pythonnet.
+
+NAO EXECUTADO NO REVIT: Revit nao instalado no ambiente de teste. Nenhuma confirmacao de chamadas API, rooms, transacoes, rollback, DirectShape ou reimportacao em sessao real. Roteiro de aceite disponivel em revit/README.md.

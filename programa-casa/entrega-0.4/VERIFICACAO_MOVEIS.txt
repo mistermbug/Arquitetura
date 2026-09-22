@@ -1,0 +1,37 @@
+VERIFICACAO - DIMENSOES E VEGETACAO - 11/09/2026
+
+programa-casa\tests\artifacts\custom-20260911-002548\report.txt
+PASS JSON roundtrip
+PASS JSON literals
+PASS Malformed JSON rejected
+PASS Snapshot original
+PASS Valid shrink
+UNDOCTL before=57
+UNDOCTL after=49
+PASS Apply edit
+PASS Persisted JSON changed
+PASS New height persisted
+PASS Walls untouched
+PASS Oversized collision rejected
+PASS Undo restores JSON and drawing
+UNDOCTL before=49
+UNDOCTL after=49
+COMPLETE failed=0
+
+programa-casa\tests\artifacts\custom-20260911-003030\report.txt
+PASS Reopened height from persisted snapshot
+PASS Reopened revision
+PASS Reopened drawing identity
+PASS Local dimensions rotation 0
+PASS Local dimensions rotation 90
+PASS Local dimensions rotation 180
+PASS Local dimensions rotation 270
+PASS Reopened edit clearance
+PASS Edit after reopening
+PASS Second revision persisted
+COMPLETE failed=0
+
+Python: 20 testes aprovados (python -m unittest test_interiores test_validate, pasta programa-casa/revit).
+JSON resized.json da execucao nativa aceito por validate() e scene().
+Previa gerada a partir das mesmas descricoes de extrusao do adaptador.
+Execucao da revisao no Revit ainda nao confirmada.

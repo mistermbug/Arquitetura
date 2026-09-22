@@ -1,0 +1,4417 @@
+PASS generator returns a model
+PASS same seed produces same model
+PASS model contains rooms
+PASS model contains walls
+PASS model contains openings
+PASS model contains furniture
+PASS baseline slab positive
+PASS baseline positive room R1
+PASS baseline room inside slab R1
+PASS baseline positive room R2
+PASS baseline room inside slab R2
+PASS baseline positive room R3
+PASS baseline room inside slab R3
+PASS baseline positive room R4
+PASS baseline room inside slab R4
+PASS baseline positive room R5
+PASS baseline room inside slab R5
+PASS baseline positive room R6
+PASS baseline room inside slab R6
+PASS baseline positive room R7
+PASS baseline room inside slab R7
+PASS baseline positive room R8
+PASS baseline room inside slab R8
+PASS baseline positive room CIRC
+PASS baseline room inside slab CIRC
+PASS baseline nonzero wall W1
+PASS baseline nonzero wall W2
+PASS baseline nonzero wall W3
+PASS baseline nonzero wall W4
+PASS baseline nonzero wall W5
+PASS baseline nonzero wall W6
+PASS baseline nonzero wall W7
+PASS baseline nonzero wall W8
+PASS baseline nonzero wall W9
+PASS baseline nonzero wall W10
+PASS baseline nonzero wall W11
+PASS baseline nonzero wall W12
+PASS baseline nonzero wall W13
+PASS baseline nonzero wall W14
+PASS baseline nonzero wall W15
+PASS baseline nonzero wall W16
+PASS baseline nonzero wall W17
+PASS baseline nonzero wall W18
+PASS baseline opening has host O1
+PASS baseline opening on axis O1
+PASS baseline opening fits host O1
+PASS baseline opening has host O2
+PASS baseline opening on axis O2
+PASS baseline opening fits host O2
+PASS baseline opening has host O3
+PASS baseline opening on axis O3
+PASS baseline opening fits host O3
+PASS baseline opening has host O4
+PASS baseline opening on axis O4
+PASS baseline opening fits host O4
+PASS baseline opening has host O5
+PASS baseline opening on axis O5
+PASS baseline opening fits host O5
+PASS baseline opening has host O6
+PASS baseline opening on axis O6
+PASS baseline opening fits host O6
+PASS baseline opening has host O7
+PASS baseline opening on axis O7
+PASS baseline opening fits host O7
+PASS baseline opening has host O8
+PASS baseline opening on axis O8
+PASS baseline opening fits host O8
+PASS baseline opening has host O9
+PASS baseline opening on axis O9
+PASS baseline opening fits host O9
+PASS baseline opening has host O10
+PASS baseline opening on axis O10
+PASS baseline opening fits host O10
+PASS baseline opening has host O11
+PASS baseline opening on axis O11
+PASS baseline opening fits host O11
+PASS baseline opening has host O12
+PASS baseline opening on axis O12
+PASS baseline opening fits host O12
+PASS baseline opening has host O13
+PASS baseline opening on axis O13
+PASS baseline opening fits host O13
+PASS baseline opening has host O14
+PASS baseline opening on axis O14
+PASS baseline opening fits host O14
+PASS baseline opening has host O15
+PASS baseline opening on axis O15
+PASS baseline opening fits host O15
+PASS baseline opening has host O16
+PASS baseline opening on axis O16
+PASS baseline opening fits host O16
+PASS baseline opening has host O17
+PASS baseline opening on axis O17
+PASS baseline opening fits host O17
+PASS baseline positive furniture F1
+PASS baseline furniture inside slab F1
+PASS baseline furniture inside assigned room F1
+PASS baseline positive furniture F2
+PASS baseline furniture inside slab F2
+PASS baseline furniture inside assigned room F2
+PASS baseline positive furniture F3
+PASS baseline furniture inside slab F3
+PASS baseline furniture inside assigned room F3
+PASS baseline positive furniture F4
+PASS baseline furniture inside slab F4
+PASS baseline furniture inside assigned room F4
+PASS baseline positive furniture F5
+PASS baseline furniture inside slab F5
+PASS baseline furniture inside assigned room F5
+PASS baseline positive furniture F6
+PASS baseline furniture inside slab F6
+PASS baseline furniture inside assigned room F6
+PASS baseline positive furniture F7
+PASS baseline furniture inside slab F7
+PASS baseline furniture inside assigned room F7
+PASS baseline positive furniture F8
+PASS baseline furniture inside slab F8
+PASS baseline furniture inside assigned room F8
+PASS baseline positive furniture F9
+PASS baseline furniture inside slab F9
+PASS baseline furniture inside assigned room F9
+PASS baseline positive furniture F10
+PASS baseline furniture inside slab F10
+PASS baseline furniture inside assigned room F10
+PASS baseline positive furniture F11
+PASS baseline furniture inside slab F11
+PASS baseline furniture inside assigned room F11
+PASS baseline positive furniture F12
+PASS baseline furniture inside slab F12
+PASS baseline furniture inside assigned room F12
+PASS baseline positive furniture F13
+PASS baseline furniture inside slab F13
+PASS baseline furniture inside assigned room F13
+PASS baseline positive furniture F14
+PASS baseline furniture inside slab F14
+PASS baseline furniture inside assigned room F14
+PASS baseline positive furniture F15
+PASS baseline furniture inside slab F15
+PASS baseline furniture inside assigned room F15
+PASS baseline positive furniture F16
+PASS baseline furniture inside slab F16
+PASS baseline furniture inside assigned room F16
+PASS requested count bedrooms
+PASS requested count bathrooms
+PASS requested count living
+PASS requested count kitchens
+PASS requested count laundry
+PASS requested count dining
+PASS requested count office
+PASS seed 1 succeeds
+PASS seed 1 slab positive
+PASS seed 1 positive room R1
+PASS seed 1 room inside slab R1
+PASS seed 1 positive room R2
+PASS seed 1 room inside slab R2
+PASS seed 1 positive room R3
+PASS seed 1 room inside slab R3
+PASS seed 1 positive room R4
+PASS seed 1 room inside slab R4
+PASS seed 1 positive room R5
+PASS seed 1 room inside slab R5
+PASS seed 1 positive room R6
+PASS seed 1 room inside slab R6
+PASS seed 1 positive room R7
+PASS seed 1 room inside slab R7
+PASS seed 1 positive room R8
+PASS seed 1 room inside slab R8
+PASS seed 1 positive room CIRC
+PASS seed 1 room inside slab CIRC
+PASS seed 1 nonzero wall W1
+PASS seed 1 nonzero wall W2
+PASS seed 1 nonzero wall W3
+PASS seed 1 nonzero wall W4
+PASS seed 1 nonzero wall W5
+PASS seed 1 nonzero wall W6
+PASS seed 1 nonzero wall W7
+PASS seed 1 nonzero wall W8
+PASS seed 1 nonzero wall W9
+PASS seed 1 nonzero wall W10
+PASS seed 1 nonzero wall W11
+PASS seed 1 nonzero wall W12
+PASS seed 1 nonzero wall W13
+PASS seed 1 nonzero wall W14
+PASS seed 1 nonzero wall W15
+PASS seed 1 nonzero wall W16
+PASS seed 1 nonzero wall W17
+PASS seed 1 nonzero wall W18
+PASS seed 1 opening has host O1
+PASS seed 1 opening on axis O1
+PASS seed 1 opening fits host O1
+PASS seed 1 opening has host O2
+PASS seed 1 opening on axis O2
+PASS seed 1 opening fits host O2
+PASS seed 1 opening has host O3
+PASS seed 1 opening on axis O3
+PASS seed 1 opening fits host O3
+PASS seed 1 opening has host O4
+PASS seed 1 opening on axis O4
+PASS seed 1 opening fits host O4
+PASS seed 1 opening has host O5
+PASS seed 1 opening on axis O5
+PASS seed 1 opening fits host O5
+PASS seed 1 opening has host O6
+PASS seed 1 opening on axis O6
+PASS seed 1 opening fits host O6
+PASS seed 1 opening has host O7
+PASS seed 1 opening on axis O7
+PASS seed 1 opening fits host O7
+PASS seed 1 opening has host O8
+PASS seed 1 opening on axis O8
+PASS seed 1 opening fits host O8
+PASS seed 1 opening has host O9
+PASS seed 1 opening on axis O9
+PASS seed 1 opening fits host O9
+PASS seed 1 opening has host O10
+PASS seed 1 opening on axis O10
+PASS seed 1 opening fits host O10
+PASS seed 1 opening has host O11
+PASS seed 1 opening on axis O11
+PASS seed 1 opening fits host O11
+PASS seed 1 opening has host O12
+PASS seed 1 opening on axis O12
+PASS seed 1 opening fits host O12
+PASS seed 1 opening has host O13
+PASS seed 1 opening on axis O13
+PASS seed 1 opening fits host O13
+PASS seed 1 opening has host O14
+PASS seed 1 opening on axis O14
+PASS seed 1 opening fits host O14
+PASS seed 1 opening has host O15
+PASS seed 1 opening on axis O15
+PASS seed 1 opening fits host O15
+PASS seed 1 opening has host O16
+PASS seed 1 opening on axis O16
+PASS seed 1 opening fits host O16
+PASS seed 1 opening has host O17
+PASS seed 1 opening on axis O17
+PASS seed 1 opening fits host O17
+PASS seed 1 positive furniture F1
+PASS seed 1 furniture inside slab F1
+PASS seed 1 furniture inside assigned room F1
+PASS seed 1 positive furniture F2
+PASS seed 1 furniture inside slab F2
+PASS seed 1 furniture inside assigned room F2
+PASS seed 1 positive furniture F3
+PASS seed 1 furniture inside slab F3
+PASS seed 1 furniture inside assigned room F3
+PASS seed 1 positive furniture F4
+PASS seed 1 furniture inside slab F4
+PASS seed 1 furniture inside assigned room F4
+PASS seed 1 positive furniture F5
+PASS seed 1 furniture inside slab F5
+PASS seed 1 furniture inside assigned room F5
+PASS seed 1 positive furniture F6
+PASS seed 1 furniture inside slab F6
+PASS seed 1 furniture inside assigned room F6
+PASS seed 1 positive furniture F7
+PASS seed 1 furniture inside slab F7
+PASS seed 1 furniture inside assigned room F7
+PASS seed 1 positive furniture F8
+PASS seed 1 furniture inside slab F8
+PASS seed 1 furniture inside assigned room F8
+PASS seed 1 positive furniture F9
+PASS seed 1 furniture inside slab F9
+PASS seed 1 furniture inside assigned room F9
+PASS seed 1 positive furniture F10
+PASS seed 1 furniture inside slab F10
+PASS seed 1 furniture inside assigned room F10
+PASS seed 1 positive furniture F11
+PASS seed 1 furniture inside slab F11
+PASS seed 1 furniture inside assigned room F11
+PASS seed 1 positive furniture F12
+PASS seed 1 furniture inside slab F12
+PASS seed 1 furniture inside assigned room F12
+PASS seed 1 positive furniture F13
+PASS seed 1 furniture inside slab F13
+PASS seed 1 furniture inside assigned room F13
+PASS seed 1 positive furniture F14
+PASS seed 1 furniture inside slab F14
+PASS seed 1 furniture inside assigned room F14
+PASS seed 1 positive furniture F15
+PASS seed 1 furniture inside slab F15
+PASS seed 1 furniture inside assigned room F15
+PASS seed 1 positive furniture F16
+PASS seed 1 furniture inside slab F16
+PASS seed 1 furniture inside assigned room F16
+PASS seed 2 succeeds
+PASS seed 2 slab positive
+PASS seed 2 positive room R1
+PASS seed 2 room inside slab R1
+PASS seed 2 positive room R2
+PASS seed 2 room inside slab R2
+PASS seed 2 positive room R3
+PASS seed 2 room inside slab R3
+PASS seed 2 positive room R4
+PASS seed 2 room inside slab R4
+PASS seed 2 positive room R5
+PASS seed 2 room inside slab R5
+PASS seed 2 positive room R6
+PASS seed 2 room inside slab R6
+PASS seed 2 positive room R7
+PASS seed 2 room inside slab R7
+PASS seed 2 positive room R8
+PASS seed 2 room inside slab R8
+PASS seed 2 positive room CIRC
+PASS seed 2 room inside slab CIRC
+PASS seed 2 nonzero wall W1
+PASS seed 2 nonzero wall W2
+PASS seed 2 nonzero wall W3
+PASS seed 2 nonzero wall W4
+PASS seed 2 nonzero wall W5
+PASS seed 2 nonzero wall W6
+PASS seed 2 nonzero wall W7
+PASS seed 2 nonzero wall W8
+PASS seed 2 nonzero wall W9
+PASS seed 2 nonzero wall W10
+PASS seed 2 nonzero wall W11
+PASS seed 2 nonzero wall W12
+PASS seed 2 nonzero wall W13
+PASS seed 2 nonzero wall W14
+PASS seed 2 nonzero wall W15
+PASS seed 2 nonzero wall W16
+PASS seed 2 nonzero wall W17
+PASS seed 2 nonzero wall W18
+PASS seed 2 opening has host O1
+PASS seed 2 opening on axis O1
+PASS seed 2 opening fits host O1
+PASS seed 2 opening has host O2
+PASS seed 2 opening on axis O2
+PASS seed 2 opening fits host O2
+PASS seed 2 opening has host O3
+PASS seed 2 opening on axis O3
+PASS seed 2 opening fits host O3
+PASS seed 2 opening has host O4
+PASS seed 2 opening on axis O4
+PASS seed 2 opening fits host O4
+PASS seed 2 opening has host O5
+PASS seed 2 opening on axis O5
+PASS seed 2 opening fits host O5
+PASS seed 2 opening has host O6
+PASS seed 2 opening on axis O6
+PASS seed 2 opening fits host O6
+PASS seed 2 opening has host O7
+PASS seed 2 opening on axis O7
+PASS seed 2 opening fits host O7
+PASS seed 2 opening has host O8
+PASS seed 2 opening on axis O8
+PASS seed 2 opening fits host O8
+PASS seed 2 opening has host O9
+PASS seed 2 opening on axis O9
+PASS seed 2 opening fits host O9
+PASS seed 2 opening has host O10
+PASS seed 2 opening on axis O10
+PASS seed 2 opening fits host O10
+PASS seed 2 opening has host O11
+PASS seed 2 opening on axis O11
+PASS seed 2 opening fits host O11
+PASS seed 2 opening has host O12
+PASS seed 2 opening on axis O12
+PASS seed 2 opening fits host O12
+PASS seed 2 opening has host O13
+PASS seed 2 opening on axis O13
+PASS seed 2 opening fits host O13
+PASS seed 2 opening has host O14
+PASS seed 2 opening on axis O14
+PASS seed 2 opening fits host O14
+PASS seed 2 opening has host O15
+PASS seed 2 opening on axis O15
+PASS seed 2 opening fits host O15
+PASS seed 2 opening has host O16
+PASS seed 2 opening on axis O16
+PASS seed 2 opening fits host O16
+PASS seed 2 opening has host O17
+PASS seed 2 opening on axis O17
+PASS seed 2 opening fits host O17
+PASS seed 2 positive furniture F1
+PASS seed 2 furniture inside slab F1
+PASS seed 2 furniture inside assigned room F1
+PASS seed 2 positive furniture F2
+PASS seed 2 furniture inside slab F2
+PASS seed 2 furniture inside assigned room F2
+PASS seed 2 positive furniture F3
+PASS seed 2 furniture inside slab F3
+PASS seed 2 furniture inside assigned room F3
+PASS seed 2 positive furniture F4
+PASS seed 2 furniture inside slab F4
+PASS seed 2 furniture inside assigned room F4
+PASS seed 2 positive furniture F5
+PASS seed 2 furniture inside slab F5
+PASS seed 2 furniture inside assigned room F5
+PASS seed 2 positive furniture F6
+PASS seed 2 furniture inside slab F6
+PASS seed 2 furniture inside assigned room F6
+PASS seed 2 positive furniture F7
+PASS seed 2 furniture inside slab F7
+PASS seed 2 furniture inside assigned room F7
+PASS seed 2 positive furniture F8
+PASS seed 2 furniture inside slab F8
+PASS seed 2 furniture inside assigned room F8
+PASS seed 2 positive furniture F9
+PASS seed 2 furniture inside slab F9
+PASS seed 2 furniture inside assigned room F9
+PASS seed 2 positive furniture F10
+PASS seed 2 furniture inside slab F10
+PASS seed 2 furniture inside assigned room F10
+PASS seed 2 positive furniture F11
+PASS seed 2 furniture inside slab F11
+PASS seed 2 furniture inside assigned room F11
+PASS seed 2 positive furniture F12
+PASS seed 2 furniture inside slab F12
+PASS seed 2 furniture inside assigned room F12
+PASS seed 2 positive furniture F13
+PASS seed 2 furniture inside slab F13
+PASS seed 2 furniture inside assigned room F13
+PASS seed 2 positive furniture F14
+PASS seed 2 furniture inside slab F14
+PASS seed 2 furniture inside assigned room F14
+PASS seed 2 positive furniture F15
+PASS seed 2 furniture inside slab F15
+PASS seed 2 furniture inside assigned room F15
+PASS seed 2 positive furniture F16
+PASS seed 2 furniture inside slab F16
+PASS seed 2 furniture inside assigned room F16
+PASS seed 3 succeeds
+PASS seed 3 slab positive
+PASS seed 3 positive room R1
+PASS seed 3 room inside slab R1
+PASS seed 3 positive room R2
+PASS seed 3 room inside slab R2
+PASS seed 3 positive room R3
+PASS seed 3 room inside slab R3
+PASS seed 3 positive room R4
+PASS seed 3 room inside slab R4
+PASS seed 3 positive room R5
+PASS seed 3 room inside slab R5
+PASS seed 3 positive room R6
+PASS seed 3 room inside slab R6
+PASS seed 3 positive room R7
+PASS seed 3 room inside slab R7
+PASS seed 3 positive room R8
+PASS seed 3 room inside slab R8
+PASS seed 3 positive room CIRC
+PASS seed 3 room inside slab CIRC
+PASS seed 3 nonzero wall W1
+PASS seed 3 nonzero wall W2
+PASS seed 3 nonzero wall W3
+PASS seed 3 nonzero wall W4
+PASS seed 3 nonzero wall W5
+PASS seed 3 nonzero wall W6
+PASS seed 3 nonzero wall W7
+PASS seed 3 nonzero wall W8
+PASS seed 3 nonzero wall W9
+PASS seed 3 nonzero wall W10
+PASS seed 3 nonzero wall W11
+PASS seed 3 nonzero wall W12
+PASS seed 3 nonzero wall W13
+PASS seed 3 nonzero wall W14
+PASS seed 3 nonzero wall W15
+PASS seed 3 nonzero wall W16
+PASS seed 3 nonzero wall W17
+PASS seed 3 nonzero wall W18
+PASS seed 3 opening has host O1
+PASS seed 3 opening on axis O1
+PASS seed 3 opening fits host O1
+PASS seed 3 opening has host O2
+PASS seed 3 opening on axis O2
+PASS seed 3 opening fits host O2
+PASS seed 3 opening has host O3
+PASS seed 3 opening on axis O3
+PASS seed 3 opening fits host O3
+PASS seed 3 opening has host O4
+PASS seed 3 opening on axis O4
+PASS seed 3 opening fits host O4
+PASS seed 3 opening has host O5
+PASS seed 3 opening on axis O5
+PASS seed 3 opening fits host O5
+PASS seed 3 opening has host O6
+PASS seed 3 opening on axis O6
+PASS seed 3 opening fits host O6
+PASS seed 3 opening has host O7
+PASS seed 3 opening on axis O7
+PASS seed 3 opening fits host O7
+PASS seed 3 opening has host O8
+PASS seed 3 opening on axis O8
+PASS seed 3 opening fits host O8
+PASS seed 3 opening has host O9
+PASS seed 3 opening on axis O9
+PASS seed 3 opening fits host O9
+PASS seed 3 opening has host O10
+PASS seed 3 opening on axis O10
+PASS seed 3 opening fits host O10
+PASS seed 3 opening has host O11
+PASS seed 3 opening on axis O11
+PASS seed 3 opening fits host O11
+PASS seed 3 opening has host O12
+PASS seed 3 opening on axis O12
+PASS seed 3 opening fits host O12
+PASS seed 3 opening has host O13
+PASS seed 3 opening on axis O13
+PASS seed 3 opening fits host O13
+PASS seed 3 opening has host O14
+PASS seed 3 opening on axis O14
+PASS seed 3 opening fits host O14
+PASS seed 3 opening has host O15
+PASS seed 3 opening on axis O15
+PASS seed 3 opening fits host O15
+PASS seed 3 opening has host O16
+PASS seed 3 opening on axis O16
+PASS seed 3 opening fits host O16
+PASS seed 3 opening has host O17
+PASS seed 3 opening on axis O17
+PASS seed 3 opening fits host O17
+PASS seed 3 positive furniture F1
+PASS seed 3 furniture inside slab F1
+PASS seed 3 furniture inside assigned room F1
+PASS seed 3 positive furniture F2
+PASS seed 3 furniture inside slab F2
+PASS seed 3 furniture inside assigned room F2
+PASS seed 3 positive furniture F3
+PASS seed 3 furniture inside slab F3
+PASS seed 3 furniture inside assigned room F3
+PASS seed 3 positive furniture F4
+PASS seed 3 furniture inside slab F4
+PASS seed 3 furniture inside assigned room F4
+PASS seed 3 positive furniture F5
+PASS seed 3 furniture inside slab F5
+PASS seed 3 furniture inside assigned room F5
+PASS seed 3 positive furniture F6
+PASS seed 3 furniture inside slab F6
+PASS seed 3 furniture inside assigned room F6
+PASS seed 3 positive furniture F7
+PASS seed 3 furniture inside slab F7
+PASS seed 3 furniture inside assigned room F7
+PASS seed 3 positive furniture F8
+PASS seed 3 furniture inside slab F8
+PASS seed 3 furniture inside assigned room F8
+PASS seed 3 positive furniture F9
+PASS seed 3 furniture inside slab F9
+PASS seed 3 furniture inside assigned room F9
+PASS seed 3 positive furniture F10
+PASS seed 3 furniture inside slab F10
+PASS seed 3 furniture inside assigned room F10
+PASS seed 3 positive furniture F11
+PASS seed 3 furniture inside slab F11
+PASS seed 3 furniture inside assigned room F11
+PASS seed 3 positive furniture F12
+PASS seed 3 furniture inside slab F12
+PASS seed 3 furniture inside assigned room F12
+PASS seed 3 positive furniture F13
+PASS seed 3 furniture inside slab F13
+PASS seed 3 furniture inside assigned room F13
+PASS seed 3 positive furniture F14
+PASS seed 3 furniture inside slab F14
+PASS seed 3 furniture inside assigned room F14
+PASS seed 3 positive furniture F15
+PASS seed 3 furniture inside slab F15
+PASS seed 3 furniture inside assigned room F15
+PASS seed 3 positive furniture F16
+PASS seed 3 furniture inside slab F16
+PASS seed 3 furniture inside assigned room F16
+PASS seed 4 succeeds
+PASS seed 4 slab positive
+PASS seed 4 positive room R1
+PASS seed 4 room inside slab R1
+PASS seed 4 positive room R2
+PASS seed 4 room inside slab R2
+PASS seed 4 positive room R3
+PASS seed 4 room inside slab R3
+PASS seed 4 positive room R4
+PASS seed 4 room inside slab R4
+PASS seed 4 positive room R5
+PASS seed 4 room inside slab R5
+PASS seed 4 positive room R6
+PASS seed 4 room inside slab R6
+PASS seed 4 positive room R7
+PASS seed 4 room inside slab R7
+PASS seed 4 positive room R8
+PASS seed 4 room inside slab R8
+PASS seed 4 positive room CIRC
+PASS seed 4 room inside slab CIRC
+PASS seed 4 nonzero wall W1
+PASS seed 4 nonzero wall W2
+PASS seed 4 nonzero wall W3
+PASS seed 4 nonzero wall W4
+PASS seed 4 nonzero wall W5
+PASS seed 4 nonzero wall W6
+PASS seed 4 nonzero wall W7
+PASS seed 4 nonzero wall W8
+PASS seed 4 nonzero wall W9
+PASS seed 4 nonzero wall W10
+PASS seed 4 nonzero wall W11
+PASS seed 4 nonzero wall W12
+PASS seed 4 nonzero wall W13
+PASS seed 4 nonzero wall W14
+PASS seed 4 nonzero wall W15
+PASS seed 4 nonzero wall W16
+PASS seed 4 nonzero wall W17
+PASS seed 4 nonzero wall W18
+PASS seed 4 opening has host O1
+PASS seed 4 opening on axis O1
+PASS seed 4 opening fits host O1
+PASS seed 4 opening has host O2
+PASS seed 4 opening on axis O2
+PASS seed 4 opening fits host O2
+PASS seed 4 opening has host O3
+PASS seed 4 opening on axis O3
+PASS seed 4 opening fits host O3
+PASS seed 4 opening has host O4
+PASS seed 4 opening on axis O4
+PASS seed 4 opening fits host O4
+PASS seed 4 opening has host O5
+PASS seed 4 opening on axis O5
+PASS seed 4 opening fits host O5
+PASS seed 4 opening has host O6
+PASS seed 4 opening on axis O6
+PASS seed 4 opening fits host O6
+PASS seed 4 opening has host O7
+PASS seed 4 opening on axis O7
+PASS seed 4 opening fits host O7
+PASS seed 4 opening has host O8
+PASS seed 4 opening on axis O8
+PASS seed 4 opening fits host O8
+PASS seed 4 opening has host O9
+PASS seed 4 opening on axis O9
+PASS seed 4 opening fits host O9
+PASS seed 4 opening has host O10
+PASS seed 4 opening on axis O10
+PASS seed 4 opening fits host O10
+PASS seed 4 opening has host O11
+PASS seed 4 opening on axis O11
+PASS seed 4 opening fits host O11
+PASS seed 4 opening has host O12
+PASS seed 4 opening on axis O12
+PASS seed 4 opening fits host O12
+PASS seed 4 opening has host O13
+PASS seed 4 opening on axis O13
+PASS seed 4 opening fits host O13
+PASS seed 4 opening has host O14
+PASS seed 4 opening on axis O14
+PASS seed 4 opening fits host O14
+PASS seed 4 opening has host O15
+PASS seed 4 opening on axis O15
+PASS seed 4 opening fits host O15
+PASS seed 4 opening has host O16
+PASS seed 4 opening on axis O16
+PASS seed 4 opening fits host O16
+PASS seed 4 opening has host O17
+PASS seed 4 opening on axis O17
+PASS seed 4 opening fits host O17
+PASS seed 4 positive furniture F1
+PASS seed 4 furniture inside slab F1
+PASS seed 4 furniture inside assigned room F1
+PASS seed 4 positive furniture F2
+PASS seed 4 furniture inside slab F2
+PASS seed 4 furniture inside assigned room F2
+PASS seed 4 positive furniture F3
+PASS seed 4 furniture inside slab F3
+PASS seed 4 furniture inside assigned room F3
+PASS seed 4 positive furniture F4
+PASS seed 4 furniture inside slab F4
+PASS seed 4 furniture inside assigned room F4
+PASS seed 4 positive furniture F5
+PASS seed 4 furniture inside slab F5
+PASS seed 4 furniture inside assigned room F5
+PASS seed 4 positive furniture F6
+PASS seed 4 furniture inside slab F6
+PASS seed 4 furniture inside assigned room F6
+PASS seed 4 positive furniture F7
+PASS seed 4 furniture inside slab F7
+PASS seed 4 furniture inside assigned room F7
+PASS seed 4 positive furniture F8
+PASS seed 4 furniture inside slab F8
+PASS seed 4 furniture inside assigned room F8
+PASS seed 4 positive furniture F9
+PASS seed 4 furniture inside slab F9
+PASS seed 4 furniture inside assigned room F9
+PASS seed 4 positive furniture F10
+PASS seed 4 furniture inside slab F10
+PASS seed 4 furniture inside assigned room F10
+PASS seed 4 positive furniture F11
+PASS seed 4 furniture inside slab F11
+PASS seed 4 furniture inside assigned room F11
+PASS seed 4 positive furniture F12
+PASS seed 4 furniture inside slab F12
+PASS seed 4 furniture inside assigned room F12
+PASS seed 4 positive furniture F13
+PASS seed 4 furniture inside slab F13
+PASS seed 4 furniture inside assigned room F13
+PASS seed 4 positive furniture F14
+PASS seed 4 furniture inside slab F14
+PASS seed 4 furniture inside assigned room F14
+PASS seed 4 positive furniture F15
+PASS seed 4 furniture inside slab F15
+PASS seed 4 furniture inside assigned room F15
+PASS seed 4 positive furniture F16
+PASS seed 4 furniture inside slab F16
+PASS seed 4 furniture inside assigned room F16
+PASS seed 5 succeeds
+PASS seed 5 slab positive
+PASS seed 5 positive room R1
+PASS seed 5 room inside slab R1
+PASS seed 5 positive room R2
+PASS seed 5 room inside slab R2
+PASS seed 5 positive room R3
+PASS seed 5 room inside slab R3
+PASS seed 5 positive room R4
+PASS seed 5 room inside slab R4
+PASS seed 5 positive room R5
+PASS seed 5 room inside slab R5
+PASS seed 5 positive room R6
+PASS seed 5 room inside slab R6
+PASS seed 5 positive room R7
+PASS seed 5 room inside slab R7
+PASS seed 5 positive room R8
+PASS seed 5 room inside slab R8
+PASS seed 5 positive room CIRC
+PASS seed 5 room inside slab CIRC
+PASS seed 5 nonzero wall W1
+PASS seed 5 nonzero wall W2
+PASS seed 5 nonzero wall W3
+PASS seed 5 nonzero wall W4
+PASS seed 5 nonzero wall W5
+PASS seed 5 nonzero wall W6
+PASS seed 5 nonzero wall W7
+PASS seed 5 nonzero wall W8
+PASS seed 5 nonzero wall W9
+PASS seed 5 nonzero wall W10
+PASS seed 5 nonzero wall W11
+PASS seed 5 nonzero wall W12
+PASS seed 5 nonzero wall W13
+PASS seed 5 nonzero wall W14
+PASS seed 5 nonzero wall W15
+PASS seed 5 nonzero wall W16
+PASS seed 5 nonzero wall W17
+PASS seed 5 nonzero wall W18
+PASS seed 5 opening has host O1
+PASS seed 5 opening on axis O1
+PASS seed 5 opening fits host O1
+PASS seed 5 opening has host O2
+PASS seed 5 opening on axis O2
+PASS seed 5 opening fits host O2
+PASS seed 5 opening has host O3
+PASS seed 5 opening on axis O3
+PASS seed 5 opening fits host O3
+PASS seed 5 opening has host O4
+PASS seed 5 opening on axis O4
+PASS seed 5 opening fits host O4
+PASS seed 5 opening has host O5
+PASS seed 5 opening on axis O5
+PASS seed 5 opening fits host O5
+PASS seed 5 opening has host O6
+PASS seed 5 opening on axis O6
+PASS seed 5 opening fits host O6
+PASS seed 5 opening has host O7
+PASS seed 5 opening on axis O7
+PASS seed 5 opening fits host O7
+PASS seed 5 opening has host O8
+PASS seed 5 opening on axis O8
+PASS seed 5 opening fits host O8
+PASS seed 5 opening has host O9
+PASS seed 5 opening on axis O9
+PASS seed 5 opening fits host O9
+PASS seed 5 opening has host O10
+PASS seed 5 opening on axis O10
+PASS seed 5 opening fits host O10
+PASS seed 5 opening has host O11
+PASS seed 5 opening on axis O11
+PASS seed 5 opening fits host O11
+PASS seed 5 opening has host O12
+PASS seed 5 opening on axis O12
+PASS seed 5 opening fits host O12
+PASS seed 5 opening has host O13
+PASS seed 5 opening on axis O13
+PASS seed 5 opening fits host O13
+PASS seed 5 opening has host O14
+PASS seed 5 opening on axis O14
+PASS seed 5 opening fits host O14
+PASS seed 5 opening has host O15
+PASS seed 5 opening on axis O15
+PASS seed 5 opening fits host O15
+PASS seed 5 opening has host O16
+PASS seed 5 opening on axis O16
+PASS seed 5 opening fits host O16
+PASS seed 5 opening has host O17
+PASS seed 5 opening on axis O17
+PASS seed 5 opening fits host O17
+PASS seed 5 positive furniture F1
+PASS seed 5 furniture inside slab F1
+PASS seed 5 furniture inside assigned room F1
+PASS seed 5 positive furniture F2
+PASS seed 5 furniture inside slab F2
+PASS seed 5 furniture inside assigned room F2
+PASS seed 5 positive furniture F3
+PASS seed 5 furniture inside slab F3
+PASS seed 5 furniture inside assigned room F3
+PASS seed 5 positive furniture F4
+PASS seed 5 furniture inside slab F4
+PASS seed 5 furniture inside assigned room F4
+PASS seed 5 positive furniture F5
+PASS seed 5 furniture inside slab F5
+PASS seed 5 furniture inside assigned room F5
+PASS seed 5 positive furniture F6
+PASS seed 5 furniture inside slab F6
+PASS seed 5 furniture inside assigned room F6
+PASS seed 5 positive furniture F7
+PASS seed 5 furniture inside slab F7
+PASS seed 5 furniture inside assigned room F7
+PASS seed 5 positive furniture F8
+PASS seed 5 furniture inside slab F8
+PASS seed 5 furniture inside assigned room F8
+PASS seed 5 positive furniture F9
+PASS seed 5 furniture inside slab F9
+PASS seed 5 furniture inside assigned room F9
+PASS seed 5 positive furniture F10
+PASS seed 5 furniture inside slab F10
+PASS seed 5 furniture inside assigned room F10
+PASS seed 5 positive furniture F11
+PASS seed 5 furniture inside slab F11
+PASS seed 5 furniture inside assigned room F11
+PASS seed 5 positive furniture F12
+PASS seed 5 furniture inside slab F12
+PASS seed 5 furniture inside assigned room F12
+PASS seed 5 positive furniture F13
+PASS seed 5 furniture inside slab F13
+PASS seed 5 furniture inside assigned room F13
+PASS seed 5 positive furniture F14
+PASS seed 5 furniture inside slab F14
+PASS seed 5 furniture inside assigned room F14
+PASS seed 5 positive furniture F15
+PASS seed 5 furniture inside slab F15
+PASS seed 5 furniture inside assigned room F15
+PASS seed 5 positive furniture F16
+PASS seed 5 furniture inside slab F16
+PASS seed 5 furniture inside assigned room F16
+PASS seed 6 succeeds
+PASS seed 6 slab positive
+PASS seed 6 positive room R1
+PASS seed 6 room inside slab R1
+PASS seed 6 positive room R2
+PASS seed 6 room inside slab R2
+PASS seed 6 positive room R3
+PASS seed 6 room inside slab R3
+PASS seed 6 positive room R4
+PASS seed 6 room inside slab R4
+PASS seed 6 positive room R5
+PASS seed 6 room inside slab R5
+PASS seed 6 positive room R6
+PASS seed 6 room inside slab R6
+PASS seed 6 positive room R7
+PASS seed 6 room inside slab R7
+PASS seed 6 positive room R8
+PASS seed 6 room inside slab R8
+PASS seed 6 positive room CIRC
+PASS seed 6 room inside slab CIRC
+PASS seed 6 nonzero wall W1
+PASS seed 6 nonzero wall W2
+PASS seed 6 nonzero wall W3
+PASS seed 6 nonzero wall W4
+PASS seed 6 nonzero wall W5
+PASS seed 6 nonzero wall W6
+PASS seed 6 nonzero wall W7
+PASS seed 6 nonzero wall W8
+PASS seed 6 nonzero wall W9
+PASS seed 6 nonzero wall W10
+PASS seed 6 nonzero wall W11
+PASS seed 6 nonzero wall W12
+PASS seed 6 nonzero wall W13
+PASS seed 6 nonzero wall W14
+PASS seed 6 nonzero wall W15
+PASS seed 6 nonzero wall W16
+PASS seed 6 nonzero wall W17
+PASS seed 6 nonzero wall W18
+PASS seed 6 opening has host O1
+PASS seed 6 opening on axis O1
+PASS seed 6 opening fits host O1
+PASS seed 6 opening has host O2
+PASS seed 6 opening on axis O2
+PASS seed 6 opening fits host O2
+PASS seed 6 opening has host O3
+PASS seed 6 opening on axis O3
+PASS seed 6 opening fits host O3
+PASS seed 6 opening has host O4
+PASS seed 6 opening on axis O4
+PASS seed 6 opening fits host O4
+PASS seed 6 opening has host O5
+PASS seed 6 opening on axis O5
+PASS seed 6 opening fits host O5
+PASS seed 6 opening has host O6
+PASS seed 6 opening on axis O6
+PASS seed 6 opening fits host O6
+PASS seed 6 opening has host O7
+PASS seed 6 opening on axis O7
+PASS seed 6 opening fits host O7
+PASS seed 6 opening has host O8
+PASS seed 6 opening on axis O8
+PASS seed 6 opening fits host O8
+PASS seed 6 opening has host O9
+PASS seed 6 opening on axis O9
+PASS seed 6 opening fits host O9
+PASS seed 6 opening has host O10
+PASS seed 6 opening on axis O10
+PASS seed 6 opening fits host O10
+PASS seed 6 opening has host O11
+PASS seed 6 opening on axis O11
+PASS seed 6 opening fits host O11
+PASS seed 6 opening has host O12
+PASS seed 6 opening on axis O12
+PASS seed 6 opening fits host O12
+PASS seed 6 opening has host O13
+PASS seed 6 opening on axis O13
+PASS seed 6 opening fits host O13
+PASS seed 6 opening has host O14
+PASS seed 6 opening on axis O14
+PASS seed 6 opening fits host O14
+PASS seed 6 opening has host O15
+PASS seed 6 opening on axis O15
+PASS seed 6 opening fits host O15
+PASS seed 6 opening has host O16
+PASS seed 6 opening on axis O16
+PASS seed 6 opening fits host O16
+PASS seed 6 opening has host O17
+PASS seed 6 opening on axis O17
+PASS seed 6 opening fits host O17
+PASS seed 6 positive furniture F1
+PASS seed 6 furniture inside slab F1
+PASS seed 6 furniture inside assigned room F1
+PASS seed 6 positive furniture F2
+PASS seed 6 furniture inside slab F2
+PASS seed 6 furniture inside assigned room F2
+PASS seed 6 positive furniture F3
+PASS seed 6 furniture inside slab F3
+PASS seed 6 furniture inside assigned room F3
+PASS seed 6 positive furniture F4
+PASS seed 6 furniture inside slab F4
+PASS seed 6 furniture inside assigned room F4
+PASS seed 6 positive furniture F5
+PASS seed 6 furniture inside slab F5
+PASS seed 6 furniture inside assigned room F5
+PASS seed 6 positive furniture F6
+PASS seed 6 furniture inside slab F6
+PASS seed 6 furniture inside assigned room F6
+PASS seed 6 positive furniture F7
+PASS seed 6 furniture inside slab F7
+PASS seed 6 furniture inside assigned room F7
+PASS seed 6 positive furniture F8
+PASS seed 6 furniture inside slab F8
+PASS seed 6 furniture inside assigned room F8
+PASS seed 6 positive furniture F9
+PASS seed 6 furniture inside slab F9
+PASS seed 6 furniture inside assigned room F9
+PASS seed 6 positive furniture F10
+PASS seed 6 furniture inside slab F10
+PASS seed 6 furniture inside assigned room F10
+PASS seed 6 positive furniture F11
+PASS seed 6 furniture inside slab F11
+PASS seed 6 furniture inside assigned room F11
+PASS seed 6 positive furniture F12
+PASS seed 6 furniture inside slab F12
+PASS seed 6 furniture inside assigned room F12
+PASS seed 6 positive furniture F13
+PASS seed 6 furniture inside slab F13
+PASS seed 6 furniture inside assigned room F13
+PASS seed 6 positive furniture F14
+PASS seed 6 furniture inside slab F14
+PASS seed 6 furniture inside assigned room F14
+PASS seed 6 positive furniture F15
+PASS seed 6 furniture inside slab F15
+PASS seed 6 furniture inside assigned room F15
+PASS seed 6 positive furniture F16
+PASS seed 6 furniture inside slab F16
+PASS seed 6 furniture inside assigned room F16
+PASS seed 7 succeeds
+PASS seed 7 slab positive
+PASS seed 7 positive room R1
+PASS seed 7 room inside slab R1
+PASS seed 7 positive room R2
+PASS seed 7 room inside slab R2
+PASS seed 7 positive room R3
+PASS seed 7 room inside slab R3
+PASS seed 7 positive room R4
+PASS seed 7 room inside slab R4
+PASS seed 7 positive room R5
+PASS seed 7 room inside slab R5
+PASS seed 7 positive room R6
+PASS seed 7 room inside slab R6
+PASS seed 7 positive room R7
+PASS seed 7 room inside slab R7
+PASS seed 7 positive room R8
+PASS seed 7 room inside slab R8
+PASS seed 7 positive room CIRC
+PASS seed 7 room inside slab CIRC
+PASS seed 7 nonzero wall W1
+PASS seed 7 nonzero wall W2
+PASS seed 7 nonzero wall W3
+PASS seed 7 nonzero wall W4
+PASS seed 7 nonzero wall W5
+PASS seed 7 nonzero wall W6
+PASS seed 7 nonzero wall W7
+PASS seed 7 nonzero wall W8
+PASS seed 7 nonzero wall W9
+PASS seed 7 nonzero wall W10
+PASS seed 7 nonzero wall W11
+PASS seed 7 nonzero wall W12
+PASS seed 7 nonzero wall W13
+PASS seed 7 nonzero wall W14
+PASS seed 7 nonzero wall W15
+PASS seed 7 nonzero wall W16
+PASS seed 7 nonzero wall W17
+PASS seed 7 nonzero wall W18
+PASS seed 7 opening has host O1
+PASS seed 7 opening on axis O1
+PASS seed 7 opening fits host O1
+PASS seed 7 opening has host O2
+PASS seed 7 opening on axis O2
+PASS seed 7 opening fits host O2
+PASS seed 7 opening has host O3
+PASS seed 7 opening on axis O3
+PASS seed 7 opening fits host O3
+PASS seed 7 opening has host O4
+PASS seed 7 opening on axis O4
+PASS seed 7 opening fits host O4
+PASS seed 7 opening has host O5
+PASS seed 7 opening on axis O5
+PASS seed 7 opening fits host O5
+PASS seed 7 opening has host O6
+PASS seed 7 opening on axis O6
+PASS seed 7 opening fits host O6
+PASS seed 7 opening has host O7
+PASS seed 7 opening on axis O7
+PASS seed 7 opening fits host O7
+PASS seed 7 opening has host O8
+PASS seed 7 opening on axis O8
+PASS seed 7 opening fits host O8
+PASS seed 7 opening has host O9
+PASS seed 7 opening on axis O9
+PASS seed 7 opening fits host O9
+PASS seed 7 opening has host O10
+PASS seed 7 opening on axis O10
+PASS seed 7 opening fits host O10
+PASS seed 7 opening has host O11
+PASS seed 7 opening on axis O11
+PASS seed 7 opening fits host O11
+PASS seed 7 opening has host O12
+PASS seed 7 opening on axis O12
+PASS seed 7 opening fits host O12
+PASS seed 7 opening has host O13
+PASS seed 7 opening on axis O13
+PASS seed 7 opening fits host O13
+PASS seed 7 opening has host O14
+PASS seed 7 opening on axis O14
+PASS seed 7 opening fits host O14
+PASS seed 7 opening has host O15
+PASS seed 7 opening on axis O15
+PASS seed 7 opening fits host O15
+PASS seed 7 opening has host O16
+PASS seed 7 opening on axis O16
+PASS seed 7 opening fits host O16
+PASS seed 7 opening has host O17
+PASS seed 7 opening on axis O17
+PASS seed 7 opening fits host O17
+PASS seed 7 positive furniture F1
+PASS seed 7 furniture inside slab F1
+PASS seed 7 furniture inside assigned room F1
+PASS seed 7 positive furniture F2
+PASS seed 7 furniture inside slab F2
+PASS seed 7 furniture inside assigned room F2
+PASS seed 7 positive furniture F3
+PASS seed 7 furniture inside slab F3
+PASS seed 7 furniture inside assigned room F3
+PASS seed 7 positive furniture F4
+PASS seed 7 furniture inside slab F4
+PASS seed 7 furniture inside assigned room F4
+PASS seed 7 positive furniture F5
+PASS seed 7 furniture inside slab F5
+PASS seed 7 furniture inside assigned room F5
+PASS seed 7 positive furniture F6
+PASS seed 7 furniture inside slab F6
+PASS seed 7 furniture inside assigned room F6
+PASS seed 7 positive furniture F7
+PASS seed 7 furniture inside slab F7
+PASS seed 7 furniture inside assigned room F7
+PASS seed 7 positive furniture F8
+PASS seed 7 furniture inside slab F8
+PASS seed 7 furniture inside assigned room F8
+PASS seed 7 positive furniture F9
+PASS seed 7 furniture inside slab F9
+PASS seed 7 furniture inside assigned room F9
+PASS seed 7 positive furniture F10
+PASS seed 7 furniture inside slab F10
+PASS seed 7 furniture inside assigned room F10
+PASS seed 7 positive furniture F11
+PASS seed 7 furniture inside slab F11
+PASS seed 7 furniture inside assigned room F11
+PASS seed 7 positive furniture F12
+PASS seed 7 furniture inside slab F12
+PASS seed 7 furniture inside assigned room F12
+PASS seed 7 positive furniture F13
+PASS seed 7 furniture inside slab F13
+PASS seed 7 furniture inside assigned room F13
+PASS seed 7 positive furniture F14
+PASS seed 7 furniture inside slab F14
+PASS seed 7 furniture inside assigned room F14
+PASS seed 7 positive furniture F15
+PASS seed 7 furniture inside slab F15
+PASS seed 7 furniture inside assigned room F15
+PASS seed 7 positive furniture F16
+PASS seed 7 furniture inside slab F16
+PASS seed 7 furniture inside assigned room F16
+PASS seed 8 succeeds
+PASS seed 8 slab positive
+PASS seed 8 positive room R1
+PASS seed 8 room inside slab R1
+PASS seed 8 positive room R2
+PASS seed 8 room inside slab R2
+PASS seed 8 positive room R3
+PASS seed 8 room inside slab R3
+PASS seed 8 positive room R4
+PASS seed 8 room inside slab R4
+PASS seed 8 positive room R5
+PASS seed 8 room inside slab R5
+PASS seed 8 positive room R6
+PASS seed 8 room inside slab R6
+PASS seed 8 positive room R7
+PASS seed 8 room inside slab R7
+PASS seed 8 positive room R8
+PASS seed 8 room inside slab R8
+PASS seed 8 positive room CIRC
+PASS seed 8 room inside slab CIRC
+PASS seed 8 nonzero wall W1
+PASS seed 8 nonzero wall W2
+PASS seed 8 nonzero wall W3
+PASS seed 8 nonzero wall W4
+PASS seed 8 nonzero wall W5
+PASS seed 8 nonzero wall W6
+PASS seed 8 nonzero wall W7
+PASS seed 8 nonzero wall W8
+PASS seed 8 nonzero wall W9
+PASS seed 8 nonzero wall W10
+PASS seed 8 nonzero wall W11
+PASS seed 8 nonzero wall W12
+PASS seed 8 nonzero wall W13
+PASS seed 8 nonzero wall W14
+PASS seed 8 nonzero wall W15
+PASS seed 8 nonzero wall W16
+PASS seed 8 nonzero wall W17
+PASS seed 8 nonzero wall W18
+PASS seed 8 opening has host O1
+PASS seed 8 opening on axis O1
+PASS seed 8 opening fits host O1
+PASS seed 8 opening has host O2
+PASS seed 8 opening on axis O2
+PASS seed 8 opening fits host O2
+PASS seed 8 opening has host O3
+PASS seed 8 opening on axis O3
+PASS seed 8 opening fits host O3
+PASS seed 8 opening has host O4
+PASS seed 8 opening on axis O4
+PASS seed 8 opening fits host O4
+PASS seed 8 opening has host O5
+PASS seed 8 opening on axis O5
+PASS seed 8 opening fits host O5
+PASS seed 8 opening has host O6
+PASS seed 8 opening on axis O6
+PASS seed 8 opening fits host O6
+PASS seed 8 opening has host O7
+PASS seed 8 opening on axis O7
+PASS seed 8 opening fits host O7
+PASS seed 8 opening has host O8
+PASS seed 8 opening on axis O8
+PASS seed 8 opening fits host O8
+PASS seed 8 opening has host O9
+PASS seed 8 opening on axis O9
+PASS seed 8 opening fits host O9
+PASS seed 8 opening has host O10
+PASS seed 8 opening on axis O10
+PASS seed 8 opening fits host O10
+PASS seed 8 opening has host O11
+PASS seed 8 opening on axis O11
+PASS seed 8 opening fits host O11
+PASS seed 8 opening has host O12
+PASS seed 8 opening on axis O12
+PASS seed 8 opening fits host O12
+PASS seed 8 opening has host O13
+PASS seed 8 opening on axis O13
+PASS seed 8 opening fits host O13
+PASS seed 8 opening has host O14
+PASS seed 8 opening on axis O14
+PASS seed 8 opening fits host O14
+PASS seed 8 opening has host O15
+PASS seed 8 opening on axis O15
+PASS seed 8 opening fits host O15
+PASS seed 8 opening has host O16
+PASS seed 8 opening on axis O16
+PASS seed 8 opening fits host O16
+PASS seed 8 opening has host O17
+PASS seed 8 opening on axis O17
+PASS seed 8 opening fits host O17
+PASS seed 8 positive furniture F1
+PASS seed 8 furniture inside slab F1
+PASS seed 8 furniture inside assigned room F1
+PASS seed 8 positive furniture F2
+PASS seed 8 furniture inside slab F2
+PASS seed 8 furniture inside assigned room F2
+PASS seed 8 positive furniture F3
+PASS seed 8 furniture inside slab F3
+PASS seed 8 furniture inside assigned room F3
+PASS seed 8 positive furniture F4
+PASS seed 8 furniture inside slab F4
+PASS seed 8 furniture inside assigned room F4
+PASS seed 8 positive furniture F5
+PASS seed 8 furniture inside slab F5
+PASS seed 8 furniture inside assigned room F5
+PASS seed 8 positive furniture F6
+PASS seed 8 furniture inside slab F6
+PASS seed 8 furniture inside assigned room F6
+PASS seed 8 positive furniture F7
+PASS seed 8 furniture inside slab F7
+PASS seed 8 furniture inside assigned room F7
+PASS seed 8 positive furniture F8
+PASS seed 8 furniture inside slab F8
+PASS seed 8 furniture inside assigned room F8
+PASS seed 8 positive furniture F9
+PASS seed 8 furniture inside slab F9
+PASS seed 8 furniture inside assigned room F9
+PASS seed 8 positive furniture F10
+PASS seed 8 furniture inside slab F10
+PASS seed 8 furniture inside assigned room F10
+PASS seed 8 positive furniture F11
+PASS seed 8 furniture inside slab F11
+PASS seed 8 furniture inside assigned room F11
+PASS seed 8 positive furniture F12
+PASS seed 8 furniture inside slab F12
+PASS seed 8 furniture inside assigned room F12
+PASS seed 8 positive furniture F13
+PASS seed 8 furniture inside slab F13
+PASS seed 8 furniture inside assigned room F13
+PASS seed 8 positive furniture F14
+PASS seed 8 furniture inside slab F14
+PASS seed 8 furniture inside assigned room F14
+PASS seed 8 positive furniture F15
+PASS seed 8 furniture inside slab F15
+PASS seed 8 furniture inside assigned room F15
+PASS seed 8 positive furniture F16
+PASS seed 8 furniture inside slab F16
+PASS seed 8 furniture inside assigned room F16
+PASS seed 9 succeeds
+PASS seed 9 slab positive
+PASS seed 9 positive room R1
+PASS seed 9 room inside slab R1
+PASS seed 9 positive room R2
+PASS seed 9 room inside slab R2
+PASS seed 9 positive room R3
+PASS seed 9 room inside slab R3
+PASS seed 9 positive room R4
+PASS seed 9 room inside slab R4
+PASS seed 9 positive room R5
+PASS seed 9 room inside slab R5
+PASS seed 9 positive room R6
+PASS seed 9 room inside slab R6
+PASS seed 9 positive room R7
+PASS seed 9 room inside slab R7
+PASS seed 9 positive room R8
+PASS seed 9 room inside slab R8
+PASS seed 9 positive room CIRC
+PASS seed 9 room inside slab CIRC
+PASS seed 9 nonzero wall W1
+PASS seed 9 nonzero wall W2
+PASS seed 9 nonzero wall W3
+PASS seed 9 nonzero wall W4
+PASS seed 9 nonzero wall W5
+PASS seed 9 nonzero wall W6
+PASS seed 9 nonzero wall W7
+PASS seed 9 nonzero wall W8
+PASS seed 9 nonzero wall W9
+PASS seed 9 nonzero wall W10
+PASS seed 9 nonzero wall W11
+PASS seed 9 nonzero wall W12
+PASS seed 9 nonzero wall W13
+PASS seed 9 nonzero wall W14
+PASS seed 9 nonzero wall W15
+PASS seed 9 nonzero wall W16
+PASS seed 9 nonzero wall W17
+PASS seed 9 nonzero wall W18
+PASS seed 9 opening has host O1
+PASS seed 9 opening on axis O1
+PASS seed 9 opening fits host O1
+PASS seed 9 opening has host O2
+PASS seed 9 opening on axis O2
+PASS seed 9 opening fits host O2
+PASS seed 9 opening has host O3
+PASS seed 9 opening on axis O3
+PASS seed 9 opening fits host O3
+PASS seed 9 opening has host O4
+PASS seed 9 opening on axis O4
+PASS seed 9 opening fits host O4
+PASS seed 9 opening has host O5
+PASS seed 9 opening on axis O5
+PASS seed 9 opening fits host O5
+PASS seed 9 opening has host O6
+PASS seed 9 opening on axis O6
+PASS seed 9 opening fits host O6
+PASS seed 9 opening has host O7
+PASS seed 9 opening on axis O7
+PASS seed 9 opening fits host O7
+PASS seed 9 opening has host O8
+PASS seed 9 opening on axis O8
+PASS seed 9 opening fits host O8
+PASS seed 9 opening has host O9
+PASS seed 9 opening on axis O9
+PASS seed 9 opening fits host O9
+PASS seed 9 opening has host O10
+PASS seed 9 opening on axis O10
+PASS seed 9 opening fits host O10
+PASS seed 9 opening has host O11
+PASS seed 9 opening on axis O11
+PASS seed 9 opening fits host O11
+PASS seed 9 opening has host O12
+PASS seed 9 opening on axis O12
+PASS seed 9 opening fits host O12
+PASS seed 9 opening has host O13
+PASS seed 9 opening on axis O13
+PASS seed 9 opening fits host O13
+PASS seed 9 opening has host O14
+PASS seed 9 opening on axis O14
+PASS seed 9 opening fits host O14
+PASS seed 9 opening has host O15
+PASS seed 9 opening on axis O15
+PASS seed 9 opening fits host O15
+PASS seed 9 opening has host O16
+PASS seed 9 opening on axis O16
+PASS seed 9 opening fits host O16
+PASS seed 9 opening has host O17
+PASS seed 9 opening on axis O17
+PASS seed 9 opening fits host O17
+PASS seed 9 positive furniture F1
+PASS seed 9 furniture inside slab F1
+PASS seed 9 furniture inside assigned room F1
+PASS seed 9 positive furniture F2
+PASS seed 9 furniture inside slab F2
+PASS seed 9 furniture inside assigned room F2
+PASS seed 9 positive furniture F3
+PASS seed 9 furniture inside slab F3
+PASS seed 9 furniture inside assigned room F3
+PASS seed 9 positive furniture F4
+PASS seed 9 furniture inside slab F4
+PASS seed 9 furniture inside assigned room F4
+PASS seed 9 positive furniture F5
+PASS seed 9 furniture inside slab F5
+PASS seed 9 furniture inside assigned room F5
+PASS seed 9 positive furniture F6
+PASS seed 9 furniture inside slab F6
+PASS seed 9 furniture inside assigned room F6
+PASS seed 9 positive furniture F7
+PASS seed 9 furniture inside slab F7
+PASS seed 9 furniture inside assigned room F7
+PASS seed 9 positive furniture F8
+PASS seed 9 furniture inside slab F8
+PASS seed 9 furniture inside assigned room F8
+PASS seed 9 positive furniture F9
+PASS seed 9 furniture inside slab F9
+PASS seed 9 furniture inside assigned room F9
+PASS seed 9 positive furniture F10
+PASS seed 9 furniture inside slab F10
+PASS seed 9 furniture inside assigned room F10
+PASS seed 9 positive furniture F11
+PASS seed 9 furniture inside slab F11
+PASS seed 9 furniture inside assigned room F11
+PASS seed 9 positive furniture F12
+PASS seed 9 furniture inside slab F12
+PASS seed 9 furniture inside assigned room F12
+PASS seed 9 positive furniture F13
+PASS seed 9 furniture inside slab F13
+PASS seed 9 furniture inside assigned room F13
+PASS seed 9 positive furniture F14
+PASS seed 9 furniture inside slab F14
+PASS seed 9 furniture inside assigned room F14
+PASS seed 9 positive furniture F15
+PASS seed 9 furniture inside slab F15
+PASS seed 9 furniture inside assigned room F15
+PASS seed 9 positive furniture F16
+PASS seed 9 furniture inside slab F16
+PASS seed 9 furniture inside assigned room F16
+PASS seed 10 succeeds
+PASS seed 10 slab positive
+PASS seed 10 positive room R1
+PASS seed 10 room inside slab R1
+PASS seed 10 positive room R2
+PASS seed 10 room inside slab R2
+PASS seed 10 positive room R3
+PASS seed 10 room inside slab R3
+PASS seed 10 positive room R4
+PASS seed 10 room inside slab R4
+PASS seed 10 positive room R5
+PASS seed 10 room inside slab R5
+PASS seed 10 positive room R6
+PASS seed 10 room inside slab R6
+PASS seed 10 positive room R7
+PASS seed 10 room inside slab R7
+PASS seed 10 positive room R8
+PASS seed 10 room inside slab R8
+PASS seed 10 positive room CIRC
+PASS seed 10 room inside slab CIRC
+PASS seed 10 nonzero wall W1
+PASS seed 10 nonzero wall W2
+PASS seed 10 nonzero wall W3
+PASS seed 10 nonzero wall W4
+PASS seed 10 nonzero wall W5
+PASS seed 10 nonzero wall W6
+PASS seed 10 nonzero wall W7
+PASS seed 10 nonzero wall W8
+PASS seed 10 nonzero wall W9
+PASS seed 10 nonzero wall W10
+PASS seed 10 nonzero wall W11
+PASS seed 10 nonzero wall W12
+PASS seed 10 nonzero wall W13
+PASS seed 10 nonzero wall W14
+PASS seed 10 nonzero wall W15
+PASS seed 10 nonzero wall W16
+PASS seed 10 nonzero wall W17
+PASS seed 10 nonzero wall W18
+PASS seed 10 opening has host O1
+PASS seed 10 opening on axis O1
+PASS seed 10 opening fits host O1
+PASS seed 10 opening has host O2
+PASS seed 10 opening on axis O2
+PASS seed 10 opening fits host O2
+PASS seed 10 opening has host O3
+PASS seed 10 opening on axis O3
+PASS seed 10 opening fits host O3
+PASS seed 10 opening has host O4
+PASS seed 10 opening on axis O4
+PASS seed 10 opening fits host O4
+PASS seed 10 opening has host O5
+PASS seed 10 opening on axis O5
+PASS seed 10 opening fits host O5
+PASS seed 10 opening has host O6
+PASS seed 10 opening on axis O6
+PASS seed 10 opening fits host O6
+PASS seed 10 opening has host O7
+PASS seed 10 opening on axis O7
+PASS seed 10 opening fits host O7
+PASS seed 10 opening has host O8
+PASS seed 10 opening on axis O8
+PASS seed 10 opening fits host O8
+PASS seed 10 opening has host O9
+PASS seed 10 opening on axis O9
+PASS seed 10 opening fits host O9
+PASS seed 10 opening has host O10
+PASS seed 10 opening on axis O10
+PASS seed 10 opening fits host O10
+PASS seed 10 opening has host O11
+PASS seed 10 opening on axis O11
+PASS seed 10 opening fits host O11
+PASS seed 10 opening has host O12
+PASS seed 10 opening on axis O12
+PASS seed 10 opening fits host O12
+PASS seed 10 opening has host O13
+PASS seed 10 opening on axis O13
+PASS seed 10 opening fits host O13
+PASS seed 10 opening has host O14
+PASS seed 10 opening on axis O14
+PASS seed 10 opening fits host O14
+PASS seed 10 opening has host O15
+PASS seed 10 opening on axis O15
+PASS seed 10 opening fits host O15
+PASS seed 10 opening has host O16
+PASS seed 10 opening on axis O16
+PASS seed 10 opening fits host O16
+PASS seed 10 opening has host O17
+PASS seed 10 opening on axis O17
+PASS seed 10 opening fits host O17
+PASS seed 10 positive furniture F1
+PASS seed 10 furniture inside slab F1
+PASS seed 10 furniture inside assigned room F1
+PASS seed 10 positive furniture F2
+PASS seed 10 furniture inside slab F2
+PASS seed 10 furniture inside assigned room F2
+PASS seed 10 positive furniture F3
+PASS seed 10 furniture inside slab F3
+PASS seed 10 furniture inside assigned room F3
+PASS seed 10 positive furniture F4
+PASS seed 10 furniture inside slab F4
+PASS seed 10 furniture inside assigned room F4
+PASS seed 10 positive furniture F5
+PASS seed 10 furniture inside slab F5
+PASS seed 10 furniture inside assigned room F5
+PASS seed 10 positive furniture F6
+PASS seed 10 furniture inside slab F6
+PASS seed 10 furniture inside assigned room F6
+PASS seed 10 positive furniture F7
+PASS seed 10 furniture inside slab F7
+PASS seed 10 furniture inside assigned room F7
+PASS seed 10 positive furniture F8
+PASS seed 10 furniture inside slab F8
+PASS seed 10 furniture inside assigned room F8
+PASS seed 10 positive furniture F9
+PASS seed 10 furniture inside slab F9
+PASS seed 10 furniture inside assigned room F9
+PASS seed 10 positive furniture F10
+PASS seed 10 furniture inside slab F10
+PASS seed 10 furniture inside assigned room F10
+PASS seed 10 positive furniture F11
+PASS seed 10 furniture inside slab F11
+PASS seed 10 furniture inside assigned room F11
+PASS seed 10 positive furniture F12
+PASS seed 10 furniture inside slab F12
+PASS seed 10 furniture inside assigned room F12
+PASS seed 10 positive furniture F13
+PASS seed 10 furniture inside slab F13
+PASS seed 10 furniture inside assigned room F13
+PASS seed 10 positive furniture F14
+PASS seed 10 furniture inside slab F14
+PASS seed 10 furniture inside assigned room F14
+PASS seed 10 positive furniture F15
+PASS seed 10 furniture inside slab F15
+PASS seed 10 furniture inside assigned room F15
+PASS seed 10 positive furniture F16
+PASS seed 10 furniture inside slab F16
+PASS seed 10 furniture inside assigned room F16
+PASS seed 11 succeeds
+PASS seed 11 slab positive
+PASS seed 11 positive room R1
+PASS seed 11 room inside slab R1
+PASS seed 11 positive room R2
+PASS seed 11 room inside slab R2
+PASS seed 11 positive room R3
+PASS seed 11 room inside slab R3
+PASS seed 11 positive room R4
+PASS seed 11 room inside slab R4
+PASS seed 11 positive room R5
+PASS seed 11 room inside slab R5
+PASS seed 11 positive room R6
+PASS seed 11 room inside slab R6
+PASS seed 11 positive room R7
+PASS seed 11 room inside slab R7
+PASS seed 11 positive room R8
+PASS seed 11 room inside slab R8
+PASS seed 11 positive room CIRC
+PASS seed 11 room inside slab CIRC
+PASS seed 11 nonzero wall W1
+PASS seed 11 nonzero wall W2
+PASS seed 11 nonzero wall W3
+PASS seed 11 nonzero wall W4
+PASS seed 11 nonzero wall W5
+PASS seed 11 nonzero wall W6
+PASS seed 11 nonzero wall W7
+PASS seed 11 nonzero wall W8
+PASS seed 11 nonzero wall W9
+PASS seed 11 nonzero wall W10
+PASS seed 11 nonzero wall W11
+PASS seed 11 nonzero wall W12
+PASS seed 11 nonzero wall W13
+PASS seed 11 nonzero wall W14
+PASS seed 11 nonzero wall W15
+PASS seed 11 nonzero wall W16
+PASS seed 11 nonzero wall W17
+PASS seed 11 nonzero wall W18
+PASS seed 11 opening has host O1
+PASS seed 11 opening on axis O1
+PASS seed 11 opening fits host O1
+PASS seed 11 opening has host O2
+PASS seed 11 opening on axis O2
+PASS seed 11 opening fits host O2
+PASS seed 11 opening has host O3
+PASS seed 11 opening on axis O3
+PASS seed 11 opening fits host O3
+PASS seed 11 opening has host O4
+PASS seed 11 opening on axis O4
+PASS seed 11 opening fits host O4
+PASS seed 11 opening has host O5
+PASS seed 11 opening on axis O5
+PASS seed 11 opening fits host O5
+PASS seed 11 opening has host O6
+PASS seed 11 opening on axis O6
+PASS seed 11 opening fits host O6
+PASS seed 11 opening has host O7
+PASS seed 11 opening on axis O7
+PASS seed 11 opening fits host O7
+PASS seed 11 opening has host O8
+PASS seed 11 opening on axis O8
+PASS seed 11 opening fits host O8
+PASS seed 11 opening has host O9
+PASS seed 11 opening on axis O9
+PASS seed 11 opening fits host O9
+PASS seed 11 opening has host O10
+PASS seed 11 opening on axis O10
+PASS seed 11 opening fits host O10
+PASS seed 11 opening has host O11
+PASS seed 11 opening on axis O11
+PASS seed 11 opening fits host O11
+PASS seed 11 opening has host O12
+PASS seed 11 opening on axis O12
+PASS seed 11 opening fits host O12
+PASS seed 11 opening has host O13
+PASS seed 11 opening on axis O13
+PASS seed 11 opening fits host O13
+PASS seed 11 opening has host O14
+PASS seed 11 opening on axis O14
+PASS seed 11 opening fits host O14
+PASS seed 11 opening has host O15
+PASS seed 11 opening on axis O15
+PASS seed 11 opening fits host O15
+PASS seed 11 opening has host O16
+PASS seed 11 opening on axis O16
+PASS seed 11 opening fits host O16
+PASS seed 11 opening has host O17
+PASS seed 11 opening on axis O17
+PASS seed 11 opening fits host O17
+PASS seed 11 positive furniture F1
+PASS seed 11 furniture inside slab F1
+PASS seed 11 furniture inside assigned room F1
+PASS seed 11 positive furniture F2
+PASS seed 11 furniture inside slab F2
+PASS seed 11 furniture inside assigned room F2
+PASS seed 11 positive furniture F3
+PASS seed 11 furniture inside slab F3
+PASS seed 11 furniture inside assigned room F3
+PASS seed 11 positive furniture F4
+PASS seed 11 furniture inside slab F4
+PASS seed 11 furniture inside assigned room F4
+PASS seed 11 positive furniture F5
+PASS seed 11 furniture inside slab F5
+PASS seed 11 furniture inside assigned room F5
+PASS seed 11 positive furniture F6
+PASS seed 11 furniture inside slab F6
+PASS seed 11 furniture inside assigned room F6
+PASS seed 11 positive furniture F7
+PASS seed 11 furniture inside slab F7
+PASS seed 11 furniture inside assigned room F7
+PASS seed 11 positive furniture F8
+PASS seed 11 furniture inside slab F8
+PASS seed 11 furniture inside assigned room F8
+PASS seed 11 positive furniture F9
+PASS seed 11 furniture inside slab F9
+PASS seed 11 furniture inside assigned room F9
+PASS seed 11 positive furniture F10
+PASS seed 11 furniture inside slab F10
+PASS seed 11 furniture inside assigned room F10
+PASS seed 11 positive furniture F11
+PASS seed 11 furniture inside slab F11
+PASS seed 11 furniture inside assigned room F11
+PASS seed 11 positive furniture F12
+PASS seed 11 furniture inside slab F12
+PASS seed 11 furniture inside assigned room F12
+PASS seed 11 positive furniture F13
+PASS seed 11 furniture inside slab F13
+PASS seed 11 furniture inside assigned room F13
+PASS seed 11 positive furniture F14
+PASS seed 11 furniture inside slab F14
+PASS seed 11 furniture inside assigned room F14
+PASS seed 11 positive furniture F15
+PASS seed 11 furniture inside slab F15
+PASS seed 11 furniture inside assigned room F15
+PASS seed 11 positive furniture F16
+PASS seed 11 furniture inside slab F16
+PASS seed 11 furniture inside assigned room F16
+PASS seed 12 succeeds
+PASS seed 12 slab positive
+PASS seed 12 positive room R1
+PASS seed 12 room inside slab R1
+PASS seed 12 positive room R2
+PASS seed 12 room inside slab R2
+PASS seed 12 positive room R3
+PASS seed 12 room inside slab R3
+PASS seed 12 positive room R4
+PASS seed 12 room inside slab R4
+PASS seed 12 positive room R5
+PASS seed 12 room inside slab R5
+PASS seed 12 positive room R6
+PASS seed 12 room inside slab R6
+PASS seed 12 positive room R7
+PASS seed 12 room inside slab R7
+PASS seed 12 positive room R8
+PASS seed 12 room inside slab R8
+PASS seed 12 positive room CIRC
+PASS seed 12 room inside slab CIRC
+PASS seed 12 nonzero wall W1
+PASS seed 12 nonzero wall W2
+PASS seed 12 nonzero wall W3
+PASS seed 12 nonzero wall W4
+PASS seed 12 nonzero wall W5
+PASS seed 12 nonzero wall W6
+PASS seed 12 nonzero wall W7
+PASS seed 12 nonzero wall W8
+PASS seed 12 nonzero wall W9
+PASS seed 12 nonzero wall W10
+PASS seed 12 nonzero wall W11
+PASS seed 12 nonzero wall W12
+PASS seed 12 nonzero wall W13
+PASS seed 12 nonzero wall W14
+PASS seed 12 nonzero wall W15
+PASS seed 12 nonzero wall W16
+PASS seed 12 nonzero wall W17
+PASS seed 12 nonzero wall W18
+PASS seed 12 opening has host O1
+PASS seed 12 opening on axis O1
+PASS seed 12 opening fits host O1
+PASS seed 12 opening has host O2
+PASS seed 12 opening on axis O2
+PASS seed 12 opening fits host O2
+PASS seed 12 opening has host O3
+PASS seed 12 opening on axis O3
+PASS seed 12 opening fits host O3
+PASS seed 12 opening has host O4
+PASS seed 12 opening on axis O4
+PASS seed 12 opening fits host O4
+PASS seed 12 opening has host O5
+PASS seed 12 opening on axis O5
+PASS seed 12 opening fits host O5
+PASS seed 12 opening has host O6
+PASS seed 12 opening on axis O6
+PASS seed 12 opening fits host O6
+PASS seed 12 opening has host O7
+PASS seed 12 opening on axis O7
+PASS seed 12 opening fits host O7
+PASS seed 12 opening has host O8
+PASS seed 12 opening on axis O8
+PASS seed 12 opening fits host O8
+PASS seed 12 opening has host O9
+PASS seed 12 opening on axis O9
+PASS seed 12 opening fits host O9
+PASS seed 12 opening has host O10
+PASS seed 12 opening on axis O10
+PASS seed 12 opening fits host O10
+PASS seed 12 opening has host O11
+PASS seed 12 opening on axis O11
+PASS seed 12 opening fits host O11
+PASS seed 12 opening has host O12
+PASS seed 12 opening on axis O12
+PASS seed 12 opening fits host O12
+PASS seed 12 opening has host O13
+PASS seed 12 opening on axis O13
+PASS seed 12 opening fits host O13
+PASS seed 12 opening has host O14
+PASS seed 12 opening on axis O14
+PASS seed 12 opening fits host O14
+PASS seed 12 opening has host O15
+PASS seed 12 opening on axis O15
+PASS seed 12 opening fits host O15
+PASS seed 12 opening has host O16
+PASS seed 12 opening on axis O16
+PASS seed 12 opening fits host O16
+PASS seed 12 opening has host O17
+PASS seed 12 opening on axis O17
+PASS seed 12 opening fits host O17
+PASS seed 12 positive furniture F1
+PASS seed 12 furniture inside slab F1
+PASS seed 12 furniture inside assigned room F1
+PASS seed 12 positive furniture F2
+PASS seed 12 furniture inside slab F2
+PASS seed 12 furniture inside assigned room F2
+PASS seed 12 positive furniture F3
+PASS seed 12 furniture inside slab F3
+PASS seed 12 furniture inside assigned room F3
+PASS seed 12 positive furniture F4
+PASS seed 12 furniture inside slab F4
+PASS seed 12 furniture inside assigned room F4
+PASS seed 12 positive furniture F5
+PASS seed 12 furniture inside slab F5
+PASS seed 12 furniture inside assigned room F5
+PASS seed 12 positive furniture F6
+PASS seed 12 furniture inside slab F6
+PASS seed 12 furniture inside assigned room F6
+PASS seed 12 positive furniture F7
+PASS seed 12 furniture inside slab F7
+PASS seed 12 furniture inside assigned room F7
+PASS seed 12 positive furniture F8
+PASS seed 12 furniture inside slab F8
+PASS seed 12 furniture inside assigned room F8
+PASS seed 12 positive furniture F9
+PASS seed 12 furniture inside slab F9
+PASS seed 12 furniture inside assigned room F9
+PASS seed 12 positive furniture F10
+PASS seed 12 furniture inside slab F10
+PASS seed 12 furniture inside assigned room F10
+PASS seed 12 positive furniture F11
+PASS seed 12 furniture inside slab F11
+PASS seed 12 furniture inside assigned room F11
+PASS seed 12 positive furniture F12
+PASS seed 12 furniture inside slab F12
+PASS seed 12 furniture inside assigned room F12
+PASS seed 12 positive furniture F13
+PASS seed 12 furniture inside slab F13
+PASS seed 12 furniture inside assigned room F13
+PASS seed 12 positive furniture F14
+PASS seed 12 furniture inside slab F14
+PASS seed 12 furniture inside assigned room F14
+PASS seed 12 positive furniture F15
+PASS seed 12 furniture inside slab F15
+PASS seed 12 furniture inside assigned room F15
+PASS seed 12 positive furniture F16
+PASS seed 12 furniture inside slab F16
+PASS seed 12 furniture inside assigned room F16
+PASS seed 13 succeeds
+PASS seed 13 slab positive
+PASS seed 13 positive room R1
+PASS seed 13 room inside slab R1
+PASS seed 13 positive room R2
+PASS seed 13 room inside slab R2
+PASS seed 13 positive room R3
+PASS seed 13 room inside slab R3
+PASS seed 13 positive room R4
+PASS seed 13 room inside slab R4
+PASS seed 13 positive room R5
+PASS seed 13 room inside slab R5
+PASS seed 13 positive room R6
+PASS seed 13 room inside slab R6
+PASS seed 13 positive room R7
+PASS seed 13 room inside slab R7
+PASS seed 13 positive room R8
+PASS seed 13 room inside slab R8
+PASS seed 13 positive room CIRC
+PASS seed 13 room inside slab CIRC
+PASS seed 13 nonzero wall W1
+PASS seed 13 nonzero wall W2
+PASS seed 13 nonzero wall W3
+PASS seed 13 nonzero wall W4
+PASS seed 13 nonzero wall W5
+PASS seed 13 nonzero wall W6
+PASS seed 13 nonzero wall W7
+PASS seed 13 nonzero wall W8
+PASS seed 13 nonzero wall W9
+PASS seed 13 nonzero wall W10
+PASS seed 13 nonzero wall W11
+PASS seed 13 nonzero wall W12
+PASS seed 13 nonzero wall W13
+PASS seed 13 nonzero wall W14
+PASS seed 13 nonzero wall W15
+PASS seed 13 nonzero wall W16
+PASS seed 13 nonzero wall W17
+PASS seed 13 nonzero wall W18
+PASS seed 13 opening has host O1
+PASS seed 13 opening on axis O1
+PASS seed 13 opening fits host O1
+PASS seed 13 opening has host O2
+PASS seed 13 opening on axis O2
+PASS seed 13 opening fits host O2
+PASS seed 13 opening has host O3
+PASS seed 13 opening on axis O3
+PASS seed 13 opening fits host O3
+PASS seed 13 opening has host O4
+PASS seed 13 opening on axis O4
+PASS seed 13 opening fits host O4
+PASS seed 13 opening has host O5
+PASS seed 13 opening on axis O5
+PASS seed 13 opening fits host O5
+PASS seed 13 opening has host O6
+PASS seed 13 opening on axis O6
+PASS seed 13 opening fits host O6
+PASS seed 13 opening has host O7
+PASS seed 13 opening on axis O7
+PASS seed 13 opening fits host O7
+PASS seed 13 opening has host O8
+PASS seed 13 opening on axis O8
+PASS seed 13 opening fits host O8
+PASS seed 13 opening has host O9
+PASS seed 13 opening on axis O9
+PASS seed 13 opening fits host O9
+PASS seed 13 opening has host O10
+PASS seed 13 opening on axis O10
+PASS seed 13 opening fits host O10
+PASS seed 13 opening has host O11
+PASS seed 13 opening on axis O11
+PASS seed 13 opening fits host O11
+PASS seed 13 opening has host O12
+PASS seed 13 opening on axis O12
+PASS seed 13 opening fits host O12
+PASS seed 13 opening has host O13
+PASS seed 13 opening on axis O13
+PASS seed 13 opening fits host O13
+PASS seed 13 opening has host O14
+PASS seed 13 opening on axis O14
+PASS seed 13 opening fits host O14
+PASS seed 13 opening has host O15
+PASS seed 13 opening on axis O15
+PASS seed 13 opening fits host O15
+PASS seed 13 opening has host O16
+PASS seed 13 opening on axis O16
+PASS seed 13 opening fits host O16
+PASS seed 13 opening has host O17
+PASS seed 13 opening on axis O17
+PASS seed 13 opening fits host O17
+PASS seed 13 positive furniture F1
+PASS seed 13 furniture inside slab F1
+PASS seed 13 furniture inside assigned room F1
+PASS seed 13 positive furniture F2
+PASS seed 13 furniture inside slab F2
+PASS seed 13 furniture inside assigned room F2
+PASS seed 13 positive furniture F3
+PASS seed 13 furniture inside slab F3
+PASS seed 13 furniture inside assigned room F3
+PASS seed 13 positive furniture F4
+PASS seed 13 furniture inside slab F4
+PASS seed 13 furniture inside assigned room F4
+PASS seed 13 positive furniture F5
+PASS seed 13 furniture inside slab F5
+PASS seed 13 furniture inside assigned room F5
+PASS seed 13 positive furniture F6
+PASS seed 13 furniture inside slab F6
+PASS seed 13 furniture inside assigned room F6
+PASS seed 13 positive furniture F7
+PASS seed 13 furniture inside slab F7
+PASS seed 13 furniture inside assigned room F7
+PASS seed 13 positive furniture F8
+PASS seed 13 furniture inside slab F8
+PASS seed 13 furniture inside assigned room F8
+PASS seed 13 positive furniture F9
+PASS seed 13 furniture inside slab F9
+PASS seed 13 furniture inside assigned room F9
+PASS seed 13 positive furniture F10
+PASS seed 13 furniture inside slab F10
+PASS seed 13 furniture inside assigned room F10
+PASS seed 13 positive furniture F11
+PASS seed 13 furniture inside slab F11
+PASS seed 13 furniture inside assigned room F11
+PASS seed 13 positive furniture F12
+PASS seed 13 furniture inside slab F12
+PASS seed 13 furniture inside assigned room F12
+PASS seed 13 positive furniture F13
+PASS seed 13 furniture inside slab F13
+PASS seed 13 furniture inside assigned room F13
+PASS seed 13 positive furniture F14
+PASS seed 13 furniture inside slab F14
+PASS seed 13 furniture inside assigned room F14
+PASS seed 13 positive furniture F15
+PASS seed 13 furniture inside slab F15
+PASS seed 13 furniture inside assigned room F15
+PASS seed 13 positive furniture F16
+PASS seed 13 furniture inside slab F16
+PASS seed 13 furniture inside assigned room F16
+PASS seed 14 succeeds
+PASS seed 14 slab positive
+PASS seed 14 positive room R1
+PASS seed 14 room inside slab R1
+PASS seed 14 positive room R2
+PASS seed 14 room inside slab R2
+PASS seed 14 positive room R3
+PASS seed 14 room inside slab R3
+PASS seed 14 positive room R4
+PASS seed 14 room inside slab R4
+PASS seed 14 positive room R5
+PASS seed 14 room inside slab R5
+PASS seed 14 positive room R6
+PASS seed 14 room inside slab R6
+PASS seed 14 positive room R7
+PASS seed 14 room inside slab R7
+PASS seed 14 positive room R8
+PASS seed 14 room inside slab R8
+PASS seed 14 positive room CIRC
+PASS seed 14 room inside slab CIRC
+PASS seed 14 nonzero wall W1
+PASS seed 14 nonzero wall W2
+PASS seed 14 nonzero wall W3
+PASS seed 14 nonzero wall W4
+PASS seed 14 nonzero wall W5
+PASS seed 14 nonzero wall W6
+PASS seed 14 nonzero wall W7
+PASS seed 14 nonzero wall W8
+PASS seed 14 nonzero wall W9
+PASS seed 14 nonzero wall W10
+PASS seed 14 nonzero wall W11
+PASS seed 14 nonzero wall W12
+PASS seed 14 nonzero wall W13
+PASS seed 14 nonzero wall W14
+PASS seed 14 nonzero wall W15
+PASS seed 14 nonzero wall W16
+PASS seed 14 nonzero wall W17
+PASS seed 14 nonzero wall W18
+PASS seed 14 opening has host O1
+PASS seed 14 opening on axis O1
+PASS seed 14 opening fits host O1
+PASS seed 14 opening has host O2
+PASS seed 14 opening on axis O2
+PASS seed 14 opening fits host O2
+PASS seed 14 opening has host O3
+PASS seed 14 opening on axis O3
+PASS seed 14 opening fits host O3
+PASS seed 14 opening has host O4
+PASS seed 14 opening on axis O4
+PASS seed 14 opening fits host O4
+PASS seed 14 opening has host O5
+PASS seed 14 opening on axis O5
+PASS seed 14 opening fits host O5
+PASS seed 14 opening has host O6
+PASS seed 14 opening on axis O6
+PASS seed 14 opening fits host O6
+PASS seed 14 opening has host O7
+PASS seed 14 opening on axis O7
+PASS seed 14 opening fits host O7
+PASS seed 14 opening has host O8
+PASS seed 14 opening on axis O8
+PASS seed 14 opening fits host O8
+PASS seed 14 opening has host O9
+PASS seed 14 opening on axis O9
+PASS seed 14 opening fits host O9
+PASS seed 14 opening has host O10
+PASS seed 14 opening on axis O10
+PASS seed 14 opening fits host O10
+PASS seed 14 opening has host O11
+PASS seed 14 opening on axis O11
+PASS seed 14 opening fits host O11
+PASS seed 14 opening has host O12
+PASS seed 14 opening on axis O12
+PASS seed 14 opening fits host O12
+PASS seed 14 opening has host O13
+PASS seed 14 opening on axis O13
+PASS seed 14 opening fits host O13
+PASS seed 14 opening has host O14
+PASS seed 14 opening on axis O14
+PASS seed 14 opening fits host O14
+PASS seed 14 opening has host O15
+PASS seed 14 opening on axis O15
+PASS seed 14 opening fits host O15
+PASS seed 14 opening has host O16
+PASS seed 14 opening on axis O16
+PASS seed 14 opening fits host O16
+PASS seed 14 opening has host O17
+PASS seed 14 opening on axis O17
+PASS seed 14 opening fits host O17
+PASS seed 14 positive furniture F1
+PASS seed 14 furniture inside slab F1
+PASS seed 14 furniture inside assigned room F1
+PASS seed 14 positive furniture F2
+PASS seed 14 furniture inside slab F2
+PASS seed 14 furniture inside assigned room F2
+PASS seed 14 positive furniture F3
+PASS seed 14 furniture inside slab F3
+PASS seed 14 furniture inside assigned room F3
+PASS seed 14 positive furniture F4
+PASS seed 14 furniture inside slab F4
+PASS seed 14 furniture inside assigned room F4
+PASS seed 14 positive furniture F5
+PASS seed 14 furniture inside slab F5
+PASS seed 14 furniture inside assigned room F5
+PASS seed 14 positive furniture F6
+PASS seed 14 furniture inside slab F6
+PASS seed 14 furniture inside assigned room F6
+PASS seed 14 positive furniture F7
+PASS seed 14 furniture inside slab F7
+PASS seed 14 furniture inside assigned room F7
+PASS seed 14 positive furniture F8
+PASS seed 14 furniture inside slab F8
+PASS seed 14 furniture inside assigned room F8
+PASS seed 14 positive furniture F9
+PASS seed 14 furniture inside slab F9
+PASS seed 14 furniture inside assigned room F9
+PASS seed 14 positive furniture F10
+PASS seed 14 furniture inside slab F10
+PASS seed 14 furniture inside assigned room F10
+PASS seed 14 positive furniture F11
+PASS seed 14 furniture inside slab F11
+PASS seed 14 furniture inside assigned room F11
+PASS seed 14 positive furniture F12
+PASS seed 14 furniture inside slab F12
+PASS seed 14 furniture inside assigned room F12
+PASS seed 14 positive furniture F13
+PASS seed 14 furniture inside slab F13
+PASS seed 14 furniture inside assigned room F13
+PASS seed 14 positive furniture F14
+PASS seed 14 furniture inside slab F14
+PASS seed 14 furniture inside assigned room F14
+PASS seed 14 positive furniture F15
+PASS seed 14 furniture inside slab F15
+PASS seed 14 furniture inside assigned room F15
+PASS seed 14 positive furniture F16
+PASS seed 14 furniture inside slab F16
+PASS seed 14 furniture inside assigned room F16
+PASS seed 15 succeeds
+PASS seed 15 slab positive
+PASS seed 15 positive room R1
+PASS seed 15 room inside slab R1
+PASS seed 15 positive room R2
+PASS seed 15 room inside slab R2
+PASS seed 15 positive room R3
+PASS seed 15 room inside slab R3
+PASS seed 15 positive room R4
+PASS seed 15 room inside slab R4
+PASS seed 15 positive room R5
+PASS seed 15 room inside slab R5
+PASS seed 15 positive room R6
+PASS seed 15 room inside slab R6
+PASS seed 15 positive room R7
+PASS seed 15 room inside slab R7
+PASS seed 15 positive room R8
+PASS seed 15 room inside slab R8
+PASS seed 15 positive room CIRC
+PASS seed 15 room inside slab CIRC
+PASS seed 15 nonzero wall W1
+PASS seed 15 nonzero wall W2
+PASS seed 15 nonzero wall W3
+PASS seed 15 nonzero wall W4
+PASS seed 15 nonzero wall W5
+PASS seed 15 nonzero wall W6
+PASS seed 15 nonzero wall W7
+PASS seed 15 nonzero wall W8
+PASS seed 15 nonzero wall W9
+PASS seed 15 nonzero wall W10
+PASS seed 15 nonzero wall W11
+PASS seed 15 nonzero wall W12
+PASS seed 15 nonzero wall W13
+PASS seed 15 nonzero wall W14
+PASS seed 15 nonzero wall W15
+PASS seed 15 nonzero wall W16
+PASS seed 15 nonzero wall W17
+PASS seed 15 nonzero wall W18
+PASS seed 15 opening has host O1
+PASS seed 15 opening on axis O1
+PASS seed 15 opening fits host O1
+PASS seed 15 opening has host O2
+PASS seed 15 opening on axis O2
+PASS seed 15 opening fits host O2
+PASS seed 15 opening has host O3
+PASS seed 15 opening on axis O3
+PASS seed 15 opening fits host O3
+PASS seed 15 opening has host O4
+PASS seed 15 opening on axis O4
+PASS seed 15 opening fits host O4
+PASS seed 15 opening has host O5
+PASS seed 15 opening on axis O5
+PASS seed 15 opening fits host O5
+PASS seed 15 opening has host O6
+PASS seed 15 opening on axis O6
+PASS seed 15 opening fits host O6
+PASS seed 15 opening has host O7
+PASS seed 15 opening on axis O7
+PASS seed 15 opening fits host O7
+PASS seed 15 opening has host O8
+PASS seed 15 opening on axis O8
+PASS seed 15 opening fits host O8
+PASS seed 15 opening has host O9
+PASS seed 15 opening on axis O9
+PASS seed 15 opening fits host O9
+PASS seed 15 opening has host O10
+PASS seed 15 opening on axis O10
+PASS seed 15 opening fits host O10
+PASS seed 15 opening has host O11
+PASS seed 15 opening on axis O11
+PASS seed 15 opening fits host O11
+PASS seed 15 opening has host O12
+PASS seed 15 opening on axis O12
+PASS seed 15 opening fits host O12
+PASS seed 15 opening has host O13
+PASS seed 15 opening on axis O13
+PASS seed 15 opening fits host O13
+PASS seed 15 opening has host O14
+PASS seed 15 opening on axis O14
+PASS seed 15 opening fits host O14
+PASS seed 15 opening has host O15
+PASS seed 15 opening on axis O15
+PASS seed 15 opening fits host O15
+PASS seed 15 opening has host O16
+PASS seed 15 opening on axis O16
+PASS seed 15 opening fits host O16
+PASS seed 15 opening has host O17
+PASS seed 15 opening on axis O17
+PASS seed 15 opening fits host O17
+PASS seed 15 positive furniture F1
+PASS seed 15 furniture inside slab F1
+PASS seed 15 furniture inside assigned room F1
+PASS seed 15 positive furniture F2
+PASS seed 15 furniture inside slab F2
+PASS seed 15 furniture inside assigned room F2
+PASS seed 15 positive furniture F3
+PASS seed 15 furniture inside slab F3
+PASS seed 15 furniture inside assigned room F3
+PASS seed 15 positive furniture F4
+PASS seed 15 furniture inside slab F4
+PASS seed 15 furniture inside assigned room F4
+PASS seed 15 positive furniture F5
+PASS seed 15 furniture inside slab F5
+PASS seed 15 furniture inside assigned room F5
+PASS seed 15 positive furniture F6
+PASS seed 15 furniture inside slab F6
+PASS seed 15 furniture inside assigned room F6
+PASS seed 15 positive furniture F7
+PASS seed 15 furniture inside slab F7
+PASS seed 15 furniture inside assigned room F7
+PASS seed 15 positive furniture F8
+PASS seed 15 furniture inside slab F8
+PASS seed 15 furniture inside assigned room F8
+PASS seed 15 positive furniture F9
+PASS seed 15 furniture inside slab F9
+PASS seed 15 furniture inside assigned room F9
+PASS seed 15 positive furniture F10
+PASS seed 15 furniture inside slab F10
+PASS seed 15 furniture inside assigned room F10
+PASS seed 15 positive furniture F11
+PASS seed 15 furniture inside slab F11
+PASS seed 15 furniture inside assigned room F11
+PASS seed 15 positive furniture F12
+PASS seed 15 furniture inside slab F12
+PASS seed 15 furniture inside assigned room F12
+PASS seed 15 positive furniture F13
+PASS seed 15 furniture inside slab F13
+PASS seed 15 furniture inside assigned room F13
+PASS seed 15 positive furniture F14
+PASS seed 15 furniture inside slab F14
+PASS seed 15 furniture inside assigned room F14
+PASS seed 15 positive furniture F15
+PASS seed 15 furniture inside slab F15
+PASS seed 15 furniture inside assigned room F15
+PASS seed 15 positive furniture F16
+PASS seed 15 furniture inside slab F16
+PASS seed 15 furniture inside assigned room F16
+PASS seed 16 succeeds
+PASS seed 16 slab positive
+PASS seed 16 positive room R1
+PASS seed 16 room inside slab R1
+PASS seed 16 positive room R2
+PASS seed 16 room inside slab R2
+PASS seed 16 positive room R3
+PASS seed 16 room inside slab R3
+PASS seed 16 positive room R4
+PASS seed 16 room inside slab R4
+PASS seed 16 positive room R5
+PASS seed 16 room inside slab R5
+PASS seed 16 positive room R6
+PASS seed 16 room inside slab R6
+PASS seed 16 positive room R7
+PASS seed 16 room inside slab R7
+PASS seed 16 positive room R8
+PASS seed 16 room inside slab R8
+PASS seed 16 positive room CIRC
+PASS seed 16 room inside slab CIRC
+PASS seed 16 nonzero wall W1
+PASS seed 16 nonzero wall W2
+PASS seed 16 nonzero wall W3
+PASS seed 16 nonzero wall W4
+PASS seed 16 nonzero wall W5
+PASS seed 16 nonzero wall W6
+PASS seed 16 nonzero wall W7
+PASS seed 16 nonzero wall W8
+PASS seed 16 nonzero wall W9
+PASS seed 16 nonzero wall W10
+PASS seed 16 nonzero wall W11
+PASS seed 16 nonzero wall W12
+PASS seed 16 nonzero wall W13
+PASS seed 16 nonzero wall W14
+PASS seed 16 nonzero wall W15
+PASS seed 16 nonzero wall W16
+PASS seed 16 nonzero wall W17
+PASS seed 16 nonzero wall W18
+PASS seed 16 opening has host O1
+PASS seed 16 opening on axis O1
+PASS seed 16 opening fits host O1
+PASS seed 16 opening has host O2
+PASS seed 16 opening on axis O2
+PASS seed 16 opening fits host O2
+PASS seed 16 opening has host O3
+PASS seed 16 opening on axis O3
+PASS seed 16 opening fits host O3
+PASS seed 16 opening has host O4
+PASS seed 16 opening on axis O4
+PASS seed 16 opening fits host O4
+PASS seed 16 opening has host O5
+PASS seed 16 opening on axis O5
+PASS seed 16 opening fits host O5
+PASS seed 16 opening has host O6
+PASS seed 16 opening on axis O6
+PASS seed 16 opening fits host O6
+PASS seed 16 opening has host O7
+PASS seed 16 opening on axis O7
+PASS seed 16 opening fits host O7
+PASS seed 16 opening has host O8
+PASS seed 16 opening on axis O8
+PASS seed 16 opening fits host O8
+PASS seed 16 opening has host O9
+PASS seed 16 opening on axis O9
+PASS seed 16 opening fits host O9
+PASS seed 16 opening has host O10
+PASS seed 16 opening on axis O10
+PASS seed 16 opening fits host O10
+PASS seed 16 opening has host O11
+PASS seed 16 opening on axis O11
+PASS seed 16 opening fits host O11
+PASS seed 16 opening has host O12
+PASS seed 16 opening on axis O12
+PASS seed 16 opening fits host O12
+PASS seed 16 opening has host O13
+PASS seed 16 opening on axis O13
+PASS seed 16 opening fits host O13
+PASS seed 16 opening has host O14
+PASS seed 16 opening on axis O14
+PASS seed 16 opening fits host O14
+PASS seed 16 opening has host O15
+PASS seed 16 opening on axis O15
+PASS seed 16 opening fits host O15
+PASS seed 16 opening has host O16
+PASS seed 16 opening on axis O16
+PASS seed 16 opening fits host O16
+PASS seed 16 opening has host O17
+PASS seed 16 opening on axis O17
+PASS seed 16 opening fits host O17
+PASS seed 16 positive furniture F1
+PASS seed 16 furniture inside slab F1
+PASS seed 16 furniture inside assigned room F1
+PASS seed 16 positive furniture F2
+PASS seed 16 furniture inside slab F2
+PASS seed 16 furniture inside assigned room F2
+PASS seed 16 positive furniture F3
+PASS seed 16 furniture inside slab F3
+PASS seed 16 furniture inside assigned room F3
+PASS seed 16 positive furniture F4
+PASS seed 16 furniture inside slab F4
+PASS seed 16 furniture inside assigned room F4
+PASS seed 16 positive furniture F5
+PASS seed 16 furniture inside slab F5
+PASS seed 16 furniture inside assigned room F5
+PASS seed 16 positive furniture F6
+PASS seed 16 furniture inside slab F6
+PASS seed 16 furniture inside assigned room F6
+PASS seed 16 positive furniture F7
+PASS seed 16 furniture inside slab F7
+PASS seed 16 furniture inside assigned room F7
+PASS seed 16 positive furniture F8
+PASS seed 16 furniture inside slab F8
+PASS seed 16 furniture inside assigned room F8
+PASS seed 16 positive furniture F9
+PASS seed 16 furniture inside slab F9
+PASS seed 16 furniture inside assigned room F9
+PASS seed 16 positive furniture F10
+PASS seed 16 furniture inside slab F10
+PASS seed 16 furniture inside assigned room F10
+PASS seed 16 positive furniture F11
+PASS seed 16 furniture inside slab F11
+PASS seed 16 furniture inside assigned room F11
+PASS seed 16 positive furniture F12
+PASS seed 16 furniture inside slab F12
+PASS seed 16 furniture inside assigned room F12
+PASS seed 16 positive furniture F13
+PASS seed 16 furniture inside slab F13
+PASS seed 16 furniture inside assigned room F13
+PASS seed 16 positive furniture F14
+PASS seed 16 furniture inside slab F14
+PASS seed 16 furniture inside assigned room F14
+PASS seed 16 positive furniture F15
+PASS seed 16 furniture inside slab F15
+PASS seed 16 furniture inside assigned room F15
+PASS seed 16 positive furniture F16
+PASS seed 16 furniture inside slab F16
+PASS seed 16 furniture inside assigned room F16
+PASS seed 17 succeeds
+PASS seed 17 slab positive
+PASS seed 17 positive room R1
+PASS seed 17 room inside slab R1
+PASS seed 17 positive room R2
+PASS seed 17 room inside slab R2
+PASS seed 17 positive room R3
+PASS seed 17 room inside slab R3
+PASS seed 17 positive room R4
+PASS seed 17 room inside slab R4
+PASS seed 17 positive room R5
+PASS seed 17 room inside slab R5
+PASS seed 17 positive room R6
+PASS seed 17 room inside slab R6
+PASS seed 17 positive room R7
+PASS seed 17 room inside slab R7
+PASS seed 17 positive room R8
+PASS seed 17 room inside slab R8
+PASS seed 17 positive room CIRC
+PASS seed 17 room inside slab CIRC
+PASS seed 17 nonzero wall W1
+PASS seed 17 nonzero wall W2
+PASS seed 17 nonzero wall W3
+PASS seed 17 nonzero wall W4
+PASS seed 17 nonzero wall W5
+PASS seed 17 nonzero wall W6
+PASS seed 17 nonzero wall W7
+PASS seed 17 nonzero wall W8
+PASS seed 17 nonzero wall W9
+PASS seed 17 nonzero wall W10
+PASS seed 17 nonzero wall W11
+PASS seed 17 nonzero wall W12
+PASS seed 17 nonzero wall W13
+PASS seed 17 nonzero wall W14
+PASS seed 17 nonzero wall W15
+PASS seed 17 nonzero wall W16
+PASS seed 17 nonzero wall W17
+PASS seed 17 nonzero wall W18
+PASS seed 17 opening has host O1
+PASS seed 17 opening on axis O1
+PASS seed 17 opening fits host O1
+PASS seed 17 opening has host O2
+PASS seed 17 opening on axis O2
+PASS seed 17 opening fits host O2
+PASS seed 17 opening has host O3
+PASS seed 17 opening on axis O3
+PASS seed 17 opening fits host O3
+PASS seed 17 opening has host O4
+PASS seed 17 opening on axis O4
+PASS seed 17 opening fits host O4
+PASS seed 17 opening has host O5
+PASS seed 17 opening on axis O5
+PASS seed 17 opening fits host O5
+PASS seed 17 opening has host O6
+PASS seed 17 opening on axis O6
+PASS seed 17 opening fits host O6
+PASS seed 17 opening has host O7
+PASS seed 17 opening on axis O7
+PASS seed 17 opening fits host O7
+PASS seed 17 opening has host O8
+PASS seed 17 opening on axis O8
+PASS seed 17 opening fits host O8
+PASS seed 17 opening has host O9
+PASS seed 17 opening on axis O9
+PASS seed 17 opening fits host O9
+PASS seed 17 opening has host O10
+PASS seed 17 opening on axis O10
+PASS seed 17 opening fits host O10
+PASS seed 17 opening has host O11
+PASS seed 17 opening on axis O11
+PASS seed 17 opening fits host O11
+PASS seed 17 opening has host O12
+PASS seed 17 opening on axis O12
+PASS seed 17 opening fits host O12
+PASS seed 17 opening has host O13
+PASS seed 17 opening on axis O13
+PASS seed 17 opening fits host O13
+PASS seed 17 opening has host O14
+PASS seed 17 opening on axis O14
+PASS seed 17 opening fits host O14
+PASS seed 17 opening has host O15
+PASS seed 17 opening on axis O15
+PASS seed 17 opening fits host O15
+PASS seed 17 opening has host O16
+PASS seed 17 opening on axis O16
+PASS seed 17 opening fits host O16
+PASS seed 17 opening has host O17
+PASS seed 17 opening on axis O17
+PASS seed 17 opening fits host O17
+PASS seed 17 positive furniture F1
+PASS seed 17 furniture inside slab F1
+PASS seed 17 furniture inside assigned room F1
+PASS seed 17 positive furniture F2
+PASS seed 17 furniture inside slab F2
+PASS seed 17 furniture inside assigned room F2
+PASS seed 17 positive furniture F3
+PASS seed 17 furniture inside slab F3
+PASS seed 17 furniture inside assigned room F3
+PASS seed 17 positive furniture F4
+PASS seed 17 furniture inside slab F4
+PASS seed 17 furniture inside assigned room F4
+PASS seed 17 positive furniture F5
+PASS seed 17 furniture inside slab F5
+PASS seed 17 furniture inside assigned room F5
+PASS seed 17 positive furniture F6
+PASS seed 17 furniture inside slab F6
+PASS seed 17 furniture inside assigned room F6
+PASS seed 17 positive furniture F7
+PASS seed 17 furniture inside slab F7
+PASS seed 17 furniture inside assigned room F7
+PASS seed 17 positive furniture F8
+PASS seed 17 furniture inside slab F8
+PASS seed 17 furniture inside assigned room F8
+PASS seed 17 positive furniture F9
+PASS seed 17 furniture inside slab F9
+PASS seed 17 furniture inside assigned room F9
+PASS seed 17 positive furniture F10
+PASS seed 17 furniture inside slab F10
+PASS seed 17 furniture inside assigned room F10
+PASS seed 17 positive furniture F11
+PASS seed 17 furniture inside slab F11
+PASS seed 17 furniture inside assigned room F11
+PASS seed 17 positive furniture F12
+PASS seed 17 furniture inside slab F12
+PASS seed 17 furniture inside assigned room F12
+PASS seed 17 positive furniture F13
+PASS seed 17 furniture inside slab F13
+PASS seed 17 furniture inside assigned room F13
+PASS seed 17 positive furniture F14
+PASS seed 17 furniture inside slab F14
+PASS seed 17 furniture inside assigned room F14
+PASS seed 17 positive furniture F15
+PASS seed 17 furniture inside slab F15
+PASS seed 17 furniture inside assigned room F15
+PASS seed 17 positive furniture F16
+PASS seed 17 furniture inside slab F16
+PASS seed 17 furniture inside assigned room F16
+PASS seed 18 succeeds
+PASS seed 18 slab positive
+PASS seed 18 positive room R1
+PASS seed 18 room inside slab R1
+PASS seed 18 positive room R2
+PASS seed 18 room inside slab R2
+PASS seed 18 positive room R3
+PASS seed 18 room inside slab R3
+PASS seed 18 positive room R4
+PASS seed 18 room inside slab R4
+PASS seed 18 positive room R5
+PASS seed 18 room inside slab R5
+PASS seed 18 positive room R6
+PASS seed 18 room inside slab R6
+PASS seed 18 positive room R7
+PASS seed 18 room inside slab R7
+PASS seed 18 positive room R8
+PASS seed 18 room inside slab R8
+PASS seed 18 positive room CIRC
+PASS seed 18 room inside slab CIRC
+PASS seed 18 nonzero wall W1
+PASS seed 18 nonzero wall W2
+PASS seed 18 nonzero wall W3
+PASS seed 18 nonzero wall W4
+PASS seed 18 nonzero wall W5
+PASS seed 18 nonzero wall W6
+PASS seed 18 nonzero wall W7
+PASS seed 18 nonzero wall W8
+PASS seed 18 nonzero wall W9
+PASS seed 18 nonzero wall W10
+PASS seed 18 nonzero wall W11
+PASS seed 18 nonzero wall W12
+PASS seed 18 nonzero wall W13
+PASS seed 18 nonzero wall W14
+PASS seed 18 nonzero wall W15
+PASS seed 18 nonzero wall W16
+PASS seed 18 nonzero wall W17
+PASS seed 18 nonzero wall W18
+PASS seed 18 opening has host O1
+PASS seed 18 opening on axis O1
+PASS seed 18 opening fits host O1
+PASS seed 18 opening has host O2
+PASS seed 18 opening on axis O2
+PASS seed 18 opening fits host O2
+PASS seed 18 opening has host O3
+PASS seed 18 opening on axis O3
+PASS seed 18 opening fits host O3
+PASS seed 18 opening has host O4
+PASS seed 18 opening on axis O4
+PASS seed 18 opening fits host O4
+PASS seed 18 opening has host O5
+PASS seed 18 opening on axis O5
+PASS seed 18 opening fits host O5
+PASS seed 18 opening has host O6
+PASS seed 18 opening on axis O6
+PASS seed 18 opening fits host O6
+PASS seed 18 opening has host O7
+PASS seed 18 opening on axis O7
+PASS seed 18 opening fits host O7
+PASS seed 18 opening has host O8
+PASS seed 18 opening on axis O8
+PASS seed 18 opening fits host O8
+PASS seed 18 opening has host O9
+PASS seed 18 opening on axis O9
+PASS seed 18 opening fits host O9
+PASS seed 18 opening has host O10
+PASS seed 18 opening on axis O10
+PASS seed 18 opening fits host O10
+PASS seed 18 opening has host O11
+PASS seed 18 opening on axis O11
+PASS seed 18 opening fits host O11
+PASS seed 18 opening has host O12
+PASS seed 18 opening on axis O12
+PASS seed 18 opening fits host O12
+PASS seed 18 opening has host O13
+PASS seed 18 opening on axis O13
+PASS seed 18 opening fits host O13
+PASS seed 18 opening has host O14
+PASS seed 18 opening on axis O14
+PASS seed 18 opening fits host O14
+PASS seed 18 opening has host O15
+PASS seed 18 opening on axis O15
+PASS seed 18 opening fits host O15
+PASS seed 18 opening has host O16
+PASS seed 18 opening on axis O16
+PASS seed 18 opening fits host O16
+PASS seed 18 opening has host O17
+PASS seed 18 opening on axis O17
+PASS seed 18 opening fits host O17
+PASS seed 18 positive furniture F1
+PASS seed 18 furniture inside slab F1
+PASS seed 18 furniture inside assigned room F1
+PASS seed 18 positive furniture F2
+PASS seed 18 furniture inside slab F2
+PASS seed 18 furniture inside assigned room F2
+PASS seed 18 positive furniture F3
+PASS seed 18 furniture inside slab F3
+PASS seed 18 furniture inside assigned room F3
+PASS seed 18 positive furniture F4
+PASS seed 18 furniture inside slab F4
+PASS seed 18 furniture inside assigned room F4
+PASS seed 18 positive furniture F5
+PASS seed 18 furniture inside slab F5
+PASS seed 18 furniture inside assigned room F5
+PASS seed 18 positive furniture F6
+PASS seed 18 furniture inside slab F6
+PASS seed 18 furniture inside assigned room F6
+PASS seed 18 positive furniture F7
+PASS seed 18 furniture inside slab F7
+PASS seed 18 furniture inside assigned room F7
+PASS seed 18 positive furniture F8
+PASS seed 18 furniture inside slab F8
+PASS seed 18 furniture inside assigned room F8
+PASS seed 18 positive furniture F9
+PASS seed 18 furniture inside slab F9
+PASS seed 18 furniture inside assigned room F9
+PASS seed 18 positive furniture F10
+PASS seed 18 furniture inside slab F10
+PASS seed 18 furniture inside assigned room F10
+PASS seed 18 positive furniture F11
+PASS seed 18 furniture inside slab F11
+PASS seed 18 furniture inside assigned room F11
+PASS seed 18 positive furniture F12
+PASS seed 18 furniture inside slab F12
+PASS seed 18 furniture inside assigned room F12
+PASS seed 18 positive furniture F13
+PASS seed 18 furniture inside slab F13
+PASS seed 18 furniture inside assigned room F13
+PASS seed 18 positive furniture F14
+PASS seed 18 furniture inside slab F14
+PASS seed 18 furniture inside assigned room F14
+PASS seed 18 positive furniture F15
+PASS seed 18 furniture inside slab F15
+PASS seed 18 furniture inside assigned room F15
+PASS seed 18 positive furniture F16
+PASS seed 18 furniture inside slab F16
+PASS seed 18 furniture inside assigned room F16
+PASS seed 19 succeeds
+PASS seed 19 slab positive
+PASS seed 19 positive room R1
+PASS seed 19 room inside slab R1
+PASS seed 19 positive room R2
+PASS seed 19 room inside slab R2
+PASS seed 19 positive room R3
+PASS seed 19 room inside slab R3
+PASS seed 19 positive room R4
+PASS seed 19 room inside slab R4
+PASS seed 19 positive room R5
+PASS seed 19 room inside slab R5
+PASS seed 19 positive room R6
+PASS seed 19 room inside slab R6
+PASS seed 19 positive room R7
+PASS seed 19 room inside slab R7
+PASS seed 19 positive room R8
+PASS seed 19 room inside slab R8
+PASS seed 19 positive room CIRC
+PASS seed 19 room inside slab CIRC
+PASS seed 19 nonzero wall W1
+PASS seed 19 nonzero wall W2
+PASS seed 19 nonzero wall W3
+PASS seed 19 nonzero wall W4
+PASS seed 19 nonzero wall W5
+PASS seed 19 nonzero wall W6
+PASS seed 19 nonzero wall W7
+PASS seed 19 nonzero wall W8
+PASS seed 19 nonzero wall W9
+PASS seed 19 nonzero wall W10
+PASS seed 19 nonzero wall W11
+PASS seed 19 nonzero wall W12
+PASS seed 19 nonzero wall W13
+PASS seed 19 nonzero wall W14
+PASS seed 19 nonzero wall W15
+PASS seed 19 nonzero wall W16
+PASS seed 19 nonzero wall W17
+PASS seed 19 nonzero wall W18
+PASS seed 19 opening has host O1
+PASS seed 19 opening on axis O1
+PASS seed 19 opening fits host O1
+PASS seed 19 opening has host O2
+PASS seed 19 opening on axis O2
+PASS seed 19 opening fits host O2
+PASS seed 19 opening has host O3
+PASS seed 19 opening on axis O3
+PASS seed 19 opening fits host O3
+PASS seed 19 opening has host O4
+PASS seed 19 opening on axis O4
+PASS seed 19 opening fits host O4
+PASS seed 19 opening has host O5
+PASS seed 19 opening on axis O5
+PASS seed 19 opening fits host O5
+PASS seed 19 opening has host O6
+PASS seed 19 opening on axis O6
+PASS seed 19 opening fits host O6
+PASS seed 19 opening has host O7
+PASS seed 19 opening on axis O7
+PASS seed 19 opening fits host O7
+PASS seed 19 opening has host O8
+PASS seed 19 opening on axis O8
+PASS seed 19 opening fits host O8
+PASS seed 19 opening has host O9
+PASS seed 19 opening on axis O9
+PASS seed 19 opening fits host O9
+PASS seed 19 opening has host O10
+PASS seed 19 opening on axis O10
+PASS seed 19 opening fits host O10
+PASS seed 19 opening has host O11
+PASS seed 19 opening on axis O11
+PASS seed 19 opening fits host O11
+PASS seed 19 opening has host O12
+PASS seed 19 opening on axis O12
+PASS seed 19 opening fits host O12
+PASS seed 19 opening has host O13
+PASS seed 19 opening on axis O13
+PASS seed 19 opening fits host O13
+PASS seed 19 opening has host O14
+PASS seed 19 opening on axis O14
+PASS seed 19 opening fits host O14
+PASS seed 19 opening has host O15
+PASS seed 19 opening on axis O15
+PASS seed 19 opening fits host O15
+PASS seed 19 opening has host O16
+PASS seed 19 opening on axis O16
+PASS seed 19 opening fits host O16
+PASS seed 19 opening has host O17
+PASS seed 19 opening on axis O17
+PASS seed 19 opening fits host O17
+PASS seed 19 positive furniture F1
+PASS seed 19 furniture inside slab F1
+PASS seed 19 furniture inside assigned room F1
+PASS seed 19 positive furniture F2
+PASS seed 19 furniture inside slab F2
+PASS seed 19 furniture inside assigned room F2
+PASS seed 19 positive furniture F3
+PASS seed 19 furniture inside slab F3
+PASS seed 19 furniture inside assigned room F3
+PASS seed 19 positive furniture F4
+PASS seed 19 furniture inside slab F4
+PASS seed 19 furniture inside assigned room F4
+PASS seed 19 positive furniture F5
+PASS seed 19 furniture inside slab F5
+PASS seed 19 furniture inside assigned room F5
+PASS seed 19 positive furniture F6
+PASS seed 19 furniture inside slab F6
+PASS seed 19 furniture inside assigned room F6
+PASS seed 19 positive furniture F7
+PASS seed 19 furniture inside slab F7
+PASS seed 19 furniture inside assigned room F7
+PASS seed 19 positive furniture F8
+PASS seed 19 furniture inside slab F8
+PASS seed 19 furniture inside assigned room F8
+PASS seed 19 positive furniture F9
+PASS seed 19 furniture inside slab F9
+PASS seed 19 furniture inside assigned room F9
+PASS seed 19 positive furniture F10
+PASS seed 19 furniture inside slab F10
+PASS seed 19 furniture inside assigned room F10
+PASS seed 19 positive furniture F11
+PASS seed 19 furniture inside slab F11
+PASS seed 19 furniture inside assigned room F11
+PASS seed 19 positive furniture F12
+PASS seed 19 furniture inside slab F12
+PASS seed 19 furniture inside assigned room F12
+PASS seed 19 positive furniture F13
+PASS seed 19 furniture inside slab F13
+PASS seed 19 furniture inside assigned room F13
+PASS seed 19 positive furniture F14
+PASS seed 19 furniture inside slab F14
+PASS seed 19 furniture inside assigned room F14
+PASS seed 19 positive furniture F15
+PASS seed 19 furniture inside slab F15
+PASS seed 19 furniture inside assigned room F15
+PASS seed 19 positive furniture F16
+PASS seed 19 furniture inside slab F16
+PASS seed 19 furniture inside assigned room F16
+PASS seed 20 succeeds
+PASS seed 20 slab positive
+PASS seed 20 positive room R1
+PASS seed 20 room inside slab R1
+PASS seed 20 positive room R2
+PASS seed 20 room inside slab R2
+PASS seed 20 positive room R3
+PASS seed 20 room inside slab R3
+PASS seed 20 positive room R4
+PASS seed 20 room inside slab R4
+PASS seed 20 positive room R5
+PASS seed 20 room inside slab R5
+PASS seed 20 positive room R6
+PASS seed 20 room inside slab R6
+PASS seed 20 positive room R7
+PASS seed 20 room inside slab R7
+PASS seed 20 positive room R8
+PASS seed 20 room inside slab R8
+PASS seed 20 positive room CIRC
+PASS seed 20 room inside slab CIRC
+PASS seed 20 nonzero wall W1
+PASS seed 20 nonzero wall W2
+PASS seed 20 nonzero wall W3
+PASS seed 20 nonzero wall W4
+PASS seed 20 nonzero wall W5
+PASS seed 20 nonzero wall W6
+PASS seed 20 nonzero wall W7
+PASS seed 20 nonzero wall W8
+PASS seed 20 nonzero wall W9
+PASS seed 20 nonzero wall W10
+PASS seed 20 nonzero wall W11
+PASS seed 20 nonzero wall W12
+PASS seed 20 nonzero wall W13
+PASS seed 20 nonzero wall W14
+PASS seed 20 nonzero wall W15
+PASS seed 20 nonzero wall W16
+PASS seed 20 nonzero wall W17
+PASS seed 20 nonzero wall W18
+PASS seed 20 opening has host O1
+PASS seed 20 opening on axis O1
+PASS seed 20 opening fits host O1
+PASS seed 20 opening has host O2
+PASS seed 20 opening on axis O2
+PASS seed 20 opening fits host O2
+PASS seed 20 opening has host O3
+PASS seed 20 opening on axis O3
+PASS seed 20 opening fits host O3
+PASS seed 20 opening has host O4
+PASS seed 20 opening on axis O4
+PASS seed 20 opening fits host O4
+PASS seed 20 opening has host O5
+PASS seed 20 opening on axis O5
+PASS seed 20 opening fits host O5
+PASS seed 20 opening has host O6
+PASS seed 20 opening on axis O6
+PASS seed 20 opening fits host O6
+PASS seed 20 opening has host O7
+PASS seed 20 opening on axis O7
+PASS seed 20 opening fits host O7
+PASS seed 20 opening has host O8
+PASS seed 20 opening on axis O8
+PASS seed 20 opening fits host O8
+PASS seed 20 opening has host O9
+PASS seed 20 opening on axis O9
+PASS seed 20 opening fits host O9
+PASS seed 20 opening has host O10
+PASS seed 20 opening on axis O10
+PASS seed 20 opening fits host O10
+PASS seed 20 opening has host O11
+PASS seed 20 opening on axis O11
+PASS seed 20 opening fits host O11
+PASS seed 20 opening has host O12
+PASS seed 20 opening on axis O12
+PASS seed 20 opening fits host O12
+PASS seed 20 opening has host O13
+PASS seed 20 opening on axis O13
+PASS seed 20 opening fits host O13
+PASS seed 20 opening has host O14
+PASS seed 20 opening on axis O14
+PASS seed 20 opening fits host O14
+PASS seed 20 opening has host O15
+PASS seed 20 opening on axis O15
+PASS seed 20 opening fits host O15
+PASS seed 20 opening has host O16
+PASS seed 20 opening on axis O16
+PASS seed 20 opening fits host O16
+PASS seed 20 opening has host O17
+PASS seed 20 opening on axis O17
+PASS seed 20 opening fits host O17
+PASS seed 20 positive furniture F1
+PASS seed 20 furniture inside slab F1
+PASS seed 20 furniture inside assigned room F1
+PASS seed 20 positive furniture F2
+PASS seed 20 furniture inside slab F2
+PASS seed 20 furniture inside assigned room F2
+PASS seed 20 positive furniture F3
+PASS seed 20 furniture inside slab F3
+PASS seed 20 furniture inside assigned room F3
+PASS seed 20 positive furniture F4
+PASS seed 20 furniture inside slab F4
+PASS seed 20 furniture inside assigned room F4
+PASS seed 20 positive furniture F5
+PASS seed 20 furniture inside slab F5
+PASS seed 20 furniture inside assigned room F5
+PASS seed 20 positive furniture F6
+PASS seed 20 furniture inside slab F6
+PASS seed 20 furniture inside assigned room F6
+PASS seed 20 positive furniture F7
+PASS seed 20 furniture inside slab F7
+PASS seed 20 furniture inside assigned room F7
+PASS seed 20 positive furniture F8
+PASS seed 20 furniture inside slab F8
+PASS seed 20 furniture inside assigned room F8
+PASS seed 20 positive furniture F9
+PASS seed 20 furniture inside slab F9
+PASS seed 20 furniture inside assigned room F9
+PASS seed 20 positive furniture F10
+PASS seed 20 furniture inside slab F10
+PASS seed 20 furniture inside assigned room F10
+PASS seed 20 positive furniture F11
+PASS seed 20 furniture inside slab F11
+PASS seed 20 furniture inside assigned room F11
+PASS seed 20 positive furniture F12
+PASS seed 20 furniture inside slab F12
+PASS seed 20 furniture inside assigned room F12
+PASS seed 20 positive furniture F13
+PASS seed 20 furniture inside slab F13
+PASS seed 20 furniture inside assigned room F13
+PASS seed 20 positive furniture F14
+PASS seed 20 furniture inside slab F14
+PASS seed 20 furniture inside assigned room F14
+PASS seed 20 positive furniture F15
+PASS seed 20 furniture inside slab F15
+PASS seed 20 furniture inside assigned room F15
+PASS seed 20 positive furniture F16
+PASS seed 20 furniture inside slab F16
+PASS seed 20 furniture inside assigned room F16
+PASS seed 21 succeeds
+PASS seed 21 slab positive
+PASS seed 21 positive room R1
+PASS seed 21 room inside slab R1
+PASS seed 21 positive room R2
+PASS seed 21 room inside slab R2
+PASS seed 21 positive room R3
+PASS seed 21 room inside slab R3
+PASS seed 21 positive room R4
+PASS seed 21 room inside slab R4
+PASS seed 21 positive room R5
+PASS seed 21 room inside slab R5
+PASS seed 21 positive room R6
+PASS seed 21 room inside slab R6
+PASS seed 21 positive room R7
+PASS seed 21 room inside slab R7
+PASS seed 21 positive room R8
+PASS seed 21 room inside slab R8
+PASS seed 21 positive room CIRC
+PASS seed 21 room inside slab CIRC
+PASS seed 21 nonzero wall W1
+PASS seed 21 nonzero wall W2
+PASS seed 21 nonzero wall W3
+PASS seed 21 nonzero wall W4
+PASS seed 21 nonzero wall W5
+PASS seed 21 nonzero wall W6
+PASS seed 21 nonzero wall W7
+PASS seed 21 nonzero wall W8
+PASS seed 21 nonzero wall W9
+PASS seed 21 nonzero wall W10
+PASS seed 21 nonzero wall W11
+PASS seed 21 nonzero wall W12
+PASS seed 21 nonzero wall W13
+PASS seed 21 nonzero wall W14
+PASS seed 21 nonzero wall W15
+PASS seed 21 nonzero wall W16
+PASS seed 21 nonzero wall W17
+PASS seed 21 nonzero wall W18
+PASS seed 21 opening has host O1
+PASS seed 21 opening on axis O1
+PASS seed 21 opening fits host O1
+PASS seed 21 opening has host O2
+PASS seed 21 opening on axis O2
+PASS seed 21 opening fits host O2
+PASS seed 21 opening has host O3
+PASS seed 21 opening on axis O3
+PASS seed 21 opening fits host O3
+PASS seed 21 opening has host O4
+PASS seed 21 opening on axis O4
+PASS seed 21 opening fits host O4
+PASS seed 21 opening has host O5
+PASS seed 21 opening on axis O5
+PASS seed 21 opening fits host O5
+PASS seed 21 opening has host O6
+PASS seed 21 opening on axis O6
+PASS seed 21 opening fits host O6
+PASS seed 21 opening has host O7
+PASS seed 21 opening on axis O7
+PASS seed 21 opening fits host O7
+PASS seed 21 opening has host O8
+PASS seed 21 opening on axis O8
+PASS seed 21 opening fits host O8
+PASS seed 21 opening has host O9
+PASS seed 21 opening on axis O9
+PASS seed 21 opening fits host O9
+PASS seed 21 opening has host O10
+PASS seed 21 opening on axis O10
+PASS seed 21 opening fits host O10
+PASS seed 21 opening has host O11
+PASS seed 21 opening on axis O11
+PASS seed 21 opening fits host O11
+PASS seed 21 opening has host O12
+PASS seed 21 opening on axis O12
+PASS seed 21 opening fits host O12
+PASS seed 21 opening has host O13
+PASS seed 21 opening on axis O13
+PASS seed 21 opening fits host O13
+PASS seed 21 opening has host O14
+PASS seed 21 opening on axis O14
+PASS seed 21 opening fits host O14
+PASS seed 21 opening has host O15
+PASS seed 21 opening on axis O15
+PASS seed 21 opening fits host O15
+PASS seed 21 opening has host O16
+PASS seed 21 opening on axis O16
+PASS seed 21 opening fits host O16
+PASS seed 21 opening has host O17
+PASS seed 21 opening on axis O17
+PASS seed 21 opening fits host O17
+PASS seed 21 positive furniture F1
+PASS seed 21 furniture inside slab F1
+PASS seed 21 furniture inside assigned room F1
+PASS seed 21 positive furniture F2
+PASS seed 21 furniture inside slab F2
+PASS seed 21 furniture inside assigned room F2
+PASS seed 21 positive furniture F3
+PASS seed 21 furniture inside slab F3
+PASS seed 21 furniture inside assigned room F3
+PASS seed 21 positive furniture F4
+PASS seed 21 furniture inside slab F4
+PASS seed 21 furniture inside assigned room F4
+PASS seed 21 positive furniture F5
+PASS seed 21 furniture inside slab F5
+PASS seed 21 furniture inside assigned room F5
+PASS seed 21 positive furniture F6
+PASS seed 21 furniture inside slab F6
+PASS seed 21 furniture inside assigned room F6
+PASS seed 21 positive furniture F7
+PASS seed 21 furniture inside slab F7
+PASS seed 21 furniture inside assigned room F7
+PASS seed 21 positive furniture F8
+PASS seed 21 furniture inside slab F8
+PASS seed 21 furniture inside assigned room F8
+PASS seed 21 positive furniture F9
+PASS seed 21 furniture inside slab F9
+PASS seed 21 furniture inside assigned room F9
+PASS seed 21 positive furniture F10
+PASS seed 21 furniture inside slab F10
+PASS seed 21 furniture inside assigned room F10
+PASS seed 21 positive furniture F11
+PASS seed 21 furniture inside slab F11
+PASS seed 21 furniture inside assigned room F11
+PASS seed 21 positive furniture F12
+PASS seed 21 furniture inside slab F12
+PASS seed 21 furniture inside assigned room F12
+PASS seed 21 positive furniture F13
+PASS seed 21 furniture inside slab F13
+PASS seed 21 furniture inside assigned room F13
+PASS seed 21 positive furniture F14
+PASS seed 21 furniture inside slab F14
+PASS seed 21 furniture inside assigned room F14
+PASS seed 21 positive furniture F15
+PASS seed 21 furniture inside slab F15
+PASS seed 21 furniture inside assigned room F15
+PASS seed 21 positive furniture F16
+PASS seed 21 furniture inside slab F16
+PASS seed 21 furniture inside assigned room F16
+PASS seed 22 succeeds
+PASS seed 22 slab positive
+PASS seed 22 positive room R1
+PASS seed 22 room inside slab R1
+PASS seed 22 positive room R2
+PASS seed 22 room inside slab R2
+PASS seed 22 positive room R3
+PASS seed 22 room inside slab R3
+PASS seed 22 positive room R4
+PASS seed 22 room inside slab R4
+PASS seed 22 positive room R5
+PASS seed 22 room inside slab R5
+PASS seed 22 positive room R6
+PASS seed 22 room inside slab R6
+PASS seed 22 positive room R7
+PASS seed 22 room inside slab R7
+PASS seed 22 positive room R8
+PASS seed 22 room inside slab R8
+PASS seed 22 positive room CIRC
+PASS seed 22 room inside slab CIRC
+PASS seed 22 nonzero wall W1
+PASS seed 22 nonzero wall W2
+PASS seed 22 nonzero wall W3
+PASS seed 22 nonzero wall W4
+PASS seed 22 nonzero wall W5
+PASS seed 22 nonzero wall W6
+PASS seed 22 nonzero wall W7
+PASS seed 22 nonzero wall W8
+PASS seed 22 nonzero wall W9
+PASS seed 22 nonzero wall W10
+PASS seed 22 nonzero wall W11
+PASS seed 22 nonzero wall W12
+PASS seed 22 nonzero wall W13
+PASS seed 22 nonzero wall W14
+PASS seed 22 nonzero wall W15
+PASS seed 22 nonzero wall W16
+PASS seed 22 nonzero wall W17
+PASS seed 22 nonzero wall W18
+PASS seed 22 opening has host O1
+PASS seed 22 opening on axis O1
+PASS seed 22 opening fits host O1
+PASS seed 22 opening has host O2
+PASS seed 22 opening on axis O2
+PASS seed 22 opening fits host O2
+PASS seed 22 opening has host O3
+PASS seed 22 opening on axis O3
+PASS seed 22 opening fits host O3
+PASS seed 22 opening has host O4
+PASS seed 22 opening on axis O4
+PASS seed 22 opening fits host O4
+PASS seed 22 opening has host O5
+PASS seed 22 opening on axis O5
+PASS seed 22 opening fits host O5
+PASS seed 22 opening has host O6
+PASS seed 22 opening on axis O6
+PASS seed 22 opening fits host O6
+PASS seed 22 opening has host O7
+PASS seed 22 opening on axis O7
+PASS seed 22 opening fits host O7
+PASS seed 22 opening has host O8
+PASS seed 22 opening on axis O8
+PASS seed 22 opening fits host O8
+PASS seed 22 opening has host O9
+PASS seed 22 opening on axis O9
+PASS seed 22 opening fits host O9
+PASS seed 22 opening has host O10
+PASS seed 22 opening on axis O10
+PASS seed 22 opening fits host O10
+PASS seed 22 opening has host O11
+PASS seed 22 opening on axis O11
+PASS seed 22 opening fits host O11
+PASS seed 22 opening has host O12
+PASS seed 22 opening on axis O12
+PASS seed 22 opening fits host O12
+PASS seed 22 opening has host O13
+PASS seed 22 opening on axis O13
+PASS seed 22 opening fits host O13
+PASS seed 22 opening has host O14
+PASS seed 22 opening on axis O14
+PASS seed 22 opening fits host O14
+PASS seed 22 opening has host O15
+PASS seed 22 opening on axis O15
+PASS seed 22 opening fits host O15
+PASS seed 22 opening has host O16
+PASS seed 22 opening on axis O16
+PASS seed 22 opening fits host O16
+PASS seed 22 opening has host O17
+PASS seed 22 opening on axis O17
+PASS seed 22 opening fits host O17
+PASS seed 22 positive furniture F1
+PASS seed 22 furniture inside slab F1
+PASS seed 22 furniture inside assigned room F1
+PASS seed 22 positive furniture F2
+PASS seed 22 furniture inside slab F2
+PASS seed 22 furniture inside assigned room F2
+PASS seed 22 positive furniture F3
+PASS seed 22 furniture inside slab F3
+PASS seed 22 furniture inside assigned room F3
+PASS seed 22 positive furniture F4
+PASS seed 22 furniture inside slab F4
+PASS seed 22 furniture inside assigned room F4
+PASS seed 22 positive furniture F5
+PASS seed 22 furniture inside slab F5
+PASS seed 22 furniture inside assigned room F5
+PASS seed 22 positive furniture F6
+PASS seed 22 furniture inside slab F6
+PASS seed 22 furniture inside assigned room F6
+PASS seed 22 positive furniture F7
+PASS seed 22 furniture inside slab F7
+PASS seed 22 furniture inside assigned room F7
+PASS seed 22 positive furniture F8
+PASS seed 22 furniture inside slab F8
+PASS seed 22 furniture inside assigned room F8
+PASS seed 22 positive furniture F9
+PASS seed 22 furniture inside slab F9
+PASS seed 22 furniture inside assigned room F9
+PASS seed 22 positive furniture F10
+PASS seed 22 furniture inside slab F10
+PASS seed 22 furniture inside assigned room F10
+PASS seed 22 positive furniture F11
+PASS seed 22 furniture inside slab F11
+PASS seed 22 furniture inside assigned room F11
+PASS seed 22 positive furniture F12
+PASS seed 22 furniture inside slab F12
+PASS seed 22 furniture inside assigned room F12
+PASS seed 22 positive furniture F13
+PASS seed 22 furniture inside slab F13
+PASS seed 22 furniture inside assigned room F13
+PASS seed 22 positive furniture F14
+PASS seed 22 furniture inside slab F14
+PASS seed 22 furniture inside assigned room F14
+PASS seed 22 positive furniture F15
+PASS seed 22 furniture inside slab F15
+PASS seed 22 furniture inside assigned room F15
+PASS seed 22 positive furniture F16
+PASS seed 22 furniture inside slab F16
+PASS seed 22 furniture inside assigned room F16
+PASS seed 23 succeeds
+PASS seed 23 slab positive
+PASS seed 23 positive room R1
+PASS seed 23 room inside slab R1
+PASS seed 23 positive room R2
+PASS seed 23 room inside slab R2
+PASS seed 23 positive room R3
+PASS seed 23 room inside slab R3
+PASS seed 23 positive room R4
+PASS seed 23 room inside slab R4
+PASS seed 23 positive room R5
+PASS seed 23 room inside slab R5
+PASS seed 23 positive room R6
+PASS seed 23 room inside slab R6
+PASS seed 23 positive room R7
+PASS seed 23 room inside slab R7
+PASS seed 23 positive room R8
+PASS seed 23 room inside slab R8
+PASS seed 23 positive room CIRC
+PASS seed 23 room inside slab CIRC
+PASS seed 23 nonzero wall W1
+PASS seed 23 nonzero wall W2
+PASS seed 23 nonzero wall W3
+PASS seed 23 nonzero wall W4
+PASS seed 23 nonzero wall W5
+PASS seed 23 nonzero wall W6
+PASS seed 23 nonzero wall W7
+PASS seed 23 nonzero wall W8
+PASS seed 23 nonzero wall W9
+PASS seed 23 nonzero wall W10
+PASS seed 23 nonzero wall W11
+PASS seed 23 nonzero wall W12
+PASS seed 23 nonzero wall W13
+PASS seed 23 nonzero wall W14
+PASS seed 23 nonzero wall W15
+PASS seed 23 nonzero wall W16
+PASS seed 23 nonzero wall W17
+PASS seed 23 nonzero wall W18
+PASS seed 23 opening has host O1
+PASS seed 23 opening on axis O1
+PASS seed 23 opening fits host O1
+PASS seed 23 opening has host O2
+PASS seed 23 opening on axis O2
+PASS seed 23 opening fits host O2
+PASS seed 23 opening has host O3
+PASS seed 23 opening on axis O3
+PASS seed 23 opening fits host O3
+PASS seed 23 opening has host O4
+PASS seed 23 opening on axis O4
+PASS seed 23 opening fits host O4
+PASS seed 23 opening has host O5
+PASS seed 23 opening on axis O5
+PASS seed 23 opening fits host O5
+PASS seed 23 opening has host O6
+PASS seed 23 opening on axis O6
+PASS seed 23 opening fits host O6
+PASS seed 23 opening has host O7
+PASS seed 23 opening on axis O7
+PASS seed 23 opening fits host O7
+PASS seed 23 opening has host O8
+PASS seed 23 opening on axis O8
+PASS seed 23 opening fits host O8
+PASS seed 23 opening has host O9
+PASS seed 23 opening on axis O9
+PASS seed 23 opening fits host O9
+PASS seed 23 opening has host O10
+PASS seed 23 opening on axis O10
+PASS seed 23 opening fits host O10
+PASS seed 23 opening has host O11
+PASS seed 23 opening on axis O11
+PASS seed 23 opening fits host O11
+PASS seed 23 opening has host O12
+PASS seed 23 opening on axis O12
+PASS seed 23 opening fits host O12
+PASS seed 23 opening has host O13
+PASS seed 23 opening on axis O13
+PASS seed 23 opening fits host O13
+PASS seed 23 opening has host O14
+PASS seed 23 opening on axis O14
+PASS seed 23 opening fits host O14
+PASS seed 23 opening has host O15
+PASS seed 23 opening on axis O15
+PASS seed 23 opening fits host O15
+PASS seed 23 opening has host O16
+PASS seed 23 opening on axis O16
+PASS seed 23 opening fits host O16
+PASS seed 23 opening has host O17
+PASS seed 23 opening on axis O17
+PASS seed 23 opening fits host O17
+PASS seed 23 positive furniture F1
+PASS seed 23 furniture inside slab F1
+PASS seed 23 furniture inside assigned room F1
+PASS seed 23 positive furniture F2
+PASS seed 23 furniture inside slab F2
+PASS seed 23 furniture inside assigned room F2
+PASS seed 23 positive furniture F3
+PASS seed 23 furniture inside slab F3
+PASS seed 23 furniture inside assigned room F3
+PASS seed 23 positive furniture F4
+PASS seed 23 furniture inside slab F4
+PASS seed 23 furniture inside assigned room F4
+PASS seed 23 positive furniture F5
+PASS seed 23 furniture inside slab F5
+PASS seed 23 furniture inside assigned room F5
+PASS seed 23 positive furniture F6
+PASS seed 23 furniture inside slab F6
+PASS seed 23 furniture inside assigned room F6
+PASS seed 23 positive furniture F7
+PASS seed 23 furniture inside slab F7
+PASS seed 23 furniture inside assigned room F7
+PASS seed 23 positive furniture F8
+PASS seed 23 furniture inside slab F8
+PASS seed 23 furniture inside assigned room F8
+PASS seed 23 positive furniture F9
+PASS seed 23 furniture inside slab F9
+PASS seed 23 furniture inside assigned room F9
+PASS seed 23 positive furniture F10
+PASS seed 23 furniture inside slab F10
+PASS seed 23 furniture inside assigned room F10
+PASS seed 23 positive furniture F11
+PASS seed 23 furniture inside slab F11
+PASS seed 23 furniture inside assigned room F11
+PASS seed 23 positive furniture F12
+PASS seed 23 furniture inside slab F12
+PASS seed 23 furniture inside assigned room F12
+PASS seed 23 positive furniture F13
+PASS seed 23 furniture inside slab F13
+PASS seed 23 furniture inside assigned room F13
+PASS seed 23 positive furniture F14
+PASS seed 23 furniture inside slab F14
+PASS seed 23 furniture inside assigned room F14
+PASS seed 23 positive furniture F15
+PASS seed 23 furniture inside slab F15
+PASS seed 23 furniture inside assigned room F15
+PASS seed 23 positive furniture F16
+PASS seed 23 furniture inside slab F16
+PASS seed 23 furniture inside assigned room F16
+PASS seed 24 succeeds
+PASS seed 24 slab positive
+PASS seed 24 positive room R1
+PASS seed 24 room inside slab R1
+PASS seed 24 positive room R2
+PASS seed 24 room inside slab R2
+PASS seed 24 positive room R3
+PASS seed 24 room inside slab R3
+PASS seed 24 positive room R4
+PASS seed 24 room inside slab R4
+PASS seed 24 positive room R5
+PASS seed 24 room inside slab R5
+PASS seed 24 positive room R6
+PASS seed 24 room inside slab R6
+PASS seed 24 positive room R7
+PASS seed 24 room inside slab R7
+PASS seed 24 positive room R8
+PASS seed 24 room inside slab R8
+PASS seed 24 positive room CIRC
+PASS seed 24 room inside slab CIRC
+PASS seed 24 nonzero wall W1
+PASS seed 24 nonzero wall W2
+PASS seed 24 nonzero wall W3
+PASS seed 24 nonzero wall W4
+PASS seed 24 nonzero wall W5
+PASS seed 24 nonzero wall W6
+PASS seed 24 nonzero wall W7
+PASS seed 24 nonzero wall W8
+PASS seed 24 nonzero wall W9
+PASS seed 24 nonzero wall W10
+PASS seed 24 nonzero wall W11
+PASS seed 24 nonzero wall W12
+PASS seed 24 nonzero wall W13
+PASS seed 24 nonzero wall W14
+PASS seed 24 nonzero wall W15
+PASS seed 24 nonzero wall W16
+PASS seed 24 nonzero wall W17
+PASS seed 24 nonzero wall W18
+PASS seed 24 opening has host O1
+PASS seed 24 opening on axis O1
+PASS seed 24 opening fits host O1
+PASS seed 24 opening has host O2
+PASS seed 24 opening on axis O2
+PASS seed 24 opening fits host O2
+PASS seed 24 opening has host O3
+PASS seed 24 opening on axis O3
+PASS seed 24 opening fits host O3
+PASS seed 24 opening has host O4
+PASS seed 24 opening on axis O4
+PASS seed 24 opening fits host O4
+PASS seed 24 opening has host O5
+PASS seed 24 opening on axis O5
+PASS seed 24 opening fits host O5
+PASS seed 24 opening has host O6
+PASS seed 24 opening on axis O6
+PASS seed 24 opening fits host O6
+PASS seed 24 opening has host O7
+PASS seed 24 opening on axis O7
+PASS seed 24 opening fits host O7
+PASS seed 24 opening has host O8
+PASS seed 24 opening on axis O8
+PASS seed 24 opening fits host O8
+PASS seed 24 opening has host O9
+PASS seed 24 opening on axis O9
+PASS seed 24 opening fits host O9
+PASS seed 24 opening has host O10
+PASS seed 24 opening on axis O10
+PASS seed 24 opening fits host O10
+PASS seed 24 opening has host O11
+PASS seed 24 opening on axis O11
+PASS seed 24 opening fits host O11
+PASS seed 24 opening has host O12
+PASS seed 24 opening on axis O12
+PASS seed 24 opening fits host O12
+PASS seed 24 opening has host O13
+PASS seed 24 opening on axis O13
+PASS seed 24 opening fits host O13
+PASS seed 24 opening has host O14
+PASS seed 24 opening on axis O14
+PASS seed 24 opening fits host O14
+PASS seed 24 opening has host O15
+PASS seed 24 opening on axis O15
+PASS seed 24 opening fits host O15
+PASS seed 24 opening has host O16
+PASS seed 24 opening on axis O16
+PASS seed 24 opening fits host O16
+PASS seed 24 opening has host O17
+PASS seed 24 opening on axis O17
+PASS seed 24 opening fits host O17
+PASS seed 24 positive furniture F1
+PASS seed 24 furniture inside slab F1
+PASS seed 24 furniture inside assigned room F1
+PASS seed 24 positive furniture F2
+PASS seed 24 furniture inside slab F2
+PASS seed 24 furniture inside assigned room F2
+PASS seed 24 positive furniture F3
+PASS seed 24 furniture inside slab F3
+PASS seed 24 furniture inside assigned room F3
+PASS seed 24 positive furniture F4
+PASS seed 24 furniture inside slab F4
+PASS seed 24 furniture inside assigned room F4
+PASS seed 24 positive furniture F5
+PASS seed 24 furniture inside slab F5
+PASS seed 24 furniture inside assigned room F5
+PASS seed 24 positive furniture F6
+PASS seed 24 furniture inside slab F6
+PASS seed 24 furniture inside assigned room F6
+PASS seed 24 positive furniture F7
+PASS seed 24 furniture inside slab F7
+PASS seed 24 furniture inside assigned room F7
+PASS seed 24 positive furniture F8
+PASS seed 24 furniture inside slab F8
+PASS seed 24 furniture inside assigned room F8
+PASS seed 24 positive furniture F9
+PASS seed 24 furniture inside slab F9
+PASS seed 24 furniture inside assigned room F9
+PASS seed 24 positive furniture F10
+PASS seed 24 furniture inside slab F10
+PASS seed 24 furniture inside assigned room F10
+PASS seed 24 positive furniture F11
+PASS seed 24 furniture inside slab F11
+PASS seed 24 furniture inside assigned room F11
+PASS seed 24 positive furniture F12
+PASS seed 24 furniture inside slab F12
+PASS seed 24 furniture inside assigned room F12
+PASS seed 24 positive furniture F13
+PASS seed 24 furniture inside slab F13
+PASS seed 24 furniture inside assigned room F13
+PASS seed 24 positive furniture F14
+PASS seed 24 furniture inside slab F14
+PASS seed 24 furniture inside assigned room F14
+PASS seed 24 positive furniture F15
+PASS seed 24 furniture inside slab F15
+PASS seed 24 furniture inside assigned room F15
+PASS seed 24 positive furniture F16
+PASS seed 24 furniture inside slab F16
+PASS seed 24 furniture inside assigned room F16
+PASS seed 25 succeeds
+PASS seed 25 slab positive
+PASS seed 25 positive room R1
+PASS seed 25 room inside slab R1
+PASS seed 25 positive room R2
+PASS seed 25 room inside slab R2
+PASS seed 25 positive room R3
+PASS seed 25 room inside slab R3
+PASS seed 25 positive room R4
+PASS seed 25 room inside slab R4
+PASS seed 25 positive room R5
+PASS seed 25 room inside slab R5
+PASS seed 25 positive room R6
+PASS seed 25 room inside slab R6
+PASS seed 25 positive room R7
+PASS seed 25 room inside slab R7
+PASS seed 25 positive room R8
+PASS seed 25 room inside slab R8
+PASS seed 25 positive room CIRC
+PASS seed 25 room inside slab CIRC
+PASS seed 25 nonzero wall W1
+PASS seed 25 nonzero wall W2
+PASS seed 25 nonzero wall W3
+PASS seed 25 nonzero wall W4
+PASS seed 25 nonzero wall W5
+PASS seed 25 nonzero wall W6
+PASS seed 25 nonzero wall W7
+PASS seed 25 nonzero wall W8
+PASS seed 25 nonzero wall W9
+PASS seed 25 nonzero wall W10
+PASS seed 25 nonzero wall W11
+PASS seed 25 nonzero wall W12
+PASS seed 25 nonzero wall W13
+PASS seed 25 nonzero wall W14
+PASS seed 25 nonzero wall W15
+PASS seed 25 nonzero wall W16
+PASS seed 25 nonzero wall W17
+PASS seed 25 nonzero wall W18
+PASS seed 25 opening has host O1
+PASS seed 25 opening on axis O1
+PASS seed 25 opening fits host O1
+PASS seed 25 opening has host O2
+PASS seed 25 opening on axis O2
+PASS seed 25 opening fits host O2
+PASS seed 25 opening has host O3
+PASS seed 25 opening on axis O3
+PASS seed 25 opening fits host O3
+PASS seed 25 opening has host O4
+PASS seed 25 opening on axis O4
+PASS seed 25 opening fits host O4
+PASS seed 25 opening has host O5
+PASS seed 25 opening on axis O5
+PASS seed 25 opening fits host O5
+PASS seed 25 opening has host O6
+PASS seed 25 opening on axis O6
+PASS seed 25 opening fits host O6
+PASS seed 25 opening has host O7
+PASS seed 25 opening on axis O7
+PASS seed 25 opening fits host O7
+PASS seed 25 opening has host O8
+PASS seed 25 opening on axis O8
+PASS seed 25 opening fits host O8
+PASS seed 25 opening has host O9
+PASS seed 25 opening on axis O9
+PASS seed 25 opening fits host O9
+PASS seed 25 opening has host O10
+PASS seed 25 opening on axis O10
+PASS seed 25 opening fits host O10
+PASS seed 25 opening has host O11
+PASS seed 25 opening on axis O11
+PASS seed 25 opening fits host O11
+PASS seed 25 opening has host O12
+PASS seed 25 opening on axis O12
+PASS seed 25 opening fits host O12
+PASS seed 25 opening has host O13
+PASS seed 25 opening on axis O13
+PASS seed 25 opening fits host O13
+PASS seed 25 opening has host O14
+PASS seed 25 opening on axis O14
+PASS seed 25 opening fits host O14
+PASS seed 25 opening has host O15
+PASS seed 25 opening on axis O15
+PASS seed 25 opening fits host O15
+PASS seed 25 opening has host O16
+PASS seed 25 opening on axis O16
+PASS seed 25 opening fits host O16
+PASS seed 25 opening has host O17
+PASS seed 25 opening on axis O17
+PASS seed 25 opening fits host O17
+PASS seed 25 positive furniture F1
+PASS seed 25 furniture inside slab F1
+PASS seed 25 furniture inside assigned room F1
+PASS seed 25 positive furniture F2
+PASS seed 25 furniture inside slab F2
+PASS seed 25 furniture inside assigned room F2
+PASS seed 25 positive furniture F3
+PASS seed 25 furniture inside slab F3
+PASS seed 25 furniture inside assigned room F3
+PASS seed 25 positive furniture F4
+PASS seed 25 furniture inside slab F4
+PASS seed 25 furniture inside assigned room F4
+PASS seed 25 positive furniture F5
+PASS seed 25 furniture inside slab F5
+PASS seed 25 furniture inside assigned room F5
+PASS seed 25 positive furniture F6
+PASS seed 25 furniture inside slab F6
+PASS seed 25 furniture inside assigned room F6
+PASS seed 25 positive furniture F7
+PASS seed 25 furniture inside slab F7
+PASS seed 25 furniture inside assigned room F7
+PASS seed 25 positive furniture F8
+PASS seed 25 furniture inside slab F8
+PASS seed 25 furniture inside assigned room F8
+PASS seed 25 positive furniture F9
+PASS seed 25 furniture inside slab F9
+PASS seed 25 furniture inside assigned room F9
+PASS seed 25 positive furniture F10
+PASS seed 25 furniture inside slab F10
+PASS seed 25 furniture inside assigned room F10
+PASS seed 25 positive furniture F11
+PASS seed 25 furniture inside slab F11
+PASS seed 25 furniture inside assigned room F11
+PASS seed 25 positive furniture F12
+PASS seed 25 furniture inside slab F12
+PASS seed 25 furniture inside assigned room F12
+PASS seed 25 positive furniture F13
+PASS seed 25 furniture inside slab F13
+PASS seed 25 furniture inside assigned room F13
+PASS seed 25 positive furniture F14
+PASS seed 25 furniture inside slab F14
+PASS seed 25 furniture inside assigned room F14
+PASS seed 25 positive furniture F15
+PASS seed 25 furniture inside slab F15
+PASS seed 25 furniture inside assigned room F15
+PASS seed 25 positive furniture F16
+PASS seed 25 furniture inside slab F16
+PASS seed 25 furniture inside assigned room F16
+PASS odd room count succeeds
+PASS odd program slab positive
+PASS odd program positive room R1
+PASS odd program room inside slab R1
+PASS odd program positive room R2
+PASS odd program room inside slab R2
+PASS odd program positive room R3
+PASS odd program room inside slab R3
+PASS odd program positive room R4
+PASS odd program room inside slab R4
+PASS odd program positive room R5
+PASS odd program room inside slab R5
+PASS odd program positive room R6
+PASS odd program room inside slab R6
+PASS odd program positive room R7
+PASS odd program room inside slab R7
+PASS odd program positive room R8
+PASS odd program room inside slab R8
+PASS odd program positive room R9
+PASS odd program room inside slab R9
+PASS odd program positive room CIRC
+PASS odd program room inside slab CIRC
+PASS odd program nonzero wall W1
+PASS odd program nonzero wall W2
+PASS odd program nonzero wall W3
+PASS odd program nonzero wall W4
+PASS odd program nonzero wall W5
+PASS odd program nonzero wall W6
+PASS odd program nonzero wall W7
+PASS odd program nonzero wall W8
+PASS odd program nonzero wall W9
+PASS odd program nonzero wall W10
+PASS odd program nonzero wall W11
+PASS odd program nonzero wall W12
+PASS odd program nonzero wall W13
+PASS odd program nonzero wall W14
+PASS odd program nonzero wall W15
+PASS odd program nonzero wall W16
+PASS odd program nonzero wall W17
+PASS odd program nonzero wall W18
+PASS odd program nonzero wall W19
+PASS odd program opening has host O1
+PASS odd program opening on axis O1
+PASS odd program opening fits host O1
+PASS odd program opening has host O2
+PASS odd program opening on axis O2
+PASS odd program opening fits host O2
+PASS odd program opening has host O3
+PASS odd program opening on axis O3
+PASS odd program opening fits host O3
+PASS odd program opening has host O4
+PASS odd program opening on axis O4
+PASS odd program opening fits host O4
+PASS odd program opening has host O5
+PASS odd program opening on axis O5
+PASS odd program opening fits host O5
+PASS odd program opening has host O6
+PASS odd program opening on axis O6
+PASS odd program opening fits host O6
+PASS odd program opening has host O7
+PASS odd program opening on axis O7
+PASS odd program opening fits host O7
+PASS odd program opening has host O8
+PASS odd program opening on axis O8
+PASS odd program opening fits host O8
+PASS odd program opening has host O9
+PASS odd program opening on axis O9
+PASS odd program opening fits host O9
+PASS odd program opening has host O10
+PASS odd program opening on axis O10
+PASS odd program opening fits host O10
+PASS odd program opening has host O11
+PASS odd program opening on axis O11
+PASS odd program opening fits host O11
+PASS odd program opening has host O12
+PASS odd program opening on axis O12
+PASS odd program opening fits host O12
+PASS odd program opening has host O13
+PASS odd program opening on axis O13
+PASS odd program opening fits host O13
+PASS odd program opening has host O14
+PASS odd program opening on axis O14
+PASS odd program opening fits host O14
+PASS odd program opening has host O15
+PASS odd program opening on axis O15
+PASS odd program opening fits host O15
+PASS odd program opening has host O16
+PASS odd program opening on axis O16
+PASS odd program opening fits host O16
+PASS odd program opening has host O17
+PASS odd program opening on axis O17
+PASS odd program opening fits host O17
+PASS odd program opening has host O18
+PASS odd program opening on axis O18
+PASS odd program opening fits host O18
+PASS odd program opening has host O19
+PASS odd program opening on axis O19
+PASS odd program opening fits host O19
+PASS odd program positive furniture F1
+PASS odd program furniture inside slab F1
+PASS odd program furniture inside assigned room F1
+PASS odd program positive furniture F2
+PASS odd program furniture inside slab F2
+PASS odd program furniture inside assigned room F2
+PASS odd program positive furniture F3
+PASS odd program furniture inside slab F3
+PASS odd program furniture inside assigned room F3
+PASS odd program positive furniture F4
+PASS odd program furniture inside slab F4
+PASS odd program furniture inside assigned room F4
+PASS odd program positive furniture F5
+PASS odd program furniture inside slab F5
+PASS odd program furniture inside assigned room F5
+PASS odd program positive furniture F6
+PASS odd program furniture inside slab F6
+PASS odd program furniture inside assigned room F6
+PASS odd program positive furniture F7
+PASS odd program furniture inside slab F7
+PASS odd program furniture inside assigned room F7
+PASS odd program positive furniture F8
+PASS odd program furniture inside slab F8
+PASS odd program furniture inside assigned room F8
+PASS odd program positive furniture F9
+PASS odd program furniture inside slab F9
+PASS odd program furniture inside assigned room F9
+PASS odd program positive furniture F10
+PASS odd program furniture inside slab F10
+PASS odd program furniture inside assigned room F10
+PASS odd program positive furniture F11
+PASS odd program furniture inside slab F11
+PASS odd program furniture inside assigned room F11
+PASS odd program positive furniture F12
+PASS odd program furniture inside slab F12
+PASS odd program furniture inside assigned room F12
+PASS odd program positive furniture F13
+PASS odd program furniture inside slab F13
+PASS odd program furniture inside assigned room F13
+PASS odd program positive furniture F14
+PASS odd program furniture inside slab F14
+PASS odd program furniture inside assigned room F14
+PASS odd program positive furniture F15
+PASS odd program furniture inside slab F15
+PASS odd program furniture inside assigned room F15
+PASS odd program positive furniture F16
+PASS odd program furniture inside slab F16
+PASS odd program furniture inside assigned room F16
+PASS odd program positive furniture F17
+PASS odd program furniture inside slab F17
+PASS odd program furniture inside assigned room F17
+PASS requested count bedrooms
+PASS requested count bathrooms
+PASS requested count living
+PASS requested count kitchens
+PASS requested count laundry
+PASS requested count dining
+PASS requested count office
+PASS furniture toggle preserves rooms and omits furniture
+PASS infeasible lot is rejected
+PASS fractional room count is rejected
+PASS negative wall thickness is rejected
+PASS integer-valued floats from DCL accepted
+PASS requested count bedrooms
+PASS requested count bathrooms
+PASS requested count living
+PASS requested count kitchens
+PASS requested count laundry
+PASS requested count dining
+PASS requested count office
+PASS DCL float values slab positive
+PASS DCL float values positive room R1
+PASS DCL float values room inside slab R1
+PASS DCL float values positive room R2
+PASS DCL float values room inside slab R2
+PASS DCL float values positive room R3
+PASS DCL float values room inside slab R3
+PASS DCL float values positive room R4
+PASS DCL float values room inside slab R4
+PASS DCL float values positive room R5
+PASS DCL float values room inside slab R5
+PASS DCL float values positive room R6
+PASS DCL float values room inside slab R6
+PASS DCL float values positive room R7
+PASS DCL float values room inside slab R7
+PASS DCL float values positive room R8
+PASS DCL float values room inside slab R8
+PASS DCL float values positive room CIRC
+PASS DCL float values room inside slab CIRC
+PASS DCL float values nonzero wall W1
+PASS DCL float values nonzero wall W2
+PASS DCL float values nonzero wall W3
+PASS DCL float values nonzero wall W4
+PASS DCL float values nonzero wall W5
+PASS DCL float values nonzero wall W6
+PASS DCL float values nonzero wall W7
+PASS DCL float values nonzero wall W8
+PASS DCL float values nonzero wall W9
+PASS DCL float values nonzero wall W10
+PASS DCL float values nonzero wall W11
+PASS DCL float values nonzero wall W12
+PASS DCL float values nonzero wall W13
+PASS DCL float values nonzero wall W14
+PASS DCL float values nonzero wall W15
+PASS DCL float values nonzero wall W16
+PASS DCL float values nonzero wall W17
+PASS DCL float values nonzero wall W18
+PASS DCL float values opening has host O1
+PASS DCL float values opening on axis O1
+PASS DCL float values opening fits host O1
+PASS DCL float values opening has host O2
+PASS DCL float values opening on axis O2
+PASS DCL float values opening fits host O2
+PASS DCL float values opening has host O3
+PASS DCL float values opening on axis O3
+PASS DCL float values opening fits host O3
+PASS DCL float values opening has host O4
+PASS DCL float values opening on axis O4
+PASS DCL float values opening fits host O4
+PASS DCL float values opening has host O5
+PASS DCL float values opening on axis O5
+PASS DCL float values opening fits host O5
+PASS DCL float values opening has host O6
+PASS DCL float values opening on axis O6
+PASS DCL float values opening fits host O6
+PASS DCL float values opening has host O7
+PASS DCL float values opening on axis O7
+PASS DCL float values opening fits host O7
+PASS DCL float values opening has host O8
+PASS DCL float values opening on axis O8
+PASS DCL float values opening fits host O8
+PASS DCL float values opening has host O9
+PASS DCL float values opening on axis O9
+PASS DCL float values opening fits host O9
+PASS DCL float values opening has host O10
+PASS DCL float values opening on axis O10
+PASS DCL float values opening fits host O10
+PASS DCL float values opening has host O11
+PASS DCL float values opening on axis O11
+PASS DCL float values opening fits host O11
+PASS DCL float values opening has host O12
+PASS DCL float values opening on axis O12
+PASS DCL float values opening fits host O12
+PASS DCL float values opening has host O13
+PASS DCL float values opening on axis O13
+PASS DCL float values opening fits host O13
+PASS DCL float values opening has host O14
+PASS DCL float values opening on axis O14
+PASS DCL float values opening fits host O14
+PASS DCL float values opening has host O15
+PASS DCL float values opening on axis O15
+PASS DCL float values opening fits host O15
+PASS DCL float values opening has host O16
+PASS DCL float values opening on axis O16
+PASS DCL float values opening fits host O16
+PASS DCL float values opening has host O17
+PASS DCL float values opening on axis O17
+PASS DCL float values opening fits host O17
+PASS DCL float values positive furniture F1
+PASS DCL float values furniture inside slab F1
+PASS DCL float values furniture inside assigned room F1
+PASS DCL float values positive furniture F2
+PASS DCL float values furniture inside slab F2
+PASS DCL float values furniture inside assigned room F2
+PASS DCL float values positive furniture F3
+PASS DCL float values furniture inside slab F3
+PASS DCL float values furniture inside assigned room F3
+PASS DCL float values positive furniture F4
+PASS DCL float values furniture inside slab F4
+PASS DCL float values furniture inside assigned room F4
+PASS DCL float values positive furniture F5
+PASS DCL float values furniture inside slab F5
+PASS DCL float values furniture inside assigned room F5
+PASS DCL float values positive furniture F6
+PASS DCL float values furniture inside slab F6
+PASS DCL float values furniture inside assigned room F6
+PASS DCL float values positive furniture F7
+PASS DCL float values furniture inside slab F7
+PASS DCL float values furniture inside assigned room F7
+PASS DCL float values positive furniture F8
+PASS DCL float values furniture inside slab F8
+PASS DCL float values furniture inside assigned room F8
+PASS DCL float values positive furniture F9
+PASS DCL float values furniture inside slab F9
+PASS DCL float values furniture inside assigned room F9
+PASS DCL float values positive furniture F10
+PASS DCL float values furniture inside slab F10
+PASS DCL float values furniture inside assigned room F10
+PASS DCL float values positive furniture F11
+PASS DCL float values furniture inside slab F11
+PASS DCL float values furniture inside assigned room F11
+PASS DCL float values positive furniture F12
+PASS DCL float values furniture inside slab F12
+PASS DCL float values furniture inside assigned room F12
+PASS DCL float values positive furniture F13
+PASS DCL float values furniture inside slab F13
+PASS DCL float values furniture inside assigned room F13
+PASS DCL float values positive furniture F14
+PASS DCL float values furniture inside slab F14
+PASS DCL float values furniture inside assigned room F14
+PASS DCL float values positive furniture F15
+PASS DCL float values furniture inside slab F15
+PASS DCL float values furniture inside assigned room F15
+PASS DCL float values positive furniture F16
+PASS DCL float values furniture inside slab F16
+PASS DCL float values furniture inside assigned room F16
+PASS internal100 external250 slab positive
+PASS internal100 external250 positive room R1
+PASS internal100 external250 room inside slab R1
+PASS internal100 external250 positive room R2
+PASS internal100 external250 room inside slab R2
+PASS internal100 external250 positive room R3
+PASS internal100 external250 room inside slab R3
+PASS internal100 external250 positive room R4
+PASS internal100 external250 room inside slab R4
+PASS internal100 external250 positive room R5
+PASS internal100 external250 room inside slab R5
+PASS internal100 external250 positive room R6
+PASS internal100 external250 room inside slab R6
+PASS internal100 external250 positive room R7
+PASS internal100 external250 room inside slab R7
+PASS internal100 external250 positive room R8
+PASS internal100 external250 room inside slab R8
+PASS internal100 external250 positive room CIRC
+PASS internal100 external250 room inside slab CIRC
+PASS internal100 external250 nonzero wall W1
+PASS internal100 external250 nonzero wall W2
+PASS internal100 external250 nonzero wall W3
+PASS internal100 external250 nonzero wall W4
+PASS internal100 external250 nonzero wall W5
+PASS internal100 external250 nonzero wall W6
+PASS internal100 external250 nonzero wall W7
+PASS internal100 external250 nonzero wall W8
+PASS internal100 external250 nonzero wall W9
+PASS internal100 external250 nonzero wall W10
+PASS internal100 external250 nonzero wall W11
+PASS internal100 external250 nonzero wall W12
+PASS internal100 external250 nonzero wall W13
+PASS internal100 external250 nonzero wall W14
+PASS internal100 external250 nonzero wall W15
+PASS internal100 external250 nonzero wall W16
+PASS internal100 external250 nonzero wall W17
+PASS internal100 external250 nonzero wall W18
+PASS internal100 external250 opening has host O1
+PASS internal100 external250 opening on axis O1
+PASS internal100 external250 opening fits host O1
+PASS internal100 external250 opening has host O2
+PASS internal100 external250 opening on axis O2
+PASS internal100 external250 opening fits host O2
+PASS internal100 external250 opening has host O3
+PASS internal100 external250 opening on axis O3
+PASS internal100 external250 opening fits host O3
+PASS internal100 external250 opening has host O4
+PASS internal100 external250 opening on axis O4
+PASS internal100 external250 opening fits host O4
+PASS internal100 external250 opening has host O5
+PASS internal100 external250 opening on axis O5
+PASS internal100 external250 opening fits host O5
+PASS internal100 external250 opening has host O6
+PASS internal100 external250 opening on axis O6
+PASS internal100 external250 opening fits host O6
+PASS internal100 external250 opening has host O7
+PASS internal100 external250 opening on axis O7
+PASS internal100 external250 opening fits host O7
+PASS internal100 external250 opening has host O8
+PASS internal100 external250 opening on axis O8
+PASS internal100 external250 opening fits host O8
+PASS internal100 external250 opening has host O9
+PASS internal100 external250 opening on axis O9
+PASS internal100 external250 opening fits host O9
+PASS internal100 external250 opening has host O10
+PASS internal100 external250 opening on axis O10
+PASS internal100 external250 opening fits host O10
+PASS internal100 external250 opening has host O11
+PASS internal100 external250 opening on axis O11
+PASS internal100 external250 opening fits host O11
+PASS internal100 external250 opening has host O12
+PASS internal100 external250 opening on axis O12
+PASS internal100 external250 opening fits host O12
+PASS internal100 external250 opening has host O13
+PASS internal100 external250 opening on axis O13
+PASS internal100 external250 opening fits host O13
+PASS internal100 external250 opening has host O14
+PASS internal100 external250 opening on axis O14
+PASS internal100 external250 opening fits host O14
+PASS internal100 external250 opening has host O15
+PASS internal100 external250 opening on axis O15
+PASS internal100 external250 opening fits host O15
+PASS internal100 external250 opening has host O16
+PASS internal100 external250 opening on axis O16
+PASS internal100 external250 opening fits host O16
+PASS internal100 external250 opening has host O17
+PASS internal100 external250 opening on axis O17
+PASS internal100 external250 opening fits host O17
+PASS internal100 external250 positive furniture F1
+PASS internal100 external250 furniture inside slab F1
+PASS internal100 external250 furniture inside assigned room F1
+PASS internal100 external250 positive furniture F2
+PASS internal100 external250 furniture inside slab F2
+PASS internal100 external250 furniture inside assigned room F2
+PASS internal100 external250 positive furniture F3
+PASS internal100 external250 furniture inside slab F3
+PASS internal100 external250 furniture inside assigned room F3
+PASS internal100 external250 positive furniture F4
+PASS internal100 external250 furniture inside slab F4
+PASS internal100 external250 furniture inside assigned room F4
+PASS internal100 external250 positive furniture F5
+PASS internal100 external250 furniture inside slab F5
+PASS internal100 external250 furniture inside assigned room F5
+PASS internal100 external250 positive furniture F6
+PASS internal100 external250 furniture inside slab F6
+PASS internal100 external250 furniture inside assigned room F6
+PASS internal100 external250 positive furniture F7
+PASS internal100 external250 furniture inside slab F7
+PASS internal100 external250 furniture inside assigned room F7
+PASS internal100 external250 positive furniture F8
+PASS internal100 external250 furniture inside slab F8
+PASS internal100 external250 furniture inside assigned room F8
+PASS internal100 external250 positive furniture F9
+PASS internal100 external250 furniture inside slab F9
+PASS internal100 external250 furniture inside assigned room F9
+PASS internal100 external250 positive furniture F10
+PASS internal100 external250 furniture inside slab F10
+PASS internal100 external250 furniture inside assigned room F10
+PASS internal100 external250 positive furniture F11
+PASS internal100 external250 furniture inside slab F11
+PASS internal100 external250 furniture inside assigned room F11
+PASS internal100 external250 positive furniture F12
+PASS internal100 external250 furniture inside slab F12
+PASS internal100 external250 furniture inside assigned room F12
+PASS internal100 external250 positive furniture F13
+PASS internal100 external250 furniture inside slab F13
+PASS internal100 external250 furniture inside assigned room F13
+PASS internal100 external250 positive furniture F14
+PASS internal100 external250 furniture inside slab F14
+PASS internal100 external250 furniture inside assigned room F14
+PASS internal100 external250 positive furniture F15
+PASS internal100 external250 furniture inside slab F15
+PASS internal100 external250 furniture inside assigned room F15
+PASS internal100 external250 positive furniture F16
+PASS internal100 external250 furniture inside slab F16
+PASS internal100 external250 furniture inside assigned room F16
+PASS internal250 external100 slab positive
+PASS internal250 external100 positive room R1
+PASS internal250 external100 room inside slab R1
+PASS internal250 external100 positive room R2
+PASS internal250 external100 room inside slab R2
+PASS internal250 external100 positive room R3
+PASS internal250 external100 room inside slab R3
+PASS internal250 external100 positive room R4
+PASS internal250 external100 room inside slab R4
+PASS internal250 external100 positive room R5
+PASS internal250 external100 room inside slab R5
+PASS internal250 external100 positive room R6
+PASS internal250 external100 room inside slab R6
+PASS internal250 external100 positive room R7
+PASS internal250 external100 room inside slab R7
+PASS internal250 external100 positive room R8
+PASS internal250 external100 room inside slab R8
+PASS internal250 external100 positive room CIRC
+PASS internal250 external100 room inside slab CIRC
+PASS internal250 external100 nonzero wall W1
+PASS internal250 external100 nonzero wall W2
+PASS internal250 external100 nonzero wall W3
+PASS internal250 external100 nonzero wall W4
+PASS internal250 external100 nonzero wall W5
+PASS internal250 external100 nonzero wall W6
+PASS internal250 external100 nonzero wall W7
+PASS internal250 external100 nonzero wall W8
+PASS internal250 external100 nonzero wall W9
+PASS internal250 external100 nonzero wall W10
+PASS internal250 external100 nonzero wall W11
+PASS internal250 external100 nonzero wall W12
+PASS internal250 external100 nonzero wall W13
+PASS internal250 external100 nonzero wall W14
+PASS internal250 external100 nonzero wall W15
+PASS internal250 external100 nonzero wall W16
+PASS internal250 external100 nonzero wall W17
+PASS internal250 external100 nonzero wall W18
+PASS internal250 external100 opening has host O1
+PASS internal250 external100 opening on axis O1
+PASS internal250 external100 opening fits host O1
+PASS internal250 external100 opening has host O2
+PASS internal250 external100 opening on axis O2
+PASS internal250 external100 opening fits host O2
+PASS internal250 external100 opening has host O3
+PASS internal250 external100 opening on axis O3
+PASS internal250 external100 opening fits host O3
+PASS internal250 external100 opening has host O4
+PASS internal250 external100 opening on axis O4
+PASS internal250 external100 opening fits host O4
+PASS internal250 external100 opening has host O5
+PASS internal250 external100 opening on axis O5
+PASS internal250 external100 opening fits host O5
+PASS internal250 external100 opening has host O6
+PASS internal250 external100 opening on axis O6
+PASS internal250 external100 opening fits host O6
+PASS internal250 external100 opening has host O7
+PASS internal250 external100 opening on axis O7
+PASS internal250 external100 opening fits host O7
+PASS internal250 external100 opening has host O8
+PASS internal250 external100 opening on axis O8
+PASS internal250 external100 opening fits host O8
+PASS internal250 external100 opening has host O9
+PASS internal250 external100 opening on axis O9
+PASS internal250 external100 opening fits host O9
+PASS internal250 external100 opening has host O10
+PASS internal250 external100 opening on axis O10
+PASS internal250 external100 opening fits host O10
+PASS internal250 external100 opening has host O11
+PASS internal250 external100 opening on axis O11
+PASS internal250 external100 opening fits host O11
+PASS internal250 external100 opening has host O12
+PASS internal250 external100 opening on axis O12
+PASS internal250 external100 opening fits host O12
+PASS internal250 external100 opening has host O13
+PASS internal250 external100 opening on axis O13
+PASS internal250 external100 opening fits host O13
+PASS internal250 external100 opening has host O14
+PASS internal250 external100 opening on axis O14
+PASS internal250 external100 opening fits host O14
+PASS internal250 external100 opening has host O15
+PASS internal250 external100 opening on axis O15
+PASS internal250 external100 opening fits host O15
+PASS internal250 external100 opening has host O16
+PASS internal250 external100 opening on axis O16
+PASS internal250 external100 opening fits host O16
+PASS internal250 external100 opening has host O17
+PASS internal250 external100 opening on axis O17
+PASS internal250 external100 opening fits host O17
+PASS internal250 external100 positive furniture F1
+PASS internal250 external100 furniture inside slab F1
+PASS internal250 external100 furniture inside assigned room F1
+PASS internal250 external100 positive furniture F2
+PASS internal250 external100 furniture inside slab F2
+PASS internal250 external100 furniture inside assigned room F2
+PASS internal250 external100 positive furniture F3
+PASS internal250 external100 furniture inside slab F3
+PASS internal250 external100 furniture inside assigned room F3
+PASS internal250 external100 positive furniture F4
+PASS internal250 external100 furniture inside slab F4
+PASS internal250 external100 furniture inside assigned room F4
+PASS internal250 external100 positive furniture F5
+PASS internal250 external100 furniture inside slab F5
+PASS internal250 external100 furniture inside assigned room F5
+PASS internal250 external100 positive furniture F6
+PASS internal250 external100 furniture inside slab F6
+PASS internal250 external100 furniture inside assigned room F6
+PASS internal250 external100 positive furniture F7
+PASS internal250 external100 furniture inside slab F7
+PASS internal250 external100 furniture inside assigned room F7
+PASS internal250 external100 positive furniture F8
+PASS internal250 external100 furniture inside slab F8
+PASS internal250 external100 furniture inside assigned room F8
+PASS internal250 external100 positive furniture F9
+PASS internal250 external100 furniture inside slab F9
+PASS internal250 external100 furniture inside assigned room F9
+PASS internal250 external100 positive furniture F10
+PASS internal250 external100 furniture inside slab F10
+PASS internal250 external100 furniture inside assigned room F10
+PASS internal250 external100 positive furniture F11
+PASS internal250 external100 furniture inside slab F11
+PASS internal250 external100 furniture inside assigned room F11
+PASS internal250 external100 positive furniture F12
+PASS internal250 external100 furniture inside slab F12
+PASS internal250 external100 furniture inside assigned room F12
+PASS internal250 external100 positive furniture F13
+PASS internal250 external100 furniture inside slab F13
+PASS internal250 external100 furniture inside assigned room F13
+PASS internal250 external100 positive furniture F14
+PASS internal250 external100 furniture inside slab F14
+PASS internal250 external100 furniture inside assigned room F14
+PASS internal250 external100 positive furniture F15
+PASS internal250 external100 furniture inside slab F15
+PASS internal250 external100 furniture inside assigned room F15
+PASS internal250 external100 positive furniture F16
+PASS internal250 external100 furniture inside slab F16
+PASS internal250 external100 furniture inside assigned room F16
+PASS wall role thickness W1
+PASS wall role thickness W2
+PASS wall role thickness W3
+PASS wall role thickness W4
+PASS wall role thickness W5
+PASS wall role thickness W6
+PASS wall role thickness W7
+PASS wall role thickness W8
+PASS wall role thickness W9
+PASS wall role thickness W10
+PASS wall role thickness W11
+PASS wall role thickness W12
+PASS wall role thickness W13
+PASS wall role thickness W14
+PASS wall role thickness W15
+PASS wall role thickness W16
+PASS wall role thickness W17
+PASS wall role thickness W18
+PASS net area matches clear bounds
+PASS first row starts at exterior inner face
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS last row ends at exterior inner face
+PASS overall depth equals clear rows plus physical walls
+PASS wall role thickness W1
+PASS wall role thickness W2
+PASS wall role thickness W3
+PASS wall role thickness W4
+PASS wall role thickness W5
+PASS wall role thickness W6
+PASS wall role thickness W7
+PASS wall role thickness W8
+PASS wall role thickness W9
+PASS wall role thickness W10
+PASS wall role thickness W11
+PASS wall role thickness W12
+PASS wall role thickness W13
+PASS wall role thickness W14
+PASS wall role thickness W15
+PASS wall role thickness W16
+PASS wall role thickness W17
+PASS wall role thickness W18
+PASS net area matches clear bounds
+PASS first row starts at exterior inner face
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS last row ends at exterior inner face
+PASS overall depth equals clear rows plus physical walls
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS swapping wall thickness preserves requested clear row depth
+PASS swapping equal-sum thickness preserves paired room clear area
+PASS odd asymmetric thickness slab positive
+PASS odd asymmetric thickness positive room R1
+PASS odd asymmetric thickness room inside slab R1
+PASS odd asymmetric thickness positive room R2
+PASS odd asymmetric thickness room inside slab R2
+PASS odd asymmetric thickness positive room R3
+PASS odd asymmetric thickness room inside slab R3
+PASS odd asymmetric thickness positive room R4
+PASS odd asymmetric thickness room inside slab R4
+PASS odd asymmetric thickness positive room R5
+PASS odd asymmetric thickness room inside slab R5
+PASS odd asymmetric thickness positive room R6
+PASS odd asymmetric thickness room inside slab R6
+PASS odd asymmetric thickness positive room R7
+PASS odd asymmetric thickness room inside slab R7
+PASS odd asymmetric thickness positive room R8
+PASS odd asymmetric thickness room inside slab R8
+PASS odd asymmetric thickness positive room R9
+PASS odd asymmetric thickness room inside slab R9
+PASS odd asymmetric thickness positive room CIRC
+PASS odd asymmetric thickness room inside slab CIRC
+PASS odd asymmetric thickness nonzero wall W1
+PASS odd asymmetric thickness nonzero wall W2
+PASS odd asymmetric thickness nonzero wall W3
+PASS odd asymmetric thickness nonzero wall W4
+PASS odd asymmetric thickness nonzero wall W5
+PASS odd asymmetric thickness nonzero wall W6
+PASS odd asymmetric thickness nonzero wall W7
+PASS odd asymmetric thickness nonzero wall W8
+PASS odd asymmetric thickness nonzero wall W9
+PASS odd asymmetric thickness nonzero wall W10
+PASS odd asymmetric thickness nonzero wall W11
+PASS odd asymmetric thickness nonzero wall W12
+PASS odd asymmetric thickness nonzero wall W13
+PASS odd asymmetric thickness nonzero wall W14
+PASS odd asymmetric thickness nonzero wall W15
+PASS odd asymmetric thickness nonzero wall W16
+PASS odd asymmetric thickness nonzero wall W17
+PASS odd asymmetric thickness nonzero wall W18
+PASS odd asymmetric thickness nonzero wall W19
+PASS odd asymmetric thickness opening has host O1
+PASS odd asymmetric thickness opening on axis O1
+PASS odd asymmetric thickness opening fits host O1
+PASS odd asymmetric thickness opening has host O2
+PASS odd asymmetric thickness opening on axis O2
+PASS odd asymmetric thickness opening fits host O2
+PASS odd asymmetric thickness opening has host O3
+PASS odd asymmetric thickness opening on axis O3
+PASS odd asymmetric thickness opening fits host O3
+PASS odd asymmetric thickness opening has host O4
+PASS odd asymmetric thickness opening on axis O4
+PASS odd asymmetric thickness opening fits host O4
+PASS odd asymmetric thickness opening has host O5
+PASS odd asymmetric thickness opening on axis O5
+PASS odd asymmetric thickness opening fits host O5
+PASS odd asymmetric thickness opening has host O6
+PASS odd asymmetric thickness opening on axis O6
+PASS odd asymmetric thickness opening fits host O6
+PASS odd asymmetric thickness opening has host O7
+PASS odd asymmetric thickness opening on axis O7
+PASS odd asymmetric thickness opening fits host O7
+PASS odd asymmetric thickness opening has host O8
+PASS odd asymmetric thickness opening on axis O8
+PASS odd asymmetric thickness opening fits host O8
+PASS odd asymmetric thickness opening has host O9
+PASS odd asymmetric thickness opening on axis O9
+PASS odd asymmetric thickness opening fits host O9
+PASS odd asymmetric thickness opening has host O10
+PASS odd asymmetric thickness opening on axis O10
+PASS odd asymmetric thickness opening fits host O10
+PASS odd asymmetric thickness opening has host O11
+PASS odd asymmetric thickness opening on axis O11
+PASS odd asymmetric thickness opening fits host O11
+PASS odd asymmetric thickness opening has host O12
+PASS odd asymmetric thickness opening on axis O12
+PASS odd asymmetric thickness opening fits host O12
+PASS odd asymmetric thickness opening has host O13
+PASS odd asymmetric thickness opening on axis O13
+PASS odd asymmetric thickness opening fits host O13
+PASS odd asymmetric thickness opening has host O14
+PASS odd asymmetric thickness opening on axis O14
+PASS odd asymmetric thickness opening fits host O14
+PASS odd asymmetric thickness opening has host O15
+PASS odd asymmetric thickness opening on axis O15
+PASS odd asymmetric thickness opening fits host O15
+PASS odd asymmetric thickness opening has host O16
+PASS odd asymmetric thickness opening on axis O16
+PASS odd asymmetric thickness opening fits host O16
+PASS odd asymmetric thickness opening has host O17
+PASS odd asymmetric thickness opening on axis O17
+PASS odd asymmetric thickness opening fits host O17
+PASS odd asymmetric thickness opening has host O18
+PASS odd asymmetric thickness opening on axis O18
+PASS odd asymmetric thickness opening fits host O18
+PASS odd asymmetric thickness opening has host O19
+PASS odd asymmetric thickness opening on axis O19
+PASS odd asymmetric thickness opening fits host O19
+PASS odd asymmetric thickness positive furniture F1
+PASS odd asymmetric thickness furniture inside slab F1
+PASS odd asymmetric thickness furniture inside assigned room F1
+PASS odd asymmetric thickness positive furniture F2
+PASS odd asymmetric thickness furniture inside slab F2
+PASS odd asymmetric thickness furniture inside assigned room F2
+PASS odd asymmetric thickness positive furniture F3
+PASS odd asymmetric thickness furniture inside slab F3
+PASS odd asymmetric thickness furniture inside assigned room F3
+PASS odd asymmetric thickness positive furniture F4
+PASS odd asymmetric thickness furniture inside slab F4
+PASS odd asymmetric thickness furniture inside assigned room F4
+PASS odd asymmetric thickness positive furniture F5
+PASS odd asymmetric thickness furniture inside slab F5
+PASS odd asymmetric thickness furniture inside assigned room F5
+PASS odd asymmetric thickness positive furniture F6
+PASS odd asymmetric thickness furniture inside slab F6
+PASS odd asymmetric thickness furniture inside assigned room F6
+PASS odd asymmetric thickness positive furniture F7
+PASS odd asymmetric thickness furniture inside slab F7
+PASS odd asymmetric thickness furniture inside assigned room F7
+PASS odd asymmetric thickness positive furniture F8
+PASS odd asymmetric thickness furniture inside slab F8
+PASS odd asymmetric thickness furniture inside assigned room F8
+PASS odd asymmetric thickness positive furniture F9
+PASS odd asymmetric thickness furniture inside slab F9
+PASS odd asymmetric thickness furniture inside assigned room F9
+PASS odd asymmetric thickness positive furniture F10
+PASS odd asymmetric thickness furniture inside slab F10
+PASS odd asymmetric thickness furniture inside assigned room F10
+PASS odd asymmetric thickness positive furniture F11
+PASS odd asymmetric thickness furniture inside slab F11
+PASS odd asymmetric thickness furniture inside assigned room F11
+PASS odd asymmetric thickness positive furniture F12
+PASS odd asymmetric thickness furniture inside slab F12
+PASS odd asymmetric thickness furniture inside assigned room F12
+PASS odd asymmetric thickness positive furniture F13
+PASS odd asymmetric thickness furniture inside slab F13
+PASS odd asymmetric thickness furniture inside assigned room F13
+PASS odd asymmetric thickness positive furniture F14
+PASS odd asymmetric thickness furniture inside slab F14
+PASS odd asymmetric thickness furniture inside assigned room F14
+PASS odd asymmetric thickness positive furniture F15
+PASS odd asymmetric thickness furniture inside slab F15
+PASS odd asymmetric thickness furniture inside assigned room F15
+PASS odd asymmetric thickness positive furniture F16
+PASS odd asymmetric thickness furniture inside slab F16
+PASS odd asymmetric thickness furniture inside assigned room F16
+PASS odd asymmetric thickness positive furniture F17
+PASS odd asymmetric thickness furniture inside slab F17
+PASS odd asymmetric thickness furniture inside assigned room F17
+PASS wall role thickness W1
+PASS wall role thickness W2
+PASS wall role thickness W3
+PASS wall role thickness W4
+PASS wall role thickness W5
+PASS wall role thickness W6
+PASS wall role thickness W7
+PASS wall role thickness W8
+PASS wall role thickness W9
+PASS wall role thickness W10
+PASS wall role thickness W11
+PASS wall role thickness W12
+PASS wall role thickness W13
+PASS wall role thickness W14
+PASS wall role thickness W15
+PASS wall role thickness W16
+PASS wall role thickness W17
+PASS wall role thickness W18
+PASS wall role thickness W19
+PASS net area matches clear bounds
+PASS first row starts at exterior inner face
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS net area matches clear bounds
+PASS row gap is internal wall thickness
+PASS net area matches clear bounds
+PASS last row ends at exterior inner face
+PASS overall depth equals clear rows plus physical walls
+COMPLETE passed=4416 failed=0

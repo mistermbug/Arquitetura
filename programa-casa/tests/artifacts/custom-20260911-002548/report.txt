@@ -1,0 +1,16 @@
+PASS JSON roundtrip
+PASS JSON literals
+PASS Malformed JSON rejected
+PASS Snapshot original
+PASS Valid shrink
+UNDOCTL before=57
+UNDOCTL after=49
+PASS Apply edit
+PASS Persisted JSON changed
+PASS New height persisted
+PASS Walls untouched
+PASS Oversized collision rejected
+PASS Undo restores JSON and drawing
+UNDOCTL before=49
+UNDOCTL after=49
+COMPLETE failed=0

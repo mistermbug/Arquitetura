@@ -1,0 +1,188 @@
+{
+  "schema_version": "0.1.0",
+  "status": "especificacao_nao_formulario_executavel",
+  "autocad_version": "2027",
+  "autocad_edition": null,
+  "fields": [
+    {
+      "key": "project_name",
+      "label": "Nome do projeto",
+      "type": "string",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "mode",
+      "label": "Conceitual ou lote real",
+      "type": "enum",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "bedrooms_total",
+      "label": "Quartos totais",
+      "type": "integer>=1",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "ensuite_bedrooms",
+      "label": "Quantos quartos são suítes",
+      "type": "integer>=0 e <= bedrooms_total",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "social_bathrooms",
+      "label": "Banheiros sociais completos",
+      "type": "integer>=0",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "half_baths",
+      "label": "Lavabos",
+      "type": "integer>=0",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "living_rooms",
+      "label": "Salas de estar",
+      "type": "integer>=0",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "dining_mode",
+      "label": "Jantar integrado, separado ou não solicitado",
+      "type": "enum",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "kitchens",
+      "label": "Cozinhas",
+      "type": "integer>=1",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "laundries",
+      "label": "Lavanderias",
+      "type": "integer>=0",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "parking_spaces",
+      "label": "Vagas desejadas",
+      "type": "integer>=0",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "other_rooms",
+      "label": "Outros ambientes ou nenhum",
+      "type": "array",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "occupants",
+      "label": "Moradores",
+      "type": "integer>=1",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "accessibility",
+      "label": "Sim, não ou a definir",
+      "type": "enum",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "built_area_preference",
+      "label": "Faixa de área construída ou perfil de tamanho",
+      "type": "object",
+      "owner": "cliente",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "site_polygon",
+      "label": "Polígono do lote ou retângulo dimensional",
+      "type": "closed_polygon",
+      "owner": "tecnico_ou_cliente_assistido",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "street_edges",
+      "label": "Frente e acesso",
+      "type": "array_of_edge_ids",
+      "owner": "tecnico_ou_cliente_assistido",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "units",
+      "label": "Unidade do desenho",
+      "type": "enum",
+      "owner": "tecnico",
+      "required": true,
+      "default": null
+    },
+    {
+      "key": "north",
+      "label": "Norte",
+      "type": "angle_or_unknown",
+      "owner": "tecnico",
+      "required": false,
+      "default": null
+    },
+    {
+      "key": "terrain",
+      "label": "Topografia real e referência municipal",
+      "type": "object_or_unknown",
+      "owner": "tecnico",
+      "required": false,
+      "default": null
+    },
+    {
+      "key": "municipal_profile",
+      "label": "Parâmetros por lote com fonte e revisão",
+      "type": "object",
+      "owner": "tecnico",
+      "required": false,
+      "default": null
+    }
+  ],
+  "cross_field_rules": [
+    "ensuite_bedrooms <= bedrooms_total",
+    "Cada suíte corresponde a um dormitório incluído no total e um banheiro privativo no MVP; não somar novamente ao total de quartos.",
+    "Sem área explícita, exigir seleção de perfil técnico de dimensões; não inventar mínimos legais.",
+    "Zero só é permitido quando explicitamente respondido; campo vazio não equivale a zero.",
+    "Modo lote real requer cadastro, geometria e perfil urbanístico para avaliação municipal; sem perfil, apenas pré-visualização com verificações pendentes.",
+    "Norte/topografia desconhecidos impedem avaliações dependentes desses dados.",
+    "Dados municipais não confirmados não recebem valores padrão universais de BH.",
+    "Terreno hipotético plano confirmado pelo usuário para o primeiro protótipo; suporte a terrenos reais previsto posteriormente.",
+    "Cota local zero é convenção do protótipo, não dado topográfico levantado.",
+    "Casa térrea/unifamiliar, formato retangular e uma frente permanecem propostas do MVP; dimensões do lote ainda não definidas."
+  ]
+}

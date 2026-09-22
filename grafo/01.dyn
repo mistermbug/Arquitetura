@@ -1,0 +1,296 @@
+{
+  "Uuid": "7bd114a3-8864-4118-9eb1-787b13c4e0e4",
+  "IsCustomNode": false,
+  "Description": "",
+  "Name": "01",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "PythonNodeModels.PythonNode, PythonNodeModels",
+      "Code": "# -*- coding: utf-8 -*-\r\n\"\"\"Cole inteiro em um no PythonNet3 do Dynamo para Revit 2027.\r\nIN[0]: caminho JSON; IN[1]: executar (False); IN[2]: substituir gerados (False).\r\nNao executar como script externo: API Revit exige contexto do documento.\r\n\"\"\"\r\nimport json\r\nimport math\r\nimport os\r\n\r\n\r\ndef rectangle_outline(b):\r\n    return [[b[0], b[1]], [b[2], b[1]], [b[2], b[3]], [b[0], b[3]]]\r\n\r\n\r\ndef polygon_area(poly):\r\n    return sum(a[0]*b[1]-b[0]*a[1] for a, b in zip(poly, poly[1:]+poly[:1]))/2\r\n\r\n\r\ndef inside_polygon(p, poly):\r\n    x, y = p\r\n    inside = False\r\n    for a, b in zip(poly, poly[1:]+poly[:1]):\r\n        if (a[1] > y) != (b[1] > y) and x < (b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0]:\r\n            inside = not inside\r\n    return inside\r\n\r\n\r\ndef rectangle_polygon_area(b, poly):\r\n    # Exact for orthogonal polygons: each grid cell is wholly inside or outside.\r\n    xs = sorted(set([b[0], b[2]] + [p[0] for p in poly if b[0] < p[0] < b[2]]))\r\n    ys = sorted(set([b[1], b[3]] + [p[1] for p in poly if b[1] < p[1] < b[3]]))\r\n    return sum((x1-x0)*(y1-y0) for x0, x1 in zip(xs, xs[1:]) for y0, y1 in zip(ys, ys[1:])\r\n               if inside_polygon([(x0+x1)/2, (y0+y1)/2], poly))\r\n\r\n\r\ndef validate_outline(poly, label):\r\n    if not isinstance(poly, list) or not 4 <= len(poly) <= 200:\r\n        raise ValueError(label + ': poligono com 4 a 200 vertices obrigatorio')\r\n    for p in poly:\r\n        if not isinstance(p, list) or len(p) != 2 or any(isinstance(v, bool) or not isinstance(v, (int, float)) or not math.isfinite(v) or abs(v)>10000000 for v in p):\r\n            raise ValueError(label + ': coordenadas XY invalidas')\r\n    edges = list(zip(poly, poly[1:]+poly[:1]))\r\n    for a, b in edges:\r\n        if (a[0] == b[0]) == (a[1] == b[1]) or math.hypot(b[0]-a[0], b[1]-a[1]) <= 1:\r\n            raise ValueError(label + ': arestas devem ser ortogonais e nao degeneradas')\r\n    for i, (a, b) in enumerate(edges):\r\n        for j, (c, d) in enumerate(edges[:i]):\r\n            if j == i-1 or (i == len(edges)-1 and j == 0):\r\n                continue\r\n            if max(min(a[0],b[0]),min(c[0],d[0])) <= min(max(a[0],b[0]),max(c[0],d[0])) and max(min(a[1],b[1]),min(c[1],d[1])) <= min(max(a[1],b[1]),max(c[1],d[1])):\r\n                raise ValueError(label + ': contorno se cruza ou se toca')\r\n    if polygon_area(poly) <= 1:\r\n        raise ValueError(label + ': vertices devem estar em sentido anti-horario, area positiva')\r\n    return poly\r\n\r\n\r\ndef validate(data):\r\n    \"\"\"Validacao pura: nao importa nem altera o Revit.\"\"\"\r\n    def number(v, label, positive=False):\r\n        if isinstance(v, bool) or not isinstance(v, (int, float)) or not math.isfinite(v):\r\n            raise ValueError(label + ': numero finito obrigatorio')\r\n        if abs(v) > 10000000 or (positive and v <= 1):\r\n            raise ValueError(label + ': dimensao/coordenada fora do intervalo permitido')\r\n        return float(v)\r\n\r\n    def point(v, label, count=2):\r\n        if not isinstance(v, list) or len(v) != count:\r\n            raise ValueError(label + ': vetor com {} coordenadas obrigatorio'.format(count))\r\n        return [number(x, label) for x in v]\r\n\r\n    def bounds(v, label):\r\n        b = point(v, label, 4)\r\n        if b[2] - b[0] <= 1 or b[3] - b[1] <= 1:\r\n            raise ValueError(label + ': retangulo degenerado/invertido')\r\n        return b\r\n\r\n    if not isinstance(data, dict) or data.get('schema_version') != '1.0':\r\n        raise ValueError('schema_version deve ser 1.0')\r\n    if data.get('units') != 'mm':\r\n        raise ValueError('units deve ser mm; nenhuma conversao implicita permitida')\r\n    if not isinstance(data.get('project_id'), str) or not data['project_id'].strip():\r\n        raise ValueError('project_id obrigatorio e estavel entre exportacoes')\r\n    point(data.get('origin'), 'origin', 3)\r\n    ids = set()\r\n    for group in ('walls', 'openings', 'rooms', 'furniture', 'zones', 'outdoor'):\r\n        if group in ('zones', 'outdoor') and group not in data:\r\n            continue\r\n        if not isinstance(data.get(group), list) or len(data[group]) > 5000:\r\n            raise ValueError(group + ': lista obrigatoria, limite 5000')\r\n        for item in data[group]:\r\n            if not isinstance(item, dict) or not isinstance(item.get('id'), str) or not item['id']:\r\n                raise ValueError(group + ': id textual obrigatorio')\r\n            if item['id'] in ids or item['id'].startswith('__'):\r\n                raise ValueError('id repetido ou reservado: ' + item['id'])\r\n            ids.add(item['id'])\r\n    if not data['walls'] or not data['rooms']:\r\n        raise ValueError('walls e rooms nao podem estar vazios')\r\n    walls = {}\r\n    for w in data['walls']:\r\n        a, b = point(w.get('start'), 'wall.start'), point(w.get('end'), 'wall.end')\r\n        if math.hypot(b[0]-a[0], b[1]-a[1]) < 10:\r\n            raise ValueError('Parede com menos de 10 mm: ' + w['id'])\r\n        number(w.get('thickness'), 'wall.thickness', True)\r\n        number(w.get('height'), 'wall.height', True)\r\n        walls[w['id']] = w\r\n    spans = {}\r\n    for o in data['openings']:\r\n        if 'door_style' in o and o['door_style'] not in ('passage', 'sliding', 'hinged'):\r\n            raise ValueError('door_style desconhecido: ' + o['id'])\r\n        if o.get('wall_id') not in walls or o.get('kind') not in ('door', 'window'):\r\n            raise ValueError('Abertura com parede/tipo invalido: ' + o['id'])\r\n        c = point(o.get('center'), 'opening.center')\r\n        width = number(o.get('width'), 'opening.width', True)\r\n        height = number(o.get('height'), 'opening.height', True)\r\n        sill = number(o.get('sill'), 'opening.sill')\r\n        w = walls[o['wall_id']]\r\n        a, b = w['start'], w['end']\r\n        length = math.hypot(b[0]-a[0], b[1]-a[1])\r\n        dx, dy = (b[0]-a[0])/length, (b[1]-a[1])/length\r\n        along = (c[0]-a[0])*dx+(c[1]-a[1])*dy\r\n        away = abs((c[0]-a[0])*dy-(c[1]-a[1])*dx)\r\n        if away > 1 or along-width/2 < 1 or along+width/2 > length-1:\r\n            raise ValueError('Abertura fora do eixo/extensao da parede: ' + o['id'])\r\n        if sill < 0 or sill+height >= w['height']:\r\n            raise ValueError('Abertura fora da altura da parede: ' + o['id'])\r\n        for lo, hi, bottom, top in spans.get(w['id'], []):\r\n            if along-width/2 < hi and along+width/2 > lo and sill < top and sill+height > bottom:\r\n                raise ValueError('Aberturas sobrepostas na parede: ' + w['id'])\r\n        spans.setdefault(w['id'], []).append((along-width/2, along+width/2, sill, sill+height))\r\n    for r in data['rooms']:\r\n        bounds(r.get('bounds'), 'room.bounds')\r\n        if not isinstance(r.get('name'), str) or not r['name'].strip() or not isinstance(r.get('kind'), str):\r\n            raise ValueError('Ambiente sem nome/kind: ' + r['id'])\r\n    def contains(outer, inner):\r\n        return all((inner[0] >= outer[0]-1, inner[1] >= outer[1]-1,\r\n                    inner[2] <= outer[2]+1, inner[3] <= outer[3]+1))\r\n\r\n    def overlaps(a, b):\r\n        return min(a[2], b[2])-max(a[0], b[0]) > 1 and min(a[3], b[3])-max(a[1], b[1]) > 1\r\n\r\n    containers = {r['id']: r['bounds'] for r in data['rooms']}\r\n    for index, room in enumerate(data['rooms']):\r\n        if any(overlaps(room['bounds'], other['bounds']) for other in data['rooms'][:index]):\r\n            raise ValueError('Recintos sobrepostos; use zones para funcoes integradas: ' + room['id'])\r\n    for zone in data.get('zones', []):\r\n        b = bounds(zone.get('bounds'), 'zone.bounds')\r\n        if zone.get('room_id') not in containers or not contains(containers[zone['room_id']], b):\r\n            raise ValueError('Zona fora do recinto hospedeiro: ' + zone['id'])\r\n        if not isinstance(zone.get('kind'), str) or not zone['kind']:\r\n            raise ValueError('Zona sem kind: ' + zone['id'])\r\n    for area in data.get('outdoor', []):\r\n        b = bounds(area.get('bounds'), 'outdoor.bounds')\r\n        if area.get('kind') not in ('garage', 'terrace'):\r\n            raise ValueError('Area externa desconhecida: ' + area['id'])\r\n        if 'thickness' in area:\r\n            number(area['thickness'], 'outdoor.thickness', True)\r\n        if 'spaces' in area:\r\n            spaces = number(area['spaces'], 'outdoor.spaces')\r\n            if area['kind'] != 'garage' or spaces != int(spaces) or not 1 <= spaces <= 8:\r\n                raise ValueError('Numero de vagas invalido: ' + area['id'])\r\n        if any(overlaps(b, existing) for existing in containers.values()):\r\n            raise ValueError('Area externa sobreposta a recinto/area externa: ' + area['id'])\r\n        containers[area['id']] = b\r\n    for f in data['furniture']:\r\n        bounds(f.get('bounds'), 'furniture.bounds')\r\n        number(f.get('height'), 'furniture.height', True)\r\n        if not isinstance(f.get('kind'), str) or not f['kind']:\r\n            raise ValueError('Movel sem kind: ' + f['id'])\r\n        if 'room_id' in f and (f['room_id'] not in containers or not contains(containers[f['room_id']], f['bounds'])):\r\n            raise ValueError('Movel fora do recinto/area externa hospedeira: ' + f['id'])\r\n    slab = data.get('slab')\r\n    if not isinstance(slab, dict):\r\n        raise ValueError('slab obrigatorio')\r\n    bounds(slab.get('bounds'), 'slab.bounds')\r\n    number(slab.get('thickness'), 'slab.thickness', True)\r\n    outline = validate_outline(slab.get('outline', rectangle_outline(slab['bounds'])), 'slab.outline')\r\n    bbox = [min(p[0] for p in outline), min(p[1] for p in outline), max(p[0] for p in outline), max(p[1] for p in outline)]\r\n    if any(abs(a-b)>1 for a,b in zip(bbox, slab['bounds'])):\r\n        raise ValueError('slab.bounds diverge de outline')\r\n    if 'footprint' in data and data['footprint'] != outline:\r\n        raise ValueError('footprint deve corresponder a slab.outline')\r\n    for room in data['rooms']:\r\n        b = room['bounds']\r\n        if (b[2]-b[0])*(b[3]-b[1])-rectangle_polygon_area(b, outline)>1:\r\n            raise ValueError('Recinto fora do piso real: '+room['id'])\r\n    for area in data.get('outdoor', []):\r\n        if rectangle_polygon_area(area['bounds'], outline) > 1:\r\n            raise ValueError('Piso externo sobreposto ao piso da casa: ' + area['id'])\r\n    if 'roof' in data:\r\n        roof = data['roof']\r\n        if not isinstance(roof, dict) or roof.get('kind') != 'flat_slab':\r\n            raise ValueError('roof.kind deve ser flat_slab')\r\n        if validate_outline(roof.get('outline'), 'roof.outline') != outline:\r\n            raise ValueError('Cobertura deve acompanhar contorno do piso')\r\n        for key in ('base_z', 'thickness', 'parapet_thickness'):\r\n            number(roof.get(key), 'roof.'+key, True)\r\n        if number(roof.get('parapet_height'), 'roof.parapet_height') < 0:\r\n            raise ValueError('Platibanda nao pode ter altura negativa')\r\n        if abs(roof['base_z']-max(w['height'] for w in data['walls']))>1:\r\n            raise ValueError('Base da cobertura deve coincidir com topo das paredes')\r\n    for key in ('north', 'north_degrees'):\r\n        if key in data:\r\n            number(data[key], key)\r\n    if not isinstance(data.get('validations'), list):\r\n        raise ValueError('validations deve ser lista')\r\n    return data\r\n\r\n\r\ndef run(inputs):\r\n    if len(inputs) < 2 or inputs[1] is not True:\r\n        return {'status': 'aguardando', 'message': 'Conecte caminho JSON e executar=True. Nenhuma alteracao.'}\r\n    if not isinstance(inputs[0], str) or not os.path.isfile(inputs[0]):\r\n        raise ValueError('IN[0]: arquivo JSON existente obrigatorio')\r\n    if os.path.getsize(inputs[0]) > 10000000:\r\n        raise ValueError('JSON excede 10 MB')\r\n    if len(inputs) > 2 and not isinstance(inputs[2], bool):\r\n        raise ValueError('IN[2] deve ser Boolean: autoriza recriar os elementos gerados')\r\n    reset = len(inputs) > 2 and inputs[2] is True\r\n    with open(inputs[0], 'r', encoding='utf-8-sig') as handle:\r\n        data = validate(json.load(handle))\r\n\r\n    import clr\r\n    clr.AddReference('RevitAPI')\r\n    clr.AddReference('RevitServices')\r\n    from Autodesk.Revit import DB\r\n    from Autodesk.Revit.DB.ExtensibleStorage import Schema, SchemaBuilder, Entity, AccessLevel, ExtensibleStorageFilter\r\n    from RevitServices.Persistence import DocumentManager\r\n    from RevitServices.Transactions import TransactionManager\r\n    from System import Guid, String\r\n    from System.Collections.Generic import List\r\n\r\n    doc = DocumentManager.Instance.CurrentDBDocument\r\n    if doc is None or doc.IsFamilyDocument or doc.IsReadOnly:\r\n        raise ValueError('Abra um projeto Revit editavel, preferencialmente vazio')\r\n    schema_id = Guid('1aa6e65f-fce4-40e3-a5a1-fb8fa7239a61')\r\n    schema = Schema.Lookup(schema_id)\r\n    project = data['project_id']\r\n\r\n    def eid(value):\r\n        return int(value.Value) if hasattr(value, 'Value') else int(value.IntegerValue)\r\n\r\n    def stored(element):\r\n        if schema is None:\r\n            return None\r\n        entity = element.GetEntity(schema)\r\n        if not entity.IsValid():\r\n            return None\r\n        return json.loads(entity.Get[String](schema.GetField('Payload')))\r\n\r\n    owned = []\r\n    if schema is not None:\r\n        # Revit exige um filtro antes de iterar o coletor. Este inclui tambem tipos.\r\n        for e in DB.FilteredElementCollector(doc).WherePasses(ExtensibleStorageFilter(schema_id)):\r\n            metadata = stored(e)\r\n            if metadata and metadata.get('source') == 'casa-autolisp' and metadata.get('project_id') == project:\r\n                owned.append(e)\r\n    if owned and not reset:\r\n        return {'status': 'bloqueado', 'message': 'Projeto ja importado. IN[2]=True autoriza recriar TODOS os elementos gerados, inclusive edicoes manuais nesses elementos. Elementos externos permanecem protegidos.', 'count': len(owned)}\r\n\r\n    def ft(mm):\r\n        return float(mm)/304.8\r\n\r\n    def xyz(x, y, z=0):\r\n        return DB.XYZ(ft(x), ft(y), ft(z))\r\n\r\n    created = []\r\n\r\n    def tag(element, source_id, kind):\r\n        payload = {'source': 'casa-autolisp', 'project_id': project, 'source_id': source_id, 'kind': kind}\r\n        entity = Entity(schema)\r\n        entity.Set[String](schema.GetField('Payload'), json.dumps(payload, ensure_ascii=True))\r\n        element.SetEntity(entity)\r\n        created.append({'source_id': source_id, 'kind': kind, 'revit_id': eid(element.Id)})\r\n        return element\r\n\r\n    def polygon_loop(outline):\r\n        points = [xyz(*p) for p in outline]\r\n        result = DB.CurveLoop()\r\n        for i in range(len(points)):\r\n            result.Append(DB.Line.CreateBound(points[i], points[(i+1)%len(points)]))\r\n        return result\r\n\r\n    def loop(bounds):\r\n        return polygon_loop(rectangle_outline(bounds))\r\n\r\n    def simple_structure(thickness, wall=False):\r\n        # Wall structures need a vertical sample; floors must have NoEndCap.\r\n        # EndCap.None and EndCap.NoEndCap are different Revit enum values.\r\n        args = (DB.MaterialFunctionAssignment.Structure, ft(thickness), DB.ElementId.InvalidElementId)\r\n        if wall:\r\n            structure = DB.CompoundStructure.CreateSingleLayerCompoundStructure(ft(3000), *args)\r\n            structure.EndCap = getattr(DB.EndCapCondition, 'None')\r\n        else:\r\n            structure = DB.CompoundStructure.CreateSingleLayerCompoundStructure(*args)\r\n            structure.EndCap = DB.EndCapCondition.NoEndCap\r\n        structure.StructuralMaterialIndex = 0\r\n        return structure\r\n\r\n    def set_structure(element_type, thickness, label, wall=False):\r\n        try:\r\n            element_type.SetCompoundStructure(simple_structure(thickness, wall))\r\n        except Exception as error:\r\n            raise RuntimeError('Camadas de {} ({} mm): {}'.format(label, thickness, error)) from error\r\n\r\n    # Fechar a transacao de infraestrutura do Dynamo antes de transacao atomica propria.\r\n    TransactionManager.Instance.ForceCloseTransaction()\r\n    api_failures = []\r\n\r\n    class RollBackOnError(DB.IFailuresPreprocessor):\r\n        # pythonnet exige namespace ao implementar interface .NET.\r\n        # UUID evita conflito de tipos quando o no e executado novamente.\r\n        __namespace__ = 'CasaImporter_' + Guid.NewGuid().ToString('N')\r\n\r\n        def PreprocessFailures(self, accessor):\r\n            has_error = False\r\n            for failure in accessor.GetFailureMessages():\r\n                api_failures.append(failure.GetDescriptionText())\r\n                if failure.GetSeverity() == DB.FailureSeverity.Error:\r\n                    has_error = True\r\n            if has_error:\r\n                return DB.FailureProcessingResult.ProceedWithRollBack\r\n            return DB.FailureProcessingResult.Continue\r\n\r\n    tx = DB.Transaction(doc, 'CASA - importar ' + project)\r\n    tx.Start()\r\n    try:\r\n        handler = RollBackOnError()\r\n        options = tx.GetFailureHandlingOptions()\r\n        options.SetFailuresPreprocessor(handler)\r\n        options.SetClearAfterRollback(True)\r\n        tx.SetFailureHandlingOptions(options)\r\n        if owned:\r\n            allowed = {eid(e.Id) for e in owned}\r\n            to_delete = List[DB.ElementId]()\r\n            for e in owned:\r\n                to_delete.Add(e.Id)\r\n            deleted = doc.Delete(to_delete)\r\n            unexpected = [eid(x) for x in deleted if eid(x) not in allowed]\r\n            if unexpected:\r\n                raise ValueError('Substituicao afetaria elementos nao gerados/dependentes: {}. Operacao revertida.'.format(unexpected))\r\n        if schema is None:\r\n            builder = SchemaBuilder(schema_id)\r\n            builder.SetSchemaName('CasaAutoLispSourceV1')\r\n            builder.SetReadAccessLevel(AccessLevel.Public)\r\n            builder.SetWriteAccessLevel(AccessLevel.Public)\r\n            builder.AddSimpleField('Payload', String)\r\n            schema = builder.Finish()\r\n        # XY no JSON e WCS global. origin e metadado: nao somar XYZ novamente.\r\n        level = tag(DB.Level.Create(doc, 0.0), '__level', 'level')\r\n        level.Name = 'CASA ' + project[:50] + ' ' + str(eid(level.Id))\r\n        wall_base = next((w for w in DB.FilteredElementCollector(doc).OfClass(DB.WallType) if w.Kind == DB.WallKind.Basic), None)\r\n        floor_base = next((f for f in DB.FilteredElementCollector(doc).OfClass(DB.FloorType) if not f.IsFoundationSlab), None)\r\n        if wall_base is None or floor_base is None:\r\n            raise ValueError('Template precisa de tipo basico de parede e tipo de piso')\r\n        wall_types, revit_walls = {}, {}\r\n        for w in data['walls']:\r\n            key = float(w['thickness'])\r\n            if key not in wall_types:\r\n                wt = wall_base.Duplicate('CASA {} {}mm {}'.format(eid(level.Id), key, len(wall_types)))\r\n                set_structure(wt, key, 'parede', wall=True)\r\n                tag(wt, '__walltype_' + str(key), 'wall_type')\r\n                wall_types[key] = wt\r\n            a, b = w['start'], w['end']\r\n            axis = DB.Line.CreateBound(xyz(*a), xyz(*b))\r\n            wall = DB.Wall.Create(doc, axis, wall_types[key].Id, level.Id, ft(w['height']), 0.0, False, False)\r\n            # Evita alterar paredes existentes por juncao automatica de extremidades.\r\n            DB.WallUtils.DisallowWallJoinAtEnd(wall, 0)\r\n            DB.WallUtils.DisallowWallJoinAtEnd(wall, 1)\r\n            revit_walls[w['id']] = tag(wall, w['id'], 'wall')\r\n        floor_type = floor_base.Duplicate('CASA piso ' + str(eid(level.Id)))\r\n        set_structure(floor_type, data['slab']['thickness'], 'piso da casa')\r\n        tag(floor_type, '__floor_type', 'floor_type')\r\n        loops = List[DB.CurveLoop]()\r\n        loops.Add(polygon_loop(data['slab'].get('outline', rectangle_outline(data['slab']['bounds']))))\r\n        tag(DB.Floor.Create(doc, loops, floor_type.Id, level.Id), '__slab', 'slab')\r\n        if 'roof' in data:\r\n            roof = data['roof']\r\n            rt = floor_base.Duplicate('CASA laje cobertura ' + str(eid(level.Id)))\r\n            set_structure(rt, roof['thickness'], 'laje de cobertura')\r\n            tag(rt, '__roof_type', 'floor_type')\r\n            roof_loops = List[DB.CurveLoop]()\r\n            roof_loops.Add(polygon_loop(roof['outline']))\r\n            roof_slab = DB.Floor.Create(doc, roof_loops, rt.Id, level.Id)\r\n            # Revit floor elevation denotes top face; base_z denotes underside.\r\n            roof_slab.get_Parameter(DB.BuiltInParameter.FLOOR_HEIGHTABOVELEVEL_PARAM).Set(ft(roof['base_z']+roof['thickness']))\r\n            tag(roof_slab, '__roof', 'roof_slab_concept')\r\n            if roof['parapet_height'] > 1:\r\n                pt = wall_base.Duplicate('CASA platibanda ' + str(eid(level.Id)))\r\n                set_structure(pt, roof['parapet_thickness'], 'platibanda', wall=True)\r\n                tag(pt, '__parapet_type', 'wall_type')\r\n                # Offset CCW outline toward its interior, so exterior face stays on footprint.\r\n                poly = roof['outline']\r\n                offset = roof['parapet_thickness']/2\r\n                inset = []\r\n                for i, p in enumerate(poly):\r\n                    prev, nxt = poly[i-1], poly[(i+1)%len(poly)]\r\n                    u = [(p[0]-prev[0]), (p[1]-prev[1])]\r\n                    v = [(nxt[0]-p[0]), (nxt[1]-p[1])]\r\n                    lu, lv = math.hypot(*u), math.hypot(*v)\r\n                    nu, nv = [-u[1]/lu, u[0]/lu], [-v[1]/lv, v[0]/lv]\r\n                    # Collinear redundant vertices use just one inward normal.\r\n                    normals = nu if abs(nu[0]-nv[0])+abs(nu[1]-nv[1])<0.001 else [nu[0]+nv[0], nu[1]+nv[1]]\r\n                    inset.append([p[0]+offset*normals[0], p[1]+offset*normals[1]])\r\n                for i, (a,b) in enumerate(zip(inset, inset[1:]+inset[:1])):\r\n                    wall = DB.Wall.Create(doc, DB.Line.CreateBound(xyz(*a),xyz(*b)), pt.Id, level.Id, ft(roof['parapet_height']), ft(roof['base_z']+roof['thickness']), False, False)\r\n                    DB.WallUtils.DisallowWallJoinAtEnd(wall, 0)\r\n                    DB.WallUtils.DisallowWallJoinAtEnd(wall, 1)\r\n                    tag(wall, '__parapet_'+str(i), 'parapet')\r\n        exterior_types = {}\r\n        for area in data.get('outdoor', []):\r\n            thickness = float(area.get('thickness', 100))\r\n            if thickness not in exterior_types:\r\n                exterior_type = floor_base.Duplicate('CASA externo {} {}mm'.format(eid(level.Id), thickness))\r\n                set_structure(exterior_type, thickness, 'piso externo')\r\n                tag(exterior_type, '__exterior_type_' + str(thickness), 'floor_type')\r\n                exterior_types[thickness] = exterior_type\r\n            exterior_loops = List[DB.CurveLoop]()\r\n            exterior_loops.Add(loop(area['bounds']))\r\n            tag(DB.Floor.Create(doc, exterior_loops, exterior_types[thickness].Id, level.Id), area['id'], 'outdoor_' + area['kind'])\r\n        doc.Regenerate()\r\n        specs = {w['id']: w for w in data['walls']}\r\n        for o in data['openings']:\r\n            w = specs[o['wall_id']]\r\n            a, b, c = w['start'], w['end'], o['center']\r\n            length = math.hypot(b[0]-a[0], b[1]-a[1])\r\n            dx, dy = (b[0]-a[0])/length*o['width']/2, (b[1]-a[1])/length*o['width']/2\r\n            opening = doc.Create.NewOpening(revit_walls[o['wall_id']], xyz(c[0]-dx,c[1]-dy,o['sill']), xyz(c[0]+dx,c[1]+dy,o['sill']+o['height']))\r\n            tag(opening, o['id'], o['kind'] + '_opening')\r\n        for f in data['furniture']:\r\n            profiles = List[DB.CurveLoop]()\r\n            profiles.Add(loop(f['bounds']))\r\n            solid = DB.GeometryCreationUtilities.CreateExtrusionGeometry(profiles, DB.XYZ.BasisZ, ft(f['height']))\r\n            shape = DB.DirectShape.CreateElement(doc, DB.ElementId(DB.BuiltInCategory.OST_Furniture))\r\n            shape.ApplicationId = 'casa-autolisp'\r\n            shape.ApplicationDataId = project + ':' + f['id']\r\n            shape.Name = 'PROXY ' + f['kind']\r\n            geom = List[DB.GeometryObject]()\r\n            geom.Add(solid)\r\n            shape.SetShape(geom)\r\n            tag(shape, f['id'], 'furniture_proxy')\r\n        doc.Regenerate()\r\n        room_results = []\r\n        for r in data['rooms']:\r\n            x0,y0,x1,y1 = r['bounds']\r\n            room = doc.Create.NewRoom(level, DB.UV(ft((x0+x1)/2), ft((y0+y1)/2)))\r\n            room.Name = r['name']\r\n            room.Number = '{}-{}'.format(eid(level.Id), r['id'])\r\n            tag(room, r['id'], 'room')\r\n            room_results.append(room)\r\n        doc.Regenerate()\r\n        unbounded = [r.get_Parameter(DB.BuiltInParameter.ROOM_NAME).AsString() for r in room_results if r.Area <= 0]\r\n        if unbounded:\r\n            raise ValueError('Ambientes nao delimitados/redundantes no Revit: ' + ', '.join(unbounded))\r\n        status = tx.Commit()\r\n        if status != DB.TransactionStatus.Committed:\r\n            raise RuntimeError('Revit nao confirmou a transacao: ' + str(status) + '; ' + '; '.join(api_failures))\r\n        return {'status': 'importado', 'project_id': project, 'elements': created,\r\n                'warnings': ['Portas/janelas sao vaos reais SEM caixilhos, folhas ou familias.',\r\n                             'Moveis sao volumes DirectShape; nao sao familias parametricas.',\r\n                             'Cobertura, quando presente, e laje conceitual (categoria Piso) com platibanda: sem caimentos, drenagem, impermeabilizacao ou calculo estrutural.',\r\n                             'Sem vistas de cortes/fachadas, instalacoes ou conformidade municipal certificada.',\r\n                             'Cotas e textos do CAD nao sao transferidos ao Revit nesta versao.'],\r\n                'revit_warnings': api_failures,\r\n                'zones_from_cad': data.get('zones', []),\r\n                'design_metadata': {k: data[k] for k in ('layout', 'integration', 'north', 'north_degrees', 'entry_path', 'roof') if k in data},\r\n                'validations_from_cad': data['validations']}\r\n    except Exception:\r\n        if tx.GetStatus() == DB.TransactionStatus.Started:\r\n            tx.RollBack()\r\n        raise\r\n\r\n\r\nif 'IN' in globals():\r\n    try:\r\n        OUT = run(IN)\r\n    except Exception as error:\r\n        import traceback\r\n        OUT = {'status': 'erro', 'message': str(error), 'details': traceback.format_exc(),\r\n               'importer_revision': '0.4-endcap-1'}\r\n",
+      "Engine": "PythonNet3",
+      "VariableInputPorts": true,
+      "Id": "ea24a523a42e42cea46214e5d8782dc3",
+      "NodeType": "PythonScriptNode",
+      "Inputs": [
+        {
+          "Id": "c1080d2d7bea44e49ccfe75462aac665",
+          "Name": "IN[0]",
+          "Description": "Input #0",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "ed1ce28d8bd043218f505d89a8f84b9d",
+          "Name": "IN[1]",
+          "Description": "Input #1",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "72a195721aa04b289faa6f00a0daa296",
+          "Name": "IN[2]",
+          "Description": "Input #2",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "58d74c08542441e498f6430aa9c6c668",
+          "Name": "OUT",
+          "Description": "Resultado do script Python",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Executa um script Python incorporado."
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.StringInput, CoreNodeModels",
+      "SerializedWidth": 0.0,
+      "SerializedHeight": 0.0,
+      "Id": "cc29381300f54192965e74e4e035eb51",
+      "NodeType": "StringInputNode",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "33208f563eda49f48d0515f705e5ee5b",
+          "Name": "",
+          "Description": "String",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Cria uma sequência de caracteres.",
+      "InputValue": "C:\\Users\\mathe\\OneDrive\\Desktop\\Arquitetura\\json\\rodolfo.json"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
+      "Id": "c87116765ac34149ab38142cd3a0fe00",
+      "NodeType": "BooleanInputNode",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "b0f4399aab7a4b849506b6c79d523c4d",
+          "Name": "",
+          "Description": "Boolean",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Permite a seleção entre True e False",
+      "InputValue": false
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
+      "Id": "2ef17b12ec5f478eb47649b4c9cbb2f2",
+      "NodeType": "BooleanInputNode",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "26a560638f4e48ee862f5877abaa4138",
+          "Name": "",
+          "Description": "Boolean",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Permite a seleção entre True e False",
+      "InputValue": false
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
+      "WatchWidth": 511.0,
+      "WatchHeight": 433.0,
+      "Id": "c5397ed252d3424c80d9478516f20c9e",
+      "NodeType": "ExtensionNode",
+      "Inputs": [
+        {
+          "Id": "585141dea914446f84dc2ce8dcfa44b6",
+          "Name": "",
+          "Description": "Nó do qual a saída é exibida",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "605aea52cf654e2fae3bd9c81755ff07",
+          "Name": "",
+          "Description": "Saída do nó",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Visualiza a saída de um nó"
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "58d74c08542441e498f6430aa9c6c668",
+      "End": "585141dea914446f84dc2ce8dcfa44b6",
+      "Id": "918bb2f9d43f48a09dfb0e166d57fb02",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "33208f563eda49f48d0515f705e5ee5b",
+      "End": "c1080d2d7bea44e49ccfe75462aac665",
+      "Id": "b2f82cd1a13042a6bd77a0b7b11d3d03",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "b0f4399aab7a4b849506b6c79d523c4d",
+      "End": "ed1ce28d8bd043218f505d89a8f84b9d",
+      "Id": "ad10fdfd8d0846e294caa68106ec5fe9",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "26a560638f4e48ee862f5877abaa4138",
+      "End": "72a195721aa04b289faa6f00a0daa296",
+      "Id": "6da9213daed84dbcab07d918fda92756",
+      "IsHidden": "False"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [
+    {
+      "Name": "rodolfo.json",
+      "ReferenceType": "External",
+      "Nodes": [
+        "cc29381300f54192965e74e4e035eb51"
+      ]
+    }
+  ],
+  "EnableLegacyPolyCurveBehavior": null,
+  "Thumbnail": "",
+  "GraphDocumentationURL": null,
+  "ExtensionWorkspaceData": [
+    {
+      "ExtensionGuid": "28992e1d-abb9-417f-8b1b-05e053bee670",
+      "Name": "Propriedades",
+      "Version": "4.1",
+      "Data": {}
+    },
+    {
+      "ExtensionGuid": "DFBD9CC0-DB40-457A-939E-8C8555555A9D",
+      "Name": "Generative Design",
+      "Version": "10.3",
+      "Data": {}
+    }
+  ],
+  "Author": "",
+  "Linting": {
+    "activeLinter": "Nenhum",
+    "activeLinterId": "7b75fb44-43fd-4631-a878-29f4d5d8399a",
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "4.1.1.5050",
+      "RunType": "Manual",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "_Visualização do plano de fundo",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "ConnectorPins": [],
+    "NodeViews": [
+      {
+        "Id": "ea24a523a42e42cea46214e5d8782dc3",
+        "Name": "Python Script",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": 464.5,
+        "Y": 74.0
+      },
+      {
+        "Id": "cc29381300f54192965e74e4e035eb51",
+        "Name": "String",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": -90.92848896610371,
+        "Y": 76.54981923500924
+      },
+      {
+        "Id": "c87116765ac34149ab38142cd3a0fe00",
+        "Name": "Boolean",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": -81.37866973109442,
+        "Y": 278.47418655754166
+      },
+      {
+        "Id": "2ef17b12ec5f478eb47649b4c9cbb2f2",
+        "Name": "Boolean",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": -81.88937132121941,
+        "Y": 409.4741865575418
+      },
+      {
+        "Id": "c5397ed252d3424c80d9478516f20c9e",
+        "Name": "Watch",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": 757.0830709553808,
+        "Y": 68.1982387537858
+      }
+    ],
+    "Annotations": [],
+    "X": 80.1441408999749,
+    "Y": -14.083025990135297,
+    "Zoom": 0.9655667826077424
+  }
+}

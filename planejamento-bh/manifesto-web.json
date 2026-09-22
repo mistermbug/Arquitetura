@@ -1,0 +1,95 @@
+[
+  {
+    "id": "indice-legislacao",
+    "url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica",
+    "checked_at": "2026-09-07T13:02:14.339806+00:00",
+    "final_url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica",
+    "status": "html_archived",
+    "sha256": "c5beaee3cdce971879f5d481f3d3220a0aca213a3487ad0be61aef02bc442579",
+    "file": "fontes-web\\indice-legislacao.html",
+    "bytes": 449983,
+    "text_chars": 79032,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "indice-cartilhas",
+    "url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/publicacoes-e-cartilhas",
+    "checked_at": "2026-09-07T13:02:15.374719+00:00",
+    "final_url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/publicacoes-e-cartilhas",
+    "status": "html_archived",
+    "sha256": "997103796aaf577faf037288222b21737f44de7a327ae6c3073923d651084d94",
+    "file": "fontes-web\\indice-cartilhas.html",
+    "bytes": 99753,
+    "text_chars": 4016,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "indice-mapas",
+    "url": "https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/base-de-dados/mapas-legislacao-urbanistica",
+    "checked_at": "2026-09-07T13:02:18.487861+00:00",
+    "final_url": "https://prefeitura.pbh.gov.br/politica-urbana/planejamento-urbano/base-de-dados/mapas-legislacao-urbanistica",
+    "status": "html_archived",
+    "sha256": "2237a39bcc4387aa5943c8a495ed8f3e21cfe9af0ff31b82e8fd30de5e5ce091",
+    "file": "fontes-web\\indice-mapas.html",
+    "bytes": 147609,
+    "text_chars": 14183,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "faq-smpu",
+    "url": "https://prefeitura.pbh.gov.br/politica-urbana/perguntas-frequentes-smpu",
+    "checked_at": "2026-09-07T13:02:22.045941+00:00",
+    "final_url": "https://prefeitura.pbh.gov.br/politica-urbana/perguntas-frequentes-smpu",
+    "status": "html_archived",
+    "sha256": "4799b379c2d85f6bf2cc1715ce9056c0238bb5b2fc8dd620c219475df3cafd03",
+    "file": "fontes-web\\faq-smpu.html",
+    "bytes": 132009,
+    "text_chars": 13675,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "manual-portal-indice",
+    "url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/publicacoes-e-cartilhas/manual-portal-de-edificacoes",
+    "checked_at": "2026-09-07T13:02:24.921884+00:00",
+    "final_url": "https://prefeitura.pbh.gov.br/politica-urbana/informacoes/publicacoes-e-cartilhas/manual-portal-de-edificacoes",
+    "status": "html_archived",
+    "sha256": "296fe1c796b0369b136395fe04130a12e5fdb75716adc1b40970c8432009bc6c",
+    "file": "fontes-web\\manual-portal-indice.html",
+    "bytes": 96837,
+    "text_chars": 3814,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "checklist-documentacao",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRET6Ug0kkn6p5A6bpAhnRYECvrFIM_V_Xi3_r_x9IjKVCBnOyyvvqBQNMtd6gzb2uzJZBZ3VD0Uadn/pub",
+    "checked_at": "2026-09-07T13:02:32.695221+00:00",
+    "final_url": "https://docs.google.com/document/d/e/2PACX-1vRET6Ug0kkn6p5A6bpAhnRYECvrFIM_V_Xi3_r_x9IjKVCBnOyyvvqBQNMtd6gzb2uzJZBZ3VD0Uadn/pub",
+    "status": "html_archived",
+    "sha256": "3e23f20668744e09f5aa5617a3937dd55c37dd26869e6e6e0c8f8ed804f019ef",
+    "file": "fontes-web\\checklist-documentacao.html",
+    "bytes": 344352,
+    "text_chars": 74000,
+    "content_verification": "conteudo_para_consulta"
+  },
+  {
+    "id": "codigo-edificacoes-consulta",
+    "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/9725/2009",
+    "checked_at": "2026-09-07T13:02:34.397866+00:00",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  },
+  {
+    "id": "regulamento-codigo-consulta",
+    "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/13842/2010",
+    "checked_at": "2026-09-07T13:02:34.598881+00:00",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  },
+  {
+    "id": "regulamento-plano-consulta",
+    "url": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/decreto/17273/2020",
+    "checked_at": "2026-09-07T13:02:34.696000+00:00",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  }
+]

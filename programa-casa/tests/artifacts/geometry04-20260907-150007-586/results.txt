@@ -1,0 +1,4 @@
+FAIL small-program Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+FAIL small-program Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+FAIL small-program Conjunto funcional nao cabe: Quarto 1. Ajuste dimensoes ou tente outra alternativa.
+COMPLETE extras=18/21

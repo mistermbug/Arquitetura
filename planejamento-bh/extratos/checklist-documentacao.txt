@@ -1,0 +1,1001 @@
+CHECKLIST - DOCUMENTAÇÃO NECESSÁRIA LICENCIAMENTO E REGULARIZAÇÃO DE EDIFICAÇÃO (NOVO PLANO DIRETOR)
+Publicada usando o Google Docs
+Denunciar abuso
+Saiba mais
+CHECKLIST - DOCUMENTAÇÃO NECESSÁRIA LICENCIAMENTO E REGULARIZAÇÃO DE EDIFICAÇÃO (NOVO PLANO DIRETOR)
+Atualizado automaticamente a cada 5 minutos
+DOCUMENTAÇÃO NECESSÁRIA PARA LICENCIAMENTO / REGULARIZAÇÃO DE EDIFICAÇÃO (NOVO PLANO DIRETOR)
+APLICAÇÃO:
+PARA CONSULTA DA DOCUMENTAÇÃO A SER ANEXADA NO CADASTRO DO PROJETO NO PORTAL DE EDIFICAÇÕES PARA LICENCIAMENTO/REGULARIZAÇÃO DE EDIFICAÇÃO.
+*
+este formulário será utilizado como checklist para análise da documentação
+e não precisa ser anexado com os demais documentos
+.
+IDENTIFIQUE O NÚMERO RELATIVO AO TIPO DE SOLICITAÇÃO DESEJADA E ANEXE AO PORTAL DE EDIFICAÇÕES TODOS OS DOCUMENTOS QUE CONSTAREM AO LADO DESTE NÚMERO.
+1
+APROVAÇÃO DE PROJETO DE EDIFICAÇÃO E EMISSÃO DE ALVARÁ DE CONSTRUÇÃO -
+INICIAL E MODIFICAÇÕES
+PARA FUTURAS EDIFICAÇÕES OU FUTURAS ALTERAÇÕES EM EDIFICAÇÕES EXISTENTES
+2
+APROVAÇÃO DE PROJETO DE EDIFICAÇÃO E EMISSÃO DE ALVARÁ DE CONSTRUÇÃO - INICIAL E MODIFICAÇÕES -
+EMPREENDIMENTO HABITACIONAL DE INTERESSE SOCIAL (EHIS)
+3
+APROVAÇÃO SIMPLIFICADA DE ALTERAÇÕES PONTUAIS -
+MODIFICAÇÃO
+COM ALVARÁ DE CONSTRUÇÃO VÁLIDO OU COM BAIXA DE CONSTRUÇÃO,
+SEM ACRÉSCIMO OU DECRÉSCIMO DE ÁREA BRUTA OU LÍQUIDA
+E CONSISTINDO DE
+ALTERAÇÕES PONTUAIS DE POUCA RELEVÂNCIA*
+EM RELAÇÃO AO PROJETO ANTERIORMENTE APROVADO.
+*
+As alterações de pouca relevância para este caso compreendem aquelas que não acarretem alteração da área construída e nem alteração de área líquida. São aquelas que promovam modificações pontuais de acessibilidade, de canteiros de área permeável, de locação/numeração de vagas de estacionamento sem alterar número de vagas, de áreas de manobra e na denominação de unidades e/ou blocos. Ou seja, mudanças simples que não acarretem a necessidade de reanálise de parâmetros de projeto.
+4
+REGULARIZAÇÃO PELA LEI VIGENTE
+(LEVANTAMENTO TOTAL OU LEVANTAMENTO DO
+ACRÉSCIMO
+).
+PARA EDIFICAÇÕES EXISTENTES
+5
+REGULARIZAÇÃO ONEROSA PELA LEI 9.074/2005
+DE EDIFICAÇÃO CONCLUÍDA ANTES DE 18 DE DEZEMBRO DE 2024, PARA IMÓVEL
+CUJA SOMATÓRIA DO VALOR VENAL DAS UNIDADES IMOBILIÁRIAS SITUADAS NO LOTE ULTRAPASSE 4(QUATRO) VEZES O VALOR VENAL CONSIDERADO PARA ISENÇÃO DE IPTU NO ANO DA ABERTURA DO PROCESSO
+, OU PARA IMÓVEIS COM VALOR MENOR QUE 50 MIL QUE NÃO SE ENQUADREM NAS CONDICIONANTES DO ITEM 6 ABAIXO (LEVANTAMENTO TOTAL OU LEVANTAMENTO DO ACRESCIMO). NÃO É POSSÍVEL A REGULARIZAÇÃO DE EDIFICAÇÕES EM LOTES LOCALIZADOS EM ZEIS-1 E ZEIS-2.
+6
+REGULARIZAÇÃO NÃO ONEROSA PELA LEI 9.074/2005
+DE EDIFICAÇÃO CONCLUÍDA ANTES DE
+18 DE DEZEMBRO DE 2024
+, PARA PROPRIETÁRIO DESSE ÚNICO IMÓVEL NO MUNICÍPIO DE BELO HORIZONTE,
+CUJA SOMATÓRIA DO VALOR VENAL DAS UNIDADES IMOBILIÁRIAS SITUADAS NO LOTE
+NÃO
+ULTRAPASSE 4 (QUATRO) VEZES O VALOR VENAL CONSIDERADO PARA ISENÇÃO DE IPTU NO ANO DA ABERTURA DO PROCESSO
+. (LEVANTAMENTO TOTAL OU LEVANTAMENTO DO ACRESCIMO). NÃO É POSSÍVEL A REGULARIZAÇÃO DE EDIFICAÇÕES EM LOTES LOCALIZADOS EM ZEIS-1 E ZEIS-2.
+*
+Em caso de edificação sendo parte existente e parte a ser construída, considerar duas modalidades de licenciamento
+CADASTRO E TERMOS DE RESPONSABILIDADE
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+3
+4
+5
+6
+CADASTRO E TERMO DE RESPONSABILIDADE DO REQUERENTE
+Cadastrar o requerente e aceitar o termo de responsabilidade digital no Portal de Edificações através do login de acesso do requerente.
+Obrigatório o cadastro do requerente no sistema para todos os casos.
+Obs. Nos casos de solicitação do Poder Público Estadual e Federal, gentileza após o envio do requerimento enviar email para
+agendadiac@pbh.gov.br
+solicitando a isenção das guias por se tratar de poder público.
+1
+2
+3
+4
+5
+6
+CADASTRO E TERMO DE RESPONSABILIDADE PELO PROJETO ARQUITETÔNICO
+Cadastrar e aceitar o termo de responsabilidade digital no Portal de Edificações através do login de acesso do responsável técnico pelo projeto arquitetônico.
+Obrigatório o cadastro do responsável técnico pelo projeto no sistema em todos os casos.
+1
+2
+4
+5
+6
+CADASTRO DE RESPONSABILIDADE PELO PROJETO/LAUDO DE COMBATE A INCÊNDIO
+Cadastrar o responsável técnico pelo sistema de prevenção e combate a incêndio e pânico no Portal de Edificações. Para este item, não é necessário gerar e enviar o Termo de Responsabilidade no Portal de Edificações.
+Obrigatório o cadastro do responsável técnico pelo projeto/laudo de combate a incêndio no sistema para todos os casos, exceto para edificação residencial unifamiliar e multifamiliar horizontal com acessos independentes, classificada pelo Corpo de Bombeiros Militar de Minas Gerais - CBMMG como “baixo risco”. Sendo obrigatório para edificações que possuírem área comum interna.
+Orientações:
+- Para licenciamento (aprovação inicial, modificação) deverá ser cadastrado o responsável técnico pelo projeto de SPCIP.
+- Para levantamento, poderá ser cadastrado responsável técnico pelo projeto ou laudo pelo SPCIP.
+- No caso de representação gráfica simplificada para as edificações do Poder Público, os representantes e responsáveis pela unidade e os responsáveis técnicos pelo projeto de licenciamento e de regularização de edificação e pela execução das obras deverão aceitar o Termo de Responsabilidade constante do cadastro de projeto, assumindo o cumprimento das disposições relativas à edificação, previstas nas legislações federal, estadual e municipal.
+1
+2
+4
+5
+6
+CADASTRO E TERMO DE RESPONSABILIDADE PELA ESTABILIDADE DO TERRENO
+Cadastrar e aceitar o termo de responsabilidade digital no Portal de Edificações através do login de acesso do responsável técnico pela estabilidade do terreno.
+Obrigatório o cadastro do responsável técnico pela estabilidade do terreno no sistema para todos os casos de regularização (Levantamento) que não tenham modificação.
+Para solicitações regularizações de edificações de imóveis do Poder Público, o termo poderá ser substituído pela ART - Anotação de Responsabilidade Técnica de geotecnia.
+No caso dos itens 1 e 2 o cadastro e aceite do termo será necessário nos casos em que a solicitação for de modificação de uma aprovação com alvará ativo e que já tenha sido realizado o Comunicado de início.
+Para se responsabilizar pela estabilidade no caso do profissional ser arquiteto deverá apresentar RRT com a atividade técnica de estabilidade.
+DOCUMENTOS DE CARACTERIZAÇÃO DO(S) LOTE(S)
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+3
+4
+5
+6
+INFORMAÇÃO BÁSICA DO LOTE PARA EDIFICAÇÕES (NÃO OBRIGATÓRIO)
+Identificar os parâmetros urbanísticos legais para edificação no lote.
+Documento disponível em <
+siurbe.pbh.gov.br
+>
+Caso a Informação Básica apresente no campo
+Informações complementares
+a mensagem: “informação sobre validade da aprovação do lote” ou “linha limite de propriedade”, deverá ser apresentada a matrícula do imóvel com a averbação do lote.
+Se um dos zoneamentos do lote for ZEIS, a Companhia Urbanizadora de Belo Horizonte - URBEL poderá ser consultada diretamente sobre possível exclusão de ZEIS através de procedimento específico <
+prefeitura.pbh.gov.br/urbel
+>
+.
+Quando constar Registro documental solicitado, o mesmo deverá ser aprovado previamente junto a Diretoria de Patrimônio Cultural – DIPC-FMC. Após aprovação do registro documental que a solicitação poderá ser realizada no Portal de Edificações.
+Se houver a nota “PENDÊNCIA RELATIVA À SUPRESSÃO ARBÓREA - Medida compensatória a CUMPRIR” deverá apresentar o Recibo provisório ou Recibo definitivo emitido pela SMMA.
+1
+2
+4
+5
+6
+CERTIDÃO DEFINITIVA DE TDC
+Certificar a inclusão de coeficiente de aproveitamento - CA oriundo de Transferência do Direito de Construir - TDC no cálculo dos parâmetros urbanísticos.
+Quando indicado na planilha de cálculo das áreas e Portal de Edificações a utilização de TDC.
+A Certidão Definitiva de TDC continua como documento obrigatório para o comunicado de início, tanto no alvará na hora, quanto no convencional, podendo ser apresentado no protocolo para acatamento. Devendo registrar a área da TDC na planilha e no cadastro do SIATU.
+Para os casos de modificação com comunicado de início de obra realizado ou Regularização de edificação, será necessário apresentar a Certidão definitiva de TDC no protocolo.
+Para os casos em que se obteve a Autorização permanente de TDC o documento será aceito.
+2
+CERTIDÃO DE BENEFÍCIO DECORRENTE DA PRODUÇÃO DE HABITAÇÃO DE INTERESSE SOCIAL (BPH) - IMÓVEL GERADOR
+Documento que certifica que o imóvel é gerador de benefício decorrente da produção de habitação de interesse social
+Documento necessário quando indicado a utilização de BPH.
+D
+everá indicar a área de BPH no cadastro e planilha.
+1
+2
+4
+5
+6
+AUTORIZAÇÃO DO CINDACTA OU DECLARAÇÃO DE INEXIGIBILIDADE DE APROVAÇÃO
+Obter Autorização do Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo - CINDACTA quando a edificação ultrapassa a altura máxima permitida de acordo com a Informação Básica do lote.
+Sempre que a altura da edificação ultrapassar a altura máxima permitida especificada na Informação Básica do lote - IBED, conforme estabelecido na Portaria do Ministério da Defesa Nº 1424/GC3 de 14/12/2020, que dispõe sobre as restrições aos objetos projetados no espaço aéreo que possam afetar adversamente a segurança ou a regularidade das operações aéreas e aprova o plano básico de zona de proteção de aeródromo (PBZPA) para o aeródromo da pampulha e dá outras providências; e considerando também a Portaria GABAER/GC3 nº 1.124 de 9 de janeiro de 2026 que dispõe sobre autorização de implantação de Objeto Projetado no Espaço Aéreo – OPEA, denominado “Área delimitada de Interesse Público do Município de Belo Horizonte”. Para orientação sobre preenchimento do formulário de OPEA e consulta às legislações pertinentes, acesse o endereço eletrônico <
+servicos.decea.gov.br/aga
+>
+. Para os casos de altimetria zerada deve ser considerada a cota de superfície e não a cota altimétrica da IBED.
+Orientações:
+- Para projetos de licenciamento (itens 1 e 2), a autorização do CINDACTA deverá ser apresentada até a comunicação de início de obra, exceto nos casos de modificação de uma aprovação com alvará ativo e que já tenha sido realizado o Comunicado de início;
+A declaração de inexigibilidade deverá ser emitida pelo CINDACTA, não serão aceitas declarações do responsável técnico.
+1
+2
+3
+4
+5
+6
+LEVANTAMENTO PLANIALTIMÉTRICO DO TERRENO (VER NOTA) - OPCIONAL
+Apresentar somente em caso de divergências de níveis entre o Levantamento base da Prodabel e o Levantamento Planialtimétrico do terreno atual (provavelmente modificado por movimentação de terra).
+Apresentação opcional em caso de divergências de dimensões entre o Lote CP e o Lote Real.
+O projeto poderá conter as referências do Levantamento Planialtimétrico, mas estas deverão ser referenciadas em conjunto com os níveis da Prodabel em todos os vértices do terreno. Assim, os parâmetros Altura Máxima na Divisa e Altimetria serão analisados pelos níveis da Prodabel, em conformidade com o Anexo XII da Lei 11.181/19, e os demais parâmetros e implantação da edificação serão analisados considerando a referência do Planialtimétrico, assim como o registro da movimentação de terra pleiteada (em relação ao terreno do do Levantamento Planialtimétrico).
+A base de dados da Prodabel a ser utilizada é a disponibilizada na Informação Básica de Edificações - IBEd (curvas de níveis constantes no Croqui de Localização), sendo que, caso o responsável técnico opte por utilizar outra base da Prodabel, como o Aerofotogramétrico ou a Informação Básica para Parcelamento do Solo (IBPS), essa deverá ser anexada ao requerimento no Portal de Edificações para verificação ou informada através de ofício.
+Fazer a indicação da correspondência com níveis do Levantamento base da Prodabel em consonância com o orientado no e-book “Representação de níveis do terreno” (disponível no portal da PBH <https://prefeitura.pbh.gov.br/politica-urbana/informacoes/publicacoes-e-cartilhas>).
+Terrenos que apresentem divergências significativas de níveis no alinhamento, não sendo possível referenciar os níveis com o Levantamento da Prodabel (por não haver proporção), deverão apresentar o Levantamento Planialtimétrico para confrontação (via interface com o órgão) e, se for o caso, atualização do banco de dados da Prodabel.
+Levantamento na escala mínima de 1/200, em prancha à parte do conjunto de pranchas do projeto arquitetônico, conforme disposto na
+Portaria SMPU n° 054/2023
+publicada no Diário Oficial do Município em 02/11/2023 <
+prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica
+>.
+1
+2
+3
+4
+5
+6
+AEROFOTOGRAMÉTRICO DA PRODABEL OU INFORMAÇÃO BÁSICA PARA PARCELAMENTO DO SOLO (VER NOTA)
+Apresentar somente em caso de divergências de níveis entre a Informação Básica de Edificações - IBEd e a base utilizada da Prodabel.
+A base de dados da Prodabel a ser utilizada é a disponibilizada na  Informação Básica de Edificações - IBEd (curvas de níveis constantes no Croqui de Localização), sendo que, caso o responsável técnico opte por utilizar outra base da Prodabel, como o Aerofotogramétrico ou a Informação Básica para Parcelamento do Solo (IBPS), essa deverá ser anexada ao requerimento no Portal de Edificações para verificação ou informada através de ofício.
+DOCUMENTOS RELATIVOS AO IMÓVEL
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+5
+6
+DECLARAÇÃO DE INEXISTÊNCIA DE LITÍGIO JUDICIAL RELACIONADO À EXECUÇÃO DE OBRAS IRREGULARES
+Declarar a inexistência de litígio judicial em decorrência de obras irregulares.
+Necessário somente para regularização nos termos do inciso II do Art. 14 da Lei nº 9.074/2005.
+Até que o formulário padrão seja disponibilizado no Portal de serviços deverá apresentar ofício de cada requerente cadastrado com a seguinte declaração:
+Eu, o(a) requerente acima qualificado(a), DECLARO, sob as penas da lei, para fins de instrução do processo de regularização de edificação pela Lei nº 9.074, de 18 de janeiro de 2005, e o Decreto nº 12.789, de 27 de julho de 2007, a INEXISTÊNCIA DE LITÍGIO JUDICIAL relacionado à execução de obras irregulares no imóvel acima identificado.
+Declaro estar ciente de que, nos termos do art. 18-A do Decreto nº 12.789/2007, a constatação de falsidade nesta declaração sujeitará o(a) declarante às sanções civis, administrativas e penais cabíveis, bem como implicará no indeferimento do pedido ou anulação da regularização, caso já concedida, assegurados o contraditório e a ampla defesa.
+Por ser verdade, firmo a presente declaração.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+Serão aceitas assinaturas autenticadas em cartório.
+1
+2
+4
+5
+6
+MATRíCULA OU REGISTRO DO IMÓVEL
+Comprovar a averbação do lote caso a Informação Básica apresente no campo informações complementares a mensagem: “informação sobre registro da planta de parcelamento” ou no caso de desapropriação ou no caso de “Linha limite de propriedade”.
+Apresentar matrícula com a averbação do lote, registro do imóvel.
+Documento dispensado nos casos de lote aprovado por Modificação de Parcelamento realizado em legislação anterior à Lei nº 11.181/19.
+1
+2
+4
+5
+6
+COMPROVANTE DE PROTOCOLO PARA AVERBAÇÃO DO LOTE
+Comprovar a solicitação de averbação do lote caso a Informação Básica apresente no campo informações complementares a mensagem: “informação sobre registro da planta de parcelamento”
+Apresentar o comprovante de solicitação da averbação do lote junto ao cartório para os casos em que a aprovação do lote está dentro do prazo de 180 dias, podendo ser apresentada a matrícula, quando houver a nota
+"INFORMAÇÃO SOBRE REGISTRO DA PLANTA DE PARCELAMENTO - Para fins de aprovação de projeto é necessário a apresentação de matrícula atualizada do imóvel, caso já tenham se passado mais de 180 dias desde a aprovação da planta, para comprovação de registro da mesma junto à serventia imobiliária competente"
+1
+2
+3
+4
+5
+6
+DOCUMENTO DE IDENTIFICAÇÃO COMPROBATÓRIO DO DIREITO A PRIORIDADE ASSEGURADA AO IDOSO/DEFICIENTE
+Comprovar o direito às prioridades previstas em lei para os casos em que o proprietário for idoso/deficiente.
+Para os casos em que o proprietário for idoso, possuir deficiência física ou mental e doenças graves, conforme Lei n° 9.784/1999. Incluir o documento de identificação como anexo do requerimento.
+A prioridade é aplicável somente a pessoas físicas. No caso de empresas, considerando que as mesmas são atividades que possuem personalidade jurídica própria diversa das pessoas naturais dos sócios e que o Estatuto do Idoso resguarda sua proteção a pessoas humanas, não há que se falar em atendimento preferencial a empresa em virtude de seu administrador ter idade superior a 60 (sessenta) anos.
+Lei nº 10.741/2003 – Estatuto do Idoso, resguarda a proteção da referida lei às pessoas humanas.
+“Art. 2º O idoso goza de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, (...)”.
+1
+3
+4
+5
+6
+OFÍCIO DO PROPRIETÁRIO SOBRE MORADIA PRÓPRIA E MATRÍCULA DO LOTE DECLARANTE (SE APRESENTADO REGISTO DEVERÁ APRESENTAR AS CERTIDÕES NEGATIVAS DE TODOS CARTÓRIOS)
+Comprovar que a edificação unifamiliar em AEIS-1 e AEIS de interesse ambiental é de moradia do proprietário conforme dispõe o artigo 168 da Lei 11181/19.
+Apresentar ofício em que o proprietário em matrícula declare que a edificação será usada como moradia própria. Só pode ser apresentada por pessoa física.
+Para implantação da edificação prevista no inciso III do art. 168 da Lei nº 11.181/19,
+o proprietário deverá ser necessariamente pessoa física,
+visto que a condição de moradia não se aplica à pessoa jurídica.
+Documentos obrigatórios apenas nos casos de edificação unifamiliar em AEIS-1, anexar na aba “Outros”.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+Serão aceitas assinaturas autenticadas em cartório.
+DOCUMENTOS ESPECÍFICOS DO PROJETO DE EDIFICAÇÃO
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+3
+4
+5
+6
+MEMORIAL DESCRITIVO
+Identificar o que será licenciado/ regularizado.
+O modelo padrão está disponível nos serviços de edificação em material informativo <
+https://drive.google.com/file/d/1LQyZqswlOFrYtk3NFdgmLWhkqLqEiB8p/view?usp=drive_link
+>.
+Obrigatório para todas modalidades exceto aprovação inicial.
+1
+2
+3
+4
+5
+6
+PLANILHA DE CÁLCULO DE ÁREA
+Apresentar o cálculo dos parâmetros urbanísticos para exame de projeto tanto de licenciamento quanto de regularização de edificação.
+Orientações:
+- c
+onfor
+me Portaria SMPU n° 054/2023 publicada no Diário Oficial do Município em 02/11/2023
+- formato padrão PBH <
+prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica
+>.
+- o
+preenchimento da planilha deve ser eletrônico.
+Todas as células amarelas são editáveis e devem ser preenchidas.
+As células brancas são de preenchimento automático e não devem ser editadas.
+Obs. Quando a modificação for de projeto aprovado em lei anterior, é necessário apresentar a Planilha de Cálculo de Áreas para recálculo da área do projeto, considerando os descontos previstos na lei vigente, para obtenção do CA.
+Utilizar a aba da planilha denominada "Projeto Antigo", além da aba "Áreas".
+Mesmo não havendo acréscimo ou decréscimo de área, o recálculo do projeto anterior sob à luz da Lei 11.181/19 é necessário para o preenchimento do selo das pranchas do projeto de modificação e o respectivo cadastro no Portal de Edificações.
+1
+2
+4
+5
+6
+PLANILHA ADICIONAL DE CÁLCULO DE ÁREA - LEIi 9959/2010
+Apresentar o cálculo dos parâmetros urbanísticos para exame de projeto quando se tratar de projeto aprovado em legislação anterior, para recálculo da área líquida (coeficiente de aproveitamento) do projeto aprovado anteriormente, considerando os descontos na legislação vigente.
+Orientações:
+- Utilizar o mesmo modelo da planilha de cálculo de área, disponível no Portal de serviços
+- formato padrão PBH <
+prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica
+>;
+- o preenchimento da planilha deve ser eletrônico. Todas as células amarelas são editáveis e devem ser preenchidas. As células brancas são de preenchimento automático e não devem ser editadas.
+- Documento necessário apenas para edificações de uso residencial, não residencial ou misto e que se enquadrem na lei 9959, no caso os empreendimentos de impacto enquadrados no Art. 355 da Lei 11181/2191 (serão analisadas na legislação anterior).
+-
+No caso da edificação cujo CA atenda integralmente a legislação vigente, considerando a proposta de modificação/regularização dos acréscimos, não é necessária a apresentação de duas planilhas de cálculo. (Portaria SMPU nº 006/2020).
+1
+2
+3
+4
+5
+6
+MEMÓRIA DE CÁLCULO DAS ÁREAS CONSTRUÍDAS E PERMEÁVEIS (POLÍGONOS)
+Apresentar a memória de cálculo com o perímetro das áreas, identificadas por pavimento e bloco, e das áreas permeáveis tanto para o caso de licenciamento quanto de regularização da edificação.
+Orientação:
+Para os casos de modificação:
+1) Sem acréscimo de área construída, mas com alteração da área líquida: é necessário apresentar a memória de cálculos;
+2) Modificação simplificada: deve ser apresentada somente se tiver ocorrido alteração na área permeável;
+3) Uso não residencial: pode ser apresentado apenas da parte acrescida;.
+4) Uso residencial ou misto: deve ser apresentada de toda edificação, inclusive da parte que possa ter baixa.
+1
+2
+BOLETIM DE SONDAGEM
+P
+ara verificação da profundidade do lençol freático.
+Apresentar o documento para os casos em que o lote estiver na ADE Pampulha, ADE Bacia da Pampulha ou ADE Trevo.
+Necessário a representação do local do(s) furo(s) referenciados no boletim e na planta de Situação ou planta dos pavimentos.
+Documento dispensado nos casos de levantamento (total e acréscimo) e nos casos de levantamento com modificação e modificação que não esteja cortando o terreno.
+1
+2
+4
+5
+6
+LAUDO GEOTÉCNICO
+Atestar o risco geológico em função do não cumprimento da Taxa de Permeabilidade (TP).
+Para os projetos no qual não for possível o cumprimento da Taxa de Permeabilidade (TP) mínima exigida na Lei nº 11.181/19, em função do aumento do risco geológico.
+1
+2
+4
+5
+6
+LAUDO ESTRUTURAL E ART OU RRT VÁLIDA DE LAUDO ESTRUTURAL
+Atestar a viabilidade estrutural da edificação com mais de 2 (dois) níveis situada em ZEIS conforme Art.166 da Lei nº 11.181/2019.
+Apresentar ambos os documentos para os casos de edificações com mais de 2 (dois) níveis em que o lote estiver em ZEIS.
+Orientações:
+- nas
+ART/RRTs de laudo
+, no campo Atividade Técnica deve constar “Execução” ou “Elaboração” de “Laudo” com indicação da área da edificação;
+- em Área de Atuação indicar “Civil”;
+- em "Dados da obra/serviço - complemento” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+1
+2
+4
+TCU - TERMO DE CONDUTA URBANÍSTICA PARA CASOS DE ÁREA DE FRUIÇÃO E QUE UTILIZEM OUTORGA
+Apresentar documento em PDF gerado a partir da aba TCU da planilha de cálculo de áreas para os casos de utilizem área de fruição e/ou outorga.
+Conforme Portaria SMPU n° 054/2023 publicada no Diário Oficial do Município em 02/11/2023 - formato padrão PBH <
+prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica
+>.
+As assinaturas deverão ser por meio digital, podendo ser validadas no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+1
+2
+4
+5
+6
+DECLARAÇÃO DE DIVERGÊNCIA ENTRE LOTE CP E LOTE REAL E MATRÍCULA DO LOTE DECLARANTE (SE APRESENTADO REGISTO DEVERÁ APRESENTAR AS CERTIDÕES NEGATIVAS DE TODOS CARTÓRIOS)
+Comprovar anuência do vizinho afetado pela divergência do lote real com lote CP acima de 1,5 m.
+Para os casos em que houver edificação construída na divergência entre lote cp (cadastro de planta) e lote real maior que 1,50m.
+Orientações:
+- Deverá ser assinada (digitalmente) pelo vizinho que possui a divisa afetado pela pela divergência do lote real com lote CP acima de 1,5 m;
+- Os dados a serem lançados no formulário deverão ser aqueles do vizinho, ou seja, o declarante é o vizinho, os dados da edificação a ser regularizada deverão ser preenchidos apenas no campo 3.
+- Deverá ser acompanhado da matrícula de cada lote declarante,
+caso seja apresentado o registro do lote deverá apresentar as certidões negativas de todos cartórios de Belo Horizonte.
+-
+Nos casos em que o imóvel vizinho for um edifício, deve apresentar concordância do condomínio registrado em ATA de assembléia, conforme código civil e a convenção do condomínio.
+Nos casos em que houver quaisquer menções na matrícula que sinalizem a possível existência de outros proprietários (exemplos: ação de usucapião e inventário), configura-se pendência a ser sanada pelo requerente, com a correção documental ou a do projeto.
+As assinaturas deverão ser por meio digital, podendo ser validadas no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+O formulário deve ser preenchido, gerado o PDF e depois inserida a assinatura digital para possibilitar sua validação.
+Serão aceitas assinaturas autenticadas em cartório.
+1
+2
+4
+5
+6
+CROQUI DE LOCALIZAÇÃO DE LOTE CP EM ZONEAMENTO E/OU CONEXÃO DE FUNDO DE VALE E/OU ÁREA DE PROJETO VIÁRIO PRIORITÁRIO
+Apresentar documento emitido pela DCIU - Diretoria de Cadastro e Informações Urbanísticas para verificação da média ponderada do CA no exame do projeto.
+Documento
+necessário quando
+constar
+na IDEB
+a nota: “
+Lote inserido parcialmente em Zoneamento de Preservação Ambiental - 1 e/ou Projeto Viário Prioritário e/ou Conexão de Fundo de Vale. Solicitar no Portal de Serviços da PBH, o serviço de "Retificação de Documento da Política Urbana" para obter a localização exata desses zoneamentos no lote. A retificação citada é desnecessária caso o lote atenda concomitantemente às seguintes condições: 1) esteja exclusiva e inteiramente em PA-1; 2) não esteja inserido, mesmo que parcialmente, em projeto viário prioritário e/ou conexão de fundo de vale”.
+5
+6
+DOCUMENTAÇÃO DE PROPOSTA DE ADAPTAÇÃO RAZOÁVEL
+EM ACESSIBILIDADE, CONFORME LEI FEDERAL 13.146/2015
+Apresentar Laudo Técnico e
+RRT ou ART de laudo Técnico
+explicando e comprovando a impossibilidade técnica ou o ônus desproporcional no atendimento às normas de acessibilidade.
+Documento obrigatório p
+ara edificações existentes a serem regularizadas pela Lei nº 9.074, de 2005, em caso de enquadramento e opção por Adaptação Razoável conforme disposto da Lei Federal nº13.146, de 2015, na Lei Municipal nº 11.416, de 2023 e no Decreto Municipal nº 13.842, de 2010, deverá ser apresentado, no momento do protocolo do projeto, Laudo Técnico explicando e comprovando a impossibilidade técnica ou o ônus desproporcional no atendimento às normas de acessibilidade além da RRT ou ART de Laudo Técnico.
+O Laudo Técnico deverá conter informações técnicas explicativas, fotos do local, resultados de ensaios técnicos, material gráfico explicando e apresentando a impossibilidade e /ou a proposta de adaptação razoável em plantas baixas parciais, ressaltando-se o trecho em questão (e em outras peças gráficas, quando necessário).
+Lembrando que a proposta arquitetônica relatada no Laudo deverá constar nas pranchas de projeto de forma idêntica.
+Além disso, deverá ser assinalada a opção específica de “Adaptação razoável” no momento do cadastro do projeto no Portal de Edificações.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI), exceto nos casos de apresentação do certificado digital emitido por Autoridade Certificadora.
+Serão aceitas assinaturas autenticadas em cartório.
+DOCUMENTOS RELATIVOS A REGULARIZAÇÃO DE EDIFICAÇÃO
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+4
+5
+6
+RELATÓRIO FOTOGRÁFICO
+Dispensar necessidade de vistoria prévia para os processos de regularização de edificação.
+Orientações:
+Modelo padrão da SMPU, conforme disposto no Decreto nº 17.057 de 29/01/2019, disponibilizado no Portal de Serviços da PBH
+Modelo Relatório Fotográfico para fins de Regularização de Edificação
+.
+Não são aceitas imagens do Google e as fotos deverão ser recentes (até 6 meses).
+5
+6
+COMPROVANTE QUE ATESTE A CONCLUSÃO DA EDIFICAÇÃO EM ANO ANTERIOR A 1996
+Garantir isenção de preços públicos referente à regularização de área permeável.
+Orientação: anexar comprovante atestando a conclusão da edificação em ano anterior a 1996.
+5
+6
+COMPROVANTE QUE ATESTE A CONCLUSÃO DA EDIFICAÇÃO ATÉ 18 DE DEZEMBRO DE 2024
+Comprovar direito de enquadramento na modalidade regularização onerosa de edificação.
+De acordo com art. 7° § 4° do Decreto nº 12.789/07 podem ser apresentados como comprovantes de conclusão:
+I- Lançamento no cadastro tributário imobiliário municipal;
+II- Levantamento aerofotogramétrico da PBH ou outro órgão oficial com data do vôo;
+III- Imagem de satélite com referência da data;
+IV- Foto aérea com referência da data;
+V- Laudo do Instituto de Geociências Aplicadas - IGA;
+VI- Laudo de vistoria ou notificação da PBH;
+VII- Certidão negativa de débito - CDN, da obra;
+VIII- Laudo emitido pelo
+CAU/MG
+ou
+CREA/MG
+;
+IX- Declaração de vizinhos (formulário padrão
+PBH
+);
+X- Termo de recebimento provisório de obra, para edificações públicas.
+No caso de apresentação de foto aérea, identificar o imóvel a ser regularizado. lembramos que a foto aérea ou imagem do satélite devem ser datadas pelo emissor e não por edições do responsável técnico.
+4
+5
+6
+DECLARAÇÃO DE CONCORDÂNCIA QUANTO A SITUAÇÃO DE DIVISA PARA FINS DE REGULARIZAÇÃO/CONCESSÃO DE BAIXA DE CONSTRUÇÃO
+Comprovar anuência do vizinho afetado por abertura de vãos a menos de 1,5m da divisa ou muro divisório.
+Conforme termos do Decreto nº 12.789/2007
+Orientações:
+- Deverá ser assinada (digitalmente) pelo vizinho afetado pela abertura de vãos a menos de 1,5m da divisa ou muro divisório;
+- Os dados a serem lançados no formulário deverão ser apenas aqueles do vizinho, ou seja, o declarante é o vizinho.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+O formulário deve ser preenchido, gerado o PDF e depois inserida a assinatura digital para possibilitar sua validação.
+Serão aceitas assinaturas autenticadas em cartório.
+4
+5
+6
+LAUDO TÉCNICO ATESTANDO A EFICIÊNCIA DO SISTEMA DE PREVENÇÃO DE COMBATE A INCÊNDIO E PÂNICO INSTALADO NO LOCAL E SUA ADEQUAÇÃO ÀS NORMAS TÉCNICAS E LEGISLAÇÃO VIGENTE
+Comprovar as condições de segurança das edificações a serem regularizadas para os casos de levantamento em que houver acréscimo na área utilizada comum.
+Orientação:
+Exceto
+para edificação residencial unifamiliar ou multifamiliar horizontal, com acessos independentes, direto ao logradouro público,
+ou quando as edificações possuírem acesso a uma área comum dentro do lote.
+Documento dispensável no caso de apresentação do Auto de Vistoria do Corpo de Bombeiros - AVCB desde que esteja com área compatível a área solicitada no Porta.
+Documento dispensado nos casos de apresentação do Auto de Vistoria do Corpo de Bombeiros- AVCB ou ART/RRT de projeto de incêndio, mas para possibilitar o envio do requerimento no Portal de Edificações orientamos a inserir na aba do laudo o documento AVCB ou a ART/RRT até que o sistema seja adequado.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+Serão aceitas assinaturas autenticadas em cartório.
+5
+MEMÓRIA DE CÁLCULO DE IRREGULARIDADES, CONFORME DISPOSTO NA LEI 9.074/05
+Apresentar da memória de cálculo de irregularidades relativas aos parâmetros da legislação urbanística municipal.
+Conforme disposto na Lei nº 9.074/05, apresentar:
+- Área acima do permitido pelo coeficiente de aproveitamento,
+- Volume de invasão dos afastamentos frontal, lateral e/ou fundos;
+- Volume de invasão sobre os afastamentos laterais ou de fundos que não atende à altura máxima na divisa;
+- Área do plano vertical acima da altura máxima permitida para o muro de divisa;
+- Área permeável não atendida conforme mínima exigida, para a edificação construída após a vigência da lei nº 7.166/96;
+- Número de vagas para estacionamento de veículos não atendido conforme mínimo exigido.
+Orientação: caso não haja no projeto de levantamento irregularidades relativas aos parâmetros urbanísticos deve ser inserido no campo deste documento um ofício constando essa informação.
+6
+REQUERIMENTO DE INCLUSÃO NO PROGRAMA DE REGULARIZAÇÃO DE EDIFICAÇÃO: LEI 9074/05 VALOR VENAL ATÉ 4X A ISENÇÃO DO IPTU (NÃO ONEROSO)
+Declaração que o proprietário possui somente 1 lote no município de Belo Horizonte.
+Para edificações concluídas antes de 18 de dezembro de 2024, cuja somatória do valor venal das unidades imobiliárias situadas no lote não ultrapasse 4 vezes o valor venal considerado para isenção de IPTU no ano da abertura do processo e seu proprietário não possua outro lote em Belo Horizonte.
+O formulário padrão está disponível no serviço “Regularização de Edificação: Lei 9074/05 Valor Venal até 4x a isenção do IPTU”, link
+https://servicos.pbh.gov.br/servicos/i/5e7a3f18d9521a26a9af4de9
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+O formulário deve ser preenchido, gerado o PDF e depois inserida a assinatura digital para possibilitar sua validação.
+Serão aceitas assinaturas autenticadas em cartório.
+5
+PLANILHA DE INDIVIDUALIZAÇÃO DE VALORES DA REGULARIZAÇÃO ONEROSA DA EDIFICAÇÃO PELA LEI 9.074/05 (OPCIONAL)
+Apresentar a planilha somente se optar pela individualização de guias entre os(as) requerentes do processo, relativas aos valores da regularização onerosa da edificação.
+* Os nomes listados na planilha devem constar como “requerentes” no requerimento no Portal de Edificações.
+* As unidades listadas devem ser objeto de regularização no projeto.
+* Deverá ser acompanhada da "Memória de Cálculo de Irregularidades" (item acima) com as áreas (m²) e/ou volumes (m³) separados por unidade, de forma a possibilitar o cálculo dos valores das infrações individualmente.
+* O somatório dos valores das infrações (em reais) de todas as unidades indicadas no projeto deve corresponder ao valor total da guia de regularização onerosa que será disponibilizada no Portal de Edificações na aprovação.
+* O arquivo da planilha deverá ser apresentado em formato .xls (não será aceito em formato .pdf) e ser anexado ao Portal de Edificações em formato compactado (.zip, .rar).
+Obs. incluir o arquivo na mesma aba da planilha de cálculos no Portal de Edificações.
+ART’s E RRT’s
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+4
+5
+6
+ART OU RRT VÁLIDA DO LAUDO TÉCNICO QUE ATESTA A EFICIÊNCIA DO SISTEMA DE PREVENÇÃO DE COMBATE À INCÊNDIO E PÂNICO
+OU
+ART OU RRT VÁLIDA DE PROJETO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO E COMPROVANTE DE PAGAMENTO
+Registrar no conselho de classe o responsável técnico pelo laudo para os casos de levantamento total ou levantamento do
+acréscimo
+em que houver acréscimo na área utilizada comum.
+Nos casos de levantamento do acréscimo, o documento é exigido somente quando houver acréscimo na área comum de uso residencial. Para acréscimos em área privativa, anexar no Portal de Edificações um ofício informando a não exigência do documento, até que o sistema seja adequado. Nos casos de uso não residencial o documento é obrigatório para todas as modalidades, inclusive levantamento do acréscimo.
+Deverá ser informada a área total da edificação.
+Dispensado
+para edificação residencial unifamiliar e multifamiliar horizontal com acessos independentes, direto ao logradouro público, ou quando as edificações possuírem acesso a uma área comum descoberta dentro do lote e forem classificadas pelo Corpo de Bombeiros Militar de Minas Gerais - CBMMG como “baixo risco”.
+Orientações:
+- Nas
+ARTs de laudo ou de projeto
+, nos campos Nível de Atividade e Atividade Profissional devem constar “Execução” ou “Elaboração” de “Projeto” ou “Laudo”
+- No campo Atividade, indicar "Construção Civil" > "Instalações de Prevenção e Combate à Incêndio" > “Prevenção e Combate à Incêndio e Pânico” com indicação da área construída
+- Em "Dados da obra/serviço - complemento” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+- Nas
+RRTs de laudo ou projeto
+, no campo Adicionar Grupo deve constar “Execução” ou “Projeto”
+- No campo Atividade, indicar "Execução de Sistemas Prediais de Proteção contra Incêndios e Catástrofes”ou “Projeto de instalações Prediais de Proteção contra Incêndios” com indicação da área construída;
+- Em "Descrição do Serviço” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+Documento dispensável no caso de apresentação do Auto de Vistoria do Corpo de Bombeiros - AVC desde que esteja com área compatível com a área solicitada no Portal, ou no caso de apresentação da ART/RRT de projeto de incêndio. Mas para possibilitar o envio do requerimento no Portal de Edificações orientamos a inserir na aba da ART/RRT de laudo o documento AVCB ou a ART/RRT de projeto até que o sistema seja adequado.
+1
+2
+ART OU RRT VÁLIDA DE PROJETO DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO E COMPROVANTE DE PAGAMENTO
+Registrar no conselho de classe o responsável técnico pelo projeto nos casos de aprovação inicial e modificação.
+Dispensado
+para edificação residencial unifamiliar e multifamiliar horizontal com acessos independentes, direto ao logradouro público, ou quando as edificações possuírem acesso a uma área comum descoberta dentro do lote e forem classificadas pelo Corpo de Bombeiros Militar de Minas Gerais - CBMMG como “baixo risco”.
+Orientações:
+- No caso de modificação simplificada (Item 3), anexar no requerimento no portal de edificações um ofício informando a não exigência do documento, até que o sistema seja adequado;
+- Nas
+ARTs de projeto
+, nos campos Nível de Atividade e Atividade Profissional devem constar “Execução” ou “Elaboração” de “Projeto”
+- No campo Atividade, indicar "Construção Civil" > "Instalações de Prevenção e Combate à Incêndio" > “Prevenção e Combate à Incêndio e Pânico” com indicação da área construída;
+- Em "Dados da obra/serviço - complemento” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+- Nas
+RRTs de projeto
+, no campo Adicionar Grupo deve constar “Execução” ou “Projeto”
+- No campo Atividade, indicar "Execução de Sistemas Prediais de Proteção contra Incêndios e Catástrofes” com indicação da área construída;
+- Em "Descrição do Serviço” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+1
+2
+3
+4
+5
+6
+ART OU RRT VÁLIDA DE PROJETO ARQUITETÔNICO
+Registro no conselho de classe pelo responsável técnico de que foi elaborado o projeto arquitetônico
+Orientações:
+- - Nas
+ARTs de projeto
+, nos campos Nível de Atividade e Atividade Profissional devem constar “Execução” ou “Elaboração” de “Projeto” ou "Projeto Arquitetônico" com indicação da área construída. Para levantamento poderá constar “Execução” ou “Elaboração” de “Levantamento, “Projeto” ou “Projeto Arquitetônico” com indicação da área levantada;
+- No campo Atividade, indicar "Construção Civil" > "Edificações" > “de Edificação” ou "de Reforma de Edificação".
+- Em "Dados da obra/serviço - complemento” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+- Nas
+RRTs de projeto
+, no campo Adicionar Grupo deve constar “Projeto”
+- No campo Atividade, indicar "Levantamento Arquitetônico” ou "Projeto Arquitetônico" ou "
+As built
+" com indicação da área construída;
+- Em "Descrição do Serviço” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+A área deverá ser de toda a edificação, exceto nos casos de levantamento do acréscimo e/ou modificação que pode ser apenas do acréscimo/decréscimo.
+1
+2
+4
+5
+6
+ART VÁLIDA DE PROJETO GEOTÉCNICO OU DE LAUDO GEOTÉCNICO
+Registrar no conselho de classe o responsável técnico pelo laudo.
+Deverá ser apresentada:
+- Quando houver lote inserido em área sujeita a condicionante geotécnico (risco associado a escavações, risco de contaminação do lençol freático, risco de erosão e assoreamento e risco de inundação e risco de escorregamento) e;
+- Quando não cumprir a Taxa de Permeabilidade em função do risco geotécnico conforme a Lei nº 11.181/19, art. 161,  § 6º  juntamente com o laudo.
+Orientações:
+- No caso de levantamento do acréscimo, a ART deverá ser apresentada quando o acréscimo resultar em alteração da área de projeção no terreno.
+- Nas
+ARTS de laudo
+, nos campos Nível de Atividade e Atividade Profissional devem constar “Execução” ou “Elaboração” de “Laudo”
+- No campo Atividade, indicar “Geotecnia” > "Obras de Terra > "de Obras de Terra" ou "Estabilidade de taludes e contenção" > "de Proteção de Encostas" ou "de Contenções", com indicação da área do terreno
+Nos casos de obras de terra serão aceitos os seguintes complementos: escavação / corte / aterro / compactação / reaterro / terraplenagem
+- Em "Dados da obra/serviço - complemento” informar lote, quarteirão e bairro, conforme Informação Básica do lote.
+- Para projetos de licenciamento (itens 1 e 2) , o documento deverá ser apresentado até a comunicação de início de obra, exceto nos casos de modificação de uma aprovação com alvará ativo e que já tenha sido realizado o Comunicado de início.
+- Para regularização pode ser apresentado a ART do laudo sem a necessidade de apresentação de laudo ou ART de projeto, e para licenciamento só pode ser apresentado ART de projeto.
+- Nas
+RRTs de projeto
+, no campo Adicionar Grupo deve constar “Projeto”
+- No campo Atividade, indicar "1.9.1 Projeto de movimentação de terra, drenagem e pavimentação" com indicação da área do terreno;
+- Em "Descrição do Serviço” informar lote, quarteirão e bairro, conforme Informação Básica do lote e
+obrigatoriamente
+inserir menção a “
+Projeto de Estabilidade de taludes e contenção”
+.
+- Para regularização poderá indicar o código “5.7. Laudo técnico” e
+obrigatoriamente
+detalhar no campo 'descrição da obra/serviço' “Laudo de Estabilidade de taludes e contenção”.
+PRANCHAS
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+3
+VIA DA(S) PRANCHA(S) CONTENDO A(S) PLANTA(S) DO(S) PAVIMENTO(S) A SER(EM) MODIFICADO(S)
+Representar o projeto arquitetônico de modificação simplificada da edificação contendo a numeração da(s) prancha(s) a ser(em) substituída(s) conforme projeto anteriormente aprovado.
+As alterações de pouca relevância para este caso compreendem aquelas que não acarretem alteração da área construída e nem alteração de área líquida. São aquelas que promovam modificações pontuais de acessibilidade, de canteiros de área permeável, de locação/numeração de vagas de estacionamento sem alterar número de vagas, de áreas de manobra e na denominação de unidades e/ou blocos. Ou seja, mudanças simples que não acarretem a necessidade de reanálise de parâmetros de projeto.
+Orientações:
+- Apresentar a numeração da(s) prancha(s) a ser(em) substituída(s) conforme projeto aprovado e de acordo com a Portaria de Representação vigente.
+1
+2
+4
+5
+6
+VIA DO PROJETO / LEVANTAMENTO COMPLETO
+Representar o projeto / levantamento arquitetônico da edificação.
+Orientações:
+- Conforme Portaria SMPU n° 054/2023 publicada no Diário Oficial do Município em 02/11/2023 - formato padrão PBH <
+prefeitura.pbh.gov.br/politica-urbana/informacoes/legislacao-urbanistica
+>.
+- No caso de regularização de edificações (levantamento total ou do acréscimo), não é necessário apresentar os perfis do terreno, pois estes casos não se enquadram na exigência da Lei 9.725/2009 - Código de Edificações.
+-
+Nas modificações ou nos levantamentos do acréscimo (processos com Alvará de construção em vigor ou com Baixa de Construção expedida) poderão ser apresentadas apenas as pranchas a serem atualizadas devido a alteração no projeto. Neste caso, o Poder Executivo poderá solicitar, para melhor entendimento do projeto, a complementação deste material, se necessário.
+- Havendo tipologias edilícias padronizadas, a apresentação do projeto das Edificações Públicas para fins de licenciamento e regularização poderá ser simplificada, contendo somente planta de situação, planta de implantação, cortes esquemáticos e a identificação da(s) tipologia(s) edilícia(s) padronizada(s) utilizada(s) nos empreendimentos de interesse público.
+- A identificação das tipologias edilícias públicas padronizadas deverá ser feita mediante a inserção do número do protocolo, gerado pela Sureg no procedimento de aprovação das tipologias, na projeção das edificações na planta de situação apresentada para fins de licenciamento e regularização.
+DOCUMENTOS PARA INTERFACE COM OUTROS ÓRGÃOS
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+4
+5
+6
+PROJETO DE ACESSO A VEÍCULOS E PEDESTRES APROVADO PELA BHTRANS (NÃO OBRIGATÓRIO)
+Obter aprovação de projeto de acesso pela BHTRANS - Empresa de Transporte e Trânsito de Belo Horizonte -
+no caso de posto de abastecimento e serviços
+.
+A aprovação do projeto de acesso de posto de abastecimento e serviços pela BHTRANS pode ser obtido através de interface, após à abertura da solicitação junto à SUREG - Subsecretaria Municipal de Regulação.
+Contudo, o mesmo também está apto a passar por aprovação prévia pela BHTRANS, o que pode ocasionar em redução do prazo de aprovação do projeto arquitetônico e/ou emissão do alvará de construção pela Subsecretaria de Regulação Urbana - SUREG.
+1
+4
+REQUERIMENTO DE ANÁLISE DO ACESSO DE ESCOLA DE ENSINO INFANTIL, FUNDAMENTAL OU MÉDIO INSTALADA EM VIA ARTERIAL
+Obter aprovação pela BHTRANS - Empresa de Transporte e Trânsito de Belo Horizonte -
+no caso de escolas.
+Exigido para Escola de Ensino Infantil, Fundamental ou Médio instalada em via arterial.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI), exceto nos casos de apresentação do certificado digital emitido por Autoridade Certificadora.
+Serão aceitas assinaturas autenticadas em cartório.
+DOCUMENTOS PRÉVIOS DA SMMA – SECRETARIA MUNICIPAL DO MEIO AMBIENTE
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+4
+5
+6
+AUTORIZAÇÃO PARA INTERVENÇÃO EM APP OU PARECER TÉCNICO DA SMMA DE NÃO ENQUADRAMENTO DO LOTE EM APP
+Obter autorização expedida pelo COMAM - Conselho Municipal de Meio Ambiente ou parecer técnico da Secretaria Municipal de Meio Ambiente - SMMA de não enquadramento do lote em APP - Área de Preservação Permanente
+somente
+quando indicado na Informação Básica que o lote está inserido em APP (área de preservação permanente): APP declividade e/ou APP hídrica.
+Conforme DN 57/07.
+Orientação: as autorizações da SMMA deverão ser conclusivas. Maiores informações no site <
+servicos.pbh.gov.br/servicos/i/5ebc0cf5ac22565e95cf66aa
+>.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+1
+2
+4
+5
+6
+DECLARAÇÃO DE INEXISTÊNCIA DE ÁREA DE PRESERVAÇÃO PERMANENTE - APP URBANA RECURSO DE DISCORDÂNCIA DE EXISTÊNCIA / DECLARAÇÃO DE INEXISTÊNCIA DE APP
+Obter declaração do responsável técnico da inexistência de APP no local quando indicado na Informação Básica do lote "não confirmado" para a existência de APP.
+Formulário padrão PBH, disponível na aba
+"Exigências do serviço - Formulários"
+dos serviços de edificações no Portal de Serviços, a ser apresentado quando indicado na Informação Básica do lote "não confirmado" para a existência de APP e constatado pelo responsável técnico no local a não existência.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+A assinatura deverá ser por meio digital, podendo ser validada no Portal de assinaturas da Prefeitura Municipal de Belo Horizonte e/ou no site do Instituto Nacional da Tecnologia da Informação (ITI).
+O formulário deve ser preenchido, gerado o PDF e depois inserida a assinatura digital para possibilitar sua validação.
+Serão aceitas assinaturas autenticadas em cartório.
+1
+2
+4
+5
+6
+OFÍCIO COM A DESCRIÇÃO DA REFERIDA RESTRIÇÃO
+Obter laudo junto à Secretaria Municipal de Meio Ambiente - SMMA para lotes que abrigaram postos de abastecimento ou indústria poluidora de lençol freático, quando indicado nas Informações Básicas: Descomissionamento concluído - restrição à ocupação.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente e na mesma conter a referida restrição.
+1
+2
+4
+5
+6
+AUTORIZAÇÃO PARA OCUPAÇÃO DE TERRENOS EM ÁREA DE RELEVÂNCIA AMBIENTAL - ARA
+Obter a Autorização junto à Secretaria Municipal de Meio Ambiente - SMMA somente para terrenos inseridos em área de relevância ambiental, nos termos do art. 2º do Decreto n° 17.274/2020.
+.
+Documento obrigatório para projetos em:
+- terrenos que possuam área de preservação permanente - APP ou área verde pública grafada no CP (Cadastro de Planta);
+- terrenos inseridos em ADE de interesse ambiental, em PA-1 ou em área de Conexão de Fundo de Vale, que envolvam corte ou aterro superior a 3,0m (três metros) e/ou supressão ou transplantio de árvores.
+Documento dispensado para os demais projetos somente se atendidas as condições dispostas na Portaria Conjunta SMMA/SMPU nº 008/2020, sendo que:
+- para Aprovação inicial, Modificação ou Levantamento pela lei vigente, observar os artigos 3º ao 7º;
+- para Levantamento pela Lei 9074/2005, observar o artigo 8º.
+Obs:
+- Quando se tratar de lote de propriedade pública em que o CA básico é superado, é necessária anuência prévia da SMMA, conforme disposto na tabela 10 do Anexo XII da Lei 11.181/2019, independente do enquadramento se o lote estiver em PA-1.
+- Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+Orientação: Mais informações estão disponíveis no Portal de Serviços em “Autorização para Ocupação de Terrenos em Área de Relevância Ambiental”.
+1
+2
+4
+5
+6
+ANUÊNCIA PRÉVIA DO COMAM PARA FLEXIBILIZAÇÃO DA TP DE 95% PARA 70%
+Obter autorização expedida pelo COMAM - Conselho Municipal de Meio Ambiente para flexibilização da TP de 95% para 70% nos terrenos de propriedade privada ou terrenos públicos voltados para implantação e instalação de equipamentos de cultura, lazer e esportes e instalações de apoio e manutenção
+Conforme Tabela 11 do Anexo XII da Lei 11.181/2019
+Caso o projeto atenda a Portaria SMMA/ SMPU 008/2020, solicitar a os documentos para flexibilização da taxa de permeabilidade para o e-mail
+assessoria.dlam@pbh.gov.br
+Caso o projeto não atenda à Portaria SMMA/SMPU 008/2020, solicitar a Autorização para Ocupação de Terrenos em Área de Relevância Ambiental junto à SMMA, informando a necessidade de flexibilização da taxa de permeabilidade.
+Para informações, contactar
+assessoria.dlam@pbh.gov.br
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+1
+2
+PARECER FAVORÁVEL PARA SUPRESSÃO OU TRANSPLANTIO DE ÁRVORE(S) E RESPECTIVO PROJETO CARIMBADO (NÃO OBRIGATÓRIO A ANEXAÇÃO DO DOCUMENTO NO REQUERIMENTO, MAS O MESMO JÁ DEVERÁ ESTAR EMITIDO PELA SMMA*)
+Obter parecer favorável e respectivo projeto carimbado junto à Secretaria Municipal de Meio Ambiente - SMMA
+somente
+no caso de haver proposta de supressão ou transplantio de árvore(s) no terreno e/ou no passeio.
+A autorização de supressão ou transplantio de árvore(s) no terreno e/ou no passeio é emitida pela Gerência de Áreas Verdes e Arborização Urbana - GEAVA da Secretaria Municipal de Meio Ambiente - SMMA, após a emissão do Alvará de Construção pela Subsecretaria de Regulação Urbana - SUREG.
+A orientação e documentos necessários para solicitação à SMMA está disponível no Portal de Serviços “Árvore - Análise de Intervenção em Vegetação Motivada por Edificação”
+* Orientação: a
+anexação
+ao Portal de Edificações do parecer e projeto carimbado pela GEAVA/SMMA não é
+obrigatório, sendo obrigatório obter os documentos antes do protocolo estando o parecer favorável e válido, devendo informar no cadastro o número da solicitação.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+Dispensado nos casos de lotes(s) em área de relevância ambiental, pois a supressão será autorizada pela Gerência de Licenciamento de Infraestrutura - GELIN através da Autorização para ocupação em área de relevância ambiental - ARA.
+Para maiores informações sobre a solicitação de supressão consultar a Portaria SMMA/SMPU nº 001/2022 de 20 de maio de 2022.
+1
+2
+4
+PARECER DA SMMA RECONHECENDO A RELEVÂNCIA DA VEGETAÇÃO COINCIDENTE COM A ÁREA PERMEÁVEL
+Obter parecer favorável junto à Secretaria Municipal de Meio Ambiente - SMMA para utilização da área permeável em porção de terreno coincidente com área de vegetação relevante.
+Para maiores informações e obtenção do documento procurar
+a SMMA previamente para requerer o reconhecimento para área de vegetação relevante, para fazer jus ao benefício urbanístico da alínea "b" da Tabela 7.2 do Anexo XII da Lei 11.181/2019.
+DOCUMENTOS PRÉVIOS DE OUTROS ÓRGÃOS
+TIPO DE SOLICITAÇÃO
+DOCUMENTO
+OBJETIVO
+OBSERVAÇÕES
+1
+2
+DOCUMENTO COM INFORMAÇÕES TÉCNICAS SOBRE DESAPROPRIAÇÕES EMITIDO PELA SUDECAP
+Obter informações se o imóvel foi declarado de utilidade pública para fins de desapropriação pela Superintendência de Desenvolvimento da Capital - SUDECAP.
+Conforme Art. 114 da Lei nº 11.181/2019, a ocupação nos imóveis em áreas inseridas em PVP é admitida quando o mesmo não tiver sido declarado de utilidade pública para fins de desapropriação.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+4
+5
+6
+OFÍCIO DA SUPLAN SOBRE A SITUAÇÃO DO PROJETO VIÁRIO PRIORITÁRIO
+Obter diretrizes para a regularização da edificação em mancha de Projeto Viário Prioritário - PVP junto à Subsecretaria de Planejamento Urbano - SUPLAN.
+Orientações:
+- Caso o projeto viário básico não tenha sido elaborado até o momento da solicitação, é possível regularizar através da Lei nº 9.074/05 conforme Art.10 da Lei nº 10.706/2014.
+Para esta verificação, deverá ser protocolado o serviço "
+Manifestação da SUPLAN sobre Existência de Projeto Básico para Projeto Viário Prioritário para Fins de Regularização de Edificação
+". Maiores informações no site <
+https://servicos.pbh.gov.br/67addec4bb40ca62f9744b5a
+>
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente.
+1
+2
+3
+4
+5
+6
+PARECER DE APROVAÇÃO DO ARS EMITIDO PELA SLU
+Obter parecer de aprovação do abrigo de resíduos sólidos emitido pela Superintendência de Limpeza Urbana - SLU
+somente
+para os casos de edificação com atividade da área da saúde com internação.
+Orientação:
+Na solicitação junto à SLU, anexar ofício que esclareça que pedido se trata de requisição para fins de aprovação de projeto de edificação na Subsecretaria de Regulação Urbana - SUREG.
+1
+2
+3
+4
+5
+6
+DELIBERAÇÃO ESPECÍFICA DO CDPCM-BH E RESPECTIVO PROJETO COMPLETO CARIMBADO
+(NÃO OBRIGATÓRIO)
+Obter aprovação de projeto pelo CDPCM-BH - Conselho Deliberativo do Patrimônio Cultural do Município de Belo Horizonte - aplicável aos projetos objeto de deliberação específica do conselho no que tange à política de proteção do patrimônio cultural.
+A submissão da proposta ao CDPCM-BH para obtenção de deliberação específica pode ocorrer através de interface, após à abertura da solicitação junto à SUREG - Subsecretaria Municipal de Regulação.
+Contudo, a mesma também está apta a passar por submissão prévia ao conselho, o que pode ocasionar em redução do prazo de aprovação do projeto arquitetônico e/ou emissão do alvará de construção pela Subsecretaria de Regulação Urbana - SUREG.
+1
+2
+4
+5
+6
+OFÍCIO IEPHA COM ANUÊNCIA EM RELAÇÃO AO ATENDIMENTO DAS DIRETRIZES DE PROTEÇÃO, NOTA TÉCNICA GPO E RESPECTIVO PROJETO COMPLETO CARIMBADO PELO IEPHA
+Obter anuência de intervenção para imóveis protegidos pelo - Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais - IEPHA-MG, conforme indicação na Informação Básica.
+Caso a resposta à análise do projeto seja a não anuência, o mesmo deverá ser reapresentado ao IEPHA com adequações necessárias ao atendimento às diretrizes de proteção estadual para obtenção de ofício com anuência e projeto aprovado.
+A Nota Técnica também deve ser anexada ao requerimento no Portal de Edificações.
+1
+2
+4
+5
+6
+OFÍCIO IPHAN COM ANUÊNCIA EM RELAÇÃO AO ATENDIMENTO DAS DIRETRIZES DE PROTEÇÃO E RESPECTIVO PROJETO COMPLETO CARIMBADO PELO IPHAN
+Obter anuência de intervenção para imóveis protegidos pelo Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN, conforme indicação na Informação Básica.
+Caso a resposta à análise do projeto seja a não anuência, o mesmo deverá ser reapresentado ao IPHAN com adequações necessárias ao atendimento às diretrizes de proteção federal para obtenção de ofício com anuência e projeto aprovado.
+2
+DOCUMENTO EXPEDIDO PELA CAIXA ECONÔMICA FEDERAL QUE ATESTE A VINCULAÇÃO A PROGRAMAS DE FINANCIAMENTO PÚBLICO
+Obter documento do banco Caixa para confirmar o enquadramento com a faixa de renda do empreendimento no Programa Minha Casa Minha Vida ou enquadramento no artigo 32 da Lei 13.146/2015.
+Para empreendimentos enquadrados no no Programa Minha Casa Minha Vida, conforme Art. 9º - § 1ºe § 2 da Lei Municipal nº 9.814: para os empreendimentos vinculados ao Programa Minha Casa Minha Vida para famílias com renda de 1 (um) a 3 (três) salários mínimos em qualquer situação e para famílias com renda superior a 3 (três) e até 6 (seis) salários mínimos, desde que para cada edificação com esta destinação correspondam outras duas destinadas a famílias de até 3 (três) salários mínimos, realizadas pelo mesmo construtor.
+Obs.
+O documento deverá ser apresentado mesmo que o empreendimento não se enquadre na Política habitacional do Município de Belo Horizonte, mas s
+e enquadre em algum inciso do Art. 32 da Lei nº 13.146/2015; para comprovação do enquadramento do empreendimento no Programa Minha Casa Minha Vida.
+2
+PARECER EXPEDIDO PELA URBEL QUE ATESTE A VINCULAÇÃO A PROGRAMAS DE FINANCIAMENTO PÚBLICO (EHIS)
+Obter parecer da Companhia Urbanizadora de Belo Horizonte - URBEL que confirme o enquadramento como Empreendimento Habitacional de Interesse Social - EHIS vinculado à política municipal de habitação ou associado ao Programa Minha Casa Minha Vida até a faixa de 6 (seis) salários mínimos.
+Orientações:
+- O documento deverá ser apresentado em qualquer situação para famílias com renda até 3 (três) salários mínimos e para famílias com renda entre 3 (três) e 6 (seis) salários mínimos, desde que para cada edificação com esta destinação de renda superior correspondam outras duas destinadas a famílias de até 3 (três) salários mínimos, realizadas pelo mesmo construtor, conforme Art. 9º - § 1ºe § 2 da Lei Municipal nº 9.814
+- Para as faixas que não se enquadram no item acima deverá anexar no Portal de Edificações (na aba do documento), um ofício informando a não exigência do documento até que o sistema seja adequado.
+Documento obrigatório nos casos de lotes em AEIS-1 e AEIS de interesse ambiental.
+Dispensado se apresentada a LI - Licença de Implantação ou LO - Licença de Operação válidas e expedidas pelo órgão de licenciamento ambiental competente
+.
+Para obtenção do documento e verificação das etapas do processo de Enquadramento de EHIS gentileza consulta o serviço “Emissão de Parecer de Enquadramento para Empreendimento Habitacional de Interesse Social - EHIS”, através do link
+https://servicos.pbh.gov.br/servicos/i/60afb189f196d41bcbb53191/5dc8470253fd6b5bbd99185f
+.
+2
+TERMO DE CONDUTA URBANÍSTICO (TCU) PARA EMPREENDIMENTO HABITACIONAL DE INTERESSE SOCIAL
+Obter documento celebrado entre a Companhia Urbanizadora de Belo Horizonte - URBEL, Secretaria Municipal de Política Urbana - SMPU e o empreendedor para emissão do alvará de construção para empreendimentos enquadrados como Empreendimento Habitacional de Interesse Social - EHIS vinculado à política municipal de habitação ou associado ao Programa Casa Verde e Amarela - até a faixa de 6 (seis) salários mínimos.
+Orientações:
+- O documento deverá ser apresentado em qualquer situação para famílias com renda até 3 (três) salários mínimos e para famílias com renda entre 3 (três) e 6 (seis) salários mínimos, desde que para cada edificação com esta destinação de renda superior correspondam outras duas destinadas a famílias de até 3 (três) salários mínimos, realizadas pelo mesmo construtor, conforme Art. 9º - § 1ºe § 2 da Lei Municipal nº 9.814
+- Para as faixas acima de 6 salários mínimos deverá anexar no Portal de Edificações (na aba do documento), um ofício informando a não exigência do documento até que o sistema seja adequado;
+- Na modalidade modificação, a apresentação de novo TCU é obrigatória apenas para os casos em que houver alteração nas unidades (área, quantidade de quartos etc).
+Documento obrigatório nos casos de lotes em AEIS-1 e AEIS de interesse ambiental..
+Para obtenção do documento e verificação das etapas do processo de Enquadramento de EHIS gentileza consulta o serviço “Emissão de Parecer de Enquadramento para Empreendimento Habitacional de Interesse Social - EHIS”, através do link
+https://servicos.pbh.gov.br/servicos/i/60afb189f196d41bcbb53191/5dc8470253fd6b5bbd99185f
+.
+1
+2
+4
+5
+LICENÇA DE IMPLANTAÇÃO (LI) E SUAS CONDICIONANTES
+Obter licença ambiental de implantação - LI emitida pelo órgão municipal ou estadual competente para os empreendimentos considerados como de impacto ambiental pela legislação específica.
+Em ambos os casos, pode-se apresentar, em substituição à licença ambiental, documento com dispensa do licenciamento ambiental emitido pelo órgão ambiental competente.
+A LI se aplica no caso de empreendimentos enquadrados como de impacto ambiental pela legislação municipal ou estadual, devendo ser licenciado no órgão ambiental competente.
+No que tange à legislação municipal, aplica-se aos empreendimentos enquadrados no Art.344 da Lei 11.181/19 ou que apresentem a LI emitida, conforme Art.74-A da Lei nº 7.166/96
+.
+Orientações:
+- A partir da aprovação da Lei nº 11.181/2019, também devem apresentar Licença ambiental pelo órgão estadual competente, as edificações inseridas na Zona de Amortecimento da Estação Ecológica do Cercadinho - ZAEE, conforme indicado na IBED - Informação Básica de Edificação, com atividades de impacto
+de acordo com lista prevista pela Deliberação Normativa COPAM nº 222/2018, artigo 1º. No caso de apresentação da Licença ambiental, a LI é dispensada, pois a Licença Ambiental Estadual já supre a necessidade de licença ambiental municipal.
+- O
+s empreendimentos de impacto que passaram por licenciamento urbanístico antes da aprovação da Lei nº 11.181/2019, podem apresentar PLU - Parecer de Licenciamento Urbanístico juntamente com um ofício listando os protocolos de cumprimento das condicionantes vinculadas à aprovação de projeto, até que o sistema seja adequado com o campo para inserção dos números dos protocolos.
+- No caso de acréscimo de área em empreendimentos destinados a postos de gasolina, apresentar Manifestação da Secretaria Municipal de Meio Ambiente - SMMA quanto a necessidade de redefinição da Licença Ambiental.
+4
+5
+LICENÇA DE OPERAÇÃO (LO) E SUAS CONDICIONANTES
+Obter licença ambiental de operação - LO emitida pelo órgão municipal ou estadual competente para os empreendimentos considerados como de impacto ambiental pela legislação específica.
+Em ambos os casos, pode-se apresentar, em substituição à licença ambiental, documento com dispensa do licenciamento ambiental emitido pelo órgão ambiental competente.
+A LO se aplica no caso de empreendimentos enquadrados como de impacto ambiental pela legislação municipal ou estadual, devendo ser licenciado no órgão ambiental competente.
+No que tange à legislação municipal, aplica-se aos casos de regularização pela lei vigente de empreendimento enquadrados no Art.344 da Lei 11.181/19 ou que apresentem a LO emitida, conforme Art.74-A da Lei nº 7.166/96.
+Orientações:
+- A partir da aprovação da Lei nº 11.181/2019, também devem apresentar Licença ambiental pelo órgão estadual competente, as edificações inseridas na Zona de Amortecimento da Estação Ecológica do Cercadinho - ZAEE, conforme indicado na IBED - Informação Básica de Edificação, com atividades de impacto
+de acordo com lista prevista pela Deliberação Normativa COPAM nº 222/2018, artigo 1º. No caso de apresentação da Licença ambiental, a LO é dispensada, pois a Licença Ambiental Estadual já supre a necessidade de licença ambiental municipal.
+- Os empreendimentos de impacto que passaram por licenciamento urbanístico antes da aprovação da Lei 11.181/2019, podem apresentar PLU - Parecer de Licenciamento Urbanístico juntamente com um ofício listando os protocolos de cumprimento das condicionantes vinculadas à aprovação de projeto, até que o sistema seja adequado com o campo para inserção dos números dos protocolos.
+- N
+os casos de regularização nos termos da Lei nº 9.074/05, aplica-se somente quando a edificação é destinada ao uso industrial ou ao comércio, ou a serviço de materiais perigosos;
+- N
+o caso de modificação de projeto, a redefinição da LO será exigida para quando a modificação resultar em alteração da área construída;
+- No caso de acréscimo de área em empreendimentos destinados a postos de gasolina, apresentar Manifestação da Secretaria Municipal de Meio Ambiente - SMMA quanto a necessidade de redefinição da Licença Ambiental.
+1
+4
+5
+PARECER DE LICENCIAMENTO URBANÍSTICO (PLU)
+Obter Parecer de Licenciamento Urbanístico - PLU junto à Subsecretaria de Planejamento Urbano - SUPLAN no caso de empreendimento de impacto urbanístico.
+Para empreendimento de impacto urbanístico, conforme enquadramento no Art. 345 da Lei nº 11.181/19 ou Art.74-B da Lei nº 7.166/96.
+O atendimento às condicionantes será verificado internamente, mas ressaltamos que a documentação será acatada apenas se for cumpridas todas as condicionantes das etapas referentes a protocolo junto a SUEG, emissão de alvará e similares.
+Orientação:
+Nos casos de regularização nos termos da Lei nº 9.074/05, aplica-se somente quando a edificação é destinada ao uso industrial ou ao comércio, ou a serviço de materiais perigosos.
+- A partir da aprovação da Lei nº 11.181/2019, também devem apresentar Licença ambiental pelo órgão estadual competente, as edificações inseridas na Zona de Amortecimento da Estação Ecológica do Cercadinho - ZAEE, conforme indicado na IBED - Informação Básica de Edificação, com atividades de impacto
+de acordo com lista prevista pela Deliberação Normativa COPAM nº 222/2018, artigo 1º.
+Os serviços e orientações estão disponíveis no Portal de Serviços “Licenciamento Urbanístico de Empreendimento de Impacto”, link
+servicos.pbh.gov.br/servicos/i/5e5fa731e1bf5e706b32f050
+” e “Orientação para o Licenciamento de Empreendimento de Impacto” - OLE, link
+servicos.pbh.gov.br/servicos/i/5e7cf0ddd9521a26a9e8aafe
+.
+1
+2
+4
+DOCUMENTO EMITIDO PELA SMMA COMPROVANDO O ATENDIMENTO ÀS CONDICIONANTES DA LICENÇA AMBIENTAL VINCULADAS À APROVAÇÃO DE PROJETO
+Obter declaração do cumprimento das condicionantes da licença ambiental junto à Secretaria Municipal de Meio Ambiente - SMMA que são pré-requisito para aprovação do projeto arquitetônico na Subsecretaria de Regulação Urbana - SUREG.
+Documento aplicável aos casos de empreendimentos enquadrados como de impacto ambiental pela legislação municipal e emitido pela SMMA - Secretaria Municipal de Meio Ambiente.
+1
+2
+4
+5
+6
+PROJETO APROVADO PELO ÓRGÃO RESPONSÁVEL OU CONCESSIONÁRIA E RESPECTIVAS PRANCHAS CARIMBADAS
+Obter a
+provação prévia de projeto pelOS órgãos responsáveis ou concessionárias quando o(s) lotes(s) for(em) lindeiro(s) a rodovias, ao anel rodoviário ou a linha férrea e possuir(em) acesso(s) ou implantação de elementos que constituem parâmetros urbanísticos na faixa de servidão/área não edificante  (com exceção da área permeável) ou na faixa de domínio..
+Caso a resposta à análise do projeto seja a não anuência, o mesmo deverá ser reapresentado ao(s) órgão(s)  com adequações necessárias ao atendimento às diretrizes solicitadas  para obtenção do projeto devidamente aprovado.
+Para solicitação ao DNIT deverá acessa o link
+https://www.gov.br/pt-br/servicos/solicitar-uso-de-faixa-de-dominio-adjacentes-as-rodovias-federais-dnit
+Obs. quando se tratar de trecho do Anel rodoviário não necessita de documento do DNIT, visto a municipalização do trecho, será realizada interface com a SUOTRAN.
+1
+2
+4
+5
+6
+PROJETO APROVADO PELA CEMIG
+Obter aprovação prévia de projeto pelo CEMIG quando o(s) lotes(s) possuírem faixa de servidão ou nos lotes lindeiros houver torre de transmissão.
+Caso a resposta à análise do projeto seja a não anuência, o mesmo deverá ser reapresentado ao(s) órgão(s)  com adequações necessárias ao atendimento às diretrizes solicitadas  para obtenção do projeto devidamente aprovado.
+1
+2
+4
+5
+6
+PROJETO APROVADO PELA COPASA
+Obter aprovação prévia de projeto pelo COPASA quando o(s) lotes(s) possuírem faixa de servidão.
+Caso a resposta à análise do projeto seja a não anuência, o mesmo deverá ser reapresentado ao(s) órgão(s)  com adequações necessárias ao atendimento às diretrizes solicitadas  para obtenção do projeto devidamente aprovado.
+1
+2
+4
+5
+6
+DIRETRIZES DE OCUPAÇÃO EMITIDAS PELA BHTRANS E PELA URBEL
+Obter diretrizes de ocupação específicas junto à Empresa de Transporte e Trânsito de Belo Horizonte (BHTRANS) e Companhia Urbanizadora de Belo Horizonte (URBEL).
+Documento aplicável nos casos em que o terreno tiver sobreposição de Projeto Viário Prioritário com os zoneamentos ZEIS-1, ZEIS-2 ou AEIS-2.
+1
+2
+4
+DOCUMENTO EMITIDO PELA SUPLAN COM DIRETRIZES PARA TERRENOS NO SETOR 1 DA ADE MIRANTES
+Obter diretrizes para terrenos no setor 1 da ADE Mirantes junto à Subsecretaria de Planejamento Urbano - SUPLAN.
+Documento aplicável nos casos de projeto localizado no setor 1 da ADE Mirantes.
+Orientações e solicitações, verificar descrição completa no Portal de Serviços”
+Manifestação da Suplan para Emissão de Diretrizes para Ocupação no Setor 1 da Área de Diretrizes Especiais (ADE) Mirantes
+”.
+1
+2
+DOCUMENTO EMITIDO PELA SUPLAN PARA TERRENOS INSERIDOS EM AEIS DE INTERESSE AMBIENTAL
+Obter diretrizes para terrenos inseridos em AEIS de Interesse Ambiental.
+Documento aplicável nos casos de terrenos em AEIS de Interesse Ambiental.
+Orientações e solicitações,
+verificar descrição completa no Portal de Serviços “
+Manifestação da Suplan para Emissão de Diretrizes para Ocupação em AEIS de Interesse Ambiental
+”
+.
+1
+2
+4
+5
+6
+DOCUMENTO EMITIDO PELA SUPLAN QUE AUTORIZE O ACESSO POR VIA EM QUE ESTE NÃO É ADMITIDO
+Obter autorização para acesso a via em que este não é admitido junto à Subsecretaria de Planejamento Urbano - SUPLAN.
+Documento aplicável nos casos em que o acesso por via não é admitido
+observado os critérios da Portaria SMPU 028/2021.
+Verificar descrição completa no Portal de Serviços “
+Parecer para Acesso por Logradouro no qual Atividade não é Admitida (Extensão de Uso)
+”.
+1
+2
+4
+5
+6
+PLANO DE ESTRUTURAÇÃO URBANO-AMBIENTAL - PEA E SEU RESPECTIVO DECRETO
+Obter diretrizes para terrenos inseridos em Conexão Fundo de Vale.
+Documento aplicável nos casos de projeto localizado em Conexão Fundo de Vale e que solicita flexibilização de parâmetros urbanísticos, baseados no Art.92 do Decreto 17.273.
+Obs. poderá ser apresentado o PEA e um ofício citando o número do decreto.
+Orientações e solicitações, verificar descrição completa no Portal de Serviços “
+Manifestação da Suplan para Orientação para Ocupação em Conexão de Fundo de Vale
+”.
+1
+2
+4
+DIRETRIZES EMITIDAS PELA SUPLAN PARA ZONEAMENTOS ESPECÍFICOS
+Obter diretrizes para terrenos inseridos na ADE Venda Nova junto à Subsecretaria de Planejamento Urbano - SUPLAN.
+Documento aplicável nos casos de terrenos situados na ADE Venda Nova quando tiverem área igual ou superior a 500 m².
+- Dispensando apenas para regularização pela Lei 9074/05 e modificações exclusivamente internas à edificação.
+No caso da modificação interna a edificação deverá anexar um ofício na aba do documento citando a dispensa do mesmo.
+Orientações e solicitações, verificar descrição completa no Portal de Serviços “
+Manifestação da Suplan para Parecer Técnico para Terrenos Situados na ADE Venda Nova, com Área Igual ou Superior a 500 m²
+”.
+1
+2
+DOCUMENTO EMITIDO PELA SUPLAN PARA TERRENOS COM INDICAÇÃO DE JARDIM DE CHUVA
+Obter informação para terrenos com indicação de Jardim de chuva junto à Subsecretaria de Planejamento Urbano - SUPLAN.
+Documento aplicável nos casos de terrenos com indicação de Jardim de chuva na Informação Básica de Edificações.
+Orientações e solicitações, verificar descrição completa no Portal de Serviços “
+Localização do Jardim de Chuva - Confirmação de Indicação
+”.
+1
+2
+4
+5
+6
+PARECER PARA DISPENSA DE IMPLANTAÇÃO DE ÁREA DE FRUIÇÃO PÚBLICA
+Obter manifestação de dispensa da área de fruição junto à Subsecretaria de Planejamento Urbano - SUPLAN .
+Documento aplicável nos casos de terrenos com necessidade de área de fruição, mas que se enquadre na dispensa de implantação por ser  equipamento público, conforme disposto no art. 86 do Decreto 17.273/2020.
+Orientações e solicitações, verificar descrição completa no Portal de Serviços “
+Parecer para Dispensa de Implantação de Área de Fruição Pública para Equipamento Público Existente
+”.
+ATUALIZADO EM 01/09/2026

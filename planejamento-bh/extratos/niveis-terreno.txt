@@ -1,0 +1,499 @@
+
+
+--- Página PDF 1 ---
+Representação 
+de níveis do 
+terreno
+
+
+--- Página PDF 2 ---
+A aplicação de uma normativa que regula a transposição de ideias para o espaço 
+deve ser dinâmica. Estamos tratando de humanizar o espaço da cidade e dispor 
+objetos arquitetônicos com funções diversas, tais como morar, estudar, fruir, 
+trabalhar, empreender, entre outras tantas.
+A partir de um Plano Diretor moderno e que conduz Belo Horizonte à conquista 
+dos princípios da Nova Agenda Urbana - NAU e dos Objetivos de 
+Desenvolvimento Sustentável - ODS, iniciamos o marco de uma nova forma de 
+desenvolver o território, mais inclusiva, resiliente e sustentável.
+Soluções diversas foram propostas pela comunidade técnica do setor da 
+construção civil, a partir da materialização dos dispositivos do novo Plano Diretor 
+nos empreendimentos. Colecionamos várias dúvidas sobre alguns temas e 
+dividimos com todos em e-books com explicações que podem ajudar sociedade e 
+projetistas na materialização das linhas legais no espaço construído.
+As soluções apresentadas não são as únicas e não são vinculantes, a menos que 
+explicitamente reguladas em leis, decretos e portarias. São exposições baseadas 
+nos atendimentos, recursos e demais meios de comunicação que esta Secretaria 
+Municipal de Política Urbana - SMPU possui com os usuários de seus serviços.
+Os E-books, também, não são estáticos e, as dúvidas, sugestões e críticas, sempre 
+bem vindos, nos auxiliarão a desenvolver e evoluir este e outros materiais que 
+tratem de implementar no espaço os princípios do nosso Plano Diretor.
+
+
+--- Página PDF 3 ---
+
+
+--- Página PDF 4 ---
+O objetivo deste e-book é esclarecer a aplicação de parâmetros urbanísticos que possuem 
+como referência os níveis dos terrenos. São parâmetros tais como a escolha do nível térreo, 
+a altura máxima na divisa - AMD e a altimetria das ediﬁcações que constam da do Anexo 
+XII da Lei nº 11.181, de 08 de agosto de 2019, a qual institui o Plano Diretor do Município 
+de Belo Horizonte. 
+As explicações abrangem como usar como referência o levantamento da Empresa de 
+Informática e Informação do Município de Belo Horizonte - Prodabel ou um levantamento 
+planialtimétrico. 
+Introdução
+
+
+--- Página PDF 5 ---
+Os  parâmetros de Altura Máxima na Divisa- 
+AMD e Altimetria- altura total da ediﬁcação 
+serão sempre analisados  a partir da 
+referência de níveis da  PRODABEL,  em 
+conformidade com o Anexo XII da Lei  
+11.181/19. Portanto, mesmo quando houver 
+a referência de um levantamento 
+planialtimétrico, essa referência deverá ser 
+levada em conta em conjunto com os níveis 
+Prodabel.
+A base de dados da Prodabel a ser utilizada 
+será aquela constante na Informação Básica 
+para Ediﬁcação (IBED) ou qualquer outra 
+base produzida pela Prodabel apresentada 
+no requerimento. A lógica é que o terreno 
+diagramado pela Prodabel seja a referência 
+para a relação de alturas entre terrenos 
+vizinhos. 
+Dessa forma, mesmo com cortes ou aterros 
+feitos nos lotes, as alturas e distâncias para 
+questões de iluminação, ventilação e 
+privacidade continuam com a mesma 
+referência: a base da Prodabel. 
+Vale lembrar que alguns parâmetros 
+urbanísticos são mais importantes para 
+resguardar situações aos vizinhos do que ao 
+seu próprio terreno.  
+Para os parâmetros de implantação da 
+ediﬁcação, diferentes da AMD e da 
+Altimetria, poderá ser utilizada a referência 
+do planialtimétrico. Apenas serão aceitos os 
+levantamentos planialtimétricos assinados e 
+anexados ao Portal de Ediﬁcações na 
+ocasião do protocolo do processo ou entre 
+exames. 
+Regras Gerais
+
+
+--- Página PDF 6 ---
+situação
+Os níveis do terreno real estão em 
+conformidade com os níveis do 
+levantamento da Prodabel. 
+1
+800,50
+803,50
+legenda:
+real = Prodabel
+804,50
+805,50
+
+--- Página PDF 7 ---
+1
+Como proceder?
+Utilizar a referência do levantamento da 
+Prodabel em todos os desenhos do projeto 
+(cortes, plantas, etc.) e como referência de 
+todos os parâmetros urbanísticos. 
+ perﬁl 
+terreno 
+real e 
+Prodabel
+planta de situação
+corte longitudinal
+situação
+800,50
+(prodabel e 
+real)
+803,50
+(prodabel e 
+real)
+804,50
+(prodabel e 
+real)
+805,50
+(prodabel e 
+real)
+804,50
+(prodabel 
+e real)
+800,50
+(prodabel 
+e real)
+não tem 
+aterro ou 
+corte
+
+--- Página PDF 8 ---
+Os níveis do terreno real estão com 
+divergência de cotas dos vértices com os 
+níveis do levantamento da Prodabel, mas 
+dentro das mesmas proporções. 
+800,50
+803,50
+804,50
+805,50
+805,50
+808,50
+809,50
+810,50
+legenda:
+real
+Prodabel
+2
+situação
+
+--- Página PDF 9 ---
+2
+Como proceder? 
+Utilizar o levantamento da Prodabel como 
+referência  em todos os desenhos do 
+projeto (cortes, plantas, etc.) e como 
+referência de todos os  parâmetros 
+urbanísticos. 
+Nessa situação, entende-se que é apenas 
+uma divergência entre as cotas  de níveis e 
+que os terrenos são iguais, devendo ser 
+representado os dois perﬁs coincidentes.
+perﬁl 
+terreno real 
+e Prodabel 
+(coincidindo)
+planta de situação
+corte longitudinal
+805,50
+(real)
+808,50
+(real)
+809,50 
+(real)
+810,50
+(real)
+809,50 
+(real) = 
+804,50 
+(prodabel)
+805,50 
+(real) = 
+800,50 
+(prodabel)
+804,50
+(prodabel)
+805,50
+(prodabel)
+800,50
+(prodabel) 
+803,50
+(prodabel)
+não tem 
+aterro ou 
+corte
+situação
+
+--- Página PDF 10 ---
+Os níveis do terreno real estão em 
+conformidade com os níveis do 
+levantamento da Prodabel constante na 
+IBED no alinhamento, mas com 
+divergências nos demais níveis 
+800,50
+804,50
+803,50
+805,50
+809,50
+815,50
+legenda:
+real
+Prodabel
+real = Prodabel
+3
+situação
+
+--- Página PDF 11 ---
+Como proceder?
+Utilizar o levantamento da Prodabel como 
+referência para os parâmetros de Altura 
+Máxima na Divisa e Altimetria e o terreno real 
+como referência para os demais parâmetros.
+Nessa situação, entende-se que houve 
+alteração no terreno (corte e/ou aterro), sem 
+alteração no alinhamento. 
+A planta de situação deverá indicar tanto os 
+níveis do levantamento da Prodabel quanto os 
+níveis do terreno real. Os cortes também 
+deverão trazer a representação dos dois perﬁs 
+do terreno: Prodabel e real.  
+perﬁl 
+terreno 
+Prodabel
+perﬁl 
+terreno 
+real
+corte longitudinal
+800,50
+(prodabel 
+e real) 
+804,50 (prodabel) 805,50 (prodabel)
+809,50 (real) 815,50 (real)
+803,50
+(prodabel 
+e real)
+3
+809,50 
+(real)
+planta de situação
+800,50
+(prodabel 
+e real) 
+804,50 
+(prodabel)
+aterro=5m
+situação
+
+--- Página PDF 12 ---
+Os níveis do terreno real estão com 
+divergência em relação aos níveis do 
+levantamento da Prodabel constante na 
+IBED em todos os vértices.
+Porém, no alinhamento, são apenas 
+diferenças nas cotas, que guardam as 
+mesmas proporções, enquanto nos demais 
+vértices as proporções não são 
+preservadas.
+800,50
+803,50
+804,50
+805,50
+805,50
+808,50
+815,50
+820,50
+legenda:
+real
+Prodabel
+4
+situação
+
+--- Página PDF 13 ---
+4
+Como proceder?
+Utilizar o levantamento da Prodabel como 
+referência para os parâmetros de Altura 
+Máxima na Divisa e Altimetria e o terreno 
+real como referência para os demais 
+parâmetros.
+Nessa situação, entende-se que houve 
+alteração no terreno (corte e/ou aterro), sem 
+alteração no alinhamento. 
+A planta de situação deverá indicar tanto os 
+níveis do levantamento da Prodabel quanto 
+os níveis do terreno real. Os cortes também 
+deverão trazer a representação dos dois 
+perﬁs do terreno, Prodabel e real, devendo 
+ser representado os dois perﬁs 
+coincidentes.
+perﬁl 
+terreno 
+Prodabel
+perﬁl terreno 
+real 
+(coincidindo no 
+alinhamento)
+planta de situação
+corte longitudinal
+800,50
+(prodabel) 
+804,50 (prodabel) 805,50 (prodabel)
+815,50 (real) 820,50 (real)
+805,50 
+(real)
+803,50 
+(prodabel) 
+808,50 
+(real)
+800,50
+(prodabel)=
+805,50 
+(real)
+aterro=6m
+815,50
+(real)
+804,50
+(prodabel)
+situação
+
+--- Página PDF 14 ---
+Os níveis do terreno real estão com 
+divergência em relação aos níveis do 
+levantamento da Prodabel constante na 
+IBED em todos os vértices.
+Porém, no alinhamento, são diferenças nas 
+cotas que guardam proporções dentro do 
+intervalo de 1 metro.
+800,40
+803,20
+800,50
+803,90
+804,50
+805,50
+809,50
+815,50
+5
+legenda:
+real
+Prodabel
+situação
+
+--- Página PDF 15 ---
+Como proceder?
+Utilizar o levantamento da Prodabel como 
+referência para os parâmetros de Altura 
+Máxima na Divisa e Altimetria e o terreno real 
+como referência para os demais parâmetros.
+Nesta situação, entende-se que houve 
+alteração no terreno (corte e/ou aterro), porém 
+o alinhamento se manteve com uma diferença 
+de menos de 1,0 metro, o que é insigniﬁcante 
+neste contexto, já que o Levantamento da 
+Prodabel tem precisão de 1m.
+A planta de situação deverá indicar tanto os 
+níveis do levantamento da Prodabel quanto os 
+níveis do terreno real, compatibilizando os 
+níveis da Prodabel no alinhamento com os do 
+terreno real, respeitado o intervalo das curvas 
+de nível. Os cortes também deverão trazer a 
+representação dos dois perﬁs do terreno: 
+Prodabel e real.  
+perﬁl 
+terreno 
+Prodabel
+perﬁl 
+terreno 
+real
+planta de situação
+ 
+corte longitudinal
+800,50 
+ (prodabel 
+ajustado - 
+desprezar 
+divergência 
+menor que 
+1m)
+804,50 (prodabel) 805,50 (prodabel)
+809,50 (real) 815,50 (real)
+800,50 
+(real)
+803,90 
+ (prodabel 
+ajustado - 
+desprezar 
+divergência 
+menor que 
+1m)
+803,90 
+(real)
+800,50 
+(prodabel
+ajustado e real)
+809,50
+(real)
+804,50
+(prodabel)
+aterro=5m
+5
+situação
+
+--- Página PDF 16 ---
+Mesmo com a compatibilização entre 
+terreno real e terreno conforme 
+Levantamento da Prodabel em um dos 
+vértices do terreno no alinhamento, os 
+níveis do terreno real estão com divergência 
+em relação aos níveis do levantamento da 
+Prodabel constante na IBED nos demais 
+vértices.
+As diferenças nas cotas no alinhamento não 
+podem ser ignoradas porque ultrapassam 
+1m. 
+800,50
+803,50
+805,50
+804,50
+805,50
+810,50
+815,50
+legenda:
+real
+Prodabel
+real = prodabel
+6
+situação
+
+--- Página PDF 17 ---
+6
+Como proceder?
+Opção 1: O responsável técnico poderá 
+solicitar, previamente ao protocolo do projeto, o 
+serviço “Recurso Referente aos Serviços 
+Prestados pela Política Urbana“ - revisão da 
+situação do alinhamento.
+Opção 2: O responsável técnico deverá indicar 
+as diferenças nas plantas e cortes e, durante o 
+processo, haverá necessidade de interface após 
+o protocolo do projeto.
+Após análise, caso seja constatado que a base 
+de dados da Prodabel está correta, o desnível 
+indicado no alinhamento pelo planialtimétrico 
+deverá ser compatibilizado com o do 
+levantamento da Prodabel. Caso o 
+planialtimétrico esteja correto, a base da 
+Prodabel será adequada. Qualquer que seja a 
+conclusão do serviço, o desnível do 
+alinhamento Prodabel será compatível com o 
+do planialtimétrico, se enquadrando em um dos 
+casos anteriores.
+perﬁl 
+terreno 
+Prodabel
+perﬁl 
+terreno 
+real
+planta de situação
+corte longitudinal
+804,50 (prodabel) 805,50 (prodabel)
+810,50 (real) 815,50 (real)
+aterro=6m
+Prodabel
+(a deﬁnir
+após análise 
+da Prodabel)
+real
+(a deﬁnir
+após análise 
+da Prodabel)
+800,50 
+ (prodabel)
+800,50 
+(real)
+800,50 
+(prodabel
+e real)
+810,50
+(real)
+804,50
+(prodabel)
+situação
+
+--- Página PDF 18 ---
+
+
+--- Página PDF 19 ---

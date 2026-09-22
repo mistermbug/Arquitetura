@@ -1,0 +1,67 @@
+{
+  "schema_version": "proposal-1",
+  "status": "especificacao_nao_executada_pelo_lisp_0.2",
+  "preferencias_confirmadas": {
+    "perfil": "equilibrado_conforto_custo",
+    "integracao_ambientes": "variar_entre_alternativas",
+    "prioridades": [
+      "convivencia",
+      "luz_natural",
+      "garagem",
+      "diversidade_de_plantas"
+    ],
+    "terreno": "plano"
+  },
+  "dados_a_preencher_no_programa": {
+    "moradores": null,
+    "vagas": null,
+    "dimensoes_veiculo": null,
+    "area_construida_alvo_m2": null,
+    "area_construida_maxima_m2": null,
+    "orientacao_norte_graus": null,
+    "lado_acesso_lote": null,
+    "perfil_acessibilidade": null
+  },
+  "variacao_proposta": {
+    "integracao": [
+      "aberta",
+      "semiaberta",
+      "fechada"
+    ],
+    "familias_etapa_1": [
+      "social_frente_intimo_fundos",
+      "circulacao_lateral",
+      "nucleo_social_distribuidor"
+    ],
+    "familias_etapa_2": [
+      "L_com_varanda",
+      "patio"
+    ],
+    "mobiliario": "conjuntos_funcionais_com_envelopes_de_uso",
+    "dimensoes": "intervalos_por_ambiente_e_ocupacao"
+  },
+  "politica_resultados": {
+    "alternativas_solicitadas": 3,
+    "nao_preencher_com_duplicatas": true,
+    "se_inviavel": "informar_requisitos_impedidos_sem_reduzir_programa",
+    "espelhamento_sozinho_nao_conta_diversidade": true,
+    "pendencias_nao_contam_como_aprovacao": true
+  },
+  "etapas_validacao": [
+    "programa_e_lote",
+    "geometria_e_acessos",
+    "mobiliario_e_operacao",
+    "regras_legais_aplicaveis",
+    "qualidade_e_diversidade"
+  ],
+  "qualidade_proposta": [
+    "adequacao_area_ao_uso",
+    "circulacao_e_privacidade",
+    "potencial_luz_e_ventilacao",
+    "convivencia_e_espaco_externo",
+    "compacidade_e_indicadores_de_custo"
+  ],
+  "avaliacao_ambiental": "indicadores_preliminares; simulacao exige clima, norte, entorno, materiais e aberturas",
+  "custo": "indicadores_geometricos; nao e orcamento",
+  "legal": "base BH com aplicabilidade por lote; nao verificada na versao 0.2"
+}

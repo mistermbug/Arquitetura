@@ -1,0 +1,19 @@
+PASS 5 occupants layout=1 integration=1 
+PASS 5 occupants layout=1 integration=2 
+PASS 5 occupants layout=1 integration=3 
+PASS 5 occupants layout=2 integration=1 
+PASS 5 occupants layout=2 integration=2 
+REJECTED 5 occupants layout=2 integration=3 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+PASS 5 occupants layout=3 integration=1 
+PASS 5 occupants layout=3 integration=2 
+REJECTED 5 occupants layout=3 integration=3 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+PASS 6 occupants layout=1 integration=1 
+REJECTED 6 occupants layout=1 integration=2 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+REJECTED 6 occupants layout=1 integration=3 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+PASS 6 occupants layout=2 integration=1 
+REJECTED 6 occupants layout=2 integration=2 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+REJECTED 6 occupants layout=2 integration=3 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+PASS 6 occupants layout=3 integration=1 
+PASS 6 occupants layout=3 integration=2 
+REJECTED 6 occupants layout=3 integration=3 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+COMPLETE failures=0

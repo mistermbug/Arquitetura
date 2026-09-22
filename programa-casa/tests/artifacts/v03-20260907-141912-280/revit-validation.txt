@@ -1,0 +1,13 @@
+1-1-1.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=1.0 integration=1.0
+1-1-42.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=1.0 integration=1.0
+1-1-91.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=1.0 integration=1.0
+2-1-1.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=2.0 integration=1.0
+2-1-42.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=2.0 integration=1.0
+2-1-91.json: PASS rooms=7 zones=8 outdoor=2 north=30.0 layout=2.0 integration=1.0
+3-1-1.json: PASS rooms=8 zones=8 outdoor=2 north=30.0 layout=3.0 integration=1.0
+3-1-42.json: PASS rooms=8 zones=8 outdoor=2 north=30.0 layout=3.0 integration=1.0
+3-1-91.json: PASS rooms=8 zones=8 outdoor=2 north=30.0 layout=3.0 integration=1.0
+3-2-1.json: PASS rooms=9 zones=8 outdoor=2 north=30.0 layout=3.0 integration=2.0
+3-2-42.json: PASS rooms=9 zones=8 outdoor=2 north=30.0 layout=3.0 integration=2.0
+3-2-91.json: PASS rooms=9 zones=8 outdoor=2 north=30.0 layout=3.0 integration=2.0
+Pure validation only; Revit API not executed.

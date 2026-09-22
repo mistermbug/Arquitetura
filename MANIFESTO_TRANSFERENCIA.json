@@ -1,0 +1,2891 @@
+{
+  "snapshot": "2026-09-22",
+  "files": [
+    {
+      "path": "programa-casa/build-release-03.py",
+      "bytes": 1746,
+      "sha256": "04fa10a1680cb73687be84e0a8073b4ac99a6b6138c1b700fa23416eff768a40"
+    },
+    {
+      "path": "programa-casa/build-release-04.py",
+      "bytes": 2009,
+      "sha256": "393d592394b2af79a6cce2c73cac4954430326c65617695d97c4fed3d7e95bfd"
+    },
+    {
+      "path": "programa-casa/build-release.py",
+      "bytes": 2882,
+      "sha256": "e4af2447e8033961e553872cb8d0509c048bb42cce23943b50c9d08dd837b766"
+    },
+    {
+      "path": "programa-casa/casa-core.lsp",
+      "bytes": 14189,
+      "sha256": "6b160a947e5796775100d3de4a07f2615d0863a4af2357e749250e893f6c882c"
+    },
+    {
+      "path": "programa-casa/casa-custom.lsp",
+      "bytes": 10548,
+      "sha256": "dfa7dad39d929d2e72e63e612b32a85a5f5b0792e1fb7ec8d2f95fd7740e95fe"
+    },
+    {
+      "path": "programa-casa/casa-display.lsp",
+      "bytes": 11541,
+      "sha256": "f2c87ccf357b8aa42bab7603029d9eef4e9ce3b5d455eafb38e10f0e87036815"
+    },
+    {
+      "path": "programa-casa/casa-furniture.lsp",
+      "bytes": 15175,
+      "sha256": "5db2ab935674f818dd8b502667fc925a00d43602f9cbedf2d148bbb1cabd6970"
+    },
+    {
+      "path": "programa-casa/casa-junctions.lsp",
+      "bytes": 5926,
+      "sha256": "94ca5326c8242b8eb3050b7ee26deb4ef9d3a3f2d71777c98ef219e1de0cf06e"
+    },
+    {
+      "path": "programa-casa/casa-layout.lsp",
+      "bytes": 28991,
+      "sha256": "4afdaf270c869c9447abe947c89fd691278c7045daf1c473f6cd0e11626d6c1d"
+    },
+    {
+      "path": "programa-casa/casa-roof.lsp",
+      "bytes": 1108,
+      "sha256": "5c5a2af1e3605db9c107f6e5943df6c787cc630ca8b7196c9f540d64bcd68a58"
+    },
+    {
+      "path": "programa-casa/casa-sections.lsp",
+      "bytes": 4569,
+      "sha256": "46ff0b4c91651245f55d452ce9b38511e3d2b56cac205f37e66ee5b70d400aee"
+    },
+    {
+      "path": "programa-casa/casa.dcl",
+      "bytes": 2763,
+      "sha256": "1bfbd55ec6579de3bb4e5d7d8d540b6bd0a1f05f2af0555f891d788fa882e90c"
+    },
+    {
+      "path": "programa-casa/casa.lsp",
+      "bytes": 19601,
+      "sha256": "c4c832b7632f0794a26b9a306997dca51ea1e2df4b13b8d49c85d62aa4bbfb9f"
+    },
+    {
+      "path": "programa-casa/README.md",
+      "bytes": 560,
+      "sha256": "e6416e066445babee905c661c7adf3b2f0b3dd4294846a780912fb4c1f1b4d47"
+    },
+    {
+      "path": "programa-casa/VERIFICACAO.md",
+      "bytes": 1262,
+      "sha256": "7559487f8afe287e5c43ce801f4a9fb8ad7575564155ffe4ad0680a3ee649087"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/CASA-BH.lsp",
+      "bytes": 116025,
+      "sha256": "100c8bac9b58ad8b4f1c7398ad9d7b2c604892d8ec75c089f4169dc0849d6c5d"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/CATALOGO_VEGETACAO.md",
+      "bytes": 5491,
+      "sha256": "bb949f7d186b06a474acb00ea6fc25ad940ed933419a8e69c1c6416e0ab0d378"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/LEIA-ME.md",
+      "bytes": 6481,
+      "sha256": "1a717ce8edc832e303b53d23f489934214d44389250ff750939f4af2414b7669"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/MELHORIAS_INTERIORES.md",
+      "bytes": 6295,
+      "sha256": "474d9e63f7da02b30847dbdaae18f03f123c678584ad2ff9917c91a2fd46f9d1"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/MOVEIS_PLANEJADOS_E_VEGETACAO.md",
+      "bytes": 7577,
+      "sha256": "d6be58b3d7b902ed70027753818a388163feaaf07d04944c83a0cdbae78b0c35"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/VERIFICACAO.md",
+      "bytes": 2151,
+      "sha256": "7fe93f4bc014ca2667283839273316206150397b335a63e3c7ff7b09f8a3c2cd"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/VERIFICACAO_MOVEIS.txt",
+      "bytes": 1214,
+      "sha256": "e7efcbd06e9e7047efc0e8638c2cff0c6b84b367bd51ce190566a5463c245a20"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/alternativa-1.png",
+      "bytes": 70374,
+      "sha256": "2b1283e3b5813187f4b114dac7177e935d60d5211baa9c3e8f6cbc7e7541e9aa"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/alternativa-2.png",
+      "bytes": 69381,
+      "sha256": "82b81142dfef74b817696d52ab2c511cfc3e68118a7ce49900a8ecad17df38a6"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/alternativa-3.png",
+      "bytes": 68963,
+      "sha256": "5a6efb544f1941563d9fc44f09f4a57769a5d1ee51220124e4125f521d2b8654"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/catalogo-moveis.png",
+      "bytes": 114593,
+      "sha256": "ebc4b260dbfde606adf4fcf41964fc0a69ba91351eee76c16c04996b354b236c"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/catalogo-vegetacao.png",
+      "bytes": 171818,
+      "sha256": "acdb9a2128dc7355605f24030773f206123249dd7db4ad024eb3c7e060810213"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/colecao-brasileira.png",
+      "bytes": 76788,
+      "sha256": "e417973c97332489d663f023c352b3a84525d274e566221060daf34e8840d48f"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/comparacao.dwg",
+      "bytes": 157397,
+      "sha256": "9c2e090c9cf7c074e6d960a54add64f009e9b7319728d680196d5371f0d76b77"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/comparacao.dxf",
+      "bytes": 812161,
+      "sha256": "3e990caf72ca386c7edfc2edd975202e9bf1d60d2fd48f3abc897b60fff7189e"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/comparacao.png",
+      "bytes": 196980,
+      "sha256": "21e59a7eeda0569ff5a33fff0ef3dccb6ee2e10e437342c901d5c95a54bbec95"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/desenho-1.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/desenho-2.json",
+      "bytes": 23864,
+      "sha256": "c0b7ce70886fdefa809625e617bd6be9f914741e6cf3a68e5468cc80f2fe0ad1"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/desenho-3.json",
+      "bytes": 25896,
+      "sha256": "5d878f57b648be55492936ea23768e038819c0e52b9e6331e659dd310fc0c2b9"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/interiores-isometria.png",
+      "bytes": 51759,
+      "sha256": "d8c592fea3dac4ff92d1264ed2dd317da5851f6ee18f9947462aef4dcf6378d0"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/interiores-rodolfo.json",
+      "bytes": 851541,
+      "sha256": "d6708d832c4757a16d19c21bb871dbc72da87aeadf550517bc9427820d356889"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/presentation-check.txt",
+      "bytes": 92,
+      "sha256": "307fe9fe8ccd6c55828246360cac3827eb2710167a41f9e2b30e3d22c828c988"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/previa-conjunto.png",
+      "bytes": 145372,
+      "sha256": "dd5d585a7a6c807cfdfe843eb7378846ddd6784d60f064c04e519d02f4fd0864"
+    },
+    {
+      "path": "programa-casa/entrega-0.4/exemplos/previa-planta.png",
+      "bytes": 73490,
+      "sha256": "9a4881849aef36a4c08f73b98bd61d6de92fdf8502079fc4a731f11755f278f3"
+    },
+    {
+      "path": "programa-casa/evolucao/algoritmo.md",
+      "bytes": 18275,
+      "sha256": "ea9b48c8cb87e72a5f05f1dde458e4768702c70cfab1d12e830cf94636796ff0"
+    },
+    {
+      "path": "programa-casa/evolucao/arquitetura.md",
+      "bytes": 12795,
+      "sha256": "a13d40180dde90f844438b25c2a32c6da1d94379cfbe3963468ea526155f3b0e"
+    },
+    {
+      "path": "programa-casa/evolucao/diagnostico-exemplo.json",
+      "bytes": 1323,
+      "sha256": "87564bf0de2dfd6e9cd45c027448fa7f3fed4c2972fcb94950c15c2a7aa3c8c9"
+    },
+    {
+      "path": "programa-casa/evolucao/mobiliario.md",
+      "bytes": 12661,
+      "sha256": "daf963079910db83e7bea3a81dc51f91efef7ce00649a8904a7efdac3e425327"
+    },
+    {
+      "path": "programa-casa/evolucao/perfil-equilibrado.json",
+      "bytes": 2068,
+      "sha256": "db674c6c7c99245752290448df8d67f5d0a055c89859f8e1100df74067a03bbb"
+    },
+    {
+      "path": "programa-casa/evolucao/PLANO-QUALIDADE.md",
+      "bytes": 10227,
+      "sha256": "8f5d4b1abae4af03361b32e33899510d8f0bb482a7acd297cb27cf83400d58b0"
+    },
+    {
+      "path": "programa-casa/examples/casa-exemplo.dwg",
+      "bytes": 47840,
+      "sha256": "118738b1a2bc12c11574af514342c8a4332176f38c212098535d5dfa5c2b0482"
+    },
+    {
+      "path": "programa-casa/examples/casa-exemplo.dxf",
+      "bytes": 203748,
+      "sha256": "5d834b5c06dac54f7eaf55d250be34b4da5ff2afc5f8c1934998984b5a213980"
+    },
+    {
+      "path": "programa-casa/examples/casa-exemplo.json",
+      "bytes": 7665,
+      "sha256": "642742f9e080c78ef033a7ebe02a578f1829223ebd479f08cde6bbbbdde0f89c"
+    },
+    {
+      "path": "programa-casa/examples/previa-conjunto.png",
+      "bytes": 109294,
+      "sha256": "a1d0be7fc944ac9cc8be5930b7cff0e02ac396db537f6aeb88da25760da9d4de"
+    },
+    {
+      "path": "programa-casa/examples/previa-planta.png",
+      "bytes": 49913,
+      "sha256": "1851f52c7014677e8b8d730cd3868c053e45c9d9ef189a9de01c1d1081c324f7"
+    },
+    {
+      "path": "programa-casa/examples/README.md",
+      "bytes": 914,
+      "sha256": "3eed98193e18d38cd951908fe34226ac948b5389a8459f9147bb2f4dc20e07d9"
+    },
+    {
+      "path": "programa-casa/revit/atualizar_interiores_dynamo.py",
+      "bytes": 885,
+      "sha256": "367dce669c03a475a1626cf3ab436e612308daec06693953623c81ff844fb459"
+    },
+    {
+      "path": "programa-casa/revit/casa_interiores.py",
+      "bytes": 24685,
+      "sha256": "2f0758aaa8716cd1420a489d47c1703f63e4b8012f5b72740d79625205e19bf7"
+    },
+    {
+      "path": "programa-casa/revit/corrigir_unioes_dynamo.py",
+      "bytes": 887,
+      "sha256": "e3c7f6019353d77927c878d56e842e8597a4962c2f8bfa64d6860e52243a3d7d"
+    },
+    {
+      "path": "programa-casa/revit/importar_casa_dynamo.py",
+      "bytes": 35552,
+      "sha256": "ac44b61ff4ea2893a29792bca8a1e53b6ae0fc5ca869955980e236ad769eee9b"
+    },
+    {
+      "path": "programa-casa/revit/README.md",
+      "bytes": 14488,
+      "sha256": "c9c8e7599fedf6d0ad453a689afc1b26755ec4b88b47992c151ceb4fa89181b3"
+    },
+    {
+      "path": "programa-casa/revit/test_interiores.py",
+      "bytes": 8957,
+      "sha256": "794e2bbe7a836fc3777a7a0dc784cb6ccc09bcff1c8cc010a136cb0ba471599d"
+    },
+    {
+      "path": "programa-casa/revit/test_unioes_revit_dynamo.py",
+      "bytes": 2885,
+      "sha256": "abfc86303a00ffe63cfa3b11be877ed58d61c5f23ab2e967d7a1fbb03fad9d86"
+    },
+    {
+      "path": "programa-casa/revit/test_validate.py",
+      "bytes": 5422,
+      "sha256": "4dbb5b67dbf82a9d9e0f7f6a962cc1048dd0db4cbd965e19d9ceec14b9e43db9"
+    },
+    {
+      "path": "programa-casa/revit/vegetacao.json",
+      "bytes": 8673,
+      "sha256": "62770eb864650b0d90051f242e8c0578527a2f22f3e17f590a2e68194344b110"
+    },
+    {
+      "path": "programa-casa/tests/cad-smoke.lsp",
+      "bytes": 2108,
+      "sha256": "184f0008f71e3be7e54eb4bde7545f6ab76dc6a9cbc4b7c7fadc2f30e098bda6"
+    },
+    {
+      "path": "programa-casa/tests/check-cad-presentation.py",
+      "bytes": 2680,
+      "sha256": "dafe89c2755a494adb4842180451310b9e3b9f675ee7fbb15ae8234779ae2637"
+    },
+    {
+      "path": "programa-casa/tests/core-tests.lsp",
+      "bytes": 8898,
+      "sha256": "77e346e1043c115975e0a076ba04c721d85edbc9a44ab4f68f013ed6996fb815"
+    },
+    {
+      "path": "programa-casa/tests/custom-tests.lsp",
+      "bytes": 3822,
+      "sha256": "257fd150071d1b720751d596a7cacfa69295e0202d97c08bc4fe7d0fe36ed752"
+    },
+    {
+      "path": "programa-casa/tests/furniture-next.lsp",
+      "bytes": 12347,
+      "sha256": "e5b8173d9f66ee46de7c996df15be3f955446861cf42ad53be6d74f23e6179b4"
+    },
+    {
+      "path": "programa-casa/tests/FURNITURE-NOTES.md",
+      "bytes": 2767,
+      "sha256": "9203e0348cc13c0bd810e9d2497fb92f75a4feee597415a713e75ce057e91865"
+    },
+    {
+      "path": "programa-casa/tests/furniture-rotation-tests.lsp",
+      "bytes": 1443,
+      "sha256": "fa4a3707e3efa555946dbde2b4ff9ed653dd2bd9f4ace62acab7db637199d029"
+    },
+    {
+      "path": "programa-casa/tests/furniture-six-tests.lsp",
+      "bytes": 759,
+      "sha256": "7791d33d26c248a63e321f3db4cab31c9f8619d445fdf8473743b7aa7f7b6436"
+    },
+    {
+      "path": "programa-casa/tests/furniture-tests.lsp",
+      "bytes": 2781,
+      "sha256": "a440137d82fd94e6c9333db9fc65d99d488c4a36b28cf3653a7374b994b96584"
+    },
+    {
+      "path": "programa-casa/tests/README.md",
+      "bytes": 1973,
+      "sha256": "c79cb1cf9b4a651b9a4085b88696b4ec48230e9ce01b11acb551853c456b9a21"
+    },
+    {
+      "path": "programa-casa/tests/render-catalogos.py",
+      "bytes": 2589,
+      "sha256": "c61fcb07d61aaa27a5ee9994a952fa1ee491cc46c7974a52e7c174e6d5540205"
+    },
+    {
+      "path": "programa-casa/tests/render-dxf-preview.py",
+      "bytes": 3826,
+      "sha256": "0c5c3d20d816a465e0cc7f511d1a72f8b3b2e149b4a0fa4ccfa82105a666238a"
+    },
+    {
+      "path": "programa-casa/tests/render-interiores.py",
+      "bytes": 4255,
+      "sha256": "39b57c3231cb4b07577ffc2f12ed0bd2a7aa01e1ff587a5cb3533828a18d689f"
+    },
+    {
+      "path": "programa-casa/tests/reopen-smoke.lsp",
+      "bytes": 553,
+      "sha256": "91f1e948570c79f03849b0dcda988787a467a3c6983eb4aad13aae7fc6b8fb39"
+    },
+    {
+      "path": "programa-casa/tests/revit-validation.txt",
+      "bytes": 1024,
+      "sha256": "5e54d10891890e7bed636570336178c061a8e62b4b5e75c6f2bf0ec6c6d05f82"
+    },
+    {
+      "path": "programa-casa/tests/run-cad-smoke.ps1",
+      "bytes": 2036,
+      "sha256": "692c795a0821a2c8292e1bc7871d9b43c8859de8e4a691225e8a317a1c6b16c5"
+    },
+    {
+      "path": "programa-casa/tests/run-core-tests.ps1",
+      "bytes": 2387,
+      "sha256": "e9a3690ddea2de4608735da17a1dd6ceaffff0b69c917d16113cf205a7f1e29d"
+    },
+    {
+      "path": "programa-casa/tests/run-custom.ps1",
+      "bytes": 2114,
+      "sha256": "f451fc998d44cf69190e9ab70f74d1f1ac992855c55fedeb12e16c162739e1af"
+    },
+    {
+      "path": "programa-casa/tests/run-furniture-rotation-tests.ps1",
+      "bytes": 2590,
+      "sha256": "71e5d61cc4c6f21d52e2930cd473af8b55e888e2a6970caa1ba468edc2b92afe"
+    },
+    {
+      "path": "programa-casa/tests/run-furniture-six-baseline.ps1",
+      "bytes": 2663,
+      "sha256": "e7049b636be4b74bcdfc70235d615ebd0b11aebce41c061a0c116e68664f6c41"
+    },
+    {
+      "path": "programa-casa/tests/run-furniture-six-tests.ps1",
+      "bytes": 2663,
+      "sha256": "e7049b636be4b74bcdfc70235d615ebd0b11aebce41c061a0c116e68664f6c41"
+    },
+    {
+      "path": "programa-casa/tests/run-furniture-tests.ps1",
+      "bytes": 2527,
+      "sha256": "99231a092765353db7f92bcf03e4114f4ea3e3a148e7b2e4dcf608fe7c60f9d3"
+    },
+    {
+      "path": "programa-casa/tests/run-reopen-smoke.ps1",
+      "bytes": 1442,
+      "sha256": "18de1e41544028b12989f8da1f71c74f5421268f32059243f9702129aced3078"
+    },
+    {
+      "path": "programa-casa/tests/run-v03.ps1",
+      "bytes": 2280,
+      "sha256": "8f2145d695a7260766ef4577957412407ff13f5940d877fee0a628f1bcfdaea5"
+    },
+    {
+      "path": "programa-casa/tests/run-v04-arrival.ps1",
+      "bytes": 1528,
+      "sha256": "9ddc7cf00297901455e42c0f3d521b8dd9b74ed4a39d1de89e31169a07056c11"
+    },
+    {
+      "path": "programa-casa/tests/run-v04-geometry.ps1",
+      "bytes": 1520,
+      "sha256": "0bd298a06d5293ea73d481c002ac648fdb4fd5c81e82e977777c4fe9c78b43d1"
+    },
+    {
+      "path": "programa-casa/tests/run-v04.ps1",
+      "bytes": 2342,
+      "sha256": "f032fc04acffc92fa93f9083322cdef9ea8dc9b1063791ddf28ff37bf012b5ae"
+    },
+    {
+      "path": "programa-casa/tests/v03-tests.lsp",
+      "bytes": 5737,
+      "sha256": "470a5436bafabc7478aa2c6421b1be3bf7f3a7c42e112932dced00b67a8ff10c"
+    },
+    {
+      "path": "programa-casa/tests/v04-geometry-tests.lsp",
+      "bytes": 5307,
+      "sha256": "61c52573880aef23e381100518a0374eb8bd8c316e2508ac0f43e28fb1c19127"
+    },
+    {
+      "path": "programa-casa/tests/v04-tests.lsp",
+      "bytes": 6022,
+      "sha256": "960a6a04c11bff0eb97358435d04d10e794466cf9ebc902a962ce80fc310284f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-111500-015/casa-exemplo.dwg",
+      "bytes": 32438,
+      "sha256": "d57b9759d5f3e9ce0a1a571b713340c4101eaf3ab5f91aa530d67c8957b10098"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-111500-015/report.txt",
+      "bytes": 148,
+      "sha256": "9b549e513f42697e63e5ebcf4c370d944551e7190b3331b31aa83e47b30c38f8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-111541-490/casa-exemplo.dwg",
+      "bytes": 47871,
+      "sha256": "65e02df211156f5fc06c31f26948d859da775fa9703674fa6472e4976670b7ff"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-111541-490/casa-exemplo.json",
+      "bytes": 7665,
+      "sha256": "642742f9e080c78ef033a7ebe02a578f1829223ebd479f08cde6bbbbdde0f89c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-111541-490/report.txt",
+      "bytes": 190,
+      "sha256": "daa3964eeaf64b15e1bdfcd9efff2b71b464e299fe0398c153c6f04d796bc981"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-112144-943/casa-exemplo.dwg",
+      "bytes": 47840,
+      "sha256": "118738b1a2bc12c11574af514342c8a4332176f38c212098535d5dfa5c2b0482"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-112144-943/casa-exemplo.json",
+      "bytes": 7665,
+      "sha256": "642742f9e080c78ef033a7ebe02a578f1829223ebd479f08cde6bbbbdde0f89c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-112144-943/report.txt",
+      "bytes": 190,
+      "sha256": "daa3964eeaf64b15e1bdfcd9efff2b71b464e299fe0398c153c6f04d796bc981"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-123130-487/casa-exemplo.dwg",
+      "bytes": 47837,
+      "sha256": "58497ccd3e7578141cd92abf91f376f08dabbf08b898eccac0ad8760b8c8ec30"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-123130-487/casa-exemplo.json",
+      "bytes": 8064,
+      "sha256": "03bb1753206a5603a218cca5f749b18ad32257b678316452f7246dcb69aa82f4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/cad-20260907-123130-487/report.txt",
+      "bytes": 209,
+      "sha256": "50edf2c34d1f8e952b004660d67b02a4f7d708903be88e39ea7c9b642346b49c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911/report.txt",
+      "bytes": 71,
+      "sha256": "7237d5b69d577ab28f81d31aba8b972a5e68def9957c0c1219ded5ccdebf1c47"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911/test.dwg",
+      "bytes": 113365,
+      "sha256": "0bce1d040ee9bf19c063cb358099ad82f85c9e0a8d7093a33b4a07c34231f40d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001802/report.txt",
+      "bytes": 160,
+      "sha256": "40cb569a1227ab5660a81b65650c5d095760c2ed7d8b55adac8f162268ec9a45"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001802/snapshot-debug.json",
+      "bytes": 52284,
+      "sha256": "c282eee8612b64aa699ba276a3907f4e7578ee90ac405e3d28043c69bef9f56d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001802/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001903/report.txt",
+      "bytes": 114,
+      "sha256": "d4b388f59c58cdb377d029316bffb081a7233e79712b05f3f71daa3463429104"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001903/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001944/report.txt",
+      "bytes": 281,
+      "sha256": "23a8a7aabc19046c383e825f0f44cfa6e76c6ecef86032970498a6c9533aaacf"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001944/snapshot-debug.json",
+      "bytes": 26199,
+      "sha256": "a145dfec032c07c3b4fdb9de2d0db58509b4bc28fe90917d90e7ea2761d48f79"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-001944/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002128/report.txt",
+      "bytes": 281,
+      "sha256": "23a8a7aabc19046c383e825f0f44cfa6e76c6ecef86032970498a6c9533aaacf"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002128/snapshot-debug.json",
+      "bytes": 26199,
+      "sha256": "a145dfec032c07c3b4fdb9de2d0db58509b4bc28fe90917d90e7ea2761d48f79"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002128/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002245/report.txt",
+      "bytes": 337,
+      "sha256": "8ba644660e36ff1f62b1d7439e837c21c20bc63ffa74c1eddcb7a2b48679dc78"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002245/snapshot-debug.json",
+      "bytes": 26199,
+      "sha256": "a145dfec032c07c3b4fdb9de2d0db58509b4bc28fe90917d90e7ea2761d48f79"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002245/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002354/report.txt",
+      "bytes": 95,
+      "sha256": "9708da4b21b3fd0045593531bfe035d923e7e775475adfcb30cfcf81c2e025ca"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002354/test.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002548/report.txt",
+      "bytes": 374,
+      "sha256": "89e8fc57f5b4c03e65ad51f3186cb4d5d24a19c82e37f557bcac0c7174404f21"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002548/resized.json",
+      "bytes": 26199,
+      "sha256": "a145dfec032c07c3b4fdb9de2d0db58509b4bc28fe90917d90e7ea2761d48f79"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002548/snapshot-debug.json",
+      "bytes": 26199,
+      "sha256": "a145dfec032c07c3b4fdb9de2d0db58509b4bc28fe90917d90e7ea2761d48f79"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002548/test.dwg",
+      "bytes": 77363,
+      "sha256": "897f75db1b9ce86245f3e6b34a5027223db5780b036f05732c2e38fc43b6982c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002720/report.txt",
+      "bytes": 300,
+      "sha256": "7d52fc21527d17817137b3ae40c47cc8a154ce51d0361b82950097a5d78483a0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002720/test.dwg",
+      "bytes": 77363,
+      "sha256": "897f75db1b9ce86245f3e6b34a5027223db5780b036f05732c2e38fc43b6982c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002850/report.txt",
+      "bytes": 351,
+      "sha256": "ea9402bdc3187c6abdbe65ec9fb8e3ffa1786a159f65283b994386f9c15709c7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-002850/test.dwg",
+      "bytes": 77363,
+      "sha256": "897f75db1b9ce86245f3e6b34a5027223db5780b036f05732c2e38fc43b6982c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-003030/report.txt",
+      "bytes": 351,
+      "sha256": "ea9402bdc3187c6abdbe65ec9fb8e3ffa1786a159f65283b994386f9c15709c7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/custom-20260911-003030/test.dwg",
+      "bytes": 77363,
+      "sha256": "897f75db1b9ce86245f3e6b34a5027223db5780b036f05732c2e38fc43b6982c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141412-673/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141412-673/console.stdout.txt",
+      "bytes": 3684,
+      "sha256": "00565746363f6bde54d1ce85428e5b5d511cc8ac2d3f1d67594f60636ebc1897"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141412-673/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "821397b499f97cc8852c02dbf5a2fc8a3d42c647239d2ebb6c487b6f38926a70"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141412-673/results.txt",
+      "bytes": 216,
+      "sha256": "05fe2dc81fb73558cccc07e77d650fb6d96296e9207b7e5f597a35f1494b4092"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141507-959/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141507-959/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "5a5e7e01dcf23f43f039e4096e01b3038e1c3a992b4b0aa915e38d6df51d9e5b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141507-959/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "ff412727f9dc7464403f14a54ccd0f35ffc9e3a00f67146224fa71e3cea79465"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141507-959/results.txt",
+      "bytes": 449,
+      "sha256": "dedff1b51c3314257315f325a4d6a136cb2e806f88f32c42e116632d093a0c58"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141631-480/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141631-480/console.stdout.txt",
+      "bytes": 3902,
+      "sha256": "faf4e8e6e08a16f5e8e869f1df133202fb4f4bbd5b8f4dd642af0d893c3eef6f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141631-480/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "225cf8f751873f94006ce0fde9a403ff8af2c0a58d79c4d2dd6154ad89defefe"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141631-480/results.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141657-790/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141657-790/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "d6fe823de71182213d844d1ed11f6206ad931603be16044914bb6b1dcc37a451"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141657-790/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "cb46c3a241342797acde821bf62e87da15d2822054dd9cdcbae8bc9791c283a3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141657-790/results.txt",
+      "bytes": 449,
+      "sha256": "af87b89b9871fab824e14d51a96896fec0258a74e2a9c5fcceccb48bbd615951"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141755-473/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141755-473/console.stdout.txt",
+      "bytes": 3902,
+      "sha256": "fb456029f147953a42d220f6ef4d67d45500086055be2d4b82f53ddac56b6fc6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141755-473/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "589103cb1b1afe1165a05cac4f62bad5c84d275c5af36c439f2009af0f3d886a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141755-473/results.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141812-267/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141812-267/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "149762e6243d9ca7939cd9d8522d6954b9a3bc19f172f988d83900240392f7dd"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141812-267/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "8651527ba3efbea5b316805de83a7354b970a16b8569c33dcbc76c4b7211b359"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-141812-267/results.txt",
+      "bytes": 449,
+      "sha256": "af87b89b9871fab824e14d51a96896fec0258a74e2a9c5fcceccb48bbd615951"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142010-528/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142010-528/console.stdout.txt",
+      "bytes": 3656,
+      "sha256": "2e1a55647a040f5fa53bc3449b9026d1a15020a57300a355c637bbe59ed73fa8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142010-528/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "7c23d08af7330968a6f9b13b80dd1e550405ef0a6fd520164a55767ebb145410"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142010-528/results.txt",
+      "bytes": 449,
+      "sha256": "af87b89b9871fab824e14d51a96896fec0258a74e2a9c5fcceccb48bbd615951"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142128-661/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142128-661/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "5ad8054574db6dab735043cc882c67b92f0811461e71ba0a6f5308370b8c22f6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142128-661/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "227e2b7918717152caf7a178677fdda5d0f96dfd2f8a2acb7f1c70c230efd36a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142128-661/results.txt",
+      "bytes": 449,
+      "sha256": "af87b89b9871fab824e14d51a96896fec0258a74e2a9c5fcceccb48bbd615951"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142216-299/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142216-299/console.stdout.txt",
+      "bytes": 3652,
+      "sha256": "722eea18aa5b9615872aef97f7ba7ff1bf52e520983c3a5ccac06c9b4e7bedd3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142216-299/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "fb65247ba5272ac1a18fdf50870ccd3836ac1b1af76c83bfa4b6520fb34c2529"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142216-299/results.txt",
+      "bytes": 449,
+      "sha256": "af87b89b9871fab824e14d51a96896fec0258a74e2a9c5fcceccb48bbd615951"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142251-088/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142251-088/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "4174bd8dea6896de3f212a0158a5c6c59cf31529a6828202ea74461490a78134"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142251-088/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "73aae030f1b23e6a42abf82193bd054559322419f9154c6f4e9e7b5c14e49131"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142251-088/results.txt",
+      "bytes": 499,
+      "sha256": "e786d38eafb7314ac96e438ce59e38067f7e770c764804a484caa8a407fe603b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142308-615/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142308-615/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "dc62bafcca2ca62e16643f715854e7b27f4066ef796d97d2f1b80f4d89214d67"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142308-615/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "f43bd8d1ae27f7a82044e87f15b226fb2e518a5a4b3ed91f8d6118f6f9ec7414"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142308-615/results.txt",
+      "bytes": 499,
+      "sha256": "e786d38eafb7314ac96e438ce59e38067f7e770c764804a484caa8a407fe603b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142552-808/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142552-808/console.stdout.txt",
+      "bytes": 4076,
+      "sha256": "c5bbfbb22636faff931b998af241b05987b2115fac7dc7ff3e713cc0a804e8c4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142552-808/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "6bf8d1197d52168eee4fca98d691c34e65425b2f04ab1df38db909cd5d4fcfd7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142552-808/results.txt",
+      "bytes": 2074,
+      "sha256": "ef4848b563276ef24da7f87775bfd10b1c81d963e60ca60ba8b400e6817f82d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142622-341/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142622-341/console.stdout.txt",
+      "bytes": 4076,
+      "sha256": "32eaecb989ae69b619d52f5e6e281697f2a423f0deb1783ecd684c99fac6c590"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142622-341/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "51d3429b1ad0bba8872893a574bf4b5a7bcd9e6d1c7c3956b52f675420bf4f7e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142622-341/results.txt",
+      "bytes": 1330,
+      "sha256": "5b186d15dc207948540594dba31f299e15278a83217aeb3e90b11a818083a6fb"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142705-950/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142705-950/console.stdout.txt",
+      "bytes": 4066,
+      "sha256": "7d49b3791c5d8148fa9d4cb8ea8f94a5a960b609c04ab29b3fafa44e073ef01e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142705-950/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "25cec1d65d274308bf996ba961ce67521d5e0af577e242621a91835f42a020ee"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142705-950/results.txt",
+      "bytes": 1568,
+      "sha256": "06d2969e6cd5048478361fcde0ca5a280571ccd1565183aafe215406a322eaf5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142736-731/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142736-731/console.stdout.txt",
+      "bytes": 3654,
+      "sha256": "8d5109a6ad4eb0326a064f4b18384a4d636f549def78179138b5a7aa52a9a2c4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142736-731/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "3f29cf0251eeab3b34844cd3f4b5ce920b9646e6e810c5c86f4aa6e44d8c9017"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142736-731/results.txt",
+      "bytes": 499,
+      "sha256": "e786d38eafb7314ac96e438ce59e38067f7e770c764804a484caa8a407fe603b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142821-553/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142821-553/console.stdout.txt",
+      "bytes": 4064,
+      "sha256": "447917768f0efb2f57d4e4e28fb910804b2e3b0b848e564ade5746e8349452e4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142821-553/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "5474c85670db15a78425f1066dff80ecfc298c09111efbd495c7e2820da754e7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-142821-553/results.txt",
+      "bytes": 1358,
+      "sha256": "179db6c8f7a20aeb797a3eaabab28735e356f86428ea0a12295394a6f3822086"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145057-461/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145057-461/console.stdout.txt",
+      "bytes": 3900,
+      "sha256": "8ff302992d129f186a2fa1bcd495b46db6715de7197e253e537868478063f3e6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145057-461/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "4a9f2d1c5fcf3dd2f8dfa128d5088bce317e69623cc7dd54228eb55b12d9ecb5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145057-461/results.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145141-787/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145141-787/console.stdout.txt",
+      "bytes": 3652,
+      "sha256": "54fb0d2092e134ddc63fac2c3a9e0eddff49c0216efed210787b48bc17c8f51b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145141-787/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "1ff879c63c239ad3ed73880e1304c65687dd410abf26003ef3e0e75fc940fed3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-20260907-145141-787/results.txt",
+      "bytes": 499,
+      "sha256": "e786d38eafb7314ac96e438ce59e38067f7e770c764804a484caa8a407fe603b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-rotation-20260907-145219-152/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-rotation-20260907-145219-152/console.stdout.txt",
+      "bytes": 3722,
+      "sha256": "f05269c9d4f7454b738dc887357f502f1a3ae57d35d39675eaba4cc6da9a8064"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-rotation-20260907-145219-152/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "ab7f548c7aeafbdbdc75809620a45908670a1891456937591549ae54945dfb06"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/furniture-rotation-20260907-145219-152/results.txt",
+      "bytes": 16071,
+      "sha256": "d61e70e038d74c56e1df8528997a35b1e0be91d748396af2d9e843c9d40241b3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145552-318/results.txt",
+      "bytes": 995,
+      "sha256": "96e20d396b303fda68eb6c6f4081dc8c2b017d25530c71304ee2fd687ac4a46c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145552-318/test.dwg",
+      "bytes": 32438,
+      "sha256": "b4ca03e9f18ff759ef239f17855038f20d2935f4f42849dd35d83e6a574e51cd"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145634-640/results.txt",
+      "bytes": 119,
+      "sha256": "06c0ef15392bcdbbdf402ed537a0db4875ff084fcbb65f71f546f2ab690be312"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145634-640/test.dwg",
+      "bytes": 32438,
+      "sha256": "339cd16e29c5671d52c0672fc4ff44840d486594d993d88d1599448ce2fa2c86"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145710-703/results.txt",
+      "bytes": 6934,
+      "sha256": "6f681b3a4ca74b86edfebf80a97f2e80416d50fd440fcece71da391ceb24bc1c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145710-703/test.dwg",
+      "bytes": 32438,
+      "sha256": "767c8ac281af258864bf38a8e88daa93d8c69bf919231356ea8b8a95c77b85f9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145741-190/results.txt",
+      "bytes": 23,
+      "sha256": "1a8d6f09334d68e1246a4fe0ae0f9de294671cb74509b400c78a02107cca4f94"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145741-190/test.dwg",
+      "bytes": 32438,
+      "sha256": "6116b41051f23fcfc808f64eae07a50252126659d642db42cb0e674c9abdb5ae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145853-815/results.txt",
+      "bytes": 23,
+      "sha256": "1a8d6f09334d68e1246a4fe0ae0f9de294671cb74509b400c78a02107cca4f94"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145853-815/test.dwg",
+      "bytes": 32470,
+      "sha256": "94f421f16f49ae4b63c4cc74a5809b723661518f287b57b7bd895ec306902774"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145942-961/results.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-145942-961/test.dwg",
+      "bytes": 32438,
+      "sha256": "950d238697792a1256f51bd60d0771fa2c5d41882d4f89b33a0799e48fb0a4d6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-150007-586/results.txt",
+      "bytes": 335,
+      "sha256": "469bbc1e8d051a44bb723ced50363a5ddd88c9af4283f9112910c8a463076562"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-150007-586/test.dwg",
+      "bytes": 32438,
+      "sha256": "2bd2c9df3cb225429689d4795798cd42cdd7f62d33c07dbb9584f3303b086dd3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-150146-824/results.txt",
+      "bytes": 314,
+      "sha256": "570910cfb71b575a66a58b45c65d35cf09818a31c609e1759d9a8bde4938a76c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/geometry04-20260907-150146-824/test.dwg",
+      "bytes": 32470,
+      "sha256": "15c650041f3189cc8e4bdb79c4288cc8cbc91680be391dc9414f3cd7e0086116"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/layout-dev/layout.dwg",
+      "bytes": 40525,
+      "sha256": "0d3b6c9d9cc8a1cdf1d892dc64f6b27e5120e4fd1aeef6bbe66c4cde32c246ba"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/layout-dev/results.txt",
+      "bytes": 342,
+      "sha256": "e2cddb639038650426e06fb737ed0682245260dc95889179d22ecaa0af885ea1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/layout-dev/small-results.txt",
+      "bytes": 25065,
+      "sha256": "af1457386c3c91cee16fdc108084849a05d9ef9b6c8cef088ff44ce795c45aee"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/layout-dev/small-stdout.txt",
+      "bytes": 6084,
+      "sha256": "fbe901e4c9d66b2101bf36f1b09dc46c3f1eb89667be12b036891779b65d31ea"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-111919-471/casa-reopened.dwg",
+      "bytes": 47745,
+      "sha256": "a68907bdbb90f410fb1573ea6b682df7d02aebe88128de3f23467e986b556ae9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-111919-471/casa-reopened.dxf",
+      "bytes": 203746,
+      "sha256": "9eeb93f30babcab4c12d330d74883cb0648b39f6800b635d487894d0d3f73364"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-111919-471/report.txt",
+      "bytes": 66,
+      "sha256": "ea40db965cdcb8d63487f41b9b8704eef5eee1b0af00a95902e3f42ba8412793"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-112205-208/casa-reopened.dwg",
+      "bytes": 47776,
+      "sha256": "05cf9eacd7b1bf8e5c9e644396e1d4d38e1cb36fe52895cfc28981e868fd29f3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-112205-208/casa-reopened.dxf",
+      "bytes": 203748,
+      "sha256": "5d834b5c06dac54f7eaf55d250be34b4da5ff2afc5f8c1934998984b5a213980"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/reopen-20260907-112205-208/report.txt",
+      "bytes": 66,
+      "sha256": "ea40db965cdcb8d63487f41b9b8704eef5eee1b0af00a95902e3f42ba8412793"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110748-082/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110748-082/console.stdout.txt",
+      "bytes": 1412,
+      "sha256": "4f5c0809e52ebb187c326da09a13e9079a17f1e99f0c01adaa553bf0b7c489f9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110748-082/isolated.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110825-151/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110825-151/console.stdout.txt",
+      "bytes": 1550,
+      "sha256": "20d59ebef0e452c20c8d27524911f7eac66db59bd0f097f10ed360744a99f52c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-110825-151/isolated.dwg",
+      "bytes": 31828,
+      "sha256": "6297b7fd5a7dc1e493f87d9434841552670bc42dd6f53bda8caa353da8f2a1e8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111059-918/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111059-918/console.stdout.txt",
+      "bytes": 3426,
+      "sha256": "28d80e2b6676e69990f71a5137aa3f62fa77b5eaa698c1e0c302e9606389459d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111059-918/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "ae4692b8968cc6d54d28f4a9079c3a900f7644a4e98203515be70a36824bb79e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111059-918/results.txt",
+      "bytes": 107582,
+      "sha256": "637a4319ea7daa0557433faa86b51d9f90881686059013085db01746bc12ec37"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111203-664/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111203-664/console.stdout.txt",
+      "bytes": 3396,
+      "sha256": "d4893b829e5928a2bf014a8ba1e855e0e14983d1112990b48e8a2a4c556f5f69"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111203-664/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "f0fe13a6e385eb9c5b56fe988d3b517eff641c6516d7ba2c557c58d704193416"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-111203-664/results.txt",
+      "bytes": 133993,
+      "sha256": "5b644e959b02317ef05186f0b99b7fd44349e549b0dc9860a1dc7e3af88b1db1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123000-639/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123000-639/console.stdout.txt",
+      "bytes": 3424,
+      "sha256": "9288dca5335100d5a357dacc0bf1b600383d30086c9cd004c423a828c799a55f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123000-639/isolated.dwg",
+      "bytes": 32438,
+      "sha256": "d4cf007f0db76983b53f197f210c1f85d5b5869cf05bb45e39ee25a5ebe607a7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123000-639/results.txt",
+      "bytes": 133993,
+      "sha256": "5b644e959b02317ef05186f0b99b7fd44349e549b0dc9860a1dc7e3af88b1db1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123124-142/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123124-142/console.stdout.txt",
+      "bytes": 3394,
+      "sha256": "9d39776600f70e87b89cba9f201e6a28e46390f52feff82afe0412070437a105"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123124-142/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "8576a93a68a28f874f807895298bc22a65174704b33590b3e0f776e59cc80439"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123124-142/results.txt",
+      "bytes": 166980,
+      "sha256": "4c86200c3cf9aea548f776de139690cc480c85db986ac420ee6a4a6b1840e841"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123204-186/console.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123204-186/console.stdout.txt",
+      "bytes": 3394,
+      "sha256": "6738fcea6a15c109acf97d3b0e39854515e03c3d236a32564629582c351bd5a4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123204-186/isolated.dwg",
+      "bytes": 32470,
+      "sha256": "eac55ea9e935cdbbd5aa8d35571f1101b0cd600ef4b2dd95428e3bac02f5df4d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/run-20260907-123204-186/results.txt",
+      "bytes": 167038,
+      "sha256": "89ef18297c677125cc3cec232066c42608e7de0140eb01f4c421a21c17b8a626"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/1-1-1.json",
+      "bytes": 16849,
+      "sha256": "8df2262e29f0d11a64c8a98d1c1d533efa1dce3891ad8c615a3a0d5c373a928a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/1-1-42.json",
+      "bytes": 16850,
+      "sha256": "c05a9568b86781878c72e901659359facafd88e176532751c09e0e74317fa7d6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/1-1-91.json",
+      "bytes": 16848,
+      "sha256": "de119111925c7598bde9c93adac10575bb93cbb4a635b56799c79b20a8da75d9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/2-1-1.json",
+      "bytes": 16886,
+      "sha256": "fbd4bc53cc9cd0e286155e7d074915ccebf2ab17073a6b1d37cbf9d2b4f6a631"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/2-1-42.json",
+      "bytes": 16885,
+      "sha256": "5c4a69bc7e1eee932675f5874bff3215cac51a59fc18adfd28d736b8287ef12e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/2-1-91.json",
+      "bytes": 16883,
+      "sha256": "e2bb93512485f3aa2b59ea764836adde3ee98849977c223ee3e6cec278413cab"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-1-1.json",
+      "bytes": 17756,
+      "sha256": "25b481b85438a8c6696ff537b470eefce605a9ee91fb14ae8f9f09f0e33cb68c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-1-42.json",
+      "bytes": 17760,
+      "sha256": "d72caff149287e3554b10ad93a02d209735369c93ed201635ae81178feb42766"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-1-91.json",
+      "bytes": 17755,
+      "sha256": "9e53cc50b08f487aa72a709b1ccf55b24fb786a1711858139a90e1e8b0db3224"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-2-1.json",
+      "bytes": 18647,
+      "sha256": "58c2a421c350a80a903b298e1a710d37c5ff3e0465de7918c669ffabc479a998"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-2-42.json",
+      "bytes": 18651,
+      "sha256": "bbccab8b8142143800e63b83cd1bfd417c4b2d7c9f7edb79dee0304dea4a3006"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/3-2-91.json",
+      "bytes": 18646,
+      "sha256": "c611f66d57e8f06ff932d6969b970a27bb0cbc647ddc9fa71fd6d4d5a146485f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/comparacao.dwg",
+      "bytes": 57830,
+      "sha256": "7621239228fc28fca1267e7a70493d4161c240c94d0bebe0a0401bf26925531e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/comparacao.dxf",
+      "bytes": 248844,
+      "sha256": "95d51076e8987d961d2d06b900c5b746a283e414efb0248ef98c3f9b34c85d84"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/report.txt",
+      "bytes": 1434,
+      "sha256": "0c79ba03edd5bfcd504841594b46e7b4f619cc5a42b2dead799c74ade6a431ec"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-141912-280/revit-validation.txt",
+      "bytes": 1037,
+      "sha256": "fe9578ddf98dcc0f88f95ebccb314826d6843743d4bb0b0f598ed6649c73bf02"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-1-1.json",
+      "bytes": 17850,
+      "sha256": "e37e4131ff4ea64352010aff440f2ad6d7795de0bae1c29ea25fa5d600c1d678"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-1-42.json",
+      "bytes": 17858,
+      "sha256": "fc509ca03e3237075880217f7b05d8d969517159f0bef772a0656845b60ff5d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-1-91.json",
+      "bytes": 17849,
+      "sha256": "cc57a1116a513fec8d30a18e18fe8c132088bfd2f58f68dc635f018dfcd6c043"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-2-1.json",
+      "bytes": 18731,
+      "sha256": "04f230753407e3949bdb5076ea8d3e4aef3816f270c96ae4e8b00507af99da42"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-2-42.json",
+      "bytes": 18744,
+      "sha256": "f3f45f2ba0f8f649d437a5c4ce4a862832edcd2dfb4ed20b4f253237afe4085b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-2-91.json",
+      "bytes": 18735,
+      "sha256": "fda88aca6393726bf7e692dabe204b288084a64537731190eb233010c966e203"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-3-1.json",
+      "bytes": 19601,
+      "sha256": "cd702fade717aab8f66e3e11dba100bddc467bf4283bd75a30c929c11c219e83"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-3-42.json",
+      "bytes": 19614,
+      "sha256": "5d9ca0e5bfb2384f62ecb09aec786cc6707ddd771e513d2eef04805c9c1a81b0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/1-3-91.json",
+      "bytes": 19605,
+      "sha256": "0ae9e8c9f6ab128eab04833b14faf856e1fb724afac8183008882d8ad853a7d1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-1-1.json",
+      "bytes": 17693,
+      "sha256": "654f1be1a416d77b43bd7150338c4e3906a990b6ac0096811b6d819253afe966"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-1-42.json",
+      "bytes": 17694,
+      "sha256": "51dbf250cf60a7b66ad98c01572e6b16d702fcc76867160ab05a1e0a06ddfa7d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-1-91.json",
+      "bytes": 17671,
+      "sha256": "a3ba92e33af8a1ab91e05e90cf0124547d53f3d7cb40ece2735e551eafe9c713"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-2-1.json",
+      "bytes": 18600,
+      "sha256": "be1dbcc84d8dc265eaebaa79ac8dfd6a7d8d955377ec372be1450cab1904b462"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-2-42.json",
+      "bytes": 18606,
+      "sha256": "992f4d9acbec04365c1e5b6309ce96b5ff88e38807f78b853442cd22f356bab2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-2-91.json",
+      "bytes": 18583,
+      "sha256": "e4ac3f6348b8266e28bae7e81e9e4246ef1dbb9f9d8e7233540b5ce0b90e9eba"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-3-1.json",
+      "bytes": 19475,
+      "sha256": "5b36572e1c9d9f1427d6b4055ac6d5b32d89c87dea8247c90572d213e8551186"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-3-42.json",
+      "bytes": 19480,
+      "sha256": "ae74631faf62b0e4fc0796b7d8f7ba3e5f6dba37a4c2231ceb8e914744be3a1a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/2-3-91.json",
+      "bytes": 19458,
+      "sha256": "a59d880a2785eca9a076fa6cabd71538780c50b9c48b6c37defa5715959b5d92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-1-1.json",
+      "bytes": 18618,
+      "sha256": "2b9685f78eae9f63e27a02b71c61cd5eda56586e3004645a675ac0782ef0a29d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-1-42.json",
+      "bytes": 18613,
+      "sha256": "7dfa9c0e08f098421c4eab9d93ce92b245dfcfea9d4c31d763259b1531acd90d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-1-91.json",
+      "bytes": 18611,
+      "sha256": "09cc08cd714b23c6eb3bc9345b25a005b580b5d5a1b463998ceebac224de888b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-2-1.json",
+      "bytes": 19514,
+      "sha256": "f5b303755616e5e8ae29cea5930da00b5a0a0075dd8f4e405eec4205131e0598"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-2-42.json",
+      "bytes": 19509,
+      "sha256": "14cf92c8401d4343e1414b521d4ed089da5c7d92760a505cbde4f369915befae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-2-91.json",
+      "bytes": 19506,
+      "sha256": "df9ea981743a461b51bd92c90c0a99c821f700bc7d5648e8a88a20c828b19642"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-3-1.json",
+      "bytes": 20406,
+      "sha256": "4963c531cdef852f6079a1aaedb4ffb9e9082eebae08de5b9fdb5d6b3fd9e4a0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-3-42.json",
+      "bytes": 20401,
+      "sha256": "7053333b901c5b8ee999c516569598168a0dd54905c8062dde446eaf4b79296f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/3-3-91.json",
+      "bytes": 20397,
+      "sha256": "04ae85c4e1fcd24a61a78b564aacbae60cc4be9c45077c07d87b8aabcc02f3a4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/comparacao.dwg",
+      "bytes": 108559,
+      "sha256": "9c0e5e2b06063d5700f6b826420875a3763ad648ca2ee91d6d3d6112564be3ac"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/comparacao.dxf",
+      "bytes": 519213,
+      "sha256": "bbcced643c0056a5f1a186368ffe04e20dcd5c72b0a252c279bfc1e29cbe99ca"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142515-331/report.txt",
+      "bytes": 43,
+      "sha256": "285cadd8fc0f59aecf3b5d50613fb5f6fb7f1130eef42ae3cfbe068ccd0bfbf9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-1-1.json",
+      "bytes": 17850,
+      "sha256": "e37e4131ff4ea64352010aff440f2ad6d7795de0bae1c29ea25fa5d600c1d678"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-1-42.json",
+      "bytes": 17858,
+      "sha256": "fc509ca03e3237075880217f7b05d8d969517159f0bef772a0656845b60ff5d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-1-91.json",
+      "bytes": 17849,
+      "sha256": "cc57a1116a513fec8d30a18e18fe8c132088bfd2f58f68dc635f018dfcd6c043"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-2-1.json",
+      "bytes": 18731,
+      "sha256": "04f230753407e3949bdb5076ea8d3e4aef3816f270c96ae4e8b00507af99da42"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-2-42.json",
+      "bytes": 18744,
+      "sha256": "f3f45f2ba0f8f649d437a5c4ce4a862832edcd2dfb4ed20b4f253237afe4085b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-2-91.json",
+      "bytes": 18735,
+      "sha256": "fda88aca6393726bf7e692dabe204b288084a64537731190eb233010c966e203"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-3-1.json",
+      "bytes": 19601,
+      "sha256": "cd702fade717aab8f66e3e11dba100bddc467bf4283bd75a30c929c11c219e83"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-3-42.json",
+      "bytes": 19614,
+      "sha256": "5d9ca0e5bfb2384f62ecb09aec786cc6707ddd771e513d2eef04805c9c1a81b0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/1-3-91.json",
+      "bytes": 19605,
+      "sha256": "0ae9e8c9f6ab128eab04833b14faf856e1fb724afac8183008882d8ad853a7d1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-1-1.json",
+      "bytes": 17693,
+      "sha256": "654f1be1a416d77b43bd7150338c4e3906a990b6ac0096811b6d819253afe966"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-1-42.json",
+      "bytes": 17694,
+      "sha256": "51dbf250cf60a7b66ad98c01572e6b16d702fcc76867160ab05a1e0a06ddfa7d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-1-91.json",
+      "bytes": 17671,
+      "sha256": "a3ba92e33af8a1ab91e05e90cf0124547d53f3d7cb40ece2735e551eafe9c713"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-2-1.json",
+      "bytes": 18600,
+      "sha256": "be1dbcc84d8dc265eaebaa79ac8dfd6a7d8d955377ec372be1450cab1904b462"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-2-42.json",
+      "bytes": 18606,
+      "sha256": "992f4d9acbec04365c1e5b6309ce96b5ff88e38807f78b853442cd22f356bab2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-2-91.json",
+      "bytes": 18583,
+      "sha256": "e4ac3f6348b8266e28bae7e81e9e4246ef1dbb9f9d8e7233540b5ce0b90e9eba"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-3-1.json",
+      "bytes": 19475,
+      "sha256": "5b36572e1c9d9f1427d6b4055ac6d5b32d89c87dea8247c90572d213e8551186"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-3-42.json",
+      "bytes": 19480,
+      "sha256": "ae74631faf62b0e4fc0796b7d8f7ba3e5f6dba37a4c2231ceb8e914744be3a1a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/2-3-91.json",
+      "bytes": 19458,
+      "sha256": "a59d880a2785eca9a076fa6cabd71538780c50b9c48b6c37defa5715959b5d92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-1-1.json",
+      "bytes": 18626,
+      "sha256": "0249053a446e277d04ff0b35baa1a713e5781c5d2179990e74ac2025c93c6482"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-1-42.json",
+      "bytes": 18628,
+      "sha256": "dc17e031e530a7a7436629eb0e69b2f1adcbb50bc676b0bd3503e5b562ea759a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-1-91.json",
+      "bytes": 18624,
+      "sha256": "aaa017f9cfce999eb4606105c2bf459dbe734b6e821a037b361d1963769a9c1f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-2-1.json",
+      "bytes": 19522,
+      "sha256": "da5e00039251eecbc7adcaa747e854b5740524efd80bb56585ec96268ba335d3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-2-42.json",
+      "bytes": 19524,
+      "sha256": "de32fdb892cbe85ed072ff3aa48c6819f7517f54ca2b94e5b79b706be47529b9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-2-91.json",
+      "bytes": 19520,
+      "sha256": "98e61baf64e081ae45e48c8228850f0aa110d62b8dd3e48cf3bf13cb28ea1ab8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-3-1.json",
+      "bytes": 20414,
+      "sha256": "899122db15d2322d1710508cd45eb13f5e4839ecb5eceeae33cb6ff7443c1004"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-3-42.json",
+      "bytes": 20416,
+      "sha256": "6a9838cfbb0bcac0a1b9af9059677f25d7581027a21206548667378c5ce825a8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/3-3-91.json",
+      "bytes": 20412,
+      "sha256": "b549c5b6c004a0c1613889aa2dc44456da0f8cace8508641200b79e77ff0ca00"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/comparacao.dwg",
+      "bytes": 108851,
+      "sha256": "e7dfeccddd777ecf415715cdf3720b874f4b86e72ceff655cb2f13be8dd90f03"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/comparacao.dxf",
+      "bytes": 520156,
+      "sha256": "0906a35708fc250b808e18730f35953e31cbff73cae05d5a313002a9e3110aed"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/desenho-1.json",
+      "bytes": 17858,
+      "sha256": "fc509ca03e3237075880217f7b05d8d969517159f0bef772a0656845b60ff5d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/desenho-2.json",
+      "bytes": 18808,
+      "sha256": "b07bdf0b9a65924667d4f92f256a28eaf4887309e9ac3c36b62952e3af6432c4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/desenho-3.json",
+      "bytes": 20644,
+      "sha256": "d06bb50c336e12bd5a685417c65306de73f20859bcd2d676570b8ce01f00e610"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-142930-756/report.txt",
+      "bytes": 43,
+      "sha256": "285cadd8fc0f59aecf3b5d50613fb5f6fb7f1130eef42ae3cfbe068ccd0bfbf9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-143022-840/comparacao.dwg",
+      "bytes": 108844,
+      "sha256": "45fd55dbb6e3a1e7a13ed7739b8bfa2d52ba4ef0c387c0f81423c23660f3a1a0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v03-20260907-143022-840/report.txt",
+      "bytes": 39,
+      "sha256": "4cbe3838fccdcee1e8395bf59a53fc6523dab0a402ff114e470a429014b281ad"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-1-1.json",
+      "bytes": 22539,
+      "sha256": "d892e0f5d0615a4a4b7b81ebd787a476c89b96836939a2d0cb3ec43f964b47e7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-1-91.json",
+      "bytes": 22546,
+      "sha256": "75c73d745052b32c725d4e320ce75678ef8e3febeccd01dd7d20d9aa8c4b6a49"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-2-1.json",
+      "bytes": 23311,
+      "sha256": "ab4938c669a002d2481239fd311486b949864df2610105708311e02d73fc174b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-2-91.json",
+      "bytes": 23290,
+      "sha256": "e54fe75b1e4e261a330349b69d42bdeb524da40dbd5824086afbdd96b8b176ae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-3-1.json",
+      "bytes": 24310,
+      "sha256": "5e35470ba965bcc9db30ba98960d703237761d82afa2a6069b8ff95229b11c5c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/2-3-91.json",
+      "bytes": 24316,
+      "sha256": "c93344274b72f21d221d5100d3dae7547947b3240dc002eeed57cc8f51d6144e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-1-1.json",
+      "bytes": 23520,
+      "sha256": "e773b1cf51863834bad17cf3085b523b76314033d4e8ab7ae29f5b57bf098def"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-1-42.json",
+      "bytes": 23528,
+      "sha256": "d54f1eac023bcc7329c03e32f1a66a0f2988f9c6e0465ebdb7be0977dd5e7bc8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-1-91.json",
+      "bytes": 23518,
+      "sha256": "4e32e4c0028a6eae53bfede88ec47138afa840e844a935c397df04060a7114c3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-2-1.json",
+      "bytes": 24416,
+      "sha256": "c26fb5768b46f2ace2a5f2a5a819b93ce371891fda104bbf55c8dd7b287f5219"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-2-42.json",
+      "bytes": 24418,
+      "sha256": "20858aab59f6928802d167e8e37e69dc496d280b86fa716164ac348cf02089ca"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-2-91.json",
+      "bytes": 24414,
+      "sha256": "bd0de5056012b7ebcf2b0afccb0516da3704177623d4681866c75c2181bf51f1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-3-1.json",
+      "bytes": 25310,
+      "sha256": "a2ea8a059ef83f9091ecb4999f3ea020e74f7bca95ea90523ca2069cda8feaf0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-3-42.json",
+      "bytes": 25305,
+      "sha256": "b8781d936bbea25b5d8d03a508f7e0c2f5f73fbdb0440ba9d0bb96e99891333b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/3-3-91.json",
+      "bytes": 25306,
+      "sha256": "f335a07e0bfd52108f3b056fd3ea648707206188ad2c9bb88a6a149b3287f49b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/comparacao.dwg",
+      "bytes": 65778,
+      "sha256": "551b8808d5cb912e73cbd5a09b7bd02bd54f5a244fbc95e0c884ae461d1d6d85"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/comparacao.dxf",
+      "bytes": 284632,
+      "sha256": "be62879ea15bb64151154e8c2ab6c2bec17c1c6e71446cb0ead393c6062f3711"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/desenho-1.json",
+      "bytes": 25305,
+      "sha256": "b8781d936bbea25b5d8d03a508f7e0c2f5f73fbdb0440ba9d0bb96e99891333b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145433-471/report.txt",
+      "bytes": 1205,
+      "sha256": "918e1ef2e7cf7fb4e64841975196fd5890def3567d1bec17da3d511aa44a4906"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-1-1.json",
+      "bytes": 22768,
+      "sha256": "07f0ba27508b5c2711e6d3729179c995cf9c38a92a7fdfa8d46805ebba0279ba"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-1-42.json",
+      "bytes": 22789,
+      "sha256": "c23f872bc75e9c00f11fcaa3b9464289661bbe62fa8722582668a2419bfa8f7a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-2-1.json",
+      "bytes": 23657,
+      "sha256": "2302ed69b8ab53650d335985bae45ae590a9a5c0462114f1de3b2c592370f3a6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-2-42.json",
+      "bytes": 23680,
+      "sha256": "0c55a13e550afe72c3bac353f3b56dbe815b1bc2743eef1c0f0a893612ba26c8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-3-1.json",
+      "bytes": 24532,
+      "sha256": "dfe687d4d373664f19e3e00e7c7e542488e5652c10145f53172a0a0a825c6c53"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/1-3-42.json",
+      "bytes": 24557,
+      "sha256": "6e74369ae47853e8c44a1494d96e0e6a9f21529daa2c3117d67c617070764033"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-1-1.json",
+      "bytes": 22742,
+      "sha256": "ac11f72de31d1fb06fd42a3f593d6c7cb2f35f8010834640f722a4e1eb337a76"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-1-42.json",
+      "bytes": 22758,
+      "sha256": "4ec1323897aa74e934cfd710be9b0ae81cfa20f60bf85fc774a7a77950b961a0"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-1-91.json",
+      "bytes": 22749,
+      "sha256": "f49c19c5934bd6e7f78c521444e4b927958f0a779fbc41bcb17f7341429e57df"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-2-1.json",
+      "bytes": 23514,
+      "sha256": "4bb6a0d7efc0b195624586bde10fe2ba18abb8fd24ee89dc8004dad990eead96"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-2-42.json",
+      "bytes": 23496,
+      "sha256": "ba4bfc506198f585c5e49ec5fc9559174f0a585d49ce742d2804a2b6d5d56d0e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-2-91.json",
+      "bytes": 23493,
+      "sha256": "247b88fc6c85a8732ba079f9ce754a112af251aa1bd58a4466e6b311ce0a245e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-3-1.json",
+      "bytes": 24513,
+      "sha256": "6b2f8fe685f1ec8c33ff599dfd629fc83268f8feed3e1418bd97ca10c870041d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-3-42.json",
+      "bytes": 24524,
+      "sha256": "fbe092a73ef63cde12da5c404d6be40ed603007d1f35f9766bd1e5a699344a59"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/2-3-91.json",
+      "bytes": 24519,
+      "sha256": "b4971409a05223424d54e006a8fd34139b02e1f9ff4877952babf2742f4deb56"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-1-1.json",
+      "bytes": 23718,
+      "sha256": "66f55234ec2497b0cf55144485bc7638433b25f3a6fe5fc758b00ce94ed42974"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-1-42.json",
+      "bytes": 23716,
+      "sha256": "e5b5eed7597290b5e4b3c69d9d64aa1cd75b8ea1f9d0fdd3e032e48ee5f53ac9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-1-91.json",
+      "bytes": 23723,
+      "sha256": "e41fff0da071d13cb5c327d76da56f1aa6641e6df317ab438a276204454375f3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-2-1.json",
+      "bytes": 24614,
+      "sha256": "6b23c65a07bf76224d9785940bb726ec446bae9d6416b316017615971c8244ea"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-2-42.json",
+      "bytes": 24606,
+      "sha256": "01036655241aa60f40db24b6f4bb6ec50bcaf309fb38c792d394b1e3fade23a8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-2-91.json",
+      "bytes": 24619,
+      "sha256": "49ab3443c784f39a123929dce83a376d3ffb060c9dfa59c45700fd1c1804cfb1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-3-1.json",
+      "bytes": 25508,
+      "sha256": "bcc16bfe83854ab3131475729c35cb6673be882b1ab9c3fb3a8879ab5e25a188"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-3-42.json",
+      "bytes": 25493,
+      "sha256": "07c36c6f879c435f2fe33d74765673da71114c25c114212586ab75a6601a3067"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/3-3-91.json",
+      "bytes": 25514,
+      "sha256": "a70bfb2b7f3167e884d48e74a33669098911a21c16ed6c038cfc5e193831b638"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/comparacao.dwg",
+      "bytes": 121914,
+      "sha256": "b47158f29b510ee87b423eb26695834dcb3b3c4ee231bd8e12352f470973b930"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/comparacao.dxf",
+      "bytes": 571853,
+      "sha256": "db7bb3bac28518ca345496cf9c2553c78291c7c1834fd0e2938bfca17b46f524"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/desenho-1.json",
+      "bytes": 22789,
+      "sha256": "c23f872bc75e9c00f11fcaa3b9464289661bbe62fa8722582668a2419bfa8f7a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/desenho-2.json",
+      "bytes": 23811,
+      "sha256": "cd9b53f6c79ca20b0a0e6d066ff2cbd352107d62146d79db5f908590a8be0df8"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/desenho-3.json",
+      "bytes": 25843,
+      "sha256": "7cb9d4cad72d4dad9abf0f21dcac87b7eb6ac27936dd5e797ff2bd7af291fd1c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-145943-301/report.txt",
+      "bytes": 334,
+      "sha256": "436807d59712e1fb809357e18ae859b3456e37d178b1c04403c081716484d926"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-1-1.json",
+      "bytes": 22821,
+      "sha256": "e7df6b6e7074d1cc346f7751133c0199c7c0d3fa40eb8ba2b76cd4e620db1b92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-1-42.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-1-91.json",
+      "bytes": 22828,
+      "sha256": "961ec048ae0e867f6686d1a55a1fa3905c0c957b6ce344e74ca2efcd0ca638f6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-2-1.json",
+      "bytes": 23710,
+      "sha256": "02be2c27af5030272e2253ab7398cab4bf6af8840e1a4696ff502cec193b8ce9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-2-42.json",
+      "bytes": 23733,
+      "sha256": "dc64307e3a256203abb2bcfc9e7f67d9a56d43a1e2aafa5129b7042b7b730e8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-2-91.json",
+      "bytes": 23717,
+      "sha256": "e9640c6013efd7e6b664d152ab6512229889da238a4b187078ad7527c7373558"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-3-1.json",
+      "bytes": 24585,
+      "sha256": "000db8a720f1d865b1e9dd78a1af8f7dffff6e2b7db76ec15e54eed02cff9ff2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-3-42.json",
+      "bytes": 24610,
+      "sha256": "4528a5980ce2f1d803453ed550bedc33a6ba305e39689fa49e4eaa1d4b40c7b3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/1-3-91.json",
+      "bytes": 24592,
+      "sha256": "e6b84021a7dc81f161faf7aea63b9e78867da3f737956e4ff08e12cc997a0e9e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-1-1.json",
+      "bytes": 22795,
+      "sha256": "93ea7d98e19ea4c8df053f565cdf2b08e6310f16d52d03cb5f53474fc44fc891"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-1-42.json",
+      "bytes": 22811,
+      "sha256": "0926a0aa2a84c3d8c50a1cdc76aff1a0e2dd70c6735ccc6b3636d56a9541481e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-1-91.json",
+      "bytes": 22802,
+      "sha256": "945a3cde6347bde55aee02bf9ff6e7067eb20b3dd094878eb2b9fe1353d8ab3a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-2-1.json",
+      "bytes": 23567,
+      "sha256": "b1f45ed2a503e80023f9072817ee046a051f223395e7be1057fde7df59075b55"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-2-42.json",
+      "bytes": 23549,
+      "sha256": "3b58a33853af898d1ed428fc41a654a69a52e9ea6cc8fcefef5546cdd7904eb9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-2-91.json",
+      "bytes": 23546,
+      "sha256": "854a334904c14a8d5b03644076e8432c69287d1a8d540e1c46fd42b99e2acd1b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-3-1.json",
+      "bytes": 24566,
+      "sha256": "f2a5175730b31d163b4f6f1d8af3d938e06b3f15ba27d797535ac6bcdec13642"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-3-42.json",
+      "bytes": 24577,
+      "sha256": "7b7dfb71b802ac6168164965d9b15f3a408e8ffaef5cc81f9e58304f1e25e57c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/2-3-91.json",
+      "bytes": 24572,
+      "sha256": "aba7f270747af1d6cc81c61edf683a11c16b1cbf87f75a7a0e23793b66f20b3d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-1-1.json",
+      "bytes": 23771,
+      "sha256": "7ab971ee8b0b2924f367ad9f2f5f37c04661ee00a72c805f0cb27a8b05371dae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-1-42.json",
+      "bytes": 23769,
+      "sha256": "4f68961939982e9edcc5a41007e9839fd33eb4d2557485892cda986168448da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-1-91.json",
+      "bytes": 23776,
+      "sha256": "7c1a7fab03c39aec6a8825af45ed78780faa1ccc3663fd449e3614de2077919e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-2-1.json",
+      "bytes": 24667,
+      "sha256": "1cfc0b3d1618a729dd617128fbb5cc53000e3d5f7ee9151bf0edef39680692ef"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-2-42.json",
+      "bytes": 24659,
+      "sha256": "c1e72101176989a014060d09e0b2b339f04c3ea4990bc4e74bde988561880da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-2-91.json",
+      "bytes": 24672,
+      "sha256": "49064c98ab2d979fee982bfed8407ad19f42c34d8912346b50d74e25ce9d2fa7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-3-1.json",
+      "bytes": 25561,
+      "sha256": "3f45b2f79f00e5adc40d5617dbf1a9737926ab6ee074a2b1935b091e24b8f401"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-3-42.json",
+      "bytes": 25546,
+      "sha256": "2b9e1db6d6dcac0cb49eb562df256972caf72dae52b6d2bcf73eae15f9fb19d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/3-3-91.json",
+      "bytes": 25567,
+      "sha256": "67205e80f766e70dd673aadb4fc7753cd2232f62ec6ff548eec7dffc83cae308"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/comparacao.dwg",
+      "bytes": 123004,
+      "sha256": "60e13a24391e40bfdf273fa3618c363796f1cbe58f17817663537f228854f821"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/comparacao.dxf",
+      "bytes": 572019,
+      "sha256": "663b5d3457b7bde080e611a2238d11c9160f66dbcecb2b09c7401e62df1a07c9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/desenho-1.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/desenho-2.json",
+      "bytes": 23864,
+      "sha256": "c0b7ce70886fdefa809625e617bd6be9f914741e6cf3a68e5468cc80f2fe0ad1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/desenho-3.json",
+      "bytes": 25896,
+      "sha256": "5d878f57b648be55492936ea23768e038819c0e52b9e6331e659dd310fc0c2b9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172508-237/report.txt",
+      "bytes": 43,
+      "sha256": "2d0d077d79d60f5541e2f0dfb35cb22bc5aca9bedef0c887a8d6d4b164298f8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172833-683/comparacao.dwg",
+      "bytes": 122330,
+      "sha256": "8aa9a827b2e8b992a6a9474603001966f23237a5a933f12da5d78882704aae24"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260907-172833-683/report.txt",
+      "bytes": 39,
+      "sha256": "4cbe3838fccdcee1e8395bf59a53fc6523dab0a402ff114e470a429014b281ad"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-1-1.json",
+      "bytes": 22821,
+      "sha256": "e7df6b6e7074d1cc346f7751133c0199c7c0d3fa40eb8ba2b76cd4e620db1b92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-1-42.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-1-91.json",
+      "bytes": 22828,
+      "sha256": "961ec048ae0e867f6686d1a55a1fa3905c0c957b6ce344e74ca2efcd0ca638f6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-2-1.json",
+      "bytes": 23710,
+      "sha256": "02be2c27af5030272e2253ab7398cab4bf6af8840e1a4696ff502cec193b8ce9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-2-42.json",
+      "bytes": 23733,
+      "sha256": "dc64307e3a256203abb2bcfc9e7f67d9a56d43a1e2aafa5129b7042b7b730e8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-2-91.json",
+      "bytes": 23717,
+      "sha256": "e9640c6013efd7e6b664d152ab6512229889da238a4b187078ad7527c7373558"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-3-1.json",
+      "bytes": 24585,
+      "sha256": "000db8a720f1d865b1e9dd78a1af8f7dffff6e2b7db76ec15e54eed02cff9ff2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-3-42.json",
+      "bytes": 24610,
+      "sha256": "4528a5980ce2f1d803453ed550bedc33a6ba305e39689fa49e4eaa1d4b40c7b3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/1-3-91.json",
+      "bytes": 24592,
+      "sha256": "e6b84021a7dc81f161faf7aea63b9e78867da3f737956e4ff08e12cc997a0e9e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-1-1.json",
+      "bytes": 22795,
+      "sha256": "93ea7d98e19ea4c8df053f565cdf2b08e6310f16d52d03cb5f53474fc44fc891"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-1-42.json",
+      "bytes": 22811,
+      "sha256": "0926a0aa2a84c3d8c50a1cdc76aff1a0e2dd70c6735ccc6b3636d56a9541481e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-1-91.json",
+      "bytes": 22802,
+      "sha256": "945a3cde6347bde55aee02bf9ff6e7067eb20b3dd094878eb2b9fe1353d8ab3a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-2-1.json",
+      "bytes": 23567,
+      "sha256": "b1f45ed2a503e80023f9072817ee046a051f223395e7be1057fde7df59075b55"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-2-42.json",
+      "bytes": 23549,
+      "sha256": "3b58a33853af898d1ed428fc41a654a69a52e9ea6cc8fcefef5546cdd7904eb9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-2-91.json",
+      "bytes": 23546,
+      "sha256": "854a334904c14a8d5b03644076e8432c69287d1a8d540e1c46fd42b99e2acd1b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-3-1.json",
+      "bytes": 24566,
+      "sha256": "f2a5175730b31d163b4f6f1d8af3d938e06b3f15ba27d797535ac6bcdec13642"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-3-42.json",
+      "bytes": 24577,
+      "sha256": "7b7dfb71b802ac6168164965d9b15f3a408e8ffaef5cc81f9e58304f1e25e57c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/2-3-91.json",
+      "bytes": 24572,
+      "sha256": "aba7f270747af1d6cc81c61edf683a11c16b1cbf87f75a7a0e23793b66f20b3d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-1-1.json",
+      "bytes": 23771,
+      "sha256": "7ab971ee8b0b2924f367ad9f2f5f37c04661ee00a72c805f0cb27a8b05371dae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-1-42.json",
+      "bytes": 23769,
+      "sha256": "4f68961939982e9edcc5a41007e9839fd33eb4d2557485892cda986168448da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-1-91.json",
+      "bytes": 23776,
+      "sha256": "7c1a7fab03c39aec6a8825af45ed78780faa1ccc3663fd449e3614de2077919e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-2-1.json",
+      "bytes": 24667,
+      "sha256": "1cfc0b3d1618a729dd617128fbb5cc53000e3d5f7ee9151bf0edef39680692ef"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-2-42.json",
+      "bytes": 24659,
+      "sha256": "c1e72101176989a014060d09e0b2b339f04c3ea4990bc4e74bde988561880da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-2-91.json",
+      "bytes": 24672,
+      "sha256": "49064c98ab2d979fee982bfed8407ad19f42c34d8912346b50d74e25ce9d2fa7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-3-1.json",
+      "bytes": 25561,
+      "sha256": "3f45b2f79f00e5adc40d5617dbf1a9737926ab6ee074a2b1935b091e24b8f401"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-3-42.json",
+      "bytes": 25546,
+      "sha256": "2b9e1db6d6dcac0cb49eb562df256972caf72dae52b6d2bcf73eae15f9fb19d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/3-3-91.json",
+      "bytes": 25567,
+      "sha256": "67205e80f766e70dd673aadb4fc7753cd2232f62ec6ff548eec7dffc83cae308"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/comparacao.dwg",
+      "bytes": 169927,
+      "sha256": "b30157f5f82b19aeb78be6a44f0a8c99d995d73c839fcb200e8853d92790beaf"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/comparacao.dxf",
+      "bytes": 891601,
+      "sha256": "bb971ad164e7c305e88ef316198611abb54dc5467633045e166451f933ead817"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/desenho-1.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/desenho-2.json",
+      "bytes": 23864,
+      "sha256": "c0b7ce70886fdefa809625e617bd6be9f914741e6cf3a68e5468cc80f2fe0ad1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/desenho-3.json",
+      "bytes": 25896,
+      "sha256": "5d878f57b648be55492936ea23768e038819c0e52b9e6331e659dd310fc0c2b9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104519-306/report.txt",
+      "bytes": 43,
+      "sha256": "2d0d077d79d60f5541e2f0dfb35cb22bc5aca9bedef0c887a8d6d4b164298f8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-1-1.json",
+      "bytes": 22821,
+      "sha256": "e7df6b6e7074d1cc346f7751133c0199c7c0d3fa40eb8ba2b76cd4e620db1b92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-1-42.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-1-91.json",
+      "bytes": 22828,
+      "sha256": "961ec048ae0e867f6686d1a55a1fa3905c0c957b6ce344e74ca2efcd0ca638f6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-2-1.json",
+      "bytes": 23710,
+      "sha256": "02be2c27af5030272e2253ab7398cab4bf6af8840e1a4696ff502cec193b8ce9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-2-42.json",
+      "bytes": 23733,
+      "sha256": "dc64307e3a256203abb2bcfc9e7f67d9a56d43a1e2aafa5129b7042b7b730e8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-2-91.json",
+      "bytes": 23717,
+      "sha256": "e9640c6013efd7e6b664d152ab6512229889da238a4b187078ad7527c7373558"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-3-1.json",
+      "bytes": 24585,
+      "sha256": "000db8a720f1d865b1e9dd78a1af8f7dffff6e2b7db76ec15e54eed02cff9ff2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-3-42.json",
+      "bytes": 24610,
+      "sha256": "4528a5980ce2f1d803453ed550bedc33a6ba305e39689fa49e4eaa1d4b40c7b3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/1-3-91.json",
+      "bytes": 24592,
+      "sha256": "e6b84021a7dc81f161faf7aea63b9e78867da3f737956e4ff08e12cc997a0e9e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-1-1.json",
+      "bytes": 22795,
+      "sha256": "93ea7d98e19ea4c8df053f565cdf2b08e6310f16d52d03cb5f53474fc44fc891"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-1-42.json",
+      "bytes": 22811,
+      "sha256": "0926a0aa2a84c3d8c50a1cdc76aff1a0e2dd70c6735ccc6b3636d56a9541481e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-1-91.json",
+      "bytes": 22802,
+      "sha256": "945a3cde6347bde55aee02bf9ff6e7067eb20b3dd094878eb2b9fe1353d8ab3a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-2-1.json",
+      "bytes": 23567,
+      "sha256": "b1f45ed2a503e80023f9072817ee046a051f223395e7be1057fde7df59075b55"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-2-42.json",
+      "bytes": 23549,
+      "sha256": "3b58a33853af898d1ed428fc41a654a69a52e9ea6cc8fcefef5546cdd7904eb9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-2-91.json",
+      "bytes": 23546,
+      "sha256": "854a334904c14a8d5b03644076e8432c69287d1a8d540e1c46fd42b99e2acd1b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-3-1.json",
+      "bytes": 24566,
+      "sha256": "f2a5175730b31d163b4f6f1d8af3d938e06b3f15ba27d797535ac6bcdec13642"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-3-42.json",
+      "bytes": 24577,
+      "sha256": "7b7dfb71b802ac6168164965d9b15f3a408e8ffaef5cc81f9e58304f1e25e57c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/2-3-91.json",
+      "bytes": 24572,
+      "sha256": "aba7f270747af1d6cc81c61edf683a11c16b1cbf87f75a7a0e23793b66f20b3d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-1-1.json",
+      "bytes": 23771,
+      "sha256": "7ab971ee8b0b2924f367ad9f2f5f37c04661ee00a72c805f0cb27a8b05371dae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-1-42.json",
+      "bytes": 23769,
+      "sha256": "4f68961939982e9edcc5a41007e9839fd33eb4d2557485892cda986168448da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-1-91.json",
+      "bytes": 23776,
+      "sha256": "7c1a7fab03c39aec6a8825af45ed78780faa1ccc3663fd449e3614de2077919e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-2-1.json",
+      "bytes": 24667,
+      "sha256": "1cfc0b3d1618a729dd617128fbb5cc53000e3d5f7ee9151bf0edef39680692ef"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-2-42.json",
+      "bytes": 24659,
+      "sha256": "c1e72101176989a014060d09e0b2b339f04c3ea4990bc4e74bde988561880da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-2-91.json",
+      "bytes": 24672,
+      "sha256": "49064c98ab2d979fee982bfed8407ad19f42c34d8912346b50d74e25ce9d2fa7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-3-1.json",
+      "bytes": 25561,
+      "sha256": "3f45b2f79f00e5adc40d5617dbf1a9737926ab6ee074a2b1935b091e24b8f401"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-3-42.json",
+      "bytes": 25546,
+      "sha256": "2b9e1db6d6dcac0cb49eb562df256972caf72dae52b6d2bcf73eae15f9fb19d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/3-3-91.json",
+      "bytes": 25567,
+      "sha256": "67205e80f766e70dd673aadb4fc7753cd2232f62ec6ff548eec7dffc83cae308"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/comparacao.dwg",
+      "bytes": 165231,
+      "sha256": "55767ee16ddf407db77e54ce70309f2d965d5c744e40809f20dc4bdabde8914a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/comparacao.dxf",
+      "bytes": 899726,
+      "sha256": "25665858278644b6937a1b9eb82ccd2e4edd4dcd8b7da1dfcdb0fdae9ed954da"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/desenho-1.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/desenho-2.json",
+      "bytes": 23864,
+      "sha256": "c0b7ce70886fdefa809625e617bd6be9f914741e6cf3a68e5468cc80f2fe0ad1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/desenho-3.json",
+      "bytes": 25896,
+      "sha256": "5d878f57b648be55492936ea23768e038819c0e52b9e6331e659dd310fc0c2b9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-104840-168/report.txt",
+      "bytes": 43,
+      "sha256": "2d0d077d79d60f5541e2f0dfb35cb22bc5aca9bedef0c887a8d6d4b164298f8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-1-1.json",
+      "bytes": 22821,
+      "sha256": "e7df6b6e7074d1cc346f7751133c0199c7c0d3fa40eb8ba2b76cd4e620db1b92"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-1-42.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-1-91.json",
+      "bytes": 22828,
+      "sha256": "961ec048ae0e867f6686d1a55a1fa3905c0c957b6ce344e74ca2efcd0ca638f6"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-2-1.json",
+      "bytes": 23710,
+      "sha256": "02be2c27af5030272e2253ab7398cab4bf6af8840e1a4696ff502cec193b8ce9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-2-42.json",
+      "bytes": 23733,
+      "sha256": "dc64307e3a256203abb2bcfc9e7f67d9a56d43a1e2aafa5129b7042b7b730e8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-2-91.json",
+      "bytes": 23717,
+      "sha256": "e9640c6013efd7e6b664d152ab6512229889da238a4b187078ad7527c7373558"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-3-1.json",
+      "bytes": 24585,
+      "sha256": "000db8a720f1d865b1e9dd78a1af8f7dffff6e2b7db76ec15e54eed02cff9ff2"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-3-42.json",
+      "bytes": 24610,
+      "sha256": "4528a5980ce2f1d803453ed550bedc33a6ba305e39689fa49e4eaa1d4b40c7b3"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/1-3-91.json",
+      "bytes": 24592,
+      "sha256": "e6b84021a7dc81f161faf7aea63b9e78867da3f737956e4ff08e12cc997a0e9e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-1-1.json",
+      "bytes": 22795,
+      "sha256": "93ea7d98e19ea4c8df053f565cdf2b08e6310f16d52d03cb5f53474fc44fc891"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-1-42.json",
+      "bytes": 22811,
+      "sha256": "0926a0aa2a84c3d8c50a1cdc76aff1a0e2dd70c6735ccc6b3636d56a9541481e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-1-91.json",
+      "bytes": 22802,
+      "sha256": "945a3cde6347bde55aee02bf9ff6e7067eb20b3dd094878eb2b9fe1353d8ab3a"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-2-1.json",
+      "bytes": 23567,
+      "sha256": "b1f45ed2a503e80023f9072817ee046a051f223395e7be1057fde7df59075b55"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-2-42.json",
+      "bytes": 23549,
+      "sha256": "3b58a33853af898d1ed428fc41a654a69a52e9ea6cc8fcefef5546cdd7904eb9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-2-91.json",
+      "bytes": 23546,
+      "sha256": "854a334904c14a8d5b03644076e8432c69287d1a8d540e1c46fd42b99e2acd1b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-3-1.json",
+      "bytes": 24566,
+      "sha256": "f2a5175730b31d163b4f6f1d8af3d938e06b3f15ba27d797535ac6bcdec13642"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-3-42.json",
+      "bytes": 24577,
+      "sha256": "7b7dfb71b802ac6168164965d9b15f3a408e8ffaef5cc81f9e58304f1e25e57c"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/2-3-91.json",
+      "bytes": 24572,
+      "sha256": "aba7f270747af1d6cc81c61edf683a11c16b1cbf87f75a7a0e23793b66f20b3d"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-1-1.json",
+      "bytes": 23771,
+      "sha256": "7ab971ee8b0b2924f367ad9f2f5f37c04661ee00a72c805f0cb27a8b05371dae"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-1-42.json",
+      "bytes": 23769,
+      "sha256": "4f68961939982e9edcc5a41007e9839fd33eb4d2557485892cda986168448da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-1-91.json",
+      "bytes": 23776,
+      "sha256": "7c1a7fab03c39aec6a8825af45ed78780faa1ccc3663fd449e3614de2077919e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-2-1.json",
+      "bytes": 24667,
+      "sha256": "1cfc0b3d1618a729dd617128fbb5cc53000e3d5f7ee9151bf0edef39680692ef"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-2-42.json",
+      "bytes": 24659,
+      "sha256": "c1e72101176989a014060d09e0b2b339f04c3ea4990bc4e74bde988561880da4"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-2-91.json",
+      "bytes": 24672,
+      "sha256": "49064c98ab2d979fee982bfed8407ad19f42c34d8912346b50d74e25ce9d2fa7"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-3-1.json",
+      "bytes": 25561,
+      "sha256": "3f45b2f79f00e5adc40d5617dbf1a9737926ab6ee074a2b1935b091e24b8f401"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-3-42.json",
+      "bytes": 25546,
+      "sha256": "2b9e1db6d6dcac0cb49eb562df256972caf72dae52b6d2bcf73eae15f9fb19d5"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/3-3-91.json",
+      "bytes": 25567,
+      "sha256": "67205e80f766e70dd673aadb4fc7753cd2232f62ec6ff548eec7dffc83cae308"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/comparacao.dwg",
+      "bytes": 157397,
+      "sha256": "9c2e090c9cf7c074e6d960a54add64f009e9b7319728d680196d5371f0d76b77"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/comparacao.dxf",
+      "bytes": 812161,
+      "sha256": "3e990caf72ca386c7edfc2edd975202e9bf1d60d2fd48f3abc897b60fff7189e"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/desenho-1.json",
+      "bytes": 22842,
+      "sha256": "60a4a7662f5c1d9153ea235d7b59f501b33aa68fa646165673d5d9c3e4a80342"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/desenho-2.json",
+      "bytes": 23864,
+      "sha256": "c0b7ce70886fdefa809625e617bd6be9f914741e6cf3a68e5468cc80f2fe0ad1"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/desenho-3.json",
+      "bytes": 25896,
+      "sha256": "5d878f57b648be55492936ea23768e038819c0e52b9e6331e659dd310fc0c2b9"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/presentation-check.txt",
+      "bytes": 92,
+      "sha256": "307fe9fe8ccd6c55828246360cac3827eb2710167a41f9e2b30e3d22c828c988"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105022-621/report.txt",
+      "bytes": 43,
+      "sha256": "2d0d077d79d60f5541e2f0dfb35cb22bc5aca9bedef0c887a8d6d4b164298f8b"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105128-472/comparacao.dwg",
+      "bytes": 147279,
+      "sha256": "affc222586688754824e076a6544ee4e2bc41935dff5955ebf571439afbc129f"
+    },
+    {
+      "path": "programa-casa/tests/artifacts/v04-20260910-105128-472/report.txt",
+      "bytes": 39,
+      "sha256": "4cbe3838fccdcee1e8395bf59a53fc6523dab0a402ff114e470a429014b281ad"
+    },
+    {
+      "path": "planejamento-bh/arquivar_paginas.py",
+      "bytes": 2768,
+      "sha256": "5929b0a67793f9acc751801a7ff855032094e5e01c093eef86b65b635f231912"
+    },
+    {
+      "path": "planejamento-bh/baixar_fontes.py",
+      "bytes": 4080,
+      "sha256": "162474b19bd64f582a8165bb60cafda3610329e38a743185864008b9bc8f5346"
+    },
+    {
+      "path": "planejamento-bh/BASE-BH.md",
+      "bytes": 9805,
+      "sha256": "716bab1cb884149f0e96e3b732f6c541937f9f8c267b91efcdc0b022966584cd"
+    },
+    {
+      "path": "planejamento-bh/campos-formulario.json",
+      "bytes": 5167,
+      "sha256": "f81ec59f92daec5685da5f926aa05adecb1ab676f9e4f04f6a9dc74ab67dd51a"
+    },
+    {
+      "path": "planejamento-bh/LEIA-ME.md",
+      "bytes": 2302,
+      "sha256": "f10cd6cb2b54fb5d173eb34b2627a1719f8da82b8e7626c867da58dbe2a0c565"
+    },
+    {
+      "path": "planejamento-bh/manifesto-fontes.json",
+      "bytes": 7939,
+      "sha256": "428825cb4d7a9b98e098ccf0a0eae672ce16c0e12de1aac806b2fbaeea8cdbde"
+    },
+    {
+      "path": "planejamento-bh/manifesto-web.json",
+      "bytes": 4721,
+      "sha256": "1fd87cb469cbd3e73c54c56e27cc53bbce659c4aacd8cec033ffdb7168b0741b"
+    },
+    {
+      "path": "planejamento-bh/matriz-regras-bh.json",
+      "bytes": 11427,
+      "sha256": "4f7ea3fc602673f955e4582e01e4856855d16f82ae5e01f56de9d965eb53e274"
+    },
+    {
+      "path": "planejamento-bh/ROADMAP.md",
+      "bytes": 12541,
+      "sha256": "643a314d01e61cc88b83e9ffacded07b791c3056ae962f0bba7ca96f921c7447"
+    },
+    {
+      "path": "planejamento-bh/verificar_acervo.py",
+      "bytes": 1493,
+      "sha256": "ea83413923e20959c80c291f0d57da2797f4822ab3384b67555c964479285a5d"
+    },
+    {
+      "path": "planejamento-bh/extratos/checklist-documentacao.txt",
+      "bytes": 78564,
+      "sha256": "236e66417012760db69bbf7dbd57d05f37b2ca24cc3b1be29862cd84b03927c7"
+    },
+    {
+      "path": "planejamento-bh/extratos/faq-smpu.txt",
+      "bytes": 14615,
+      "sha256": "931e074ae815ba7a88b043dce6633b754c1f309a00405498e1f190fdbef93730"
+    },
+    {
+      "path": "planejamento-bh/extratos/indice-cartilhas.txt",
+      "bytes": 4371,
+      "sha256": "61915912173cbf3eae29269c45ad2a1cff8cb2940d1d78cd9a192cee08626f43"
+    },
+    {
+      "path": "planejamento-bh/extratos/indice-legislacao.txt",
+      "bytes": 83234,
+      "sha256": "ae7c9d1b6854cb6f02343a0f0c7eedab4dba566f02c501d098daad5ac5359846"
+    },
+    {
+      "path": "planejamento-bh/extratos/indice-mapas.txt",
+      "bytes": 15029,
+      "sha256": "0953225da7001c00f1803ae4af17c546f06ee0dfd8330c03d15dd4f3143b4408"
+    },
+    {
+      "path": "planejamento-bh/extratos/lei-11181.txt",
+      "bytes": 379470,
+      "sha256": "08c6552ca6674dabb977c3c1fd7975f58f78ebc56e6a42027679392e3ff17daa"
+    },
+    {
+      "path": "planejamento-bh/extratos/manual-portal-indice.txt",
+      "bytes": 4150,
+      "sha256": "e5cdb1736800b028b11d91870ea281a4234468a42ce1c03f3027c1fe6752fadf"
+    },
+    {
+      "path": "planejamento-bh/extratos/mapa-ade.txt",
+      "bytes": 14197,
+      "sha256": "d60b6afc206f8c12d1e5b1c0984e68dbe78816ce02326165ce94e9a9a92ea8b6"
+    },
+    {
+      "path": "planejamento-bh/extratos/mapa-viario-jul2026.txt",
+      "bytes": 13734,
+      "sha256": "976aeff3b928c45b614a74ca3b8dac73e0db4735d04863afd3048ec123074760"
+    },
+    {
+      "path": "planejamento-bh/extratos/mapa-zoneamento.txt",
+      "bytes": 13795,
+      "sha256": "962676ead0da45b8f0a69d11d4463ac9a7f1be0f1b695c08b77c008fa99f707e"
+    },
+    {
+      "path": "planejamento-bh/extratos/niveis-terreno.txt",
+      "bytes": 11838,
+      "sha256": "d8a7eddd5c650e1533364d4e450e0535e6afedcfacb28c288e7bec156b53152d"
+    },
+    {
+      "path": "planejamento-bh/extratos/parametros-urbanisticos.txt",
+      "bytes": 50384,
+      "sha256": "6d9955d8738aae1d6f5de919bd75729014d7af26cf07156fc125fea932c3160b"
+    },
+    {
+      "path": "planejamento-bh/extratos/plano-diretor-ebook.txt",
+      "bytes": 93624,
+      "sha256": "3d70984841989e0a87046a29ab138b761edad2907487b9891980addececd21e0"
+    },
+    {
+      "path": "planejamento-bh/extratos/procedimentos.txt",
+      "bytes": 12340,
+      "sha256": "174c3267935f50bda2982796c47d0da20b1e15a4ddf40066a68b1ff255e8cd7f"
+    },
+    {
+      "path": "planejamento-bh/extratos/representacao-r5.txt",
+      "bytes": 84437,
+      "sha256": "c57b8dacb79b22504c7dd64317d54207e283c5f686ba19002cd5582931d05d8f"
+    },
+    {
+      "path": "planejamento-bh/extratos/zoneamento.txt",
+      "bytes": 15400,
+      "sha256": "a16517799ea98c7cea5179b03ec7f155976fa5d2f21a6fa932e054bd78f78ea3"
+    },
+    {
+      "path": "planejamento-bh/fontes/lei-11181.pdf",
+      "bytes": 767884,
+      "sha256": "606b3f1c637b2e0a2ed6b8e6bddb17c1906f3cb2a137d7877d7285a30bb37e7d"
+    },
+    {
+      "path": "planejamento-bh/fontes/mapa-ade.pdf",
+      "bytes": 7392256,
+      "sha256": "d78b8604ab9c02264fd1168e4f291a08b99af9100546ade1fb3e5d9fda1f7877"
+    },
+    {
+      "path": "planejamento-bh/fontes/mapa-viario-jul2026.pdf",
+      "bytes": 7709600,
+      "sha256": "6677b8a55034a2c8cd0b2ecc6bd903453e8f45d50151bec8324a52e22e3c7acb"
+    },
+    {
+      "path": "planejamento-bh/fontes/mapa-zoneamento.pdf",
+      "bytes": 6833152,
+      "sha256": "c730d40da3b35f58c83213317de4cca62aa887da44ae3359833772230f0b0fa2"
+    },
+    {
+      "path": "planejamento-bh/fontes/niveis-terreno.pdf",
+      "bytes": 3511774,
+      "sha256": "bbfe62dbe2f0044ea9e321457d986dcbc6a3795c6a529cbb9f886859aa4990ed"
+    },
+    {
+      "path": "planejamento-bh/fontes/parametros-urbanisticos.pdf",
+      "bytes": 7122892,
+      "sha256": "1406f8c3ff38241c17e89c52448a129a5e66cc78f1d59fe91a3d7e3ea75f0c4a"
+    },
+    {
+      "path": "planejamento-bh/fontes/plano-diretor-ebook.pdf",
+      "bytes": 16384998,
+      "sha256": "8daf86b6e1017258367d9eb6abe2793a5578c4ec2f9d792af33c34fa39980315"
+    },
+    {
+      "path": "planejamento-bh/fontes/procedimentos.pdf",
+      "bytes": 824894,
+      "sha256": "707f4dd1013055d9c8215bbcfd57389b88563e8bf2bfeb6bcc79b8b106afd4a4"
+    },
+    {
+      "path": "planejamento-bh/fontes/representacao-r5.pdf",
+      "bytes": 7093556,
+      "sha256": "13632a66abdef9d012914b89f176aa0aa573aab1b411eada5a50ed90ccf755ad"
+    },
+    {
+      "path": "planejamento-bh/fontes/zoneamento.pdf",
+      "bytes": 7613298,
+      "sha256": "6870eeffe09116f654ae05cca7e64a473131b876fbd336ce580bab04df3ccfa2"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/checklist-documentacao.html",
+      "bytes": 344352,
+      "sha256": "3e23f20668744e09f5aa5617a3937dd55c37dd26869e6e6e0c8f8ed804f019ef"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/faq-smpu.html",
+      "bytes": 132009,
+      "sha256": "4799b379c2d85f6bf2cc1715ce9056c0238bb5b2fc8dd620c219475df3cafd03"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/indice-cartilhas.html",
+      "bytes": 99753,
+      "sha256": "997103796aaf577faf037288222b21737f44de7a327ae6c3073923d651084d94"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/indice-legislacao.html",
+      "bytes": 449983,
+      "sha256": "c5beaee3cdce971879f5d481f3d3220a0aca213a3487ad0be61aef02bc442579"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/indice-mapas.html",
+      "bytes": 147609,
+      "sha256": "2237a39bcc4387aa5943c8a495ed8f3e21cfe9af0ff31b82e8fd30de5e5ce091"
+    },
+    {
+      "path": "planejamento-bh/fontes-web/manual-portal-indice.html",
+      "bytes": 96837,
+      "sha256": "296fe1c796b0369b136395fe04130a12e5fdb75716adc1b40970c8432009bc6c"
+    },
+    {
+      "path": "planejamento-bh/verificacao/integridade.json",
+      "bytes": 266,
+      "sha256": "d98c2a5b664e7d108b345991e962b5708fdb4df31c184df6a56058d9db9e9e76"
+    },
+    {
+      "path": "planejamento-bh/verificacao/parametros-p06.png",
+      "bytes": 119360,
+      "sha256": "90400ba5333abe9cc7116b61768e2135473d36c517addd62db1baa22b3d4884d"
+    },
+    {
+      "path": "planejamento-bh/verificacao/representacao-p24.png",
+      "bytes": 56602,
+      "sha256": "6d23ccbf1dc7a63d093052d789d576db8d60ab0677babd9dbe850384ca2c3b26"
+    },
+    {
+      "path": "planejamento-bh/verificacao/representacao-p25.png",
+      "bytes": 60736,
+      "sha256": "fad039d7128e809588d9d92f34e2a697dd98d8904de988e6c749240ae469f7ff"
+    },
+    {
+      "path": "planejamento-bh/verificacao/representacao-p58.png",
+      "bytes": 232504,
+      "sha256": "ad2e2b50193cbb8ea4dfc81ebb9983e53b64ec6a11d09e6df3bfd6728d2c0df9"
+    },
+    {
+      "path": "pesquisa-interiores/LEIA-ME.md",
+      "bytes": 1237,
+      "sha256": "91d67c35ca7a6f5ef91838d68b75ecee7464ce0b054ca765a60fedbeb342fe97"
+    },
+    {
+      "path": "pesquisa-interiores/PESQUISA.md",
+      "bytes": 21718,
+      "sha256": "050f25baa2b8dd9b65f8769bd4c41be8ea3a6aa49c2b5aebcad87f1927896b4d"
+    },
+    {
+      "path": "pesquisa-interiores/regras.json",
+      "bytes": 22313,
+      "sha256": "ec5ca1e0ea4bb3993963a94b5188c5e7c4ab608f5198f03f1554410d0f502cfe"
+    },
+    {
+      "path": "grafo/01.dyn",
+      "bytes": 35609,
+      "sha256": "347db1277fd3287598ea5fbbba020e8f8b244b85720a3ed951529e5777f46509"
+    },
+    {
+      "path": "json/rodolfo.json",
+      "bytes": 26087,
+      "sha256": "1fc3a473008394a8df56786ccfc67945ce7bd84bf7d3df0fbd94d0751cdd599e"
+    },
+    {
+      "path": "CASA-BH-AutoLISP-0.4.zip",
+      "bytes": 1339999,
+      "sha256": "68546aa83eefd89c11b137324d2f9224fe20208fe16afcb3ee2d0d0675f91d10"
+    }
+  ],
+  "omitted": "Perfis temporarios de AutoCAD, caches, logs de execucao/erro, locks e backups de teste; arquivos originais permanecem na origem."
+}

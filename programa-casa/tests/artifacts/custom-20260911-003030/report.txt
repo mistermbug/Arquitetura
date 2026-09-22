@@ -1,0 +1,11 @@
+PASS Reopened height from persisted snapshot
+PASS Reopened revision
+PASS Reopened drawing identity
+PASS Local dimensions rotation 0
+PASS Local dimensions rotation 90
+PASS Local dimensions rotation 180
+PASS Local dimensions rotation 270
+PASS Reopened edit clearance
+PASS Edit after reopening
+PASS Second revision persisted
+COMPLETE failed=0

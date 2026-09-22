@@ -1,0 +1,20 @@
+# Per-computer generated Dynamo graphs
+/configurado/
+__pycache__/
+*.pyc
+*.pyo
+# AutoCAD runtime files and test profiles
+**/profile/
+ErrorReports/
+*.dwl
+*.dwl2
+*.bak
+*.log
+*.err
+*.dmp
+*.tmp
+**/stdout.txt
+**/stderr.txt
+.env
+.env.*
+!.env.example

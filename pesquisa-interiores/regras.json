@@ -1,0 +1,599 @@
+{
+  "schema_version": "0.1.0",
+  "created_at": "2026-09-07",
+  "title": "Regras iniciais de interiores residenciais",
+  "units": {
+    "length": "mm",
+    "angle": "degree"
+  },
+  "status": "catalogo_de_especificacao_nao_executavel",
+  "assumptions": {
+    "country": "BR",
+    "city": null,
+    "autocad_version": null,
+    "revit_version": null,
+    "occupant_profile": null
+  },
+  "evaluation_states": [
+    "pass",
+    "fail",
+    "not_evaluated",
+    "not_applicable"
+  ],
+  "normative_policy": "Não ativar regras normativas antes de conferir edição, aplicabilidade, condições completas e aprovação técnica do perfil. Este catálogo não é um verificador de conformidade.",
+  "sources": {
+    "PROJETO": {
+      "title": "Proposta de modelagem elaborada nesta pesquisa",
+      "url": null,
+      "status": "hipotese_de_projeto"
+    },
+    "NKBA": {
+      "title": "NKBA Kitchen Planning Guideline 6",
+      "url": "https://kb.nkba.org/uploads/2022/05/Kitchen-Planning-Guidelines.pdf",
+      "status": "recomendacao_estrangeira_documento_consultado"
+    },
+    "NBR9050": {
+      "title": "ABNT NBR 9050:2020 — cópia disponibilizada por Macaé",
+      "url": "https://www.macae.rj.gov.br/midia/uploads/NBR%209050_2020.pdf",
+      "status": "edicao_consultada_vigencia_e_aplicabilidade_pendentes"
+    },
+    "IKEA": {
+      "title": "IKEA — guia de escolha de cama",
+      "url": "https://www.ikea.com/pl/pl/rooms/bedroom/how-to/wiec-kupujesz-lozko-pub30c7ac50/",
+      "status": "orientacao_de_fabricante"
+    },
+    "OSHA": {
+      "title": "OSHA — Desks",
+      "url": "https://www.osha.gov/etools/computer-workstations/components/desks",
+      "status": "orientacao_estrangeira"
+    },
+    "LABEEE": {
+      "title": "LabEEE — desempenho térmico",
+      "url": "https://labeee.ufsc.br/pt-br/NBR15575-2020",
+      "status": "referencia_metodologica"
+    },
+    "HONEYBEE": {
+      "title": "Honeybee",
+      "url": "https://www.ladybug.tools/honeybee.html",
+      "status": "documentacao_ferramenta"
+    },
+    "CBE": {
+      "title": "CBE Thermal Comfort Tool",
+      "url": "https://comfort.cbe.berkeley.edu/",
+      "status": "documentacao_ferramenta"
+    },
+    "CAU": {
+      "title": "CAU — NBR 10152",
+      "url": "https://caubr.gov.br/norma-de-acustica-abnt-publica-versao-atualizada-de-parametros-para-edificacoes-2/",
+      "status": "noticia_historica_confirmar_norma_atual"
+    }
+  },
+  "rules": [
+    {
+      "id": "G01",
+      "title": "Contenção física",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Móvel solto em ambiente delimitado",
+      "evaluation": "Verificar volume contido no espaço permitido, considerando tolerância e instalação.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G02",
+      "title": "Colisões indevidas",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Objetos com volumes potencialmente conflitantes",
+      "evaluation": "Interseção 3D; excluir encaixes explicitamente permitidos, como cadeira sob mesa.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G03",
+      "title": "Abertura de portas do ambiente",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Porta e sentido de abertura conhecidos",
+      "evaluation": "Interseção do volume varrido com obstáculos incompatíveis.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G04",
+      "title": "Operação do móvel",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Móvel com gaveta, porta, extensão ou reclinação",
+      "evaluation": "Validar geometria de todos os estados exigidos pelo programa.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G05",
+      "title": "Acesso aos pontos de uso",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Entrada e áreas funcionais cadastradas",
+      "evaluation": "Verificar caminho contínuo com perfil dimensional definido; ausência do perfil impede aprovação.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G06",
+      "title": "Simultaneidade",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Duas atividades compartilham espaço",
+      "evaluation": "Avaliar cenários de uso simultâneo declarados; não aceitar sobreposição automaticamente.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G07",
+      "title": "Programa obrigatório",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Lista de funções e ocupação definida",
+      "evaluation": "Verificar funções, quantidades e capacidade; não remover itens obrigatórios para obter encaixe.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G08",
+      "title": "Dimensões externas",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Produto selecionado",
+      "evaluation": "Usar dimensões completas e saliências; medidas desconhecidas impedem validação final.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G09",
+      "title": "Instalação e manutenção",
+      "category": "hard",
+      "scope": "equipamentos",
+      "condition": "Manual do produto disponível",
+      "evaluation": "Conferir afastamentos, acesso técnico e conexões segundo o manual específico.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G10",
+      "title": "Itens bloqueados pelo usuário",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Item marcado como fixo",
+      "evaluation": "Preservar localização e tipo durante geração.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G11",
+      "title": "Altura e hospedeiro",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Elemento elevado ou hospedado",
+      "evaluation": "Validar suporte, altura livre e colisões verticais.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "G12",
+      "title": "Inviabilidade explícita",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Nenhum candidato atende às restrições",
+      "evaluation": "Retornar conflitos e possíveis mudanças; nunca declarar válido um candidato inviável.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "K01",
+      "title": "Corredor de trabalho individual",
+      "category": "soft",
+      "scope": "cozinha",
+      "condition": "Um cozinheiro; diretriz estrangeira adotada pelo projeto",
+      "evaluation": "Medir menor distância entre frentes relevantes.",
+      "parameters": {
+        "recommended_min_mm": 1067
+      },
+      "source_id": "NKBA",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "K02",
+      "title": "Corredor de trabalho compartilhado",
+      "category": "soft",
+      "scope": "cozinha",
+      "condition": "Vários cozinheiros; diretriz estrangeira adotada pelo projeto",
+      "evaluation": "Medir entre frentes relevantes e avaliar operação separadamente.",
+      "parameters": {
+        "recommended_min_mm": 1219
+      },
+      "source_id": "NKBA",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "K03",
+      "title": "Sequência funcional",
+      "category": "soft",
+      "scope": "cozinha",
+      "condition": "Tarefas e equipamentos definidos",
+      "evaluation": "Reduzir percursos entre armazenar, lavar, preparar e cozinhar; ajustar à tipologia.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "K04",
+      "title": "Portas de eletrodomésticos",
+      "category": "hard",
+      "scope": "cozinha_lavanderia",
+      "condition": "Equipamentos definidos",
+      "evaluation": "Simular abertura, acesso humano e conflitos com rotas exigidas.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "Q01",
+      "title": "Folga cotidiana de referência da cama",
+      "category": "soft",
+      "scope": "dormitorio",
+      "condition": "Uso ambulante; cama sem requisitos especiais",
+      "evaluation": "Comparar folgas laterais exigidas no programa; intervalo não substitui acessibilidade.",
+      "parameters": {
+        "source_guidance_range_mm": [
+          500,
+          600
+        ]
+      },
+      "source_id": "IKEA",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "Q02",
+      "title": "Acesso e armazenamento no dormitório",
+      "category": "hard",
+      "scope": "dormitorio",
+      "condition": "Ocupantes e armários definidos",
+      "evaluation": "Verificar acesso às posições de dormir e uso completo do armazenamento.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "Q03",
+      "title": "Compatibilidade entre dormir e trabalhar",
+      "category": "soft",
+      "scope": "dormitorio",
+      "condition": "Home office integrado",
+      "evaluation": "Avaliar conflito entre cadeira, circulação, iluminação e descanso.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "S01",
+      "title": "Conversa e visibilidade",
+      "category": "soft",
+      "scope": "estar",
+      "condition": "Assentos e atividades definidos",
+      "evaluation": "Avaliar orientação relativa, obstruções visuais e agrupamento; pesos definidos pelo programa.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "S02",
+      "title": "Assentos de jantar em uso",
+      "category": "hard",
+      "scope": "jantar",
+      "condition": "Mesa e assentos definidos",
+      "evaluation": "Testar cadeira recolhida, puxada e ocupada e rota de passagem exigida.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "S03",
+      "title": "Equilíbrio visual",
+      "category": "soft",
+      "scope": "todos",
+      "condition": "Estilo e preferências definidos",
+      "evaluation": "Pontuar escala e composição entre alternativas viáveis; não compensar falhas obrigatórias.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "H01",
+      "title": "Acomodação visual do monitor",
+      "category": "soft",
+      "scope": "home_office",
+      "condition": "Mesa e tela selecionadas",
+      "evaluation": "Medir da posição dos olhos à tela, não da borda da mesa.",
+      "parameters": {
+        "guidance_min_mm": 500
+      },
+      "source_id": "OSHA",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "H02",
+      "title": "Ajuste e pernas livres",
+      "category": "soft",
+      "scope": "home_office",
+      "condition": "Usuário e estação conhecidos",
+      "evaluation": "Verificar ajuste e envelope corporal; dimensões dependem do perfil.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "A01",
+      "title": "Módulo de referência",
+      "category": "normative_conditional",
+      "scope": "acessibilidade",
+      "condition": "Perfil normativo confirmado para aplicação do item 4.2.2",
+      "evaluation": "Representar módulo no piso e verificar posicionamento; não equivale a validar manobra.",
+      "parameters": {
+        "width_mm": 800,
+        "length_mm": 1200,
+        "clause": "4.2.2"
+      },
+      "source_id": "NBR9050",
+      "enabled_for_prototype": false,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "A02",
+      "title": "Vão livre de porta",
+      "category": "normative_conditional",
+      "scope": "acessibilidade",
+      "condition": "Perfil normativo confirmado para aplicação do item 6.11.2.4",
+      "evaluation": "Medir vão livre efetivo e validar aproximação por regras adicionais.",
+      "parameters": {
+        "min_width_mm": 800,
+        "min_height_mm": 2100,
+        "clause": "6.11.2.4"
+      },
+      "source_id": "NBR9050",
+      "enabled_for_prototype": false,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "A03",
+      "title": "Transferência e manobra",
+      "category": "normative_conditional",
+      "scope": "acessibilidade",
+      "condition": "Norma, edição e caso de uso confirmados",
+      "evaluation": "Importar geometrias e condições revisadas do perfil; não inferir de área total.",
+      "parameters": {},
+      "source_id": "NBR9050",
+      "enabled_for_prototype": false,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E01",
+      "title": "Janelas e grelhas desobstruídas",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Aberturas e equipamentos cadastrados",
+      "evaluation": "Validar operação, acesso e áreas de passagem de ar exigidas.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E02",
+      "title": "Exposição solar de ocupantes",
+      "category": "soft",
+      "scope": "estar_dormitorio_home_office",
+      "condition": "Localização, norte, horários e sombreamento conhecidos",
+      "evaluation": "Comparar incidência nas posições de permanência; sem dados não avaliar.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E03",
+      "title": "Desempenho térmico da habitação",
+      "category": "simulation",
+      "scope": "residencia",
+      "condition": "Modelo, clima, envoltória, ocupação e método confirmados",
+      "evaluation": "Executar avaliação térmica com indicadores do método adotado; layout isolado não comprova.",
+      "parameters": {},
+      "source_id": "LABEEE",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E04",
+      "title": "Aplicabilidade do modelo de conforto",
+      "category": "simulation",
+      "scope": "residencia",
+      "condition": "Condições de ocupação e operação conhecidas",
+      "evaluation": "Conferir domínio PMV/adaptativo; não aplicar automaticamente a pessoas dormindo.",
+      "parameters": {},
+      "source_id": "CBE",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E05",
+      "title": "Luz natural",
+      "category": "simulation",
+      "scope": "residencia",
+      "condition": "Geometria, materiais, céu/clima e sensores definidos",
+      "evaluation": "Simular e comparar com critérios explícitos do projeto.",
+      "parameters": {},
+      "source_id": "HONEYBEE",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E06",
+      "title": "Luz artificial de tarefa",
+      "category": "simulation",
+      "scope": "todos",
+      "condition": "Fotometria, superfícies e plano de tarefa definidos",
+      "evaluation": "Calcular iluminância e avaliar ofuscamento conforme método; sem meta não classificar.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E07",
+      "title": "Reflexos em telas",
+      "category": "soft",
+      "scope": "estar_home_office",
+      "condition": "Janela, luminária, tela e posição do observador conhecidas",
+      "evaluation": "Avaliar geometria de incidência/reflexão; validar por simulação quando necessário.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E08",
+      "title": "Acústica",
+      "category": "simulation",
+      "scope": "residencia",
+      "condition": "Fontes, sistemas construtivos, método e metas conhecidos",
+      "evaluation": "Distinguir ruído interno, reverberação e isolamento; definir limites após conferência normativa.",
+      "parameters": {},
+      "source_id": "CAU",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "E09",
+      "title": "Limpeza e umidade",
+      "category": "soft",
+      "scope": "todos",
+      "condition": "Materiais e condições de uso conhecidos",
+      "evaluation": "Avaliar acesso de limpeza, manutenção e ventilação; registrar incertezas.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "B01",
+      "title": "Correspondência BIM",
+      "category": "hard",
+      "scope": "integracao",
+      "condition": "Catálogo de famílias e blocos disponível",
+      "evaluation": "Validar ID, tipo, dimensão, transformação, rotação, nível e hospedeiro.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "B02",
+      "title": "Sincronização sem duplicação",
+      "category": "hard",
+      "scope": "integracao",
+      "condition": "Importação repetida ou alteração em um programa",
+      "evaluation": "Atualizar pelo ID estável e resolver conflitos conforme política explícita.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    },
+    {
+      "id": "B03",
+      "title": "Não avaliado não significa aprovado",
+      "category": "hard",
+      "scope": "todos",
+      "condition": "Regra sem dados ou método executado",
+      "evaluation": "Manter estado not_evaluated separado de pass, fail e not_applicable.",
+      "parameters": {},
+      "source_id": "PROJETO",
+      "enabled_for_prototype": true,
+      "implementation_status": "especificacao_nao_implementada",
+      "missing_inputs_result": "not_evaluated"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+PASS: 1136 wall edges; closed contours, no duplicates/crossings; 46 clear-face dimensions.

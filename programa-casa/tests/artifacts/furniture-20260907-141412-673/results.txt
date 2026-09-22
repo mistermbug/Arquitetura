@@ -1,0 +1,10 @@
+PASS bedroom items=3
+PASS living items=2
+PASS dining items=5
+PASS kitchen items=4
+PASS bathroom items=3
+PASS laundry items=2
+PASS office items=2
+PASS garage items=1
+PASS veranda items=1
+COMPLETE failures=0

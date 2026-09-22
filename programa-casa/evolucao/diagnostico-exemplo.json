@@ -1,0 +1,67 @@
+{
+  "origem": "programa-casa\\tests\\artifacts\\cad-20260907-123130-487\\casa-exemplo.json",
+  "nota": "Exemplo local 0.2; nao corresponde necessariamente a planta da captura enviada pelo usuario.",
+  "area_construida_m2": 129.15,
+  "ambientes": [
+    {
+      "ambiente": "Quarto 1",
+      "area_util_m2": 13.49,
+      "moveis": [
+        "bed",
+        "wardrobe"
+      ]
+    },
+    {
+      "ambiente": "Sala 1",
+      "area_util_m2": 13.49,
+      "moveis": [
+        "sofa"
+      ]
+    },
+    {
+      "ambiente": "Quarto 3",
+      "area_util_m2": 11.36,
+      "moveis": [
+        "bed",
+        "wardrobe"
+      ]
+    },
+    {
+      "ambiente": "Banheiro 1",
+      "area_util_m2": 11.36,
+      "moveis": [
+        "toilet",
+        "basin",
+        "shower"
+      ]
+    },
+    {
+      "ambiente": "Cozinha 1",
+      "area_util_m2": 10.65,
+      "moveis": [
+        "fridge",
+        "counter"
+      ]
+    },
+    {
+      "ambiente": "Lavanderia 1",
+      "area_util_m2": 10.65,
+      "moveis": [
+        "washer"
+      ]
+    },
+    {
+      "ambiente": "Quarto 2",
+      "area_util_m2": 30.1,
+      "moveis": [
+        "bed",
+        "wardrobe"
+      ]
+    },
+    {
+      "ambiente": "Circulacao",
+      "area_util_m2": 12.36,
+      "moveis": []
+    }
+  ]
+}

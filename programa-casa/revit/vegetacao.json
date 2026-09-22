@@ -1,0 +1,249 @@
+{
+  "revision": "0.4-vegetacao-2",
+  "note": "15 especies populares, sem ranking de popularidade. Medidas sao envelopes de exemplares em vaso para estudo, nao porte adulto garantido. Conferir luz, clima de BH, crescimento e manutencao no local antes da compra. Selecionar um ID em indoor/outdoor restringe a escolha automatica; [] permite todos os adequados ao ambiente.",
+  "selection": {
+    "indoor": [],
+    "outdoor": []
+  },
+  "species": [
+    {
+      "id": "areca",
+      "name": "Palmeira-areca",
+      "scientific": "Chrysalidocarpus lutescens (sin. Dypsis lutescens)",
+      "form": "palm_pinnate",
+      "canopy_mm": 1400,
+      "height_mm": 2100,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta intensa; exterior protegido na aclimatacao",
+      "water": "substrato drenante, manter umidade sem encharcar",
+      "growth": "Touceira e copa crescem muito; reservar espaco para replantio.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/indoor-plants-for-offices"
+    },
+    {
+      "id": "rafis",
+      "name": "Palmeira-rafis",
+      "scientific": "Rhapis excelsa",
+      "form": "palm_fan",
+      "canopy_mm": 1000,
+      "height_mm": 1700,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta ou meia-sombra",
+      "water": "regar apos secagem superficial, sem agua retida",
+      "growth": "Touceira de crescimento progressivo; nao encostar copa em paredes.",
+      "source": "https://plants.ces.ncsu.edu/plants/rhapis-excelsa/common-name/bamboo-palm/"
+    },
+    {
+      "id": "camadorea",
+      "name": "Palmeira-camadorea",
+      "scientific": "Chamaedorea elegans",
+      "form": "palm_pinnate",
+      "canopy_mm": 900,
+      "height_mm": 1300,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta; evitar sol forte direto",
+      "water": "manter umidade moderada, com drenagem",
+      "growth": "Exemplar jovem em vaso; prever aumento de copa e altura.",
+      "source": "https://www.rhs.org.uk/plants/chamaedorea/growing-guide"
+    },
+    {
+      "id": "kentia",
+      "name": "Palmeira-kentia",
+      "scientific": "Howea forsteriana",
+      "form": "palm_arch",
+      "canopy_mm": 1500,
+      "height_mm": 2200,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta, exterior abrigado",
+      "water": "regar quando a superficie comecar a secar",
+      "growth": "Palmeira de grande porte adulto; vaso nao elimina necessidade futura de espaco.",
+      "source": "https://www.rhs.org.uk/plants/types/trees/indoor-palms"
+    },
+    {
+      "id": "monstera",
+      "name": "Costela-de-adao",
+      "scientific": "Monstera deliciosa",
+      "form": "lobed",
+      "canopy_mm": 1100,
+      "height_mm": 1300,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta intensa ou meia-sombra",
+      "water": "secar parcialmente entre regas, sem encharcar",
+      "growth": "Trepadeira vigorosa; prever tutor e expansao, nao plantar junto a passagem estreita.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/monsteras-and-more"
+    },
+    {
+      "id": "jiboia",
+      "name": "Jiboia",
+      "scientific": "Epipremnum aureum",
+      "form": "trailing",
+      "canopy_mm": 600,
+      "height_mm": 850,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta ou meia-sombra",
+      "water": "secar parcialmente entre regas",
+      "growth": "Ramos conduzidos dentro do vaso/tutor; revisar crescimento para nao invadir a circulacao.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/monsteras-and-more"
+    },
+    {
+      "id": "zamioculca",
+      "name": "Zamioculca",
+      "scientific": "Zamioculcas zamiifolia",
+      "form": "paired",
+      "canopy_mm": 650,
+      "height_mm": 1000,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta; tolera luminosidade menor",
+      "water": "deixar substrato secar entre regas",
+      "growth": "Folhas arqueadas ampliam a ocupacao lateral.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/indoor-plants-for-offices"
+    },
+    {
+      "id": "espada",
+      "name": "Espada-de-Sao-Jorge",
+      "scientific": "Dracaena trifasciata",
+      "form": "sword",
+      "canopy_mm": 450,
+      "height_mm": 1000,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta a sol aclimatado",
+      "water": "deixar secar entre regas; boa drenagem",
+      "growth": "Touceira vertical; separar brotacoes quando o vaso ficar cheio.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/indoor-plants-for-offices"
+    },
+    {
+      "id": "lirio",
+      "name": "Lirio-da-paz",
+      "scientific": "Spathiphyllum wallisii",
+      "form": "flower_white",
+      "canopy_mm": 550,
+      "height_mm": 800,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta; evitar sol forte",
+      "water": "umidade regular sem encharcar",
+      "growth": "Copa expande; flores representadas de modo esquematico.",
+      "source": "https://www.rhs.org.uk/plants/peace-lilies"
+    },
+    {
+      "id": "anturio",
+      "name": "Anturio",
+      "scientific": "Anthurium andraeanum",
+      "form": "flower_red",
+      "canopy_mm": 500,
+      "height_mm": 700,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta intensa e local protegido",
+      "water": "substrato aerado; umidade sem saturacao",
+      "growth": "Flores e folhas variam por cultivar; revisar ventilacao.",
+      "source": "https://www.rhs.org.uk/plants/types/houseplants/monsteras-and-more"
+    },
+    {
+      "id": "samambaia",
+      "name": "Samambaia-americana",
+      "scientific": "Nephrolepis exaltata",
+      "form": "fern",
+      "canopy_mm": 800,
+      "height_mm": 850,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz filtrada, local protegido",
+      "water": "umidade regular; evitar secagem completa prolongada",
+      "growth": "Frondes pendentes precisam de folga; modelo em vaso de piso elevado.",
+      "source": "https://www.rhs.org.uk/plants/11508/nephrolepis-exaltata/details"
+    },
+    {
+      "id": "peperomia",
+      "name": "Peperomia",
+      "scientific": "Peperomia obtusifolia",
+      "form": "round",
+      "canopy_mm": 450,
+      "height_mm": 600,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta, exterior protegido",
+      "water": "deixar secar parcialmente; substrato drenante",
+      "growth": "Porte compacto em vaso; altura inclui cachepo.",
+      "source": "https://www.rhs.org.uk/plants/peperomia/how-to-grow-peperomia"
+    },
+    {
+      "id": "ficus_lira",
+      "name": "Ficus-lira",
+      "scientific": "Ficus lyrata",
+      "form": "tree_broad",
+      "canopy_mm": 1000,
+      "height_mm": 2000,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta intensa; aclimatar mudancas",
+      "water": "regar apos secagem superficial, drenagem livre",
+      "growth": "Arvore de grande porte; aqui apenas exemplar jovem em vaso, sem plantio no solo.",
+      "source": "https://plants.ces.ncsu.edu/plants/ficus-lyrata/"
+    },
+    {
+      "id": "clorofito",
+      "name": "Clorofito",
+      "scientific": "Chlorophytum comosum",
+      "form": "strap",
+      "canopy_mm": 450,
+      "height_mm": 600,
+      "settings": [
+        "indoor",
+        "outdoor"
+      ],
+      "light": "luz indireta ou meia-sombra",
+      "water": "regar moderadamente com boa drenagem",
+      "growth": "Estoloes aumentam a projecao; conduzir ou remover quando invadirem passagem.",
+      "source": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/common-name/chlorophytum/"
+    },
+    {
+      "id": "jade",
+      "name": "Planta-jade",
+      "scientific": "Crassula ovata",
+      "form": "succulent",
+      "canopy_mm": 650,
+      "height_mm": 900,
+      "settings": [
+        "outdoor"
+      ],
+      "light": "luz intensa, sol suave aclimatado e sombra a tarde",
+      "water": "deixar secar; evitar substrato constantemente umido",
+      "growth": "Arbusto suculento; nao selecionar para canto interno escuro.",
+      "source": "https://plants.ces.ncsu.edu/plants/crassula-ovata/"
+    }
+  ]
+}

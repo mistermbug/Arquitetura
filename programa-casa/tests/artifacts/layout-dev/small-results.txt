@@ -1,0 +1,817 @@
+PASS small 1/1
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS one bedroom
+PASS two bathrooms
+PASS small 1/2
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS one bedroom
+PASS two bathrooms
+PASS small 1/3
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small positive room R8
+PASS small room inside slab R8
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small nonzero wall W23
+PASS small nonzero wall W24
+PASS small nonzero wall W25
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS small opening has host O18
+PASS small opening on axis O18
+PASS small opening fits host O18
+PASS one bedroom
+PASS two bathrooms
+PASS small 42/1
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS one bedroom
+PASS two bathrooms
+PASS small 42/2
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS one bedroom
+PASS two bathrooms
+PASS small 42/3
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small positive room R8
+PASS small room inside slab R8
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small nonzero wall W23
+PASS small nonzero wall W24
+PASS small nonzero wall W25
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS small opening has host O18
+PASS small opening on axis O18
+PASS small opening fits host O18
+PASS one bedroom
+PASS two bathrooms
+PASS small 91/1
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS one bedroom
+PASS two bathrooms
+PASS small 91/2
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS one bedroom
+PASS two bathrooms
+PASS small 91/3
+PASS small slab positive
+PASS small positive room R1
+PASS small room inside slab R1
+PASS small positive room R2
+PASS small room inside slab R2
+PASS small positive room R3
+PASS small room inside slab R3
+PASS small positive room R4
+PASS small room inside slab R4
+PASS small positive room R5
+PASS small room inside slab R5
+PASS small positive room R6
+PASS small room inside slab R6
+PASS small positive room R7
+PASS small room inside slab R7
+PASS small nonzero wall W1
+PASS small nonzero wall W2
+PASS small nonzero wall W3
+PASS small nonzero wall W4
+PASS small nonzero wall W5
+PASS small nonzero wall W6
+PASS small nonzero wall W7
+PASS small nonzero wall W8
+PASS small nonzero wall W9
+PASS small nonzero wall W10
+PASS small nonzero wall W11
+PASS small nonzero wall W12
+PASS small nonzero wall W13
+PASS small nonzero wall W14
+PASS small nonzero wall W15
+PASS small nonzero wall W16
+PASS small nonzero wall W17
+PASS small nonzero wall W18
+PASS small nonzero wall W19
+PASS small nonzero wall W20
+PASS small nonzero wall W21
+PASS small nonzero wall W22
+PASS small opening has host O1
+PASS small opening on axis O1
+PASS small opening fits host O1
+PASS small opening has host O2
+PASS small opening on axis O2
+PASS small opening fits host O2
+PASS small opening has host O3
+PASS small opening on axis O3
+PASS small opening fits host O3
+PASS small opening has host O4
+PASS small opening on axis O4
+PASS small opening fits host O4
+PASS small opening has host O5
+PASS small opening on axis O5
+PASS small opening fits host O5
+PASS small opening has host O6
+PASS small opening on axis O6
+PASS small opening fits host O6
+PASS small opening has host O7
+PASS small opening on axis O7
+PASS small opening fits host O7
+PASS small opening has host O8
+PASS small opening on axis O8
+PASS small opening fits host O8
+PASS small opening has host O9
+PASS small opening on axis O9
+PASS small opening fits host O9
+PASS small opening has host O10
+PASS small opening on axis O10
+PASS small opening fits host O10
+PASS small opening has host O11
+PASS small opening on axis O11
+PASS small opening fits host O11
+PASS small opening has host O12
+PASS small opening on axis O12
+PASS small opening fits host O12
+PASS small opening has host O13
+PASS small opening on axis O13
+PASS small opening fits host O13
+PASS small opening has host O14
+PASS small opening on axis O14
+PASS small opening fits host O14
+PASS small opening has host O15
+PASS small opening on axis O15
+PASS small opening fits host O15
+PASS small opening has host O16
+PASS small opening on axis O16
+PASS small opening fits host O16
+PASS small opening has host O17
+PASS small opening on axis O17
+PASS small opening fits host O17
+PASS one bedroom
+PASS two bathrooms
+COMPLETE passed=816 failed=0

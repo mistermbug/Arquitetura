@@ -1,0 +1,5 @@
+PASS JSON roundtrip
+PASS JSON literals
+PASS Malformed JSON rejected
+PASS Snapshot original
+PASS Valid shrink

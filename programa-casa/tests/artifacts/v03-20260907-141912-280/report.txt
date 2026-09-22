@@ -1,0 +1,16 @@
+FAIL 1-2-1 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-2-42 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-2-91 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-1 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-42 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 1-3-91 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-2-1 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-2-42 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-2-91 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-3-1 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-3-42 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 2-3-91 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 3-3-1 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 3-3-42 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+FAIL 3-3-91 Conjunto funcional nao cabe: Sala. Ajuste dimensoes ou tente outra alternativa.
+COMPLETE passed=10910 failed=15 drawings=1

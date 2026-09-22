@@ -1,0 +1,2617 @@
+
+
+--- Página PDF 1 ---
+Representação 
+Gráfica de 
+projetos 
+arquitetônicos
+Cartilha informativa
+
+--- Página PDF 2 ---
+Objetivo
+Esta cartilha, documento de natureza 
+didática, em compatibilidade com a Portaria 
+SMPU nº 054/2023, tem como objetivo 
+dispor as normas e exigências para o 
+licenciamento e regularização de edificação, 
+utilizando material ilustrado para discorrer 
+sobre a forma de representação do projeto 
+arquitetônico legal e detalhar para os 
+responsáveis técnicos os quesitos mínimos 
+necessários das peças gráficas a serem 
+apresentadas para análise do projeto.
+Esta cartilha se aplica a processos protocolados 
+sob a luz da legislação vigente- Lei nº 11.181, 
+de 2019.
+Para processos com protocolo sob a luz da
+legislação vigente, porém até a data de vigência
+desta portaria, e para aqueles processos com
+direito de protocolo conferido pelo art. 355 da
+Lei nº 11.181, de 2019, se aplicarão a Portaria
+SMPU Nº 006/2020 e a Portaria SMPU Nº
+001/2018, respectivamente.
+Link com informações e material para 
+processos anteriores a esta Cartilha: linkRecomenda-se que a consulta a esta Cartilha seja 
+sempre feita on-line, pois haverá atualização e 
+versionamento sempre que necessário.
+
+--- Página PDF 3 ---
+Informações importantes
+Esta cartilha contém material único tanto para empreendimentos da iniciativa privada 
+quanto para empreendimentos do Poder Público*. Dessa forma, atenção às etiquetas e 
+informações que indicam quais peças gráficas ou informações são pertinentes a cada caso.
+edificações privadas 
+e públicasedificações privadas 
+Se aplica a todos 
+os projetos da 
+iniciativa privada e 
+a todos os projetos 
+do Poder Público.
+edificações públicas 
+Se aplica a todos os 
+projetos  do Poder 
+Público.
+Se aplica a todos os 
+projetos  da 
+iniciativa privada.
+*Define-se empreendimentos do Poder Público aqueles cujo requerente seja 
+um Órgão Público de qualquer esfera: Federal, Estadual ou Municipal.
+
+--- Página PDF 4 ---
+Sumário Geral
+TÍTULO 1 Selo
+TÍTULO 2 Projeto Arquitetônico
+TÍTULO 3 Memória de Áreas
+Memorial Descritivo
+Planta de Vértices
+TÍTULO 4
+TÍTULO 5
+pág. 05
+pág. 23
+pág. 79
+pág. 125
+pág. 128
+
+--- Página PDF 5 ---
+Sumário
+TÍTULO 1 Selo
+1
+2
+Selo das Pranchas [parte 1]
+Selo das Pranchas [parte 2]
+pág. 06
+pág. 21
+5
+
+--- Página PDF 6 ---
+Orientações gerais
+-O Selo [Parte 1] é o selo padrão que todas as 
+pranchas deve possuir, localizado no seu canto 
+inferior direito, para possibilitar o agrupamento e 
+a fácil localização dos dados básicos.
+-Deverão ser utilizados os dois modelos de selo: 
+um completo, para a primeira prancha e o outro 
+simplificado, para as pranchas subsequentes, 
+quando houver.
+edificações privadas 
+e públicas
+Selo
+Divisão do Selo por áreas de assuntos:
+Selo das Pranchas [Parte 1]
+6
+-O selo é dividido em 5 áreas (A, B, C, D e E) 
+que serão explicadas na sequência.
+
+--- Página PDF 7 ---
+edificações privadas 
+e públicas
+Selo
+Disponível em 
+formato .dwg: link
+Selo das Pranchas [Parte 1]
+7
+1º Prancha Demais pranchas
+
+--- Página PDF 8 ---
+1º Prancha Demais pranchas
+edificações privadas 
+e públicas
+A
+A
+Área A
+Área reservada para preenchimento 
+exclusivo da PBH. Não deve ser 
+alterada ou preenchida pelo RT.
+O campo “observações de 
+aprovação” será utilizado para 
+observações específicas e variáveis 
+do projeto.
+Selo
+Selo das Pranchas [Parte 1]
+8
+
+--- Página PDF 9 ---
+1º Prancha Demais pranchas
+edificações privadas 
+e públicas
+B
+Área B
+Dados do projeto proposto 
+como áreas, número de 
+vagas, número de unidades, 
+enquadramentos e 
+especificidades da legislação 
+aplicáveis ao projeto.
+Deve conter dados idênticos 
+aos dispostos no Portal de 
+Edificações.
+Selo das Pranchas [Parte 1]
+9
+Selo
+
+--- Página PDF 10 ---
+edificações privadas 
+e públicas
+Legislação:
+marcar com um “x” a legislação aplicada 
+de forma condizente ao declarado no 
+Portal de Edificações. Pode ser marcada 
+mais de uma opção e ainda escrever 
+legislação específica, se for o caso.
+Título do Projeto: marcar com um “x” o 
+título do projeto, podendo ser marcada 
+mais de uma opção, se for o caso. Ver 
+material informativo de títulos.
+Tipo de Uso: marcar com um “x” uma 
+única opção de uso.
+Material informativo de títulos disponível em:
+Link 01 Link 02
+Área B
+Selo das Pranchas [Parte 1]
+10
+Selo
+
+--- Página PDF 11 ---
+edificações privadas 
+e públicas
+Edificação Horizontal:
+marcar com um “x” quando fizer uso
+dos parâmetros da Tabela 9 do Anexo
+XII da Lei nº 11.181, de 2019/19.
+Empreendimento de impacto: marcar 
+com um “x” quando se enquadrar como 
+empreendimento de impacto, ou seja, 
+possuir Parecer de Licenciamento 
+Urbanístico- PLU ou Licença de 
+Instalação- LI prévia à aprovação das 
+edificações.
+Área B
+Selo das Pranchas [Parte 1]
+11
+Selo
+
+--- Página PDF 12 ---
+edificações privadas 
+e públicas
+Decreto Federal 9.451/18:
+O Decreto dispõe sobre os preceitos
+de acessibilidade relativos ao projeto e
+à construção de edificação de uso
+privado multifamiliar.
+Marcar com um “x” uma única opção
+aplicável ao projeto residencial
+multifamiliar ou à parte residencial do
+uso misto, conforme Decreto 9.451/18.
+Área B
+Selo das Pranchas [Parte 1]
+12
+Selo
+TCU: marcar com um “x” quando o 
+projeto tiver a obrigatoriedade do 
+Termo de Conduta Urbanística- TCU, 
+que conterá mais informações.
+
+--- Página PDF 13 ---
+edificações privadas 
+e públicas
+Área Construída (Bruta): área total 
+construída, sem o fator multiplicador de pé-
+direito, quando for o caso. Em m² com duas 
+casas, sem arredondamento e compatível 
+com a Planilha de Cálculo de Áreas 
+(exemplo: 400,74 m²).
+Coeficiente de Aproveitamento: em formato 
+decimal com duas casas, sem 
+arredondamento e compatível com a Planilha 
+de Cálculo de Áreas (exemplo: 0,98).
+Taxa de permeabilidade: em formato 
+percentual com duas casas, sem 
+arredondamento e compatível com a Planilha 
+de Cálculo de Áreas (exemplo: 23,07%).
+Área B
+Selo das Pranchas [Parte 1]
+13
+Selo
+
+--- Página PDF 14 ---
+edificações privadas 
+e públicas
+Nº de unidades residenciais: número 
+total de unidades residenciais.
+Nº de vagas: número total de vagas de 
+estacionamento para veículos, devendo: 
+1) incluir as vagas de veículos leves 
+(inclusive as vagas PCD) e as vagas de 
+carga e descarga.
+2) excluir as vagas de embarque e 
+desembarque, as vagas de motos e as 
+vagas de bicicletas.
+Área B
+Selo das Pranchas [Parte 1]
+14
+Selo
+Nº de unidades não-residenciais: número 
+total de unidades não-residenciais.
+
+--- Página PDF 15 ---
+1º Prancha Demais pranchas
+edificações privadas 
+e públicas
+Área C
+Dados do lote ou terreno 
+(conjunto de lotes) de 
+acordo com os dados da 
+Informação Básica de 
+Edificações - Ibed.
+Selo das Pranchas [Parte 1]
+C
+15
+Selo
+
+--- Página PDF 16 ---
+edificações privadas 
+e públicas
+Identificação do Terreno:
+preencher dados do(s) lote(s) 
+conforme Ibed.
+Informações urbanísticas de 
+zoneamento e áreas específicas: 
+preencher dados conforme Ibed. No 
+campo “Áreas de”  deverão ser 
+marcadas todas as opções, 
+conforme a Ibed. Nome do(s) logradouro(s) e Classificação Viária: Nome oficial de todos os 
+logradouros lindeiros ao lote ou terreno, conforme indicado na Ibed, sempre utilizando 
+tipo( Rua, Avenida, Alameda, etc).
+Indicar a classificação viária à frente de cada logradouro. Não é necessário indicar os 
+demais dados dos logradouros presentes na Ibed.
+Área C
+Selo das Pranchas [Parte 1]
+16
+Selo
+
+--- Página PDF 17 ---
+1º Prancha Demais pranchas
+edificações privadas 
+e públicas
+D
+Área D
+Dados do(s) responsável(eis) 
+técnico(s), requerente(s), além de 
+notas de responsabilidade.
+Nesta área consta espaço para 
+assinaturas do RT e do 
+requerente, que poderá ser 
+utilizado após aprovação do 
+projeto, depois de impresso para 
+ser levado ao cartório e à obra. 
+Atenção: Não devem existir 
+assinaturas para aprovação na 
+PBH (nem física, nem digital).
+Selo das Pranchas [Parte 1]
+17
+Selo
+D
+
+--- Página PDF 18 ---
+edificações privadas 
+e públicas
+Dados do Responsável Técnico- RT :
+nome de todos os responsáveis técnicos 
+pelo licenciamento e/ou regularização, 
+pessoa física ou jurídica, bem como o 
+número da identidade profissional de 
+registro no Conselho Regional de 
+Engenharia e Agronomia- Crea ou 
+Conselho de Arquitetura e Urbanismo-
+CAU, condizente com o Portal de 
+Edificações.
+No caso de as-built orienta-se manter o 
+RT original e acrescentar o RT de as-
+built, se forem diferentes. Não colocar 
+logomarcas das empresas.
+Campo de indicação de 
+responsabilidades: não editar.
+Obs.: Outras notas e termos de 
+responsabilidade, não expressas no 
+selo,  estarão no Termos de 
+Compromisso do Portal de 
+Edificações.
+Área D
+Dados do requerente :
+nome de todos os requerentes ou responsável 
+legal com o número do Cadastro de Pessoa 
+Física- CPF ou do Cadastro Nacional de Pessoas 
+Jurídicas- CNPJ . Os dados têm que estar 
+idênticos aos dispostos no  Portal de Edificações. 
+Não colocar logomarcas das empresas.
+Selo das Pranchas [Parte 1]
+18
+Selo
+
+--- Página PDF 19 ---
+1º Prancha Demais pranchas
+edificações privadas 
+e públicas
+ E
+Área E
+Dados da prancha como 
+numeração,  data da revisão  
+e conteúdo de cada prancha.
+Selo das Pranchas [Parte 1]
+19
+Selo
+E
+
+
+--- Página PDF 20 ---
+edificações privadas 
+e públicas
+Prancha:
+numeração de cada prancha em 
+formato de número da prancha/ total 
+de pranchas.
+Conteúdo prancha: conteúdo de cada 
+prancha (nome das peças gráficas e 
+indicação de quais níveis) Ex.: Planta 
+de Situação e Planta Nível 1- Térreo ).
+Data: data da revisão 
+correspondente em formato 
+mês/ano.
+Área E
+Selo das Pranchas [Parte 1]
+20
+Selo
+
+--- Página PDF 21 ---
+-O Selo [Parte 2] são quadros com 
+legendas padronizadas utilizados junto 
+com o Selo [Parte 1].
+- Padrão de Hachuras: quadro com 
+legenda das hachuras a serem utilizadas 
+nas paredes das plantas e cortes em 
+todas as modalidades de aprovação: 
+inicial, modificação ou levantamento com 
+o objetivo de esclarecer as diferentes 
+partes do projeto e a forma de 
+licenciamento ou regularização a qual se 
+submetem na aprovação pleiteada.
+Deve ser disposto logo acima do selo 
+[parte 1], em todas as pranchas.
+*Para a modalidade levantamento total,
+quando existir a regularização por uma
+legislação apenas (nº 9.074, de 2005 ou Lei
+vigente- nº 11.181, de 2019), a hachura
+poderá não ser utilizada com o objetivo de
+simplificação de desenho, ficando a parede
+sem nenhuma hachura, equivalente ao
+padrão de “parede proposta”
+edificações privadas 
+e públicas
+Disponível em formato .dwg: link
+Selo das Pranchas [Parte 2]
+21
+Selo
+
+--- Página PDF 22 ---
+edificações privadas 
+e públicas Disponível em formato .dwg: link
+Selo das Pranchas [Parte 2]
+22
+Selo
+-O Selo [Parte 2] são quadros com 
+legendas padronizadas utilizados junto 
+com o Selo [Parte 1].
+-Padrão de Símbolos PBH: representação 
+a ser utilizada em projeto e sua legenda.
+Deve ser disposto acima do Selo [parte 1], 
+pelo menos na 1ª prancha.
+
+--- Página PDF 23 ---
+Sumário
+TÍTULO 2 Projeto Arquitetônico 
+1
+2
+Planta de Situação
+Planta dos Níveis
+3 Passeio
+4
+5 Cortes
+6
+7
+Fachadas
+Elevação do Gradil
+Planta de Cobertura
+pág. 28
+pág. 36
+pág. 49
+pág. 54
+pág. 56
+pág. 60
+pág. 62
+23
+-Peças Gráficas Obrigatórias-
+edificações privadas 
+
+--- Página PDF 24 ---
+Sumário
+TÍTULO 2 Projeto Arquitetônico
+8
+9
+Planta de Implantação
+Elevação das Divisas
+pág. 63
+pág. 67
+24
+-Peças Gráficas 
+Complementares-
+10
+Mapa Chave pág. 66
+edificações privadas 
+
+--- Página PDF 25 ---
+Sumário
+TÍTULO 2 Projeto Arquitetônico
+1
+2
+Planta de Implantação pág. 63
+25
+Planta de Situação
+3
+Passeio
+4
+Cortes
+pág. 28
+pág. 49
+pág. 56
+-Peças Gráficas Obrigatórias-
+edificações públicas
+
+--- Página PDF 26 ---
+Sumário
+TÍTULO 2 Projeto Arquitetônico
+7
+8
+Elevação das Divisas* pág. 67
+26
+5
+6 Planta dos Níveis*
+Fachadas*
+Elevação do Gradil*
+Planta de Cobertura*
+pág. 36
+pág. 54
+pág. 60
+pág. 629
+-Peças Gráficas Complementares-
+*Para os projetos do Poder 
+Público que não utilizam o 
+método de aprovação com 
+indicação de Tipologia Padrão, 
+essas peças complementares 
+passam a ser obrigatórias.
+Mapa Chave
+10
+pág. 66
+edificações públicas
+
+--- Página PDF 27 ---
+Sumário
+TÍTULO 2 Projeto Arquitetônico
+2
+Representação para Modificação Simplificada com Alterações 
+Pontuais
+1 pág. 69
+Representação para Modificação com Alteração em Parâmetro 
+Urbanístico
+Representação para Ajuste de Projeto (As Built)
+5 Representação para Ajuste de Levantamento (As Built)
+pág. 75
+pág. 77
+-Particularidades de Representação de Projeto-
+27
+edificações privadas 
+e públicas
+3
+4
+Representação para Modificação ou Regularização de 
+Unidade Autônoma
+pág. 71
+pág. 73
+
+--- Página PDF 28 ---
+Objetivo: representar em escala macro a situação de 
+ocupação do lote/terreno, da caixa do logradouro público, 
+dos lotes/terrenos lindeiros e dos níveis do lote/ terreno, 
+demonstrando cumprimento de parâmetros.
+Escala máxima: 1/200
+1 - Representação do terreno conforme Cadastro de 
+Plantas - CP (em linha tracejada) e do terreno real (em 
+linha contínua): apenas o eixo de divisa (sem os muros), 
+com todas dimensões cotadas em relação à pior situação.
+2- Identificação e situação de ocupação dos lotes vizinhos.
+Identificação: LOTE XXX ou TERRENO INDIVISO. 
+Situação de ocupação: VAGO ou CONSTRUÍDO.
+Projeto Arquitetônico
+Planta de Situação
+Disponível em formato .pdf: link
+12
+28
+
+--- Página PDF 29 ---
+3 - Perímetro cotado de todos os níveis sobrepostos, do 
+nível térreo ao nível de cobertura, identificados e com 
+penas e hachuras diferenciadas.
+4 - Cotas dos afastamentos frontais, laterais e de fundos 
+de todos os níveis, perpendiculares em relação às divisas, 
+nos pontos críticos e sempre nas situações de terreno CP e 
+de terreno real, quando não coincidentes.
+5 - Representação das linhas limites dos passeios de 
+ambos os lados da via e da pista de rolamento com nomes 
+das vias, e cotas das larguras. Não indicar elementos de 
+passeio nesta planta, com exceção do rebaixo para acesso 
+de veículos.
+Planta de Situação
+29
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+3
+4
+5
+
+--- Página PDF 30 ---
+6 - Níveis nos vértices dos lotes e terrenos (lote a lote), em conformidade 
+com os níveis da Prodabel indicados na Ibed, nos lotes CP e real quando de 
+dimensões divergentes.
+7- Nos pontos extremos de cada trecho onde a edificação toca a divisa, 
+indicar os níveis do terreno natural em conformidade com os níveis da 
+Prodabel constantes na Ibed.
+OBS.: Em caso de níveis do planialtimétrico divergentes, apresentar 
+levantamento topográfico e fazer a indicação da correspondência com níveis 
+Prodabel em consonância com o orientado no e-book “Representação de 
+níveis do terreno” disponível no Portal de Serviços da PBH.
+Planta de Situação
+Cartilha informativa “Representação de 
+níveis do terreno” disponível em: link
+30
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+6
+7
+
+--- Página PDF 31 ---
+8- Linhas de corte, conforme também representadas nas Plantas dos 
+Níveis.
+9 - Quando houver largura final de via com previsão de recuo do 
+alinhamento ou com diretriz de recuo de alinhamento dada por projeto 
+viário prioritário - PVP, representar o alinhamento atual e o projetado, de 
+ambos os lados, e os eixos das vias, devidamente cotados, em vários 
+pontos, caso as dimensões sejam variadas. O eixo da via situa-se no 
+ponto médio da distância entre os alinhamentos dos lotes (metade da 
+caixa da via completa). Neste caso, os afastamentos deverão ser cotados 
+a partir do final da previsão de recuo de alinhamento, quando essa 
+demarcação der para dentro do (s) lote(s).
+OBS.: Informações do recuo de alinhamento podem ser obtidas no Anexo 
+IV - Mapa de Projetos Estratégicos, da Lei nº 11.181, de 2019 assim 
+como também na Informação Básica de Edificações para o lote.
+Planta de Situação
+31
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+8
+9
+
+--- Página PDF 32 ---
+10- Identificar e cotar as áreas do terreno atingidas por 
+restrições de ocupação, tais como Áreas de Preservação 
+Permanente - APPs, Unidades de Preservação-UPs, áreas não 
+edificantes, zonas de  Preservação Ambiental - PA 1, 
+Conexões de Fundo de Vale, áreas de Projeto Viário 
+Prioritário- PVP, faixas de servidão, faixas de domínio e outras 
+que forem pertinentes, quando for o caso.
+Planta de Situação
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+10
+
+--- Página PDF 33 ---
+11- Arborização: indicar todas as árvores a suprimir, a manter, 
+a plantar e a transplantar, numeradas e com o devido porte 
+(pequeno, médio ou grande), conforme representação Padrão 
+de Símbolos PBH. 
+Planta de Situação
+33
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+11*Para aprovações públicas que 
+não utilizarem a tipologia padrão
+Utilizar a representação Padrão de 
+Símbolos PBH. Ver página 22 desta cartilha.
+
+--- Página PDF 34 ---
+11- Arborização:  No caso de haver proposta de 
+supressão ou transplantio, apresentar também tabela 
+padrão que indique as árvores a manter, a suprimir, a 
+plantar, a transplantar, contendo: numeração dos 
+espécimes equivalente ao que consta na Planta de 
+Situação, identificação da espécie (nomes popular e 
+científico) e altura dos espécimes;
+OBS.: Caso o número de árvores seja muito grande, 
+causando ilegibilidade para ser representado na Planta de 
+Situação, deverá ser apresentada Planta de Árvores em 
+formato à parte, com a projeção da edificação e a 
+representação e numeração das árvores. 
+Planta de Situação
+34
+Disponível em formato .dwg e .pdf: link
+Projeto Arquitetônico
+
+
+--- Página PDF 35 ---
+Disponível em formato .pdf: link
+12- Para edificações do Poder Público deverá ser indicado 
+na projeção das edificações na Planta de Situação: o 
+número do protocolo gerado pela Sureg no procedimento 
+de aprovação das tipologias edilícias públicas 
+padronizadas assim como a data de aprovação e a 
+nomenclatura da tipologia.
+Planta de Situação
+Projeto tipologia padrão 
+Nomenclatura xx, 
+processo nº  xxxxx, 
+aprovado em xx/xx/xx.
+35
+Projeto Arquitetônico
+
+--- Página PDF 36 ---
+1 - Níveis de implantação da edificação em conformidade 
+com os níveis da Prodabel indicados na Ibed.
+OBS.: Em caso de níveis do planialtimétrico divergentes, 
+apresentar levantamento topográfico e fazer a indicação 
+da correspondência com níveis Prodabel em consonância 
+com o orientado no e-book “Representação de níveis do 
+terreno” disponível no Portal de Serviços da PBH.
+2- Representação do terreno conforme CP (em linha 
+tracejada) e do terreno real (em linha contínua) na planta 
+onde tiver representação do passeio.
+Planta dos Níveis
+36
+Cartilha informativa “Representação de níveis do 
+terreno” disponível em: link
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+2
+1
+
+--- Página PDF 37 ---
+3 - Linhas de corte.
+4- Dimensão de portas e janelas e outros vãos em planta ou em 
+Tabela de Esquadria com indicação do código em planta.
+5 - Indicação do uso dos compartimentos, conforme finalidade 
+lógica, identificação e numeração das unidades autônomas.
+6 - Perímetro cotado de todos os níveis, de forma compatível com 
+as cotas dos perímetros da Planta de Situação e dos Polígonos de 
+cálculo. Cotas básicas dos ambientes e circulações.
+Planta dos Níveis
+37
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+3
+4
+5
+6
+
+--- Página PDF 38 ---
+7- Representação da área permeável devidamente cotada e 
+hachurada.  Na hipótese de utilização do disposto no § 2º do art. 
+161, da Lei nº 11.181, de 2019, deve ser demonstrada a 
+aplicação da regra dos 45º em caso de áreas permeáveis 
+cobertas.
+8-Representação da projeção da caixa de captação e seu alçapão 
+de visita com indicação de dimensões, volume e diâmetro de saída 
+e dos demais dispositivos de drenagem, se houver, que devem ser 
+compatíveis com os valores contidos na Planilha de Cálculo de 
+Áreas. A caixa de captação deverá ser projetada e construída 
+conforme Portaria SMPU n° 007, de 2020.
+Planta dos Níveis
+38
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+7
+8
+
+--- Página PDF 39 ---
+9 - Representação da área de fruição pública, se houver, 
+identificando áreas permeáveis, áreas de permanência, 
+arborização, mobiliário urbano, iluminação, placa de 
+identificação, acesso com acessibilidade e solução de 
+fechamento. Utilizar Padrão de Símbolos PBH.
+10 - Nos níveis onde houver área de estacionamento, indicar 
+todas as vagas, presas ou livres, numeradas e cotadas. As 
+vagas presas deverão ser identificadas como tal. Identificar 
+se o nível de estacionamento é Residencial ou Não-
+Residencial ou indicar vagas residenciais e não-residenciais 
+quando estas se misturarem em um mesmo estacionamento 
+de uso Misto. 
+Planta dos Níveis
+39
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+10
+*Para aprovações públicas que 
+não utilizarem a tipologia padrão
+Utilizar a representação Padrão de 
+Símbolos PBH. Ver página 22 desta cartilha.
+
+--- Página PDF 40 ---
+11 - Representação de paraciclos ou bicicletário com 
+numeração das vagas, se houver.
+12 - Representação do abrigo de resíduos sólidos - ARS ou 
+da previsão de espaço reservado para a colocação de 
+contenedor(es): indicando atendimento à Portaria Conjunta 
+SMPU/SLU vigente (Portaria Conjunta Municipal SMPU/SLU 
+nº 001 de 3 de Março de 2021), ao benefício urbanístico de 
+adequação da edificação a medidas de resiliência e 
+sustentabilidade de incentivo à reciclagem ou ao projeto 
+previamente aprovado pela SLU, se for o caso.
+Planta dos Níveis
+40
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+12
+
+--- Página PDF 41 ---
+13 - Discriminar através de hachuras nas paredes,  as 
+áreas existentes com Certidão de baixa de construção 
+ou projeto aprovado, os acréscimos propostos e as 
+áreas existentes a regularizar, quando for o caso, 
+conforme padrão PBH.
+OBS.: Nos casos de regularização de edificações 
+situadas em conjuntos urbanos protegidos ou ADEs de 
+Interesse Cultural, discriminar através de hachuras nas 
+paredes, as áreas existentes a regularizar, 
+relacionadas com a data da normativa que instituiu 
+diretrizes de projeto para o perímetro em que se 
+situam.
+Planta dos Níveis
+Utilizar o Padrão de 
+Hachuras PBH. Ver página 
+21 desta cartilha.
+41
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+exemplo aplicação Padrão de Hachuras
+13
+
+
+--- Página PDF 42 ---
+14 - Indicar no título da planta que corresponde ao “Nível 
+Térreo” da edificação, que servirá de referência para aferir 
+o valor do “H” no caso de empreendimentos a serem 
+implantados em um único lote.
+Indicar o ponto médio de cada lote para referência do H no 
+caso de empreendimentos em mais de um lote.
+Identificar o nível térreo para aferir o “H” e para atribuir 
+benefícios urbanísticos, nos termos da Lei nº 11.181, de 
+2019 (glossário) e do Decreto 17.273/20.
+Planta dos Níveis
+edificações privadas 
+e públicas*
+42
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+
+
+--- Página PDF 43 ---
+15 - Indicar escadas em linha cheia e projeções de escadas 
+em linha tracejada.
+Indicar e cotar escadas em suas larguras, patamares e pisos. 
+Indicar textualmente informações sobre guarda-corpo e 
+corrimão, numerar espelhos e indicar sentido de subida. 
+Indicar graficamente casos de prolongamento de corrimão 
+obrigatório, conforme as normativas de acessibilidade.
+16 - Quando houver piso rampado (i<5%) ou rampa (i>=5%) 
+de veículos, cotar largura e comprimento, indicar os níveis de 
+início e fim, sentido, inclinação e patamares. Indicar ainda 
+textualmente informações sobre guarda-corpo.
+17- Indicar ventilação mecânica (com a sigla V.M.), onde se 
+aplicar.
+Planta dos Níveis
+43
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+17
+16
+15
+
+--- Página PDF 44 ---
+18 - Indicar em linha tracejada todos os elementos acima do 
+plano de corte de planta, tais como beirais, marquises, 
+pérgolas, brises, saliências, etc, com as devidas cotas 
+representando o cumprimento das regras de afastamentos.
+19- Representar os elementos como brises, saliências e 
+jardineiras, em vista, quando abaixo do plano de corte, com 
+as devidas cotas representando o cumprimento das regras 
+de afastamentos.
+Planta dos Níveis
+44
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+18
+
+--- Página PDF 45 ---
+Representação de itens de acessibilidade:
+20 - Cotar largura e comprimento de todas as circulações e seus 
+possíveis obstáculos de estrangulamento em todas as rotas e 
+ambientes acessíveis, a fim de que seja possível verificar o 
+cumprimeto das regras afetas a acessibilidade.
+21 - Indicar os níveis e como se vence os desníveis em todas as 
+rotas e ambientes acessíveis, como por exemplo: “soleira 
+rampada” ou “desnível máximo admitido de 5mm”, conforme 
+normativas de acessibilidade.
+22 - Quando houver piso rampado (i<5%) ou rampa (i>=5%)de 
+pedestres, cotar largura e comprimento, indicar os níveis de início 
+e fim, sentido, inclinação e patamares. Nos casos das rampas, 
+indicar ainda informações sobre guarda-corpo e corrimão e seus 
+prolongamentos. Utilizar informações que permitam verificar o 
+cumprimento das normas de acessibilidade. 
+Planta dos Níveis
+45
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+20
+22
+21
+
+--- Página PDF 46 ---
+Representação de itens de acessibilidade:
+23- Representar, indicar e cotar elevadores, previsão de 
+elevadores ou plataformas elevatórias, conforme solução 
+de acessibilidade proposta.
+24- Indicar através de cotas ou de módulo de referência o 
+cumprimento das áreas de aproximação de portas, 
+conforme exigência da NBR 9050 vigente.
+25- Nos sanitários, banheiros ou vestiários acessíveis, 
+indicar o cumprimento das dimensões através de diâmetro 
+de giro e módulo de referência e representar o layout 
+mínimo interno, cotando as sobreposições com louça 
+sanitária e pia, conforme exigência da NBR 9050 vigente.
+Planta dos Níveis
+46
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+24
+25 23
+
+--- Página PDF 47 ---
+Representação de itens de acessibilidade:
+26- Nos estacionamentos, indicar e cotar as vagas acessíveis, 
+conforme exigência da NBR 9050 vigente. Indicar se cada vaga 
+acessível será ou não de uso comum do condomínio conforme 
+legislação vigente.
+27- Em caso de unidades residenciais internamente acessíveis, 
+indicar todos os elementos de layout mínimo, áreas de aproximação, 
+raios de giro, cotas para conferência, conforme exigência expressa 
+no Anexo I do Decreto 9.451/18, que dispõe sobre acessibilidade em 
+residenciais multifamiliares..
+Em caso de unidades residenciais adaptáveis, também conforme 
+exigência do Decreto 9.451/18, marcar a nota específica no Selo.
+28- Se houver algum cômodo que que se enquadre como “uso 
+restrito” de acordo com a NBR 9050, escrever dentro do 
+compartimento: USO RESTRITO. 
+Planta dos Níveis
+47
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+26
+
+--- Página PDF 48 ---
+Representação de itens de acessibilidade:
+29- Para edificações existentes a serem regularizadas pela Lei nº 9.074, 
+de 2005, em caso de enquadramento e opção por Adaptação Razoável, 
+conforme disposto da Lei Federal nº13.146, de 2015, na Lei Municipal nº 
+11.416, de 2023 e no Decreto Municipal nº 13.842, de 2010, deverá ser 
+apresentado, no momento do protocolo do projeto, Laudo Técnico 
+explicando e comprovando a impossibilidade técnica ou o ônus 
+desproporcional no atendimento às normas de acessibilidade além da  
+RRT ou ART de Laudo Técnico.
+O Laudo Técnico deverá conter informações técnicas explicativas, fotos 
+do local, resultados de ensaios técnicos, material gráfico explicando e 
+apresentando a impossibilidade e /ou a proposta de adaptação razoável 
+em plantas baixas parciais, ressaltando-se o trecho em questão (e em 
+outras peças gráficas, quando necessário).
+Lembrando que a proposta arquitetônica relatada no Laudo deverá 
+constar nas pranchas de projeto de forma idêntica.
+Além disso, deverá ser assinalada a opção específica de “Trata-se de 
+projeto onde se pleiteia a aplicação da adaptação razoável” no 
+momento do cadastro do projeto no Portal de Edificações.
+Planta dos Níveis
+48
+Projeto Arquitetônico
+
+
+--- Página PDF 49 ---
+Objetivo: representar o passeio e seus elementos 
+construtivos demonstrando cumprimento de parâmetros .
+Escala: a mesma da(s) planta(s) de nível(is).
+A representação do passeio no  projeto arquitetônico legal 
+deve ser mais simplificada do que o disposto na 
+Padronização de Passeios da PBH, que contém instruções 
+mais detalhadas, a nível de projeto executivo para a obra 
+de execução do passeio.
+A representação do passeio deve estar na(s) planta(s) 
+do(s) nível(is) de acesso, buscando não repetir as mesmas 
+informações em várias plantas.
+O projeto do passeio deve respeitar as regras do Código 
+de Posturas Municipal - Lei 8.616/03 e do seu Decreto 
+14.060/10, as normas de acessibilidade, a Padronização 
+de Passeios da PBH e as normativas de arborização.
+Passeio
+“Padronização de Passeios da 
+PBH” disponível em: link
+49
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+*Para aprovações públicas que 
+não utilizarem a tipologia padrão
+Utilizar a representação Padrão de 
+Símbolos PBH. Ver página 22 desta cartilha.
+
+
+--- Página PDF 50 ---
+A representação do passeio em aprovação do projeto 
+arquitetônico deve conter:
+1- Níveis do passeio no meio-fio e sarjeta, na projeção das 
+divisas laterais, lote a lote.
+2- Níveis do passeio nos encontros do(s) alinhamento(s) 
+com a(s) divisa(s),  lote a lote.
+OBS.: níveis em conformidade com os níveis da Prodabel 
+indicados na Ibed.
+Em caso de níveis do planialtimétrico divergentes, 
+apresentar levantamento topográfico e fazer a indicação 
+da correspondência com níveis Prodabel em consonância 
+com o orientado no e-book “Representação de níveis do 
+terreno” disponível no Portal de Serviços da PBH.
+Passeio
+Cartilha informativa 
+“Representação de níveis do 
+terreno” disponível em: link
+1 12 2
+50
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 51 ---
+3- Largura(s) total(is) do passeio nos pontos extremos e 
+nos pontos estrangulados* por outros elementos no 
+passeio.
+4- Indicação das inclinações longitudinal e transversal 
+do passeio.
+5- Indicação e dimensões da faixa livre de pedestres e 
+da faixa de mobiliário urbano.
+6- Representação de todos os postes, placas, suporte 
+fixo de lixo e qualquer outro mobiliário urbano 
+existente, conforme Padrão de Símbolos PBH.
+7- Representação  de bocas de lobo, caso existam, 
+conforme Padrão de Símbolos PBH.
+*estrangulamento é a diminuição da largura mínima 
+padrão em pequenos trechos, em conformidade com a 
+NBR 9050, item 4.3.2 “Largura para transposição de 
+obstáculos isolados”.
+Passeio
+51
+345
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 52 ---
+8- Representação, com todas as dimensões e inclinações, 
+dos rebaixos acessíveis da esquina, conforme a 
+Padronização de Passeios da PBH e normas de 
+acessibilidade vigentes.
+9- Representação, com todas as dimensões, dos rebaixos 
+no meio-fio para acesso de veículos.
+10- Representação dos degraus, patamares e corrimãos, 
+com suas dimensões cotadas em conformidade com a 
+Padronização de Passeios da PBH.
+Passeio
+52
+9
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 53 ---
+11 - Representação dos berços de plantio ou faixas 
+ajardinadas para as árvores, cotados e com todas as 
+informações mínimas conforme disposto na 
+Padronização de Passeios PBH.
+Representação das árvores existentes, a serem 
+plantadas, suprimidas ou transplantadas, com 
+indicação de seu porte, o espaçamento longitudinal 
+entre elas e o distanciamentos das esquinas, postes 
+e similares, assim como a indicação de que foi 
+observado o distanciamento mínimo até as árvores 
+existentes nos passeios adjacentes. A dimensão de 
+largura do meio- fio deve ser de 12cm, conforme 
+padrão Sudecap.
+12- Representação, com todas as dimensões, das 
+outras faixas ajardinadas e berços para plantio no 
+passeio ou na faixa de estacionamento, se houver.
+OBS.: Não deve ser representado o piso tátil e a 
+paginação de piso do passeio.
+Passeio
+53
+11
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 54 ---
+Objetivo: representar o coroamento da edificação e os 
+elementos de cobertura para conferência de parâmetros.
+Escala mínima: 1/100
+1- Indicar sentido de caimento e inclinação das águas de 
+telhado ou lajes impermeabilizadas.
+2- Indicar cotas dos beirais, das marquises e das 
+coberturas e alturas das platibandas.
+3 - Projeção do perímetro da(s) edificação(ões).
+Planta de Cobertura
+54
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+2
+1
+3
+
+--- Página PDF 55 ---
+4 - Representação e indicação das calhas quando houver 
+edificação encostada na divisa.
+5- Representação das linhas de corte.
+6- Indicar níveis de topo da edificação em conformidade 
+com os níveis da Prodabel indicados na Ibed e em 
+consonância com o aprovado pelo CINDACTA, se for o 
+caso.
+Planta de Cobertura
+55
+Projeto Arquitetônico
+Disponível em formato .pdf: link
+65
+
+--- Página PDF 56 ---
+Objetivo: representar elementos em cada nível da 
+edificação demonstrando cumprimento de 
+parâmetros e regras  relacionados à dimensão 
+vertical.
+Escala mínima: 1/50*
+*Pelo menos um dos cortes deve estar na escala de 
+1/50, demais podem ser apresentados na 1/100.
+1- Indicação dos ambientes, níveis e cotas 
+verticais totais e por pavimento, cotando sempre 
+o atendimento de pé-direito mínimo nas situações 
+extremas.
+2 - Cotas do(s) “H”(s) da(s) edificação(ões) para 
+aferição dos afastamentos.
+3- Na hipótese de utilização do disposto no § 2º 
+do art. 161, da Lei nº 11.181, de 2019, deve ser 
+demonstrada a aplicação da regra dos 45º em 
+caso de áreas permeáveis cobertas.
+Cortes
+1
+56
+Disponível em formato .pdf: link
+2 3
+Projeto Arquitetônico
+
+--- Página PDF 57 ---
+4- Indicar cumprimento de pé- direito mínimo nas situações 
+críticas, como por exemplo abaixo de vigas, em pontos 
+específicos de escadas, etc.
+5- Discriminar através de hachuras nas paredes, as áreas 
+existentes com baixa de construção ou projeto aprovado, os 
+acréscimos propostos e as áreas existentes a regularizar, quando 
+for o caso, conforme Padrão de Hachuras PBH.
+6 - Demonstrar atendimento à altimetria estabelecida pelo 
+Ministério da Defesa, pela Legislação Municipal ou pelas normas 
+de proteção cultural. Cotar altura(s) da edificação e indicar níveis 
+de topo da edificação sempre em conformidade com os níveis da 
+Prodabel indicados na Ibed e em consonância com o aprovado 
+pelo 1º Centro Integrado de Defesa Aérea e Controle de Tráfego 
+Aéreo- Cindacta I ou pelo Conselho Deliberativo do Patrimônio 
+Cultural de Belo Horizonte- CDPCM-BH, conforme caso.
+Cortes
+57
+Disponível em formato .pdf: link
+6 4
+Projeto Arquitetônico
+Utilizar o Padrão de Hachuras PBH. 
+Ver página 21 desta cartilha.
+5
+
+--- Página PDF 58 ---
+7 - Indicação do perfil natural do terreno conforme Prodabel e 
+também do perfil natural do terreno conforme levantamento 
+planialtimétrico, caso difiram, em cada corte.
+OBS.: A Lei 9725/09 traz, no §2º do art. 18, que o alvará de 
+construção inclui a autorização para movimentação de terra e 
+entulho, dispondo ainda, no art. 30, sobre a obrigatoriedade da 
+apresentação de projeto de terraplanagem. Para fins do 
+licenciamento, entende-se que o perfil natural real conforme 
+levantamento planialtimétrico indicado nos cortes é informação 
+suficiente para cumprimento destas disposições legais para a 
+autorização de movimentação de terra e entulho.
+Nos termos da Lei 11181/19 é considerado como referência, 
+para fins de aplicação dos parâmetros (altura na divisa e 
+altimetria da edificação), o terreno georreferenciado por 
+levantamento da Prodabel, sendo portanto imprescindível, a 
+inserção também da informação do perfil conforme 
+levantamento da Prodabel constante na Ibed.
+Cortes
+58
+Disponível em formato .pdf: link
+7
+Projeto Arquitetônico
+
+--- Página PDF 59 ---
+Cortes
+8 - Nível(eis) de referência, compatibilizado(s) com os indicados 
+na Planta de Situação e cotas das altura(s) máxima(s) na(s) 
+divisa(s).
+OBS. 1: Caso haja edificação na divisa, pelo menos um dos cortes deve 
+representar tal situação. No caso de vários trechos distintos encostados 
+na divisa, todos eles deverão ser representados, possibilitando a 
+conferência da altura máxima em cada situação. 
+O examinador poderá solicitar outros cortes que se fizerem 
+necessários, inclusive em escalas diferentes. Dessa forma, caso o 
+RT identifique que o terreno tem variações que dificulta o 
+entendimento, recomenda-se que já apresente cortes extras.
+A Elevação das Divisas é um elemento gráfico que também 
+poderá ser utilizado para demonstrar o cumprimento da altura na 
+divisa em substituição aos cortes extras.
+OBS. 2: Para os projetos do Poder Público aprovados com indicação de 
+tipologia padrão, poderão ser apresentados apenas cortes 
+esquemáticos em escalas reduzidas contendo conteúdo mínimo para 
+aferição de parâmetros.
+59
+Disponível em formato .pdf: link
+8
+Projeto Arquitetônico
+
+--- Página PDF 60 ---
+Objetivo: representação das fachadas voltadas para as vias 
+para demonstrar suas alturas, níveis e elementos de 
+permeabilidade visual e de coroamento.
+Escala mínima: 1/100
+Obrigatório apenas as fachadas voltadas para logradouro, 
+exceto quando da exigência por outros órgãos como o de 
+proteção cultural.
+1 - Projeção do greide da via com pelo menos duas 
+referências de nível.
+2 - Quando não houver gradil ou outra vedação no projeto, e 
+consequentemente não houver a peça gráfica “Elevação do 
+Gradil”, a representação do greide do passeio, do rebaixo de 
+veículos e da projeção de degraus do passeio, se houver, 
+poderá ser feita na fachada frontal, com linhas tracejadas.
+Fachadas
+1
+60
+Disponível em formato .pdf: link
+2
+Projeto Arquitetônico
+
+--- Página PDF 61 ---
+3 - Quando se tratar de fachada ativa, conforme Lei nº 
+11.181, de 2019 e Decreto nº 17.273, de 2020, indicar os 
+elementos e proporções de permeabilidade visual da fachada 
+devidamente cotados e com indicação de cumprimento de 
+todos os demais quesitos para a fachada ativa.
+4 - Demonstrar atendimento à altimetria estabelecida pelo 
+Ministério da Defesa ou pela Legislação Municipal.
+Cotar altura(s) da edificação em relação ao terreno Prodabel e 
+indicar níveis de topo da edificação também em conformidade 
+com os níveis da Prodabel indicados na Ibed e em 
+consonância com o aprovado pelo Cindacta ou pelo CDPCM, 
+se for o caso.
+Fachadas
+4
+61
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+4
+
+--- Página PDF 62 ---
+Objetivo: identificar o atendimento às regras de passeio e 
+de fechamento frontal do lote.
+Escala mínima: 1/100
+1 - Representação do passeio com pelo menos duas 
+referências de nível, rebaixo de veículos e projeção de 
+degraus do passeio, caso existam.
+2 - Cota(s) da(s) altura(s) demonstrando respeito ao 
+máximo admitido.
+3 - Indicação dos acessos
+OBS.: Todos os desníveis de acessos devem ser resolvidos 
+para dentro do lote.
+4 - Indicação dos elementos de permeabilidade visual do 
+gradil devidamente cotados e com indicação de 
+cumprimento de todos os quesitos aplicáveis à situação.
+Elevação do Gradil
+4
+62
+Disponível em formato .pdf: link
+13
+2
+4
+Projeto Arquitetônico
+
+--- Página PDF 63 ---
+Objetivo: representar todos os elementos no 
+lote/terreno externos à edificação e que não 
+podem ser representados em sua totalidade 
+na planta de nível térreo, seja pela escala ou 
+seja porque utilizou-se do recurso de divisão 
+de planta associada ao mapa-chave.
+Escala: livre
+No caso de grandes empreendimentos*, a 
+Planta de Implantação, em escala menor que 
+as plantas de níveis, porém legível, deverá 
+ser apresentada.
+Para os processos do Poder Público
+aprovados com tipologia padrão, este 
+desenho é obrigatório.
+Nos demais casos, não deve ser apresentada.
+Planta de Implantação
+*considera-se grande empreendimento aquele cuja representação completa da planta de nível térreo no
+lote/terreno, e/ou também de outros níveis, não se viabilize graficamente de forma integral e em escala
+legível em uma prancha A0.
+63
+Disponível em formato .pdf: linkProjeto Arquitetônico
+
+--- Página PDF 64 ---
+Planta de Implantação
+1- Indicar de forma legível todos os 
+tratamentos de piso do lote/ terreno: 
+acessos e rotas de pedestres e de veículos 
+com suas dimensões e inclinações.
+2- Indicar, hachurar (permitido uso de cores) 
+e cotar todas as áreas permeáveis. Indicar e 
+numerar as árvores para cumprimento da 
+taxa de permeabilidade. Representar 
+localização e informações da caixa de 
+captação. A caixa de captação deverá ser 
+projetada e construída conforme Portaria 
+SMPU n° 007, de 2020.
+3- Caso as vagas não estejam 
+representadas em planta específica, indicar 
+as áreas de estacionamentos, demarcando, 
+cotando e numerando as vagas, além de 
+indicar suas especificidades (presa, PCD, 
+Carga e Descarga, etc). Cotar as manobras 
+e indicar as inclinações de piso.
+64
+1 2 3
+Disponível em formato .pdf: linkProjeto Arquitetônico
+
+--- Página PDF 65 ---
+Planta de Implantação 4
+4- A edificação (planta de nível térreo) é 
+representada de forma simplificada, 
+devido à escala reduzida, e com 
+indicação dos níveis de acesso e dos 
+pisos. Sugestão de apresentar a planta 
+de nível em tons de cinza ou linhas finas 
+devido à escala reduzida. A Planta do 
+nível térreo completa deverá ser 
+apresentada também separadamente 
+com escala e detalhes adequados (ver 
+item Planta dos Níveis).
+5- Representar o passeio e seus 
+elementos nesta planta se ela for a única 
+em escala maior que a Planta de 
+Situação onde é possível representar 
+todo perímetro do lote mostrando a 
+totalidade do alinhamento.
+65
+5
+Disponível em formato .pdf: linkProjeto Arquitetônico
+
+--- Página PDF 66 ---
+Objetivo: representar elementos em cada nível da edificação demonstrando 
+cumprimento de parâmetros  e regras.
+Escala mínima: 1/50
+OBS.:
+a- Escalas diferentes das solicitadas serão aceitas desde que a representação 
+esteja legível e o porte do grande empreendimento* assim o exija.
+b- Para os grandes empreendimentos*, nos quais a representação em escala 
+inferior a 1/50 com legibilidade não seja viável, o projeto poderá ser dividido e 
+apresentado junto a um mapa chave total, no qual estará indicada a parte do 
+empreendimento a que se refere cada trecho de planta.
+*considera-se grande empreendimento aquele cuja representação completa da planta 
+de nível térreo no lote/terreno, e/ou também de outros níveis, não se viabilize 
+graficamente de forma integral e em escala legível em uma única prancha A0.
+Mapa Chave
+*Para aprovações públicas que 
+não utilizarem a tipologia padrão
+66
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 67 ---
+Objetivo: representar atendimento à 
+altura na divisa. Poderá, opcionalmente, 
+ser utilizado para demonstrar o 
+cumprimento da altura na divisa em 
+substituição aos cortes extras (cortes não 
+obrigatórios).
+Escala mínima: 1/100
+1- Elevação na divisa com representação
+da edificação ou do muro.
+Elevação das Divisas
+1
+67
+Disponível em formato .pdf: link
+Projeto Arquitetônico
+
+--- Página PDF 68 ---
+2- Perfil com níveis na linha de divisa conforme 
+Prodabel. Perfil com níveis na linha de divisa 
+conforme topográfico, caso difiram dos níveis 
+Prodabel. Correspondência com níveis 
+Prodabel em consonância com o orientado no 
+e-book “Representação de níveis do terreno” 
+disponível no Portal de Serviços da PBH.
+3- Níveis nas extremidades dos perfis.
+4- Cotas de alturas nos pontos críticos ou 
+linha guia com base no perfil Prodabel copiada 
+para cima, conforme limite de altura na divisa 
+do lote, demonstrando que edificações estão 
+abaixo do limite.
+Elevação das Divisas
+2
+68
+Disponível em formato .pdf: link
+3
+4
+Projeto Arquitetônico
+Cartilha informativa “Representação de 
+níveis do terreno” disponível em: link
+
+--- Página PDF 69 ---
+Trata-se de possibilidade em caráter opcional de aprovação de 
+alterações pontuais de pouca relevância* em relação ao projeto 
+anteriormente aprovado, com alvará de construção em vigor ou baixa 
+de construção concedida, com possibilidade de substituição pontual de 
+peças gráficas e pranchas para fins de retificação. Possibilidade de 
+aprovação também com menor exigência de documentações.
+Modalidade de aprovação aplicável para Modificações sem alteração 
+de áreas construídas ou líquidas.
+Poderá ocorrer em projetos aprovados em qualquer legislação, ainda 
+que não esteja vigente, pois os parâmetros urbanísticos não serão 
+modificados.
+Representação para Modificação Simplificada com Alterações Pontuais
+*As alterações de pouca relevância para este caso compreendem aquelas que não acarretem alteração 
+da área construída e nem alteração de área líquida.
+São aquelas que promovam modificações pontuais de acessibilidade, de canteiros de área permeável, 
+de locação/numeração de vagas de estacionamento sem alterar número de vagas, de áreas de manobra 
+e na denominação de unidades e/ou blocos. Ou seja, mudanças simples que não acarretem a 
+necessidade de reanálise de parâmetros de projeto.
+Objetivo Observações:
+Em casos com aprovação muito antiga, registrada 
+em papel escaneado ou microfilme, poderá ser 
+exigido, na análise documental ou na análise 
+técnica, a apresentação de todo o projeto na 
+modalidade padrão, caso a inteligibilidade esteja 
+comprometida.
+As questões cartoriais são de responsabilidade do 
+requerente e do RT. A PBH não se responsabiliza 
+em caso de negativa dos cartórios para averbação 
+de pranchas com alterações pontuais.
+69
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 70 ---
+1 - Poderão ser apresentadas apenas as pranchas a 
+serem atualizadas, devido a alteração no projeto, com a 
+mesma numeração da aprovação inicial.
+Alternativamente também serão aceitas pranchas 
+contendo apenas as peças gráficas alteradas. Neste 
+caso, a numeração será própria e sequencial, 
+desvinculada da numeração do projeto inicial, 
+considerando o número de pranchas necessárias para a 
+modificação.
+2- Caso sejam propostas alterações nas áreas de uso 
+comum, ou que nelas impactem, deverá ser apresentada 
+a planta do pavimento de acesso.
+3 - Outras peças gráficas e pranchas poderão ser 
+exigidas, a critério do examinador do projeto, para 
+melhor clareza do processo.
+Representação para Modificação Simplificada com Alterações Pontuais
+4 - As modificações simplificadas propostas deverão 
+estar descritas de forma clara em Memorial Descritivo a 
+ser anexado junto com o projeto, que deve ser elaborado 
+conforme diretrizes indicadas nesta Cartilha.
+5 - A memória de cálculo e a Planilha de Cálculo de 
+Áreas devem ser apresentadas, sempre que houver 
+alteração nos canteiros das áreas permeáveis, conforme 
+diretrizes indicadas nesta Cartilha.
+6 - As áreas das partes não alteradas deverão estar 
+iguais às áreas aprovadas anteriormente.
+7 - Demais especificidades devem ser consultadas na 
+“Documentação Necessária para Licenciamento/ 
+Regularização de Edificação”pelo tipo de solicitação.
+Informações necessárias:
+Ver Documentação Necessária
+disponível em: link
+70
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 71 ---
+Trata-se de possibilidade de aprovação de alterações em relação ao 
+projeto anteriormente aprovado, com alvará de construção em vigor
+ou baixa de construção concedida.
+Modalidade de aprovação aplicável para Modificações com alteração 
+de áreas ou dos demais parâmetros urbanísticos.
+Não poderá ocorrer em projetos aprovados em legislação anterior à 
+vigente, por haver alteração de parâmetros urbanísticos. Nesse caso, 
+deverá ser apresentado o projeto completo.
+Representação para Modificação com Alteração em Parâmetro Urbanístico
+Objetivo Observações:
+As questões cartoriais são de responsabilidade do 
+requerente e do RT. A PBH não se responsabiliza 
+em caso de negativa dos cartórios para averbação 
+de pranchas com alterações pontuais.
+71
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 72 ---
+1 - Poderão ser apresentadas apenas as pranchas a 
+serem atualizadas, devido a alteração no projeto, com a 
+mesma numeração da aprovação inicial. 
+Alternativamente também serão aceitas pranchas 
+contendo apenas as peças gráficas alteradas. Neste 
+caso, a numeração será própria e sequencial, 
+desvinculada da numeração do projeto inicial, 
+considerando o número de pranchas necessárias para a 
+modificação.
+2 - Além das plantas dos pavimentos alterados, deverão 
+ser apresentados a planta de situação, o corte no local 
+onde ocorre a alteração e a fachada principal, se esta for 
+afetada. Caso sejam propostas alterações nas áreas de 
+uso comum, ou que nelas impactem, deverá ser 
+apresentada também a planta do pavimento de acesso.
+Representação para Modificação com Alteração em Parâmetro Urbanístico
+3 - Outras peças gráficas e pranchas poderão ser exigidas, a 
+critério do examinador do projeto, para melhor clareza do 
+processo.
+4 - As modificações propostas deverão estar descritas de 
+forma clara em Memorial Descritivo a ser anexado junto com 
+o projeto, que deve ser elaborado conforme diretrizes 
+indicadas nesta Cartilha.
+5 - A memória de cálculo e a Planilha de Cálculo de Áreas 
+devem ser apresentadas, sempre que houver alteração na 
+área construída e ou líquida e na área permeável.
+6 - As áreas das partes não alteradas deverão estar iguais às 
+áreas aprovadas anteriormente, caso sejam representadas.
+7 - Demais especificidades devem ser consultadas na 
+“Documentação Necessária para Licenciamento/ 
+Regularização de Edificação”pelo tipo de solicitação.
+Informações necessárias:
+Ver Documentação Necessária
+disponível em: link
+72
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 73 ---
+Trata-se de possibilidade em caráter opcional de aprovação de 
+alterações em unidade autônomas em relação ao projeto 
+anteriormente aprovado, com alvará de construção em vigor ou baixa 
+de construção concedida, com possibilidade de substituição pontual 
+de peças gráficas e pranchas. 
+Modalidade de aprovação aplicável para Levantamentos que visam 
+regularização em unidade autônoma conforme possibilidade prevista 
+no artigo 60 do Decreto nº 13.842, de 2010.
+Representação para Modificação ou Regularização de Unidade Autônoma
+Objetivo Observações:
+Em casos com aprovação muito antiga, registrada 
+em papel escaneado ou microfilme, poderá ser 
+exigido, na análise documental ou na análise 
+técnica, a apresentação de todo o projeto na 
+modalidade padrão, caso a inteligibilidade esteja 
+comprometida.
+As questões cartoriais são de responsabilidade do 
+requerente e do RT. A PBH não se responsabiliza 
+em caso de negativa dos cartórios para averbação 
+de pranchas aprovadas isoladamente.Art. 60 – Será admitida a regularização isolada 
+de unidade autônoma, desde que todas as 
+unidades autônomas existentes no lote ou 
+conjunto de lotes sejam dotadas de Certidão de 
+baixa de construção anterior.
+Parágrafo único – Na hipótese prevista no 
+caput, o condomínio e as demais unidades do 
+terreno poderão ser notificados a promover a 
+regularização, se for o caso.
+73
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 74 ---
+Representação para Modificação ou Regularização de Unidade Autônoma
+1 - Poderão ser apresentadas apenas as pranchas a serem 
+atualizadas devido à alteração no projeto, com a mesma 
+numeração da aprovação inicial, ou pranchas adicionais, se for 
+o caso. Alternativamente também serão aceitas pranchas 
+contendo apenas as peças gráficas alteradas. Neste caso, a 
+numeração será própria e sequencial, desvinculada da 
+numeração do projeto inicial, considerando o número de 
+pranchas necessárias para a modificação.
+2 - Caso sejam propostas alterações nas áreas de uso 
+comum, ou que nelas impactem, deverá ser apresentada a 
+planta do pavimento de acesso.
+3 - Outras peças gráficas e pranchas poderão ser exigidas, a 
+critério do examinador do projeto, para melhor clareza do 
+processo.
+4 - As partes a serem regularizadas deverão estar 
+descritas de forma clara em Memorial Descritivo a 
+ser anexado junto com o projeto, que deve ser 
+elaborado conforme diretrizes indicadas nesta 
+cartilha.
+5 - A memória de cálculo e a Planilha de Cálculo de 
+Áreas devem ser apresentadas, sempre que houver 
+alteração de áreas (construída, líquida, permeável 
+e/ou de projeção), conforme diretrizes indicadas 
+nesta cartilha.
+6 - As áreas das partes não alteradas deverão estar 
+iguais às áreas aprovadas anteriormente.
+7 - Demais especificidades devem ser consultadas 
+no documentação necessária pelo tipo de solicitação.
+Informações necessárias:
+Ver Documentação Necessária
+disponível em: link
+74
+Projeto Arquitetônico
+edificações privadas 
+e públicas
+
+--- Página PDF 75 ---
+Aprovar com maior agilidade situações de pequenas 
+divergências entre o projeto licenciado e a edificação 
+efetivamente construída e vistoriada, no momento 
+prévio à baixa de construção, por meio de protocolo 
+de Comunicação de Término de Obra, para fins de 
+concessão de Certidão de baixa de construção.
+Representação para Ajuste de Projeto (As Built)
+Objetivo
+75
+Projeto Arquitetônico
+Observações:
+Necessário indicar no selo o RT de As Built, 
+devidamente cadastrado no Portal de 
+Edificações, em adição ao RT de projeto, caso 
+sejam distintos.
+Necessário indicar no selo que se trata de As 
+Built (campo específico)
+O padrão de representação desse material segue 
+o mesmo padrão desta Cartilha, apenas o fluxo é 
+diferenciado do fluxo da aprovação de projeto.
+edificações privadas 
+e públicas
+
+--- Página PDF 76 ---
+Representação para Ajuste de Projeto (As Built)
+Ver Portaria SMPU Nº 066/2024
+disponível em: link
+76
+Projeto Arquitetônico
+1 - Deverão ser apresentadas apenas as pranchas a 
+serem atualizadas devido à alteração no projeto, com a 
+mesma numeração da aprovação inicial, ou pranchas 
+adicionais, se for o caso.
+2 - Outras peças gráficas e pranchas poderão ser 
+exigidas, a critério do examinador do projeto, para 
+melhor clareza do processo.
+3 - As partes a serem regularizadas, conforme 
+executado in locu, deverão estar descritas de forma clara 
+em Memorial Descritivo a ser anexado junto com o 
+projeto, que deve ser elaborado conforme diretrizes 
+indicadas nesta cartilha.
+4 - A memória de cálculo e a Planilha de Cálculo de 
+Áreas devem ser apresentadas, sempre que houver 
+alteração de áreas (construída, líquida, permeável 
+e/ou de projeção), conforme diretrizes indicadas 
+nesta cartilha.
+5 - As áreas das partes não alteradas deverão estar 
+iguais às áreas aprovadas anteriormente.
+6 - Demais especificidades devem ser consultadas 
+no Documentação Necessária pelo tipo de solicitação 
+e na Portaria SMPU nº 066/2024.
+Informações necessárias:
+edificações privadas 
+e públicas
+
+--- Página PDF 77 ---
+Aprovar com maior agilidade situações de pequenas 
+divergências entre o levantamento aprovado e a 
+edificação efetivamente construída e vistoriada, no 
+momento prévio à baixa de construção, por meio de 
+protocolo de Comunicação de Término de Obra, 
+para fins de concessão de Certidão de baixa de 
+construção em processos de regularização.
+Representação para Ajuste de Levantamento (As Built)
+Objetivo
+77
+Projeto Arquitetônico
+Observações:
+Necessário indicar no selo o RT de Ajuste de 
+Levantamento (As Built), devidamente 
+cadastrado no Portal de Edificações, em adição 
+ao RT de projeto, caso sejam distintos.
+Necessário indicar no selo que se trata de Ajuste 
+de Levantamento (campo específico)
+O padrão de representação desse material segue 
+o mesmo padrão desta Cartilha, apenas o fluxo é 
+diferenciado do fluxo da aprovação de projeto.
+edificações privadas 
+e públicas
+
+--- Página PDF 78 ---
+Ver Portaria SMPU Nº 066/2024
+disponível em: link
+78
+Projeto Arquitetônico
+1 - Deverão ser apresentadas apenas as pranchas a 
+serem atualizadas devido ao ajuste no projeto, com a 
+mesma numeração da aprovação inicial, ou pranchas 
+adicionais, se for o caso.
+2 - Outras peças gráficas e pranchas poderão ser 
+exigidas, a critério do examinador do projeto, para 
+melhor clareza do processo.
+3 - As partes a serem regularizadas, conforme existente 
+in locu, deverão estar descritas de forma clara em 
+Memorial Descritivo a ser anexado junto com o projeto, 
+que deve ser elaborado conforme diretrizes indicadas 
+nesta cartilha.
+4 - A memória de cálculo e a Planilha de Cálculo de 
+Áreas devem ser apresentadas, sempre que houver 
+alteração de áreas (construída, líquida, permeável 
+e/ou de projeção), conforme diretrizes indicadas 
+nesta cartilha.
+5 - As áreas das partes não alteradas deverão estar 
+iguais às áreas aprovadas anteriormente.
+6 - Demais especificidades devem ser consultadas 
+no Documentação Necessária pelo tipo de solicitação 
+e na Portaria SMPU nº 066/2024.
+Informações necessárias:
+Representação para Ajuste de Levantamento (As Built)
+edificações privadas 
+e públicas
+
+--- Página PDF 79 ---
+Sumário
+TÍTULO 3 Memória de Áreas
+1
+2
+Polígonos de Cálculo de Áreas
+Polígonos de Recálculo de Áreas
+3
+4
+Polígonos Demonstrativos da Conversão 
+do Térreo em Benefício Urbanístico
+5 Planilha de Cálculo de Áreas
+Memória de Infrações
+pág. 78
+pág. 89
+pág. 90
+pág. 101
+pág. 91
+79
+
+--- Página PDF 80 ---
+Memória de Áreas
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+Objetivo: demonstrar as áreas do empreendimento para fins de documentação e de 
+preenchimento da Planilha de Cálculo de Áreas.
+1- Polígono de área para cada nível da edificação com hachuras ou cores diferenciadas por 
+categoria de área (privativa, comum, térreo não computado no potencial construtivo) com 
+cotas totais dos perímetros de forma equivalente às cotas do projeto.
+2- Indicação de valores de áreas (m²) parciais (privativa por unidade, privativa total, 
+comum, térreo não computado na área líquida, etc) e totais (área construída, permeável e 
+de projeção) para cada nível da edificação. As áreas podem ser retiradas automaticamente 
+através do software utilizado, não devendo ser indicadas subdivisões das áreas em figuras 
+geométricas nem cálculos matemáticos. O valor indicado textualmente será de 
+responsabilidade do RT.
+3- Os polígonos de áreas devem ser considerados no eixo das paredes entre ambientes de 
+diferentes categorias e com a parede completa quando com divisa para o exterior.
+4- Sugere-se colocar as plantas dos níveis em escala de cinza abaixo dos polígonos.
+RESIDENCIAL
+NÃO
+RESIDENCIAL
+MISTO
+(RESIDENCIAL
++ 
+NÃO RESIDENCIAL)
+A regra de cálculo de áreas, 
+conforme Legislação em vigor, varia 
+com o uso da edificação:
+80
+
+--- Página PDF 81 ---
+Apenas as áreas 
+permeáveis situadas 
+dentro dos  limites do 
+terreno CP poderão 
+ser computadas para 
+Taxa de 
+Permeabilidade (TP)
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+RESIDENCIAL
+81
+Disponível em formato .pdf: link
+Memória de Áreas
+
+
+--- Página PDF 82 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+82
+Memória de Áreas
+RESIDENCIAL
+Disponível em formato .pdf: link
+
+
+--- Página PDF 83 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+83
+Memória de Áreas
+Disponível em formato .pdf: link
+RESIDENCIAL
+
+
+--- Página PDF 84 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+84
+Memória de Áreas
+Disponível em formato .pdf: link
+RESIDENCIAL
+
+--- Página PDF 85 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+NÃO RESIDENCIAL
+85
+Memória de Áreas
+Disponível em formato .pdf: link
+
+
+--- Página PDF 86 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+NÃO RESIDENCIAL
+86
+Memória de Áreas
+Disponível em formato .pdf: link
+
+
+--- Página PDF 87 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+MISTO
+87
+Memória de Áreas
+Disponível em formato .pdf: link
+
+
+--- Página PDF 88 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+MISTO
+88
+Memória de Áreas
+Disponível em formato .pdf: link
+
+
+--- Página PDF 89 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+*Exemplo com Benefício urbanístico 
+de Fachada Ativa, conforme  tabela 
+7.1 Anexo XII da Lei nº 11.181, de 
+2019
+MISTO COM 
+BENEFÍCIO*
+89
+Memória de Áreas
+Disponível em formato .pdf: link
+
+
+--- Página PDF 90 ---
+Polígonos de Cálculo de Áreas
+edificações privadas 
+e públicas
+90
+Memória de Áreas
+Disponível em formato .pdf: link
+*Exemplo com Benefício urbanístico 
+de Fachada Ativa, conforme  tabela 
+7.1 Anexo XII da Lei nº 11.181, de 
+2019
+MISTO COM 
+BENEFÍCIO*
+
+
+--- Página PDF 91 ---
+edificações privadas 
+e públicas
+Objetivo: conferir a possibilidade de uso do coeficiente de aproveitamento 
+para os casos de projeto com alterações em relação a um outro projeto 
+anteriormente aprovado em uma legislação anterior à legislação vigente.
+Deve ser apresentado polígonos de recálculo de todo o projeto anterior 
+com base nas regras de cálculo e de descontos da Lei nº 11.181, de 
+2019.
+OBS.: Atenção para que as áreas construídas do recálculo, por níveis e 
+totais, sejam coincidentes com as áreas construídas aprovadas e 
+registradas em Alvará ou baixa de construção anterior, podendo haver 
+alteração apenas na área líquida, devido à mudança das regras de 
+descontos entre as Leis.
+Polígonos de Recálculo de Áreas
+O padrão desses polígonos de
+recálculo de área segue o mesmo
+padrão dos polígonos de cálculo de
+área apresentado anteriormente.
+91
+Memória de Áreas
+
+--- Página PDF 92 ---
+Polígonos Demonstrativos da Conversão 
+do Térreo em Benefício Urbanístico
+edificações privadas 
+e públicas
+Objetivo: Aplicável em modificação de projeto 
+quando ocorrer alteração do nível térreo, com 
+inclusão dos benefícios urbanísticos previstos nos 
+itens D (área de risco de inundação), E (adequação 
+da edificação residencial a medidas de resiliência e 
+sustentabilidade) ou F (Fachada Ativa) da Tabela 
+7.1 do Anexo XII da Lei nº 11.181, de 2019, para 
+análise da conversão destas áreas.
+Deve ser apresentado polígonos demonstrativos do 
+nível térreo, de forma esquemática, demonstrando 
+como era a utilização deste térreo no projeto 
+anteriormente aprovado e como será no projeto 
+proposto, conforme modelo.
+Os desenhos ao lado exemplificam um térreo com 
+uso do benefício Fachada Ativa.
+92
+Memória de Áreas
+
+
+--- Página PDF 93 ---
+Memória de Infrações
+edificações privadas 
+Objetivo: indicar e registrar todos os 
+valores numéricos de infrações 
+devidas, conforme determina Lei nº 
+9.074, de 2005, para subsidiar o 
+cálculo do preço público devido.
+Obrigatório sempre que houver 
+regularização pela Lei nº 9.074, de 
+2005 com infrações devidas.
+93
+Os valores numéricos (unidades, m² ou m³) a serem calculados e 
+indicados podem ser referentes a:
+1- Infração de área líquida excedente (m²);
+2- Infração de área permeável (m²);
+3- Infração de vagas de veículos leves (nº);
+4- Infração de área descontada revertida em área líquida (m²);
+5- Infração de afastamento frontal (m³);
+6- Infração de afastamento lateral e de fundos (m³);
+7- Infração de altura na divisa lateral e de fundos (m³);
+8- Infração de muro na divisa lateral e de fundos (m²);
+OBS.: Os itens 1, 2 e 3 são aferidos automaticamente 
+através do preenchimento da Planilha de Cálculo de Áreas, 
+porém, é necessário registrar a autodeclaração dessas 
+infrações neste documento Memória de Infrações, o que 
+deve ocorrer em forma textual ou em tabelas.
+Memória de Áreas
+
+--- Página PDF 94 ---
+Memória de Infrações
+edificações privadas 
+1- Infração de área líquida
+excedente (m²)
+2- Infração de área
+permeável (m²)
+3- Infração de vagas de
+veículos leves (nº)
+94
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+
+--- Página PDF 95 ---
+Memória de Infrações
+edificações privadas 
+4- Infração de área descontada 
+convertida em área líquida (m²)
+Como por exemplo varandas 
+que foram fechadas (e que não 
+se enquadrem no art. 394 da Lei 
+nº 11.181, de 2019), ou outras 
+áreas antes não computáveis e 
+que foram alteradas para áreas 
+privativas computáveis na área 
+líquida.
+Esse cálculo à parte é 
+necessário pois a Planilha de 
+Cálculo de Áreas não é capaz de 
+aferir essas conversões de 
+áreas.
+95
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+
+--- Página PDF 96 ---
+Memória de Infrações
+edificações privadas 
+5- Infração de afastamento frontal (m³)
+96
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+--- Página PDF 97 ---
+Memória de Infrações
+edificações privadas 
+6 - Infração de afastamento lateral ou de fundos (m³)
+97
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+
+--- Página PDF 98 ---
+Memória de Infrações
+edificações privadas 
+98
+Memória de Áreas
+6 - Infração de afastamento lateral ou de fundos (m³)
+Exemplo:
+Disponível em formato .pdf: link
+
+
+--- Página PDF 99 ---
+Memória de Infrações
+edificações privadas 
+7- Infração de altura na divisa
+lateral ou de fundos (m³)
+99
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+
+--- Página PDF 100 ---
+Memória de Infrações
+edificações privadas 
+100
+Memória de Áreas
+7- Infração de altura na divisa
+lateral ou de fundos (m³)
+Disponível em formato .pdf: link
+Exemplo:
+
+
+--- Página PDF 101 ---
+Memória de Infrações
+edificações privadas 
+8- Infração de muro na divisa
+lateral ou de fundos (m²):
+101
+Disponível em formato .pdf: link
+Memória de Áreas
+Exemplo:
+
+
+--- Página PDF 102 ---
+Memória de Infrações
+edificações privadas 
+102
+Memória de Áreas
+8- Infração de muro na divisa
+lateral ou de fundos (m²):
+Disponível em formato .pdf: link
+Exemplo:
+
+
+--- Página PDF 103 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Consultar sempre última versão da 
+Planilha de Cálculo de Áreas em: link
+Objetivo: sistematizar as informações de áreas, de 
+cálculo de áreas e de outros dados importantes do 
+projeto em planilha automatizada e padronizada para 
+obtenção de dados finais de parâmetros para 
+preenchimento do selo de projeto e do Portal de 
+Edificações, que refletirá nos dados do alvará de 
+construção e baixa de construção.
+103
+Memória de Áreas
+
+--- Página PDF 104 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Todas as perguntas 
+devem ser 
+corretamente 
+preenchidas em 
+primeiro lugar para 
+que a planilha 
+funcione 
+corretamente e 
+abra as 
+funcionalidades 
+necessárias. Porém, 
+primeiramente, ao 
+abrir a planilha, 
+deverá ser 
+habilitado todo o 
+conteúdo de 
+macros para que 
+ela funcione 
+corretamente.
+Aba orientações (fixa)
+Objetivo: através  do 
+preenchimento 
+correto desta aba, se 
+abrirão as abas 
+necessárias a cada 
+situação de projeto.
+Dado sobre a versão da planilha.
+104
+Memória de Áreas
+
+--- Página PDF 105 ---
+Não criar ou excluir linhas. Há dezenas 
+de linhas ocultas suficientes para 
+empreendimentos com inúmeros níveis.
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Objetivo: registrar 
+todas as áreas do 
+empreendimento, 
+cada nível em uma 
+linha, que será a 
+base dos dados 
+para a emissão do 
+alvará de 
+construção.
+Apenas as células amarelas são editáveis 
+e devem ser preenchidas. As demais 
+recebem preenchimento automático.
+Aba Áreas (fixa)
+105
+Memória de Áreas
+
+--- Página PDF 106 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Em destaque as 
+colunas para 
+preenchimento de 
+uso Residencial ou 
+parte residencial 
+do uso Misto.
+Aba Áreas (fixa)
+Essa coluna só deve ser utilizada para o 
+empreendimento exclusivamente Residencial que 
+apresente as medidas de resiliência e 
+sustentabilidade previstas no Plano Diretor, 106
+Memória de Áreas
+
+--- Página PDF 107 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Em destaque as 
+células para 
+preenchimento de 
+uso não residencial 
+ou parte não 
+residencial do uso 
+Misto.
+Aba Áreas (fixa)
+107
+Memória de Áreas Informar nesta coluna a 
+parte da área não-
+residencial que tenha pé 
+direito superior a 4,50m. 
+A informação do campo "Área líquida sem o fator 
+multiplicador", cujo valor a planilha calcula automaticamente, 
+deve ser indicada no Portal de Edificações para cálculo da 
+Taxa de Fiscalização de Obras- TFOP.
+
+--- Página PDF 108 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Apenas as células 
+amarelas são 
+editáveis e devem 
+ser preenchidas.
+As demais são 
+automáticas.
+Aba Áreas (fixa)
+108
+Memória de Áreas
+
+--- Página PDF 109 ---
+Essa tabela resumo 
+mostra os dados 
+finais da planilha a 
+serem preenchidos 
+no selo da primeira 
+prancha de projeto.
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Áreas (fixa)
+109
+Memória de Áreas
+
+--- Página PDF 110 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Terreno (variável)
+Objetivo: determinar 
+parâmetro coeficiente de 
+aproveitamento ponderados, 
+em casos de terreno - lote ou 
+conjunto de lotes - em 
+zoneamentos distintos, .
+110
+Memória de Áreas
+
+--- Página PDF 111 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Apenas as células 
+amarelas são 
+editáveis e devem 
+ser preenchidas. As 
+demais recebem 
+preenchimento 
+automático.
+Aba Terreno (variável)
+111
+Memória de Áreas
+
+--- Página PDF 112 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Resiliência e 
+Sustentabilidade 
+(variável)
+Objetivo: demonstração 
+e aferição da pontuação 
+mínima em caso de 
+utilização de medidas de 
+resiliência e 
+sustentabilidade em 
+projeto conforme Lei nº 
+11.181, de 2019,
+112
+Memória de Áreas
+
+--- Página PDF 113 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Apenas as células 
+amarelas são editáveis 
+e devem ser 
+preenchidas. As demais 
+recebem preenchimento 
+automático.
+Aba Resiliência e 
+Sustentabilidade 
+(variável)
+113
+Memória de Áreas
+
+--- Página PDF 114 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Suspensão ODC
+(variável)
+Objetivo: a aba 
+possibilita rever os 
+valores de ODC devidos 
+e alimentar dados no 
+TCU, em caso de 
+enquadramento como 
+empreendimento 
+passível de isenção de 
+pagamento de ODC, 
+conforme Lei nº 11.216, 
+de 2020.
+114
+Memória de Áreas
+
+--- Página PDF 115 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Suspensão ODC
+(variável)
+Apenas as células 
+amarelas são editáveis 
+e devem ser 
+preenchidas. As demais 
+recebem preenchimento 
+automático.
+115
+Memória de Áreas
+
+--- Página PDF 116 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Infrações
+(variável)
+Objetivo: a aba 
+possibilita calcular as 
+infrações devidas em 
+valor monetário,  em caso 
+de empreendimento 
+passível de regularização 
+pela Lei nº 9.074, de 
+2005.
+116
+Memória de Áreas
+
+--- Página PDF 117 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Infrações
+(variável)
+Apenas as células amarelas são 
+editáveis e devem ser preenchidas. 
+Neste caso, há células brancas com 
+opções programadas a serem 
+selecionadas, conforme situação. As 
+demais são automáticas.
+O quantitativo calculado automaticamente na 
+célula “área líquida excedente” deve estar 
+distribuído manualmente nesses quatro campos.
+A soma desses 4 campos deve ser igual ou maior 
+que o valor da célula “Área Líquida Excedente”, 
+nunca menor.
+O campo relativo à área de varandas somente 
+deve ser preenchido quando houver na 
+regularização fechamento de varanda que não se 
+enquadrou no art. 394 da Lei nº 11.181, de 2019. 
+“A ser regularizado pela Lei nº 9.074, de 2005” 
+e/ou “A ser regularizado pela Lei nº 11.181, de 
+2019”: devem ser  distribuídas ou concentradas 
+as áreas nos campos conforme as legislações.
+117
+Memória de Áreas
+
+--- Página PDF 118 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Projeto Antigo 
+(variável)
+Objetivo: registrar todas as áreas e 
+soluções recalculadas do 
+empreendimento aprovado 
+anteriormente para que seja indicada 
+automaticamente a possibilidade do 
+uso de CA no projeto proposto além 
+das obrigações da Lei Vigente para o 
+projeto modificado.
+Em caso de projeto anterior aprovado 
+em Lei anterior à Lei nº  11.181, de 
+2019, deverão ser preenchidas as 
+duas abas da planilha, sendo uma 
+para a edificação aprovada 
+recalculada nas regras vigentes e a 
+outra para a edificação modificada.
+118
+Memória de Áreas
+
+--- Página PDF 119 ---
+O CA encontrado no 
+recálculo, se superior ao CA 
+da lei vigente, é a referência 
+de limite no projeto a ser 
+proposto (salvo exceções, 
+por exemplo, nas 
+conversões).
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Apenas as células 
+amarelas são 
+editáveis e devem 
+ser preenchidas. As 
+demais recebem 
+preenchimento 
+automático.
+Aba Projeto Antigo 
+(variável)
+119
+Memória de Áreas
+
+--- Página PDF 120 ---
+O preenchimento dos 
+dados de Dispositivos de 
+Drenagem mantidos além 
+do dado de Projeção da 
+Área Construída do 
+projeto anterior, são 
+obrigatórios para que a 
+Planilha calcule 
+proporcionalmente a 
+Caixa de Captação 
+necessária em função das 
+modificações propostas 
+ou realizadas.
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Apenas as células 
+amarelas são 
+editáveis e devem 
+ser preenchidas. As 
+demais recebem 
+preenchimento 
+automático.
+Aba Projeto Antigo 
+(variável)
+120
+Memória de Áreas
+
+
+--- Página PDF 121 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Conversão Área
+(variável)
+Objetivo: a aba auxilia na 
+mensuração de contrapartida 
+financeira ou de outros 
+instrumentos de superação de 
+coeficiente de aproveitamento, 
+em caso de Modificações de 
+projeto com conversão de 
+áreas de Nível Térreo para 
+áreas não computadas no 
+cálculo da área líquida.
+121
+Memória de Áreas
+
+--- Página PDF 122 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba Conversão Área
+(variável)
+Apenas as células 
+amarelas são 
+editáveis e devem 
+ser preenchidas. As 
+demais recebem 
+preenchimento 
+automático.
+122
+Memória de Áreas
+
+--- Página PDF 123 ---
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba TCU
+(variável)
+Objetivo: em caso de projetos que 
+utilizem instrumentos de superação 
+de CA ou benefícios urbanísticos 
+das tabelas 7.1 e 7.2 do Anexo XII 
+da Lei nº 11.181, de 2019, a aba 
+replica as informações relevantes e 
+atualmente gera o documento do 
+Termo de Conduta Urbanística-
+TCU, que é documento obrigatório 
+nesses casos.
+123
+Memória de Áreas
+
+--- Página PDF 124 ---
+Observações para preenchimento:
+O TCU é gerado através do preenchimento correto 
+e completo da aba Áreas e demais áreas aplicáveis, 
+mais os dados específicos preenchidos na aba TCU.
+Ao finalizar o preenchimento, deve-se clicar no 
+botão que gerará o documento TCU em formato 
+.pdf.
+As assinaturas podem ser feitas no arquivo .pdf, 
+digitalmente com validação de autenticidade, ou 
+manualmente em arquivo impresso a ser 
+posteriormente escaneado.
+Planilha de Cálculo de Áreas 
+edificações privadas 
+e públicas
+Aba TCU
+(variável)
+124
+Memória de Áreas
+
+--- Página PDF 125 ---
+Sumário
+TÍTULO 4 Memorial Descritivo
+1 Memorial Descritivo de Alterações de Projeto pág. 124
+125
+edificações privadas 
+e públicas
+
+--- Página PDF 126 ---
+Memorial Descritivo
+Memorial Descritivo de Alterações de Projeto
+edificações privadas 
+e públicas
+Objetivo: esclarecer e registrar todas as alterações propostas 
+em relação ao projeto aprovado anteriormente (com alvará de 
+construção válido) ou em relação à edificação existente (com 
+baixa de construção ou a ser levantada).
+Obrigatório nos casos de Modificações, de Levantamentos 
+com Modificações, de As-Built e de Ajuste de Levantamento.
+Deve conter as informações mínimas:
+-Título completo da aprovação pretendida.
+Ex.: Levantamento do acréscimo com projeto de Modificação 
+de acréscimo/ decréscimo/ ou sem acréscimo ou decréscimo.
+-Descrição sucinta da alteração construtiva e de alteração 
+de uso pretendidos:
+Ex.: Projeto com baixa de construção anterior (93m²), com 
+levantamento de parte clandestina já construída (12m² pela 
+Lei nº 9.074, de 2005 e 20m² pela Lei nº 11.181, de 
+2019m²)  e modificação de acréscimo (48m²)/ decréscimo/ 
+ou alterações internas sem acréscimo ou decréscimo.
+Alteração de uso residencial para uso misto.
+-Data(s) de conclusão do levantamento: indicar a data de 
+conclusão de cada parte a ser levantada.
+Ex.: Cobertura do afastamento frontal concluída em 
+10/02/2015 (levantamento Lei nº 9.074, de 2005).
+Trecho do 2º pavimento: concluído em 15/12/2021 
+(levantamento Lei vigente nº 11.181, de 2019).
+Não deve conter:
+-Especificação de material de revestimento ou 
+acabamento;
+-Detalhamento em geral de sistema construtivo.
+126
+
+--- Página PDF 127 ---
+Memorial Descritivo de Alterações de Projeto
+Recomenda-se, para maior clareza e assertividade na 
+análise, a apresentação de polígonos demonstrativos de 
+alterações, de forma esquemática, identificando as áreas 
+modificadas.
+- Áreas existentes com alvará de construção vigente ou 
+com baixa de construção  a serem mantidas, por pavimento 
+e total.
+-Áreas existentes a serem regularizadas, separadas caso 
+devam ser regularizadas por diferentes legislações (nº 
+9.074, de 2005 e Lei vigente), por pavimento e total.
+-Áreas de proposta de acréscimos/ decréscimos ou 
+alterações internas sem acréscimo ou decréscimo, por 
+pavimento e total.
+127
+Memorial Descritivo
+edificações privadas 
+e públicas Disponível em formato .pdf: link
+
+--- Página PDF 128 ---
+Sumário
+TÍTULO 5 Planta de Vértices
+1 Planta de Vértices Aprovados pelo CINDACTA pág. 127
+128
+edificações privadas 
+e públicas
+
+--- Página PDF 129 ---
+Planta de Vértices
+Planta de Vértices Aprovados pelo CINDACTA
+edificações privadas 
+e públicas
+Objetivo: indicar e registrar em Planta de Situação, em formato à 
+parte, as alturas e vértices aprovados pela Aeronáutica para 
+conferência quando da apresentação do documento de Autorização 
+CINDACTA no momento do Comunicado de Início de Obra.
+Opcional e para os casos em que o limite altimétrico da Aeronáutica 
+estiver extrapolado no projeto aprovado, exigindo a Autorização 
+CINDACTA para o processo, e que a natureza e complexidade do 
+projeto demandar mais clareza de demonstração dos vértices para 
+conferência.
+129
+Deverá ser apresentado até o comunicado 
+de início de obra, não sendo obrigatório a 
+apresentação no momento de protocolo ou 
+até a aprovação de projeto.
+
+--- Página PDF 130 ---
+Planta de Vértices Aprovados pelo CINDACTA
+edificações privadas 
+e públicas
+Deve seguir modelo padrão contendo:
+- Planta de Situação idêntica à que foi 
+aprovada, não sendo admitida qualquer 
+alteração.
+- Indicação na Planta de Situação dos IDs 
+em todos os vértices extremos das 
+projeções dos pavimentos, coincidentes 
+com a informação que constar na 
+Autorização CINDACTA.
+- Todos os níveis conforme Prodabel e 
+condizentes com o projeto aprovado.
+- Corte esquemático demonstrativo 
+opcional com os IDs dos vértices 
+extremos das projeções dos pavimentos, 
+coincidentes com a informação que 
+constar na Autorização CINDACTA.
+130
+Disponível em formato .pdf: link
+Planta de Vértices
+
+--- Página PDF 131 ---
